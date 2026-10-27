@@ -1,0 +1,5232 @@
+{
+  "chapter_id": "ae482685-6164-49e9-b1dc-037d2c460e6b",
+  "chapter_name": "Adult 1",
+  "chapter_title": "Adult 1",
+  "resource_id": "27bdf65f-afb6-4ffa-af8b-c43c54f01aae",
+  "resource_title": "SPMM",
+  "subject_name": "SPMM",
+  "chapter_number": 22,
+  "total_questions": 90,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "fdbbd374-bb05-42d8-8d03-fc2b1784541a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following depot formulations compares favourably with others listed in terms of symptom control but produces higher EPSE burden?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2c0774d7-3b04-4d35-bea2-918800dce107",
+          "text": "Fluphenazine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4733c526-429d-42b9-a361-98d3c79db982",
+          "text": "Pipotiazine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "910a7783-85dd-4d07-b3bc-a9c5fa8115b5",
+          "text": "Haloperidol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a33b617d-4c55-4a50-b527-20042b93b480",
+          "text": "Flupentixol",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "da22a9c6-ad1b-44fb-ba1d-e600572788b3",
+          "text": "Zuclopenthixol",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "da22a9c6-ad1b-44fb-ba1d-e600572788b3",
+        "text": "Zuclopenthixol"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "da22a9c6-ad1b-44fb-ba1d-e600572788b3",
+          "text": "Zuclopenthixol",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Zuclopenthixol depot may be more suitable in aggressive patients. It may be better than other depots in relapse prevention though the evidence in this regard is weak. EPSE burden is fairly higher with this depot.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": "3570faaa-e2a8-4cd7-849d-1eb29a273d4e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A male patient on clozapine has gained 20kg in 3 months though psychotic symptoms are well controlled. The next step is to:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1a593f6d-daca-4628-b8bd-3e757948240f",
+          "text": "Switch to quetiapine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2d5b422a-e111-4234-acb1-d9d140d544b2",
+          "text": "Lifestyle modification",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "41d9fc5d-3a71-4721-9949-930bee7fd7ba",
+          "text": "Switch to high dose haloperidol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "9d110adf-18f7-4fe5-b325-b750ca02a3a2",
+          "text": "Reduce dose of clozapine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c0c86955-eafa-4db2-b12b-8ba833355c9f",
+          "text": "Switch to risperidone",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "2d5b422a-e111-4234-acb1-d9d140d544b2",
+        "text": "Lifestyle modification"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "2d5b422a-e111-4234-acb1-d9d140d544b2",
+          "text": "Lifestyle modification",
+          "is_correct": true
+        }
+      ],
+      "explanation": "This is an expected side effect, and the patient must be well informed beforehand. Lifestyle modifications help in most early cases, and this must be the first intervention before altering the prescription.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "c7290cae-5a04-452e-8e51-8b53ab13ceb9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is true concerning depot antipsychotics?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "14055fdf-7b23-4384-85e8-dea8733100a6",
+          "text": "Patients do not prefer depot medications consistently irrespective of previous exposure",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "49e1d636-0e00-4bc7-a949-2d13b32338d7",
+          "text": "The risk of tardive dyskinesia is equal for depot and oral formulation of same drug",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "6acbdff5-ec5a-4622-bc6e-a22d0578cf05",
+          "text": "Atypical antipsychotics are not available in depot formulations.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8f35ddfe-5e42-4b94-bf3c-976af6cfcb70",
+          "text": "The risk of neuroleptic malignant syndrome is higher compared to oral drugs",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "bee676b5-9a7d-4b18-88c0-2d46cc11c09b",
+          "text": "Neuroleptic malignant syndrome is a contraindication for subsequent depot use",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "49e1d636-0e00-4bc7-a949-2d13b32338d7",
+        "text": "The risk of tardive dyskinesia is equal for depot and oral formulation of same drug"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "49e1d636-0e00-4bc7-a949-2d13b32338d7",
+          "text": "The risk of tardive dyskinesia is equal for depot and oral formulation of same drug",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The risk of neuroleptic malignant syndrome is not higher for depot than oral drugs; reversibility may be poor in case of depots, if NMS develops. There is no evidence to suggest that the neuroleptic malignant syndrome is a contraindication for subsequent depot use. Similarly for the same drug, the risk of tardive dyskinesia is not higher for depot than oral formulations.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": "5dbfb826-1afd-4596-990e-138a39d46f1b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is highly likely to be associated with both hyperglycaemia and dyslipidaemia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2f02e0ba-92da-44e5-9013-3ca809482e84",
+          "text": "risperidone.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "448a64ea-46c4-47d2-b6c1-dd0c7dd124e5",
+          "text": "aripriprazole.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "56ae5f4d-5abc-4021-a98a-bf5fe625f2ec",
+          "text": "amisulpride",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "692aedd7-0849-45cf-ab1d-47325963cf77",
+          "text": "olanzapine.",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "7fec2247-0888-442b-af21-62cc4c52041b",
+          "text": "haloperidol",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "692aedd7-0849-45cf-ab1d-47325963cf77",
+        "text": "olanzapine."
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "692aedd7-0849-45cf-ab1d-47325963cf77",
+          "text": "olanzapine.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In the Clinical Antipsychotic Trials of Intervention Effectiveness (CATIE) study, in which patients were randomly assigned to receive olanzapine, perphenazine, quetiapine, risperidone, or ziprasidone, CATIE's phase 1 results showed that patients in the olanzapine group gained more weight than patients in any other group, with an average weight gain of two pounds a month.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": "5bf93115-41f7-4c7c-a031-dd74d982d07a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Nikolas is one of your patients with a primary diagnosis of paranoid schizophrenia. His brother is increasingly worried about Nikolas committing suicide. Which of the following drugs has the best evidence for reducing suicidality in schizophrenia compared to others listed?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0fc562c7-bfb1-4686-9536-079638007b8c",
+          "text": "Clozapine",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "29af5813-b8f9-4ac3-b143-9ec6b06ce00e",
+          "text": "Olanzapine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "63b61d92-65ee-4aae-aeee-398d752c8767",
+          "text": "Flupentixol depot",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "65374d34-f45a-4986-8edf-5120fe699fae",
+          "text": "Lithium",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e1265f20-b054-444d-a529-92c9d5eb9f06",
+          "text": "Haloperidol",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "0fc562c7-bfb1-4686-9536-079638007b8c",
+        "text": "Clozapine"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "0fc562c7-bfb1-4686-9536-079638007b8c",
+          "text": "Clozapine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In terms of suicide prevention, the Intersept study compared clozapine and olanzapine. This was a 2-year multicenter RCT study comparing the risk for suicidal behaviour in 980 patients with schizophrenia or schizoaffective disorder treated with clozapine vs. olanzapine. Suicidal behavior was significantly less in patients treated with clozapine vs. olanzapine (hazard ratio, 0.76; 95% confidence interval, 0.58 -0.97; P =.03). Lithium may be a better choice in affective disorders.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": "789aa44e-219e-4ed4-bfce-08431c3f8b31",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 22-year-old man presents with anxiety that his genitals are misshapen. He is not convinced in spite of a plastic surgeon reassuring him by showing multiple images of normal genital appearances. Which of the following interventions has evidence-based support in the above situation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2d0c1470-6dcf-430e-b7ad-5eac43afc84b",
+          "text": "Fluoxetine",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "751f53a5-b085-4ceb-bfa0-c540ee9dbeb2",
+          "text": "Plastic surgical correction",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7efe6c5d-6edf-4e97-8190-66e5ba3358db",
+          "text": "Escitalopram",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "91d8dcd9-b6a1-4020-a980-b31cf61864db",
+          "text": "Pimozide",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ca5d7623-636b-433b-b6fc-d2197f303b86",
+          "text": "Olanzapine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "2d0c1470-6dcf-430e-b7ad-5eac43afc84b",
+        "text": "Fluoxetine"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "2d0c1470-6dcf-430e-b7ad-5eac43afc84b",
+          "text": "Fluoxetine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In a triple blinded RCT comparing efficacy of fluoxetine in body dysmorphic disorder (40% patients had delusional BDD), fluoxetine was increased by 20 mg/day every 10 days to a maximum of 80 mg/day. Significant response started occurring after 8 to 12 weeks of treatment. Patients who were delusional at baseline responded as well as non-delusional patients. Pimozide has only anecdotal evidence for dysmorphophobic delusions and not preferred as the first choice drug due to QTc prolongation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": "8d5f8252-6091-4ffa-9e87-2eae3f43a590",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 34 year old woman has an acute onset episode of intense suspiciousness and passivity phenomenon with auditory hallucinations. With respect to the evidence based treatment of first episode psychosis which of the following is true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1fc7b0c4-27e2-48a0-9c2a-a9daeccb7a3a",
+          "text": "Second generation antipsychotics are no better than placebo",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5a4d3780-2a35-42c4-9cfe-445a2a415314",
+          "text": "First generation antipsychotics are no better than placebo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8ebda3ba-bfa1-43a7-bc29-a737c97f98f5",
+          "text": "RCTs show a clear difference between clozapine and other antipsychotics",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "9e4b3a1c-d91f-46ee-8487-c7a73e835a52",
+          "text": "No strong evidence in favour of lower antipsychotic doses",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "cf03e9da-6269-4735-98be-7c5ee8065106",
+          "text": "Men and women respond differently to interventions in terms of resolution of symptoms.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "9e4b3a1c-d91f-46ee-8487-c7a73e835a52",
+        "text": "No strong evidence in favour of lower antipsychotic doses"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "9e4b3a1c-d91f-46ee-8487-c7a73e835a52",
+          "text": "No strong evidence in favour of lower antipsychotic doses",
+          "is_correct": true
+        }
+      ],
+      "explanation": "First and second generation antipsychotics (FGA and SGA) are both better than placebo individually in treating acute psychosis. There are no RCTs of clozapine in first episode patients. There is no evidence as to the correct mean dose for FGA drugs, but there is some evidence for SGAs. There is no information about when to escalate or reduce dose. There is a limited evidence study that shows first-episode patients require less medication. But there are no RCTs of first episode patients randomized to several doses. There is no evidence that a lower dose is required for maintenance than for the acute episode. Gender differences are not noted in symptom management of first episode psychosis (Retrieved from http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2632432/).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": "96b7b7f4-cecc-4baa-b9a9-89993a989513",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A patient with unremitting continuous schizophrenic illness is considered for clozapine therapy. All of the following must be excluded before initiating clozapine, except",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2b345eb1-adfe-4d3c-973e-5f524a5c3c70",
+          "text": "Dosage and duration of previous treatments",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "36fcbc24-8c48-4576-9a6e-2ea575f5d002",
+          "text": "High expressed emotions in the family",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4e136f1a-90f7-43bd-aa7c-06e7c2a4e79b",
+          "text": "Comorbid substance use",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "51c0aa5b-d29a-4100-8b34-333644f6d585",
+          "text": "Nonadherence with medications",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "735ee2f6-a08c-4644-8ee2-23abff52a01a",
+          "text": "Presence of passivity symptoms",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "735ee2f6-a08c-4644-8ee2-23abff52a01a",
+        "text": "Presence of passivity symptoms"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "735ee2f6-a08c-4644-8ee2-23abff52a01a",
+          "text": "Presence of passivity symptoms",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Factors other than choice of medication that may influence a patient's recovery include individual factors relating to the patient, the illness and the treatment. Particularly relevant to the management of the incompletely recovered patient are poor compliance with medication, concurrent illicit substance use (especially cannabis and psychostimulants), psychosocial stressors (eg, the home environment), physical comorbidity (which may be secondary to treatment), associated organic abnormality, prominent negative symptoms and neuropsychological deficits.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": "39f2c807-b193-4919-beff-8f9f272e768f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following has been tried as an add-on therapy with antipsychotics for negative symptoms in patients with deficit syndrome of schizophrenia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "080c0de9-0655-4bed-b9da-33dcc324981d",
+          "text": "Fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "838caeda-93e8-4c3b-9893-a515bf8a1777",
+          "text": "Ketamine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9b898d0e-f615-47bb-ba52-efb12f96f61b",
+          "text": "Fish oils",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a50213a9-6aeb-4beb-b341-6e7908cd6bf6",
+          "text": "D-cycloserine",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "dc9daca2-508d-48a8-8500-b6f89ac636be",
+          "text": "Acamprosate",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "a50213a9-6aeb-4beb-b341-6e7908cd6bf6",
+        "text": "D-cycloserine"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "a50213a9-6aeb-4beb-b341-6e7908cd6bf6",
+          "text": "D-cycloserine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Efficacy of add-on therapy with d-cycloserine, a partial agonist acting at the glycine modulatory site of the glutamatergic N-methyl-d-aspartate receptor, was examined in 3 double-blind trials in patients with deficit syndrome. 2 of the 3 studies suggest add-on d-cycloserine 50 mg/day may have some effect on negative symptoms in patients with deficit syndrome despite small sample sizes and different study designs and duration. Glycine administration resulted in a significant 30% 6 16% reduction (P and lt; 0.001) in negative symptoms in a study wherein positive symptoms were also concurrently reduced.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": "fa2724cd-cc81-492c-b114-2b6db6493f00",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 65-year-old lady with history of schizophrenia is not taking her medication. She is currently psychotic. When her son reminds her to take her medications they end up having arguments. Which of the following medications is indicated?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "03165d47-28c6-4628-9ca9-dcfde4edb26f",
+          "text": "Amisulpride",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "7e28834d-60ef-4065-b4ff-3d91c45fddb3",
+          "text": "Clozapine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "94245d20-bb6d-4c40-b380-06d46c829537",
+          "text": "Olanzapine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "afc9f18e-5f6b-4d2b-b224-c9ab51a65a45",
+          "text": "Antipsychotic depot injection",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "b29420f2-a876-455e-aa2b-2eaaa89b6bea",
+          "text": "Quetiapine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "afc9f18e-5f6b-4d2b-b224-c9ab51a65a45",
+        "text": "Antipsychotic depot injection"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "afc9f18e-5f6b-4d2b-b224-c9ab51a65a45",
+          "text": "Antipsychotic depot injection",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Depot medications are indicated in those with obviously poor compliance. Switching to clozapine may not help in this situation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": "6eed6270-7888-4771-9c15-80d27f2072e8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following first generation antipsychotics was used in CATIE study?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "bd8afb6b-1ec1-4468-b5bf-dbe02067563b",
+          "text": "Perphenazine",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "d40f8bd1-a9ed-4d03-992a-a596135fe1c8",
+          "text": "Promethiazine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "e1ace1c5-5de8-4805-8f90-d2170928523c",
+          "text": "Pipotiazine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "fed05c59-cb73-48bd-8607-95c493a61f8e",
+          "text": "Prochlorperazine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ff196f1a-23c9-41bf-8b81-c03c1274fea6",
+          "text": "Haloperidol",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "bd8afb6b-1ec1-4468-b5bf-dbe02067563b",
+        "text": "Perphenazine"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "bd8afb6b-1ec1-4468-b5bf-dbe02067563b",
+          "text": "Perphenazine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "CATIE stands for Clinical Antipsychotic Trials of Intervention Effectiveness. The study design was a double-blind pragmatic RCT. In total, 1493 patients with chronic schizophrenia (mean duration of illness = 14 years) were enrolled across 57 sites from 2001 to 2004. Olanzapine, quetiapine, risperidone, ziprasidone (added later in the trial) and perphenazine (only typical drug) were used in phase 1, and clozapine was added in phase 2.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": "16263453-c75c-47be-bfe5-bf137e88cdc9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Current clinical guidelines for management of schizophrenia support all of the following practices except",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "51e42a36-9aa1-47f3-b933-314c95c26885",
+          "text": "No routine switch needed from typicals to atypicals",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "58b169dd-b8b6-4222-acb1-6939cdce0662",
+          "text": "Consider clozapine as early as possible",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "91c0e6b8-b525-4e3c-90e5-4a4d7f72a80d",
+          "text": "Concurrent antipsychotic prescription must be tried only in first episode",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "96d0bf82-f375-4676-9ff7-a95a907ca95f",
+          "text": "Depot can be used to help with adherence",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a16caa9a-dc61-41b5-a1ea-b1e62ab2e6b5",
+          "text": "Treatment choice must be based on information sharing between patient and clinician",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "91c0e6b8-b525-4e3c-90e5-4a4d7f72a80d",
+        "text": "Concurrent antipsychotic prescription must be tried only in first episode"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "91c0e6b8-b525-4e3c-90e5-4a4d7f72a80d",
+          "text": "Concurrent antipsychotic prescription must be tried only in first episode",
+          "is_correct": true
+        }
+      ],
+      "explanation": "According to NICE, the choice of antipsychotic drug should be made jointly by the patient and responsible clinician, on the basis of an informed discussion of benefits and side-effects. Clozapine should be used at the earliest opportunity for patients with evidence of treatment-resistant schizophrenia. \"Atypical and typical antipsychotics should not be prescribed concurrently, except for short periods to cover changeover of medication. If a patient on an oral typical has good symptom control and no unacceptable side-effects, a routine switch to an atypical preparation is not recommended\"(Retrieved from http://apt.rcpsych.o rg/content/aptrcpsych/11/3/203.full.pdf).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": "595294bd-0db1-4e3a-8ec9-584cae665174",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 44 year old man admitted in secure intensive care unit shows high degree of aggressiveness. He was diagnosed with schizophrenia 20 years ago. Which of the following medications has the best evidence in reducing aggression in schizophrenia compared to others listed below?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1f2e7d6a-49d7-4209-a95f-e6bc694bb491",
+          "text": "Zuclopenthixol acetate",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2bf8b5d2-5296-42a7-92e6-551b89c38b88",
+          "text": "Olanzapine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2d23e2da-4ae7-414b-856b-4722f630d85c",
+          "text": "Clozapine",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "4c1e991e-fe71-4ca7-8736-6699a643165e",
+          "text": "Haloperidol",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "5effdf88-f3f6-41a0-a3c2-4353b86e87dd",
+          "text": "Chlordiazepoxide",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "2d23e2da-4ae7-414b-856b-4722f630d85c",
+        "text": "Clozapine"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "2d23e2da-4ae7-414b-856b-4722f630d85c",
+          "text": "Clozapine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A 12 weeks double-blind RCT compared clozapine, olanzapine, and haloperidol in high-risk patients with a history of aggressive behaviour. Clozapine showed greater efficacy than olanzapine and olanzapine greater efficacy than haloperidol in reducing aggressive behaviour. This anti-aggressive effect appeared to be separate from the antipsychotic and sedative action of these medications.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": "6c54be26-6eb8-4ba8-8537-49c8609361fe",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The following scenarios depict five different patients with schizophrenia. Which one of the following depiction is associated with a comparatively positive prognostic outlook for schizophrenia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "30ddb3dd-1892-4ff4-8c57-c1f0d4d22cf7",
+          "text": "Mr A has predominantly negative symptoms and prefers to stay alone avoiding his friends who often urge him to go for walking trips",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3607671b-cb84-4d68-b772-2bc419b9966b",
+          "text": "Mr C's major residual symptom is disorganised speech. On neurological examination shows grasp reflex and dysdiadochokinesia.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "460b21ba-2052-4255-ad9e-9024a3996743",
+          "text": "Mr D had a very gradual and quiet onset of symptoms when he was 16 years of age.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "725c3913-8dac-4be4-a081-3cb62d92392a",
+          "text": "Mrs C developed schizophrenia after getting married; her husband deserted her following the diagnosis.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "db4a29fc-4e82-4660-a2bd-664a1f49f5e2",
+          "text": "Mr B had an acute onset psychosis at the age of 25. His family blames him for his own illness. He stays at a care home where the staff does not let him be with his family for more than 24 hours a week.",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "db4a29fc-4e82-4660-a2bd-664a1f49f5e2",
+        "text": "Mr B had an acute onset psychosis at the age of 25. His family blames him for his own illness. He stays at a care home where the staff does not let him be with his family for more than 24 hours a week."
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "db4a29fc-4e82-4660-a2bd-664a1f49f5e2",
+          "text": "Mr B had an acute onset psychosis at the age of 25. His family blames him for his own illness. He stays at a care home where the staff does not let him be with his family for more than 24 hours a week.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Social isolation, living alone, having soft neurological signs and young onset are poor prognostic factors in schizophrenia. 'Expressed emotion' was a concept originally developed by Brown and Rutter in 1966 as a part of the Camberwell Family Interview (audio-taped interview with carer), and later modified by Vaughn and Leff in 1976. The ratings are based on content and prosodic aspects and emphasis of speech. Five measures are considered; 1. critical comments 2. positive remarks 3. emotional overinvolvement 4. hostility 5. emotional warmth. A large amount of face-to-face contact (more than 35 hours per week) with a relative with a high expressed emotion score increased the risk of relapse, but in households with a low expressed emotion score, high levels of contact appeared to be protective. Mr B is somewhat protected as his contact is kept minimal by the care home staff.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": "513f6aa5-b53f-4505-8f31-b3ce2449eaf5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following psychosocial interventions has established evidence base in schizophrenia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "20ba5df2-fdfb-446e-b60d-12e7988645d2",
+          "text": "Vocational rehabilitation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2a17e76c-a48e-4b60-86d8-db24596ef9c6",
+          "text": "Cognitive behavioural therapy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "40ac9210-98c7-451a-969f-267b7df57080",
+          "text": "Psychoeducation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "62d03a29-90d9-43ae-8d85-e97299c8d964",
+          "text": "All of the listed options",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "6fce238c-1e1c-4289-bd65-de948fd5faa3",
+          "text": "Family therapy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "62d03a29-90d9-43ae-8d85-e97299c8d964",
+        "text": "All of the listed options"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "62d03a29-90d9-43ae-8d85-e97299c8d964",
+          "text": "All of the listed options",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Psychosocial interventions in schizophrenia are aimed at improving functional outcomes and quality of life and not merely improving PANS or SAPS scores. Psychosocial interventions are classified as obligatory ones and voluntary ones by Bauml et al. The process of empowerment of patients and their relatives to understand and accept the illness and cope with it in a successful manner is described as a basic-level competency. This is considered to be an obligatory exercise upon which additional voluntary-exercise programs such as individual behavioral therapy, self-assertiveness training, problem-solving training, communication training, and further family therapy interventions can be built.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": "657566a1-1962-4970-b8f6-d320a556cfd7",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following obstetric events are associated with increased risk of schizophrenia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "063d02de-fa2d-46ee-8488-9422617a6f04",
+          "text": "Pregnancy induced hypertension",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "22b89303-1ff5-4998-94ac-c37eb420445f",
+          "text": "Foetal hypoxia at delivery",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5b93ec41-c2e9-4a0b-9f3c-0d4b361be313",
+          "text": "Premature rupture of membranes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5da45139-ea09-4cef-87b6-3454310fa859",
+          "text": "Low birth weight",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "75ed50ca-a349-40af-a0ff-c1c506f0d17e",
+          "text": "All of the listed options",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "75ed50ca-a349-40af-a0ff-c1c506f0d17e",
+        "text": "All of the listed options"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "75ed50ca-a349-40af-a0ff-c1c506f0d17e",
+          "text": "All of the listed options",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Perinatal complications have stimulated interest as putative risk factors for schizophrenia. Low birth weight was initially implicated as a risk factor; later anoxic brain damage at delivery was implicated, especially the dose of hypoxia was correlated to neuronal death. Kendell in 1996 showed that pregnancy induced hypertension increased the risk of psychosis almost 9 fold in a retrospective study design. Three different types of obstetric events have been described; 1. Growth related events e.g. low birth weight, small for gestational age 2. Perinatal factors e.g. PIH 3. Hypoxic events e.g. premature rupture of membrane. Lewis-Murray scale has been specifically used to measure obstetric complications during childbirth.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": "a2f19627-bf95-4b1a-afe7-daf26f607e4a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a characteristic feature of simple schizophrenia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "057bd124-196f-431d-b913-26d6d3c1553e",
+          "text": "Social withdrawal",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "4bb020e4-5cb5-4d1f-958b-2dacf708d4e6",
+          "text": "Delusions",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5794f84b-f6e3-480b-bc88-9fb018aaa5a2",
+          "text": "Memory loss",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "921dfc6e-335a-4277-b0ce-821a680b2eba",
+          "text": "Auditory hallucinations",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f0ab4c9b-b2dd-464e-ac8e-eebfb6b9c6fd",
+          "text": "Motor incoordination",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "057bd124-196f-431d-b913-26d6d3c1553e",
+        "text": "Social withdrawal"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "057bd124-196f-431d-b913-26d6d3c1553e",
+          "text": "Social withdrawal",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Patients with simple schizophrenia show features of social and occupational decline, as well as negative symptoms in the absence of clear-cut positive symptoms. Neuropsychological testing reveal evidence of general intellectual impairment plus deficits in executive function and memory.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": "a0b3be77-6ea9-4357-a1aa-2b618cc181ed",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The single most important factor that increases risk of hospitalisation in the mentally ill is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "421415e6-1e64-461b-9907-66f5f0a38ba2",
+          "text": "Being noncompliant",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "6edff838-4ddd-4002-91d0-5fc5ce5e9809",
+          "text": "Being female",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "dc5a087c-d090-414c-ba3d-ac374da799d3",
+          "text": "Having comorbidities",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e1fbd20b-31c7-4105-bd60-b0685c2adae2",
+          "text": "Being an adolescent",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fa5324ca-9afc-41c1-a066-52dbdb4b485b",
+          "text": "Being elderly",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "421415e6-1e64-461b-9907-66f5f0a38ba2",
+        "text": "Being noncompliant"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "421415e6-1e64-461b-9907-66f5f0a38ba2",
+          "text": "Being noncompliant",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Non adherence is the single most important factor increasing risk of hospitalization in the severe mentally ill (Weiden 2004, California Medicaid data).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": "dea8e350-ef17-47e3-aa58-3266aeb89961",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In PANSS scale for schizophrenia, which of the following is coded as a positive symptom?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "41b6df8c-d81f-4b3d-90b1-6a1bce0f54e5",
+          "text": "Disturbance of volition",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "529cc747-6790-4b50-9a41-743ed321d00a",
+          "text": "Lack of insight",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "52fb84c7-ea54-4f47-bca0-aa9c262155b3",
+          "text": "Conceptual disorganisation",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "8ac0fa03-4ec2-4c96-9cee-0985db84d073",
+          "text": "Unusual thought content",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d7254ca9-3c0e-46d9-8b1a-5438afe5244e",
+          "text": "Mannerisms",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "52fb84c7-ea54-4f47-bca0-aa9c262155b3",
+        "text": "Conceptual disorganisation"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "52fb84c7-ea54-4f47-bca0-aa9c262155b3",
+          "text": "Conceptual disorganisation",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In PANSS, Conceptual disorganization is classified under positive symptoms. Unusual thought content is classified under 'General' psychopathology.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": "f255ddd0-6723-4398-81e0-d5705ea02b24",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What is the risk of schizophrenia in a child if both parents have schizophrenia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "10e78590-c21a-4c77-9ae7-114041e6aa70",
+          "text": "20-30%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5f75fe34-bebb-4193-aa75-ef7a7fb51abc",
+          "text": "40-50%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "b38e21ef-3440-4d44-8f5c-81d573ad5146",
+          "text": "50-60%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e6d00b20-debc-40e7-8a56-310662125216",
+          "text": "10-20%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e8463678-9c53-4230-a611-291112589620",
+          "text": "30-40%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "5f75fe34-bebb-4193-aa75-ef7a7fb51abc",
+        "text": "40-50%"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "5f75fe34-bebb-4193-aa75-ef7a7fb51abc",
+          "text": "40-50%",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Genetic risk of schizophrenia decreases as one moves from closer to distant relatives. If both parents have schizophrenia the risk is around 40 to 50%.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": "83d0bbd3-d707-4f14-afcf-abf05ad7cab1",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements best summarises the available evidence for treating cognitive symptoms associated with schizophrenia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "01267428-c1e7-4f63-a546-2dd10f50dc93",
+          "text": "Amisulpride has the best evidence against cognitive symptoms in the absence of negative symptoms.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "370c8fb7-4f56-4766-bf54-eb5fdaadb811",
+          "text": "These occur only in association with negative symptoms",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4226b2f2-0cd9-47d0-93ee-b72d0dc70a31",
+          "text": "No conclusive evidence exists for the use of a specific agent against cognitive symptoms",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "77253d27-49a4-45a8-8e49-fd745a54102c",
+          "text": "RCTs with paired observations accurately reflect the cognitive improvement with atypicals.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "8d542596-67e0-4e59-94df-2a7c9ae52091",
+          "text": "These symptoms respond best to antidementia drugs",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "4226b2f2-0cd9-47d0-93ee-b72d0dc70a31",
+        "text": "No conclusive evidence exists for the use of a specific agent against cognitive symptoms"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "4226b2f2-0cd9-47d0-93ee-b72d0dc70a31",
+          "text": "No conclusive evidence exists for the use of a specific agent against cognitive symptoms",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Cognitive symptoms occur independent of negative symptoms in schizophrenia. A number of studies have claimed cognitive benefits from treatment with various second-generation antipsychotic drugs (SGAs). This claim is based on randomised comparative trials that demonstrated that SGAs produce significant improvement in neurocognition, measured by means of cognitive tasks administered at baseline and follow-up assessments. Goldberg. et al 2007 designed a RCT of risperidone vs. olanzapine in patients with first-episode schizophrenia, including a control group of individuals for whom data from multiple assessments were also collected. The main finding was that the effect size for cognitive change in patients exposed to SGAs was very similar to the effect size for cognitive change calculated in the healthy control group. Hence cognitive improvements observed in RCTs may have been due to the non-specific effects of multiple testing (practice effects).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": "997f6bad-2a0b-4df4-9c78-f0a9c017a5f4",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "SSRI-induced sexual dysfunction occurs secondary to",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2a88409d-268c-44c4-9a34-79cb80c2fc1c",
+          "text": "Histaminergic blockade",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "64ba1555-56b2-469f-9211-af52fd5872b3",
+          "text": "5HT2 stimulation",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "69fbc1e3-6c50-405a-90a8-c84ad2629a1b",
+          "text": "5HT1 stimulation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "826f4bad-c9c7-4179-a655-584649a2a9db",
+          "text": "5HT2 blockade",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d9fcb969-7dcf-4f1d-83fc-64d0583a330d",
+          "text": "5HT3 blockade",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "64ba1555-56b2-469f-9211-af52fd5872b3",
+        "text": "5HT2 stimulation"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "64ba1555-56b2-469f-9211-af52fd5872b3",
+          "text": "5HT2 stimulation",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Treatment with selective serotonin reuptake inhibitors (SSRIs) may lead to sexual dysfunction in up to 70% of patients. 5HT2 stimulation is suspected to cause sexual dysfunction that may affect compliance with therapy and ultimately treatment success.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": "5a913e2f-6e2e-45e0-a072-99a350df9797",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following strategies has better efficacy with respect to the administration of ECT?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "16901306-e43b-4050-b390-dab4c838ec3b",
+          "text": "Using sine wave instead of brief pulse ECT",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "27087f34-045f-4b0f-b86d-a50dbb9d76c8",
+          "text": "Using higher dose instead of lower dose of current",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "749c592a-feae-41ee-b132-b4040314de78",
+          "text": "Using twice weekly instead of once weekly ECT",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "83b87b07-c999-4fc0-ab01-a5697ff4364e",
+          "text": "None of the listed options",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "8f30e587-0ad3-4afa-a2f1-aef09230aa06",
+          "text": "Using unilateral instead of bilateral ECT",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "27087f34-045f-4b0f-b86d-a50dbb9d76c8",
+        "text": "Using higher dose instead of lower dose of current"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "27087f34-045f-4b0f-b86d-a50dbb9d76c8",
+          "text": "Using higher dose instead of lower dose of current",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The UK ECT review group meta-analysis demonstrated that real ECT was significantly more effective than simulated ECT. Premature discontinuation happened equally in both real ECT and simulated ECT groups. Treatment with ECT (both B/L and U/L) was significantly more effective than pharmacotherapy (various drugs). Premature discontinuation was significantly lesser in ECT than pharmacotherapy groups. Bilateral ECT was more effective than unipolar ECT. But greater cognitive impairment was seen among patients treated with bilateral ECT. No difference in efficacy between twice a week and three times a week ECT, or between once a week and three times a week ECT, was noted. High electrical dose led to a larger effect especially in bilateral ECT, but the effect was not significant. But patients treated with high-dose unilateral ECT took longer to regain orientation. No significant difference in efficacy was seen between brief pulse and sinewave ECT.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": "9da9e1b9-0354-4da9-9a66-b23d9d0530fd",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A community health worker regularly sees a patient with OCD. She wants to use a scale to screen for depression before asking the patient to attend your clinic for an evaluation. Which scale would you choose?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "07ed0622-84ba-4284-8b11-1418f21d1de2",
+          "text": "Edinburgh Depression Scale",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "167ea290-7f3c-46c0-b98e-7f1d3a2ec656",
+          "text": "Schedule for Clinical Assessment in Neuropsychiatry",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5c632dc6-5e87-433b-b11c-121318debdc1",
+          "text": "Beck's Depression Inventory",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "6a505985-8ef0-4b32-ab0e-3ec64064bea7",
+          "text": "Montgomery Asberg Rating Scale",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "8a118236-ab22-4092-aea6-a6404a24e168",
+          "text": "Calgary Depression Scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "5c632dc6-5e87-433b-b11c-121318debdc1",
+        "text": "Beck's Depression Inventory"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "5c632dc6-5e87-433b-b11c-121318debdc1",
+          "text": "Beck's Depression Inventory",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A community health worker can screen for depression in a high-risk group by using self-rated Beck's depression inventory. Other scales mentioned here may not be useful for the given clinical scenario. A trained clinician could use Hamilton Depression Rating Scale in OCD patients to assess severity and presence of depression.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": "da46a2c0-0ff4-4091-b70e-8adc0792faad",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The highest risk of serotonin syndrome is seen in which of the following patients?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "10fb8ceb-ce48-4638-a253-31e91c0161b9",
+          "text": "44 year old taking trazadone and fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "1a8f7906-b291-4eb2-b191-8970f3f760be",
+          "text": "44 year old taking venlafaxine and mirtazapine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "99463a45-254b-4f83-9d36-aaac7073ad94",
+          "text": "32 year old taking citalopram",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "adbef7fc-b8a2-4f07-9be9-9a79e7d78824",
+          "text": "55 year old taking phenelzine and escitalopram",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "e6a86c12-093f-470b-938f-8f13a5ff35d2",
+          "text": "67 year old taking amitriptyline and phenelzine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "adbef7fc-b8a2-4f07-9be9-9a79e7d78824",
+        "text": "55 year old taking phenelzine and escitalopram"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "adbef7fc-b8a2-4f07-9be9-9a79e7d78824",
+          "text": "55 year old taking phenelzine and escitalopram",
+          "is_correct": true
+        }
+      ],
+      "explanation": "MAOI and SSRI combinations must be avoided at all costs as risk of fatal serotonin syndrome is substantial.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": "80a66df0-3c7b-4a1f-ba4d-635a5659aa8f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "You are treating 5 patients with depression in your outpatient unit. Which of the following patients is highly likely to drop out of treatment?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "141d8a80-6aaf-4cf7-8d10-057eba44684f",
+          "text": "33 year old with more subjective than objective depression",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "19e6a721-f496-4fe1-8d92-f6cdefd465b8",
+          "text": "72 year old retired clerk",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "210708bb-5f3a-4b60-a425-081caf579a6a",
+          "text": "26 year old who is a school drop-out",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "59017187-befc-4e71-a89d-4c978497e6d1",
+          "text": "25 year old man with 3 previous depressive episodes",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "84141f32-f912-4d65-8b7b-55b17e5c1a37",
+          "text": "44 year old school teacher",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "210708bb-5f3a-4b60-a425-081caf579a6a",
+        "text": "26 year old who is a school drop-out"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "210708bb-5f3a-4b60-a425-081caf579a6a",
+          "text": "26 year old who is a school drop-out",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In STAR*D trial, immediate attrition after one visit was associated with younger age, less education, and higher perceived mental health functioning. Attrition later in treatment (but within 12 weeks) was associated with younger age, less education, and African American ethnicity. Experience with more than one episode of depression was associated with less attrition.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": "5b172f02-c37f-4a11-9dd5-94caabf5ace7",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A GP writes to you asking clarification regarding depression treatment guidelines. Which of the following practice, if employed, is not recommended?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "590c787b-96a0-4d73-b5ff-d43cb43dfca7",
+          "text": "He does not give antidepressants to those with mild depression at first consultation.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "59899e92-e728-4b9f-ab9b-05cd64b0fbb8",
+          "text": "He uses SSRIs as first line drugs",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9faac8f7-b729-47b3-bbd2-364b2f4fe302",
+          "text": "He classifies depression according to symptom count",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b6bdb29a-b405-4ad2-948d-2e61b3cc418a",
+          "text": "In mild depression, if patient agrees, he does not do much apart from offering 2 weeks follow up.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d695b6ae-36db-44df-8121-387daea6689b",
+          "text": "In case of comorbid anxiety and depression, he treats anxiety first.",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "d695b6ae-36db-44df-8121-387daea6689b",
+        "text": "In case of comorbid anxiety and depression, he treats anxiety first."
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "d695b6ae-36db-44df-8121-387daea6689b",
+          "text": "In case of comorbid anxiety and depression, he treats anxiety first.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In cases of comorbid depression and anxiety, depression must be managed initially. Depression must be classified as per severity for proper management. Watchful waiting with no active intervention for mild depression is an advocated strategy if agreeable; review must be in 2 weeks.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": "88de165e-21e1-4f1d-bc53-abe1bcc11914",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A patient being treated with antidepressants for long loses faith in the treatment and asks you if antidepressants really work. Which of the following is an accurate response?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "242b5f72-30c5-4919-a9cb-1474874b8061",
+          "text": "They work best for young children as they take them regularly.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "420ec50c-5e3d-4586-ac4c-003dbac5e310",
+          "text": "One additional response occurs for every 5 depressed adults who take antidepressants.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "a00aebd2-3b0f-49e6-958f-2e384145e812",
+          "text": "They work in moderate depression though with increasing severity they lose efficacy.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a52cacb6-56f2-4f29-b7cd-3abcc1ab884e",
+          "text": "They work well for adults though not so well for the elderly.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e40b04b8-73f7-47c4-a203-1ba8d07e981b",
+          "text": "They work if one takes them for at least 4 months.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "420ec50c-5e3d-4586-ac4c-003dbac5e310",
+        "text": "One additional response occurs for every 5 depressed adults who take antidepressants."
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "420ec50c-5e3d-4586-ac4c-003dbac5e310",
+          "text": "One additional response occurs for every 5 depressed adults who take antidepressants.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In adults NNT for antidepressant response seems to be 4-5; for remission it may be 6-7 for short term trials (around 12-14 weeks). In elderly it is found that the NNT for tricyclics is 4; 8 for SSRIs and 3 for MAOIs. In children and adolescents NNT for SSRIs was of uncertain clinical and statistical significance; paroxetine had NNT benefit 12 (5 to ) and NNT harm 20. Sertraline had NNT benefit 10. Fluoxetine had somewhat clinically worthwhile NNT benefit of 5 (4-13).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": "fae91a26-df90-45ce-b304-f9d39b124a54",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "With respect to the programmes intended to prevent depression which of the following is true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1d4ac951-fce2-4ef5-8bc0-f58892f27594",
+          "text": "Depression cannot be prevented in older age groups.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "28a892e4-5420-49d3-aa65-397061855ede",
+          "text": "Programmes with single focussed methods are more effective",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "72a83f99-a320-4202-ba0e-33ea073a8448",
+          "text": "Multicomponent programmes are better than single component programmes",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "84eea28e-b75a-4b0d-a719-27dd7beb320b",
+          "text": "Targeting high risk groups is profoundly effective compared to non specific strategies of prevention",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "eb77b8fe-1bc1-4f93-b76b-0f422137fe1a",
+          "text": "Programmes with social intervention has the best effect for working age adults",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "72a83f99-a320-4202-ba0e-33ea073a8448",
+        "text": "Multicomponent programmes are better than single component programmes"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "72a83f99-a320-4202-ba0e-33ea073a8448",
+          "text": "Multicomponent programmes are better than single component programmes",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Depression prevention programmes that included three or more different types of methods were significantly better than those that included only one or two. Programmes that involved a competence enhancement component yielded the largest effect sizes, whereas programmes including behavioural methods yielded the lowest effect sizes. For older age group social support programmes yielded larger weighted effect sizes. No difference in effectiveness was found between universal, selective and indicated programmes - hence targeting high-risk groups only may not offer any specific advantage (no cost analysis was done). Jane-Llopis E, Hosman C, Jenkins R, et al. Predictors of efficacy in depression prevention programmes: a meta-analysis. Br J Psychiatry 2003;183:384-97.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": "bb55a2a1-7b68-4040-b45e-58661644c758",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A patient living in rural Scottish highlands has an episode of depression. Despite her husband's insistence she refuses any intervention or treatment. How long would her depressive episode last?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5190666b-37b7-40aa-b1e4-504be6c14659",
+          "text": "6 to 12 months",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "82652560-60ed-4d26-8ecb-12f0aae28184",
+          "text": "3 to 4 months",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ac10654a-9b38-4ab5-94e8-53947aa917d4",
+          "text": "1 to 3 years",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d0e851d1-d216-46ea-9639-6343eb63295e",
+          "text": "6 to 12 weeks",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e6232426-42ff-4252-80b1-d65dea17f2c2",
+          "text": "3 to 4 weeks",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "5190666b-37b7-40aa-b1e4-504be6c14659",
+        "text": "6 to 12 months"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "5190666b-37b7-40aa-b1e4-504be6c14659",
+          "text": "6 to 12 months",
+          "is_correct": true
+        }
+      ],
+      "explanation": "An untreated depressive episode lasts 6 to 13 months; most treated episodes last about 3 months.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": "ff5ffc02-9e36-439e-a9e2-82d4467972a7",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The median duration of a treated episode of depression is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0781a1ac-6748-4e4b-8d18-be92c2694289",
+          "text": "6 weeks",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4a6af064-5692-4a5f-bef3-83f9e0cde1a5",
+          "text": "4 weeks",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "503236bc-d514-410d-aa1a-8e22b1763219",
+          "text": "12 weeks",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "94d056e2-17be-4e8f-b525-581f7e9846e3",
+          "text": "12 months",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ab65f77a-bf3e-45b1-9a90-fb1f85764bec",
+          "text": "6 months",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "503236bc-d514-410d-aa1a-8e22b1763219",
+        "text": "12 weeks"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "503236bc-d514-410d-aa1a-8e22b1763219",
+          "text": "12 weeks",
+          "is_correct": true
+        }
+      ],
+      "explanation": "An untreated depressive episode lasts 6 to 13 months; most treated episodes last about 3 months.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": "0fed60a2-63ed-4363-952a-b635880a7c48",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A depressed patient is a keen naturalist. He wants to try a herbal remedy for depression. What would you choose from the following options?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0e7766b0-c24f-4115-a989-9fc9528d1678",
+          "text": "Piper methysticum",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "1d5b8c2c-96df-4a84-bc94-5b112951b81c",
+          "text": "Gingko biloba",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "64c03b8c-3aa6-4023-8ca3-99b2a225ef7d",
+          "text": "Valeriana officinalis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b5831d35-d7ef-4877-b39b-56677f084744",
+          "text": "Hypericum perforatum",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "f9f9e258-9348-4f46-88cb-3345bdfcc033",
+          "text": "Panax ginseng",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "b5831d35-d7ef-4877-b39b-56677f084744",
+        "text": "Hypericum perforatum"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "b5831d35-d7ef-4877-b39b-56677f084744",
+          "text": "Hypericum perforatum",
+          "is_correct": true
+        }
+      ],
+      "explanation": "An initial meta-analysis of St Johns Wort (Hypericum perforatum) published in 2001 showed an adjusted RR of 1.94 (1.5 to 2.5) in favour of SJW. But when 3 later studies were added, and the data was re-analysed, this effect size dropped to 1.30 (1.0 to 1.60). In fact, SJW may not be as effective as once claimed. Evidence from at least one systematic review of multiple well-designed RCTs are found for the use St John's wort, tryptophan/5-hydroxytryptophan, S-adenosyl methionine, inositol and folate in depressive disorders. None of these findings was conclusively positive, and folate had a significant effect only when combined with an antidepressant.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": "9e5ac369-4151-462e-8914-c01d51bf155c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A psychiatrist diagnoses depression using ICD10 criteria in a 24-year-old lady who attends her outpatient clinic. Which of the following diagnosis is she highly likely to receive if subsequently followed up for several years?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1057deab-59aa-482c-8f9e-8829536f89c5",
+          "text": "Personality disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2bf8d6ea-f42e-47c1-987c-28ecf2c97034",
+          "text": "Depressive disorder",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "60f455a6-0ee9-487f-a149-33a5a209187f",
+          "text": "Stress related neurotic disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d64174b7-1439-4404-9c81-2ca39c838670",
+          "text": "Bipolar disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f9a43ec0-65d3-4b47-85b9-01b44039808c",
+          "text": "Schizophrenia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "2bf8d6ea-f42e-47c1-987c-28ecf2c97034",
+        "text": "Depressive disorder"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "2bf8d6ea-f42e-47c1-987c-28ecf2c97034",
+          "text": "Depressive disorder",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A diagnosis of depressive disorder is the most likely diagnostic outcome in patients with a first episode of depression.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": "3ede3d1f-1436-4fb9-95c0-c245e48359a2",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following antiepileptics causes visual field defects?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "50444d2a-7c43-4cea-8cac-64b06fb1bd5f",
+          "text": "Topiramate",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5f515d6d-f36f-45e1-a721-d5641804f8a2",
+          "text": "Sodium valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "62b10051-5943-4534-a27f-9db6e67931ec",
+          "text": "Gabapentin",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c4b27a86-39fe-482b-ab0c-3d5e20f76aba",
+          "text": "Vigabatrin",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "e03af74c-1979-4c82-96a6-77e764c69c91",
+          "text": "Lamotrigine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "c4b27a86-39fe-482b-ab0c-3d5e20f76aba",
+        "text": "Vigabatrin"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "c4b27a86-39fe-482b-ab0c-3d5e20f76aba",
+          "text": "Vigabatrin",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Wilton at al reported an increase in the number of confirmed cases of visual field defects attributed to vigabatrin in their observational cohort study. Ref: Wilton et al., BMJ. 1999;319:1165-1166.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": "7777c972-bd75-4e53-a277-26e4766c064d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A known bipolar patient has had many episodes of mania but no clinically significant depression so far. But currently he presents with severe depression. He is already on lithium with good serum levels and is compliant. What will be the next step?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "22060c19-ced5-4cb8-a363-5e3c87d4a09c",
+          "text": "Add SSRI",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "3c377529-1092-49ce-a047-5c8b298a4904",
+          "text": "Add venlafaxine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8e3eb599-dcad-4fd5-9ceb-b1d837b6164d",
+          "text": "Increase lithium dose",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "92ec06cc-d480-4ce7-b8ca-440a34f33968",
+          "text": "No intervention required",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "dd945acb-0bed-4eab-ac96-cb937038d52b",
+          "text": "Add lamotrigine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "22060c19-ced5-4cb8-a363-5e3c87d4a09c",
+        "text": "Add SSRI"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "22060c19-ced5-4cb8-a363-5e3c87d4a09c",
+          "text": "Add SSRI",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Treatment with an antidepressant [SSRI] together with a mood stabiliser is recommended for severe depression. Gijsman et al.( 2004) found that symptoms were nearly twice as likely to improve in patients who received an antidepressant than in those who received placebo or a mood stabilizer alone.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": "bc49e003-7900-4eb0-8b21-03a054084172",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 45-year-old woman has recurrent depression and hypomanic episodes which occur only when she is treated with ECT. She has had 4 episodes of ETC-induced hypomania in the past. Which of the following terms provides the most accurate description of her illness?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "27e77737-a6b6-4d24-891e-ee2d5da9bc50",
+          "text": "Bipolar 4 disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5b7ce2e3-bad1-4268-b77c-e14edf2ef1d8",
+          "text": "Bipolar 2 disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6d7163d0-f80f-49c5-bda8-c15dc8c4d8ac",
+          "text": "Bipolar 5 disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c689b422-e5d3-4217-b38e-ca3f71cdb015",
+          "text": "Bipolar 1 disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e5ee9803-fbb6-4670-9bc0-ace392fd4bc0",
+          "text": "Bipolar 3 disorder",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "e5ee9803-fbb6-4670-9bc0-ace392fd4bc0",
+        "text": "Bipolar 3 disorder"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "e5ee9803-fbb6-4670-9bc0-ace392fd4bc0",
+          "text": "Bipolar 3 disorder",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The term bipolar III is sometimes used for recurrent depression, plus hypomania occurring solely in association with antidepressant or other somatotherapy. Bipolar IV refers to depression superimposed on a hyperthymic temperament.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": "0e30e7fc-0757-4752-b3f4-8c15faa444df",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following has RCT evidence in favour of treatment during acute episodes of mania?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "48ed007b-c9a1-45da-b034-e1dcafa2c16b",
+          "text": "Clonazepam",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "531daa5b-63fe-4c35-8d29-9607a52f88ca",
+          "text": "Selegiline",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "73b34c66-72e2-419f-bfb1-0abf7f9cf65e",
+          "text": "Diazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "95e77158-2c92-42ab-9a1b-782bfd889356",
+          "text": "Bupropion",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f491d1cf-b357-48c1-8ad3-96d25275bc27",
+          "text": "Tiagabine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "48ed007b-c9a1-45da-b034-e1dcafa2c16b",
+        "text": "Clonazepam"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "48ed007b-c9a1-45da-b034-e1dcafa2c16b",
+          "text": "Clonazepam",
+          "is_correct": true
+        }
+      ],
+      "explanation": "RCTs in people with bipolar type I disorder experiencing a manic episode suggest that clonazepam may be as effective as lithium in improving manic symptoms at 1 to 4 weeks. But guidelines do not recommend it as monotherapy.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": "7c02f214-4d70-4c3c-9d9c-ac36c3a75d84",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 44 year old patient has been admitted 7 times with a relapse of bipolar disorder in last few years. Which of the following laboratory investigations is very important in this patient?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "01c29683-e172-4eb1-ba30-d8079405c227",
+          "text": "Thyroid function test",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "413a3f9e-b56a-4569-87ce-6cd1155a3208",
+          "text": "MRI brain",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6d618926-03bb-4cdb-ba46-5b42b829dea8",
+          "text": "Folate levels",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6fe79b9c-3948-45e3-9d55-f84a1b732c3e",
+          "text": "Full blood count",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ba7773a6-983f-4c9b-97a5-945c390a99e7",
+          "text": "Liver function especially GGT",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "01c29683-e172-4eb1-ba30-d8079405c227",
+        "text": "Thyroid function test"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "01c29683-e172-4eb1-ba30-d8079405c227",
+          "text": "Thyroid function test",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Rapid cyclers have higher rates of current hypothyroidism. A poor response to lithium (especially the depressive component) is also associated with rapid cycling.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": "c5904136-3770-4483-9ed6-7c6b98a2a382",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A known bipolar patient has had many episodes of mania and depression so far. He also had significant episodes of manic switch following SSRI treatments in the past. Currently he presents with severe depression. He is already on lithium with good serum levels and is compliant. What will be the next step?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "150064ca-09ef-4601-8f45-955a30c75e6a",
+          "text": "Consider MAOIs",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2c846599-d62e-4f4a-adca-579e55b4b03f",
+          "text": "Consider ECT",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7be1ca57-13bc-4ed5-b200-c132ea9b475e",
+          "text": "Consider quetiapine",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "93d0ead8-76fd-4269-a211-e4b191327a66",
+          "text": "Consider tricyclics",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "cf273f0a-bf06-4cd9-8885-8986ab4c8972",
+          "text": "Consider haloperidol",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "7be1ca57-13bc-4ed5-b200-c132ea9b475e",
+        "text": "Consider quetiapine"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "7be1ca57-13bc-4ed5-b200-c132ea9b475e",
+          "text": "Consider quetiapine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Quetiapine at either 300 mg/day or 600 mg/day is more effective than placebo at treating depression in people with bipolar I or II disorder (Geddes, 2003).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": "068c43be-8ce0-462d-b803-d36ff07916f2",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is the most important predictor of relapse in a patient with bipolar disorder?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "55483558-d526-4561-97bf-63bfd6349236",
+          "text": "Age of the patient",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5e978022-66b2-4661-8766-479641a49f88",
+          "text": "Sex of the patient",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "60f100ef-ad92-4a4d-8429-80941ca837bb",
+          "text": "Presence of residual symptoms",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "7df22074-0aaa-47cd-8869-c97e481f8dfe",
+          "text": "Family history of bipolar disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ac5d047f-a4c7-46a0-ae63-2728963cffe2",
+          "text": "Dose needed for mood stabilisation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "60f100ef-ad92-4a4d-8429-80941ca837bb",
+        "text": "Presence of residual symptoms"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "60f100ef-ad92-4a4d-8429-80941ca837bb",
+          "text": "Presence of residual symptoms",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Perlis et al. (STEP-BD) found that the biggest predictor of relapse was residual symptoms, and the majority of relapses were into depression. Index phase may have a bearing on relapse and overall outcome. Patients with a depressive index phase spent the highest proportion of time being ill (65% of time nearly), especially with depression in both bipolar 1 and 2 types. Patients with a manic index phase spent the smallest proportion of time ill (30% time nearly), especially in depressive states (n=191, 18m follow up. Mantere et al, 2008).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": "8c0c643e-8bd4-446a-a5b7-6fd9acd7f6f5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 35 year old lady is going to be discharged from hospital after successful treatment of a depressive episode. She has had 5 depressive episodes in the past and this time following depression she developed hypomania. What would you prescribe?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5dc0d9ae-4159-4df3-95e6-f081a361686a",
+          "text": "Lithium",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "6874c566-4096-43d8-8c73-1864199fba5b",
+          "text": "Sodium Valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6d291f5e-dc33-4be6-8151-2f3351cf6ae4",
+          "text": "Lamotrigine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b54122e1-8e9e-47db-a166-2d11fedd0443",
+          "text": "Atypical antipsychotic",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e271c5c9-ac65-4e33-9231-86715ab93de7",
+          "text": "Carbamazepine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "5dc0d9ae-4159-4df3-95e6-f081a361686a",
+        "text": "Lithium"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "5dc0d9ae-4159-4df3-95e6-f081a361686a",
+          "text": "Lithium",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Note that this woman was hospitalised and is getting discharged now. NICE recommends using long term maintenance treatment - after a manic episode involving significant risk and adverse consequences, in bipolar I disorder with two or more acute episodes, and in bipolar II disorder with significant functional impairment or risk of adversities. Lithium monotherapy is the first line treatment. It is probably effective against both manic and depressive relapse, although it is more effective in preventing mania.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": "e3b0addb-2f94-4ba8-b16e-8efccff96fd9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In comparing bipolar depression with unipolar depression all are true except:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2fe0f9af-6ac4-44eb-a203-01b6f618db08",
+          "text": "Antidepressant induced hypomanic switch suggests bipolar disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a21d61fb-2a35-4df6-90a4-02cbb06a32f1",
+          "text": "Psychotic depression in earlier adulthood is suggestive of bipolar disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c88eb3d7-aabc-413e-a8ee-25e8e2c91a41",
+          "text": "Atypical symptoms are more common in unipolar depression",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "e04f6823-4571-4b95-9723-c93cb22fe1ba",
+          "text": "A family history of bipolar disorder is more common in bipolar depression.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e4bded09-afca-4da5-9ea9-2d7288b6434d",
+          "text": "There are some notable phenomenological differences",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "c88eb3d7-aabc-413e-a8ee-25e8e2c91a41",
+        "text": "Atypical symptoms are more common in unipolar depression"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "c88eb3d7-aabc-413e-a8ee-25e8e2c91a41",
+          "text": "Atypical symptoms are more common in unipolar depression",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Notable but subtle phenomenological differences have been reported. Atypicality is in favour of bipolar depression. Higher family history of bipolar disorder suggests bipolar depression; presence of psychotic depression in early adulthood is also suggestive of bipolar disorder. Anxiety, insomnia and somatic complaints are more in unipolar depression.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": "ccb6a1d3-0fa1-4dba-9266-70c7bf92876e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Median time to recover from a treated episode of mania is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "11fdec44-21ab-4d98-b779-a7f736dc35d4",
+          "text": "2-3 weeks",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2abfb3da-559f-4556-b8ce-662ce4597720",
+          "text": "12 to 18 weeks",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "42749f17-e424-40f3-9353-946355774940",
+          "text": "6 months",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7cd7997c-df65-480b-ae50-098cda1ea5df",
+          "text": "1 year",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e4617344-41cc-4e75-845e-2291d46810a8",
+          "text": "4-5 weeks",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "e4617344-41cc-4e75-845e-2291d46810a8",
+        "text": "4-5 weeks"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "e4617344-41cc-4e75-845e-2291d46810a8",
+          "text": "4-5 weeks",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Median time to recover from mania (treated) is around 4-5 weeks.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 44,
+      "question_id": "ffae6274-1b48-49e3-bc7a-0764ec169352",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 24-year-old man has been using amphetamines for the last six months. He had an episode of depression when he was 22; this was treated by his GP using fluoxetine. He now presents with euphoria, increased energy and activities with psychotic features suggestive of mania. He was admitted and remains drug-free for six weeks now. However, his symptoms have continued without change. The most appropriate diagnosis is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "480ed082-0f56-49a7-bd50-8bc08a1f4b0a",
+          "text": "Malingering",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "6f1f9e5b-d98d-4635-b6e7-836665483729",
+          "text": "Mood disorder not otherwise specified",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8ccb59f2-888e-4630-8d5b-61e50ef8b98c",
+          "text": "Stimulant induced psychosis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b05c4f85-2311-4fb2-afab-6756c21834d2",
+          "text": "Personality disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "eeb5facc-135b-49e9-bf1f-fe21924934ba",
+          "text": "Bipolar disorder",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "eeb5facc-135b-49e9-bf1f-fe21924934ba",
+        "text": "Bipolar disorder"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "eeb5facc-135b-49e9-bf1f-fe21924934ba",
+          "text": "Bipolar disorder",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In stimulant or other street drugs induced mania, if the mood state significantly outlasts the drugged state then a diagnosis of bipolar disorder can be made.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 45,
+      "question_id": "7fe89d4f-c9ae-42a7-8c70-5b7d7003bbb8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following prodromal symptoms is more suggestive of schizophrenia rather than bipolar disorder?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "35af5b11-39ec-4b66-924b-e56b411b9481",
+          "text": "Lack of energy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "6b185068-5ce6-42a1-b362-283dee66fec4",
+          "text": "Obsessions and compulsions",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8cf1881b-2649-4d2c-b8fd-fe963d4993a5",
+          "text": "Unusual ideas",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "a054693d-7c67-4893-91ef-4eaa4b5f7adb",
+          "text": "Increased energy",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b075fbb0-5768-415e-a640-2d674fc9f4e1",
+          "text": "Unexplained suicidality",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "8cf1881b-2649-4d2c-b8fd-fe963d4993a5",
+        "text": "Unusual ideas"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "8cf1881b-2649-4d2c-b8fd-fe963d4993a5",
+          "text": "Unusual ideas",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In a prospective study of prodromal features in those with high risk of bipolar, it was noted that the prodrome was predominantly insidious (greater than 1 year) in more than half of the patients; acute presentations with less than 1 month of prodrome were very rare; subacute was more common than acute but less common than insidious prodromes. The prodrome duration did not differ between those with psychotic and nonpsychotic mania. Attenuated positive symptoms and increased energy/goal-directed activity were significantly more common in the prodrome of patients with later psychotic mania. Mania and schizophrenia prodrome characteristics overlapped considerably. However, subsyndromal unusual ideas were significantly more likely part of the schizophrenia prodrome; obsessions/compulsions, suicidality, difficulty thinking/communicating clearly, depressed mood, decreased concentration/memory, tiredness/lack of energy, mood lability, and physical agitation were more likely part of the mania prodrome.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 46,
+      "question_id": "cc3f4215-a200-4f71-bd69-a14143002585",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 36 year old man treated for bipolar disorder wants to know which drug can prevent suicidal behaviour in bipolar patients. The best option is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "34366858-201c-4281-ae3b-e237d67b4125",
+          "text": "Lamotrigine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3980c60b-f2f6-4f20-8651-e5a4d5153697",
+          "text": "Lithium",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "8dadf6a6-4e6a-464b-82f5-113d520f4ce9",
+          "text": "Carbamazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "90c60bd5-8e2c-4765-a944-6ac57fc46d5a",
+          "text": "Olanzapine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fcf89569-415e-419a-9925-6dc72ddf1d30",
+          "text": "Quetiapine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "3980c60b-f2f6-4f20-8651-e5a4d5153697",
+        "text": "Lithium"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "3980c60b-f2f6-4f20-8651-e5a4d5153697",
+          "text": "Lithium",
+          "is_correct": true
+        }
+      ],
+      "explanation": "For hospital admitted patients, the suicide risk is around 10% over long-term follow-up. Based on naturalistic comparison of patient cohorts, the findings from different centres consistently report that lithium could have a suicide prevention effect. The treatment effect is very large for this finding. (Geddes 2003).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 47,
+      "question_id": "7426c791-8dbf-494f-9f0a-9753ec389d43",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following drugs is most likely to cause hyponatraemia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1406b59b-05d7-4c8d-a923-bb13be653581",
+          "text": "Olanzapine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "19c17e35-e672-43b7-b5d6-1dffddd163f1",
+          "text": "Risperidone",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4a7b7038-1cf1-4191-bd5f-6a7e73341216",
+          "text": "Citalopram",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5bdc0ad8-c112-4248-8afb-d8e472723606",
+          "text": "Valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "61d1e455-300e-42ab-b5c9-ee9e65ab36f9",
+          "text": "Carbamazepine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "61d1e455-300e-42ab-b5c9-ee9e65ab36f9",
+        "text": "Carbamazepine"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "61d1e455-300e-42ab-b5c9-ee9e65ab36f9",
+          "text": "Carbamazepine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Carbamazepine is more likely than the others listed to cause SIADH, resulting in euvolemic hyponatremia.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 48,
+      "question_id": "95e114f2-efa7-4dcd-8e2c-500ff2b0684d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements about the diagnostic stability of bipolar disorder is true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2751dfdf-add6-440c-98e7-8283e85a7300",
+          "text": "More patients lose than retain a diagnosis of bipolar disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "310bb973-9de5-4ffd-9a50-b8849787b7a7",
+          "text": "The diagnosis of bipolar disorder is delayed in those with index depressive phase",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "57e68d5b-a92b-426a-b11d-2988b266991c",
+          "text": "Bipolar 1 to bipolar 2 switch happens frequently.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a0f99baa-3f8c-43ff-9793-c03d15dc1bd0",
+          "text": "After 5 years of symptom free period, a diagnosis of bipolar can be removed.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "acdab075-ecc3-4eaa-8a7b-1edff9121e94",
+          "text": "Bipolar 1 diagnosis is less stable than bipolar 2.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "310bb973-9de5-4ffd-9a50-b8849787b7a7",
+        "text": "The diagnosis of bipolar disorder is delayed in those with index depressive phase"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "310bb973-9de5-4ffd-9a50-b8849787b7a7",
+          "text": "The diagnosis of bipolar disorder is delayed in those with index depressive phase",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Approximately 40% of patients with bipolar disorder get misdiagnosed previously as having unipolar depressive disorder initially. But once a diagnosis is made the stability of bipolar disorder has generally been reported to be high, ranging from 70% to 91%. In bipolar disorder, bipolar I is more stable than bipolar II just because bipolar II may switch to bipolar I, but not vice versa.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 49,
+      "question_id": "8e9056b2-6acc-4143-919d-34a81c392dac",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following antidepressants is highly likely to induce a mood switch from depression to mania?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "23e5ed97-f8d4-4129-9fa6-93bc1f296230",
+          "text": "Amitriptyline",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "4582aeab-9b4a-4413-882c-5905bc046df0",
+          "text": "Sertraline",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "53affcbe-d05b-4737-9396-2a719737bf77",
+          "text": "Fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "9edf2780-b231-46dc-8d60-20784b58b011",
+          "text": "Citalopram",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c60122a5-7c0b-4f99-8331-2e99e9aaccef",
+          "text": "Paroxetine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "23e5ed97-f8d4-4129-9fa6-93bc1f296230",
+        "text": "Amitriptyline"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "23e5ed97-f8d4-4129-9fa6-93bc1f296230",
+          "text": "Amitriptyline",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Antidepressant-induced mania is known as mood 'switch'. This is a short-term phenomenon and takes place soon after starting antidepressants. It is more commonly associated with tricyclics.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 50,
+      "question_id": "0eef5396-4107-42ce-a8c2-3389b0978d37",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "All of the following are contraindications for zopiclone except",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "00b122bd-686b-479c-bd67-4f412bcabd19",
+          "text": "Unstable myasthenia gravis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "0165976f-dc5c-461c-9533-34d56e6b4509",
+          "text": "Pregnancy / Breast feeding",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9d45136a-5b7c-44f8-a2c6-fde4a6c62193",
+          "text": "Sleep apnoea",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "acd8d186-0d91-47f9-9fc1-9f4ef3edab3f",
+          "text": "Memory impairment",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "ba19c337-b9d7-4551-afd4-667f0f47b2fe",
+          "text": "Respiratory depression",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "acd8d186-0d91-47f9-9fc1-9f4ef3edab3f",
+        "text": "Memory impairment"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "acd8d186-0d91-47f9-9fc1-9f4ef3edab3f",
+          "text": "Memory impairment",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Though zopiclone can rarely increase amnesic tendency, having memory impairment is not a specific contraindication for this drug.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 51,
+      "question_id": "8128688c-c0c2-4211-a98f-3f9dad2e60a2",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is true with regard to generalized anxiety disorder?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1246091e-e0e7-42f9-85f4-8a14cc2b20e2",
+          "text": "Punctuated by brief depressive episodes",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "2b6ad3d4-af75-4655-8429-7bbf4651173a",
+          "text": "Characterized by avoidance",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "48d75e7b-edd0-4cf1-bd81-260ba289d322",
+          "text": "Characterized by Obsessive thoughts",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "970af7e7-02d8-42f5-a739-656e5d380bf6",
+          "text": "Characterized by suicidal thoughts",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a77888e4-b8c4-4f3c-a8f3-c1f698c07217",
+          "text": "Concordance of DZ twins more than MZ",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "1246091e-e0e7-42f9-85f4-8a14cc2b20e2",
+        "text": "Punctuated by brief depressive episodes"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "1246091e-e0e7-42f9-85f4-8a14cc2b20e2",
+          "text": "Punctuated by brief depressive episodes",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The feature of avoidance is not needed for diagnosis; GAD is often punctuated by depressive episodes and co-existent with a number of comorbid diseases.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 52,
+      "question_id": "eedeacd5-67c1-43c0-9ee2-7eae0299be81",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "With regard to PTSD which of the following is true",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2b8cb583-e0a7-4764-bb68-d24c04daf75f",
+          "text": "It is overdiagnosed",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "305a85ac-bf0d-439d-961b-2e4ea94a4b22",
+          "text": "Prior trauma does not increase susceptibility to PTSD",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "570e4f32-786e-4c09-b4c8-b4870ba71169",
+          "text": "Prevalence of PTSD is the same all over the world",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7ad4a827-1916-4733-9fde-0d3d93d388ee",
+          "text": "Chronic pain is associated with PTSD.",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "dfaf899c-8f14-47fd-8ea5-978210282098",
+          "text": "Resilience is not a dynamic quality",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "7ad4a827-1916-4733-9fde-0d3d93d388ee",
+        "text": "Chronic pain is associated with PTSD."
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "7ad4a827-1916-4733-9fde-0d3d93d388ee",
+          "text": "Chronic pain is associated with PTSD.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "PTSD is probably underdiagnosed. Resilience to traumatic experience is a dynamic quality and same person may respond differently to traumatic exposures at different times. Prevalence of PTSD is high in regions of civil unrest and war. Chronic pain is associated with PTSD.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 53,
+      "question_id": "113cda2f-9d28-4f4a-b451-360b9e611a4d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "With respect to the recommended treatments for PTSD which of the following are endorsed by NICE guidelines for use in primary care settings?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "08010c80-6994-4416-b1ab-10dff93f72ef",
+          "text": "Mirtazapine and fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "0e5165d2-f043-446c-85cc-91a6f705f4eb",
+          "text": "Mirtazapine and paroxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2cf8e863-fc71-4580-b9b5-d2a33b37ad24",
+          "text": "Amitriptyline and phenelzine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "99da0b21-6bd6-469f-9ebe-309f58ca1f19",
+          "text": "Sertraline and fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "faac3fde-2abf-4c59-ab27-0adef3c451e1",
+          "text": "Sertraline and paroxetine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "faac3fde-2abf-4c59-ab27-0adef3c451e1",
+        "text": "Sertraline and paroxetine"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "faac3fde-2abf-4c59-ab27-0adef3c451e1",
+          "text": "Sertraline and paroxetine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Paroxetine, mirtazapine are endorsed by NICE for general use; amitriptyline or phenelzine for specialist use in PTSD.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 54,
+      "question_id": "c6d449c8-d699-487c-b370-c2b7dfc9a50a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following neuroimaging findings is most consistent with OCD?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "10de6f8c-1e35-4d60-a4bd-66da8d0af9da",
+          "text": "Decreased metabolism at dorsal prefrontal cortex",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "1bc56561-4a52-484d-a0bf-4543ff0926bb",
+          "text": "Increased metabolism of orbitocingulate region",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "1cdeb00f-9631-48e5-8375-0daad348e640",
+          "text": "Decreased metabolism at amygdala",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ba8b0775-9a7f-473c-bd00-b13a1d78c433",
+          "text": "Decreased metabolism at orbitocingulate region",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "dcf9def2-ece4-4913-924a-7ebe3bc2235a",
+          "text": "Increased metabolism at amygdala",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "1bc56561-4a52-484d-a0bf-4543ff0926bb",
+        "text": "Increased metabolism of orbitocingulate region"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "1bc56561-4a52-484d-a0bf-4543ff0926bb",
+          "text": "Increased metabolism of orbitocingulate region",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Many investigators have contributed to the hypothesis that OCD involves dysfunction in a neuronal loop running from the orbital frontal cortex to the cingulate gyrus, striatum (caudate nucleus and putamen), globus pallidus, thalamus and back to the frontal cortex. Organic insult to these regions can produce obsessive and compulsive symptoms. The results of neurosurgical treatment of OCD strongly support this hypothesis. Surgical interruption of this loop by means of cingulotomy, anterior capsulotomy or subcaudate tractotomy brings about symptomatic improvement in a large proportion of patients unresponsive to all other treatments.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 55,
+      "question_id": "b5470964-c3de-40d1-a5d1-a0ea54e9b788",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 20-year-old man is sent home from college as he was drunk before giving a presentation. He is reported to be spending more time alone as his friends have stopped calling him due to his repeated refusals to go out with them anymore. He is refusing to go to a family meal for his father's birthday as he says he would be so tense that he may vomit at the party. Which of the following is the most likely diagnosis?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "70783443-088b-46dc-be20-4e528271650e",
+          "text": "Adjustment disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "874ef543-16c1-422e-afe3-e18bee831e39",
+          "text": "Claustrophobia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8869d4db-5a3f-402d-ab14-1a04c3544c48",
+          "text": "Depressive episode",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "cae32d4e-9482-46a1-8b5c-588516e4ca4f",
+          "text": "Social phobia",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "eb3fc3e2-522b-4286-840c-d737c20a270f",
+          "text": "Generalised anxiety disorder",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "cae32d4e-9482-46a1-8b5c-588516e4ca4f",
+        "text": "Social phobia"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "cae32d4e-9482-46a1-8b5c-588516e4ca4f",
+          "text": "Social phobia",
+          "is_correct": true
+        }
+      ],
+      "explanation": "It is important to note that the bulk of evidence to date suggests that alcohol rarely, if ever, reduces social anxiety. Near ly all studies of clinical individuals with social phobia and normal comparison subjects confronting socially frightening stimuli fail to find alcohol anxiolytic.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 56,
+      "question_id": "1c58360a-1230-44e4-8dc1-286b34abae55",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In PANDAS which of the following tests is most likely to be positive?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "134d3cb0-8b5b-4a4b-82fe-4bd0667fd3f3",
+          "text": "Anti Basal Ganglia antibodies",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "935bdf9b-e60f-446a-88cd-7594e8226728",
+          "text": "Anti DNAse B",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "b1e14526-432f-4b73-985c-ff2a5f565c6e",
+          "text": "cANCA",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "bb06f8b2-ca7f-48ef-825e-73765e18cc14",
+          "text": "Anti nuclear antibodies",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f8618ed9-4d30-4885-a10e-b2805dcd8db5",
+          "text": "pANCA",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "935bdf9b-e60f-446a-88cd-7594e8226728",
+        "text": "Anti DNAse B"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "935bdf9b-e60f-446a-88cd-7594e8226728",
+          "text": "Anti DNAse B",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In PANDAS the neuropsychiatric symptoms need not have their onset during a streptococcal (group A beta-hemolytic) infection; only an exacerbation that correlates temporally with the infection is also acceptable for a diagnosis. AntiDNAseB or Antistreptolysin O titres are likely to be elevated in most with recent streptococcal infection.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 57,
+      "question_id": "cf0c20a6-3bc9-4d1f-a925-129cfd5371f6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In PTSD there is confirmed effectiveness for all of the following treatments except:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "09d95098-fcfc-4553-8f65-94c4b1bb0bd3",
+          "text": "Stress management",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "34e155b9-02a9-40ec-8cf3-4c4f56118819",
+          "text": "Hypnotherapy",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "b93166da-90d4-46d2-8db9-4271b354c3e1",
+          "text": "Antidepressant",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "bd6d69ae-aaef-48eb-97d4-a65ca80eda9d",
+          "text": "Trauma focused therapy",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fa27084f-d2b1-460e-acd2-f785dde9d4d4",
+          "text": "EMDR",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "34e155b9-02a9-40ec-8cf3-4c4f56118819",
+        "text": "Hypnotherapy"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "34e155b9-02a9-40ec-8cf3-4c4f56118819",
+          "text": "Hypnotherapy",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Hypnotherapy is not indicated and has no evidence base to support its use in PTSD.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 58,
+      "question_id": "cd07dee8-b454-48bd-953e-605d4b0de005",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In the aetiology of PTSD choose one correct option:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "322a034b-7469-43e0-9cc1-ab84be2939e9",
+          "text": "unresolved childhood trauma increases the risk.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "50fe516b-c148-4a04-83fd-8f28058bfe25",
+          "text": "locus of control has no role",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6ba7a7b1-a374-4d75-bff8-b8add79cc744",
+          "text": "the sympathetic nervous system is not involved",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "85b62dcf-027a-4cfb-90a5-0b90820ba055",
+          "text": "lower level of education is protective",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "92a3cd20-7462-46a2-85b0-89f3f93827b4",
+          "text": "the hippocampus has no role",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "322a034b-7469-43e0-9cc1-ab84be2939e9",
+        "text": "unresolved childhood trauma increases the risk."
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "322a034b-7469-43e0-9cc1-ab84be2939e9",
+          "text": "unresolved childhood trauma increases the risk.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Unresolved childhood trauma may predispose to vulnerability for PTSD.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 59,
+      "question_id": "b56e590f-4355-4383-948c-3049f3206479",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 44 year old man with generalised anxiety wants to try a herbal remedy for his anxiety. He is not worried about the side effects. Which of the following would be an option?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "33baf672-390f-4fe4-a7ec-39ace9c4f556",
+          "text": "Hypericum perforatum",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "52ed7f53-3397-40c5-8b98-33e43cebf43a",
+          "text": "Valerian efficinalis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "59ec8cde-c58c-421e-9fa6-b7be504229af",
+          "text": "Paxa ginseng",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "70246676-f40e-42d9-b5bd-6d9bde5ec82c",
+          "text": "Piper methysticum (Kava)",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "74d81b15-6ab8-4ae0-bb0c-704225032906",
+          "text": "Gingko biloba",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "70246676-f40e-42d9-b5bd-6d9bde5ec82c",
+        "text": "Piper methysticum (Kava)"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "70246676-f40e-42d9-b5bd-6d9bde5ec82c",
+          "text": "Piper methysticum (Kava)",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Herbal treatment of anxiety: The kava shrub (Piper methysticum) has been studied in anxiety disorders. The effects of kava are due to the kavapyrones, which in animal models act as muscle relaxants and anticonvulsants, protect against strychnine poisoning, and reduce limbic system excitability.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 60,
+      "question_id": "54806b39-a9b5-4497-9095-144bb3498a3d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "OCD which of the following symptoms may be specifically resistant to treatment?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "14a49071-d60e-4679-9bc5-6283870465c6",
+          "text": "Checking",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "52315e9d-c9e7-477c-9ed7-fd535e9c35c2",
+          "text": "Washing",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "dca54cb8-e1d6-4ac1-bd22-a152315dc1b3",
+          "text": "Hoarding",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "e7dd1056-97ca-4f21-bc05-36331cbecc45",
+          "text": "Sexual obsessions",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ee58442b-7c91-40a7-b4c2-4c0898bf97c5",
+          "text": "Religious obsessions",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "dca54cb8-e1d6-4ac1-bd22-a152315dc1b3",
+        "text": "Hoarding"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "dca54cb8-e1d6-4ac1-bd22-a152315dc1b3",
+          "text": "Hoarding",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Compulsive hoarding may be a neurobiologically distinct form of obsessive-compulsive disorder. Hoarding is notoriously difficult to treat by either psychological or pharmacological means.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 61,
+      "question_id": "d468fd6c-f7da-4275-8458-492431499692",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is true with regard to the diagnostic criteria for an acute stress reaction?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "440e8379-071a-4861-922b-6cbe5d432be1",
+          "text": "Symptoms start after 48 hours of exposure to stressful event",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5fc80654-e4d7-4489-b060-c8cf6e2b7950",
+          "text": "Symptoms resolve within 2 days",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "ad70e895-8d15-4ae2-9c8a-5d7cc06a8a99",
+          "text": "Symptoms diminish or resolve only if the stressor is removed",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b532c5c8-cbf4-4924-b07c-8ef01163ad47",
+          "text": "No spontaneous resolution is noted",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c503d217-2bbe-409d-ae14-cf35db2b56ee",
+          "text": "Symptoms resolve within 1 week",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "5fc80654-e4d7-4489-b060-c8cf6e2b7950",
+        "text": "Symptoms resolve within 2 days"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "5fc80654-e4d7-4489-b060-c8cf6e2b7950",
+          "text": "Symptoms resolve within 2 days",
+          "is_correct": true
+        }
+      ],
+      "explanation": "An acute stress reaction follows a sudden severe stressor and lasts for only a few days. By definition, an acute stress reaction occurs in an individual without a previous psychological disorder.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 62,
+      "question_id": "5b8ead2e-d56a-4ed2-a984-f9ec81f685a5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The first line treatment in an adult with severe OCD is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "39ced275-fa9f-42ca-b3e6-c510f17761bf",
+          "text": "SSRIs only",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "58e9ac6f-d541-4266-9c74-81bb2b48a54b",
+          "text": "Antipsychotic augmentation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8a7bdee9-0a5e-48cb-9a54-28180e135cfc",
+          "text": "A choice of either SSRI or CBT",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "ac1e415e-b780-4866-8c39-e7a8e5828e55",
+          "text": "CBT only",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d6ef869c-7fa4-47c7-a2e0-7d85a815a681",
+          "text": "Clomipramine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "8a7bdee9-0a5e-48cb-9a54-28180e135cfc",
+        "text": "A choice of either SSRI or CBT"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "8a7bdee9-0a5e-48cb-9a54-28180e135cfc",
+          "text": "A choice of either SSRI or CBT",
+          "is_correct": true
+        }
+      ],
+      "explanation": "According to NICE a choice must be offered between drugs and CBT, with a view of combining them in due course.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 63,
+      "question_id": "83a85ea1-ccfe-4807-8682-91be68d3305d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following outcomes is often used to define treatment response in OCD treatment trials?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5b769abc-e662-4fe7-895c-3294f753b523",
+          "text": "20% reduction in YBOCS",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "70effb3c-526b-4f4b-b6f5-54ef4e5d0214",
+          "text": "35% reduction in YBOCS",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "8dad0f0b-e3f7-49f8-a5f5-8235c33cb6c2",
+          "text": "50% reduction in YBOCS",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "bcd63822-0439-4bef-b413-4b4370b2e4fa",
+          "text": "75% reduction in YBOCS",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "db884260-736d-47ca-8d23-35d70025429a",
+          "text": "YBOCS scores fall below detectable levels",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "70effb3c-526b-4f4b-b6f5-54ef4e5d0214",
+        "text": "35% reduction in YBOCS"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "70effb3c-526b-4f4b-b6f5-54ef4e5d0214",
+          "text": "35% reduction in YBOCS",
+          "is_correct": true
+        }
+      ],
+      "explanation": "'Response to treatment' after 6-12 weeks of treatment is defined as a fall of at least 35% in the pre-treatment YBOCS score.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 64,
+      "question_id": "84d7fe98-15ee-4d0f-ac1e-a9a4dba028ca",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Many patients with chronic fatigue syndrome will meet the criteria for",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0defb886-b4a1-4057-8a04-bade90a41ead",
+          "text": "OCD",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "161da013-ef46-44ec-b218-14d079ea54ad",
+          "text": "Depression",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "2900d2df-b5cb-45d3-abc3-279acdacd47e",
+          "text": "Hypochondriasis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5e1f5486-e9d4-4b79-873c-179ab7fca0a9",
+          "text": "Malingering",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "661b4a0e-89bd-4f9f-bfa0-ace2c9366e2d",
+          "text": "Anxiety",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "161da013-ef46-44ec-b218-14d079ea54ad",
+        "text": "Depression"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "161da013-ef46-44ec-b218-14d079ea54ad",
+          "text": "Depression",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Many patients with CFS will meet the criteria for another psychiatric diagnosis, most commonly major depression.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 65,
+      "question_id": "58f1308b-a639-4e3e-a3a3-43c4d327f3d8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What percentage of patients with restless leg syndrome can present with periodic limb movements during sleep?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "00667d18-6948-4dec-8abb-751c63a09217",
+          "text": "80-90%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "1464bb1f-365b-4af6-884d-ed4b65fce990",
+          "text": "10-20%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "232331e5-7d87-433c-9690-ff84df6574e9",
+          "text": "1-2%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "775248cc-51c5-451d-a8dc-d3aab8a8bb25",
+          "text": "30-40%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "aa5c7f14-e22b-4c9d-a538-582b5aeb6188",
+          "text": "50-70%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "00667d18-6948-4dec-8abb-751c63a09217",
+        "text": "80-90%"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "00667d18-6948-4dec-8abb-751c63a09217",
+          "text": "80-90%",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Up to 80% to 90% of RLS patients can present periodic limb movements during sleep (PLMS).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 66,
+      "question_id": "ec81cf82-5f9d-4dcc-8a82-75d692dd47fc",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following is not a diagnostic criterion for restless leg syndrome?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "28983b4a-16ac-4a00-bd8b-a5145d102fad",
+          "text": "Cataplexy",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "38517aca-0278-4d90-9d2e-72d81e42c469",
+          "text": "Motor restlessness.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "62d69cf3-0a80-4393-bc31-04da7761cad6",
+          "text": "Symptoms worsen at rest.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "9e762e4b-55a0-4f63-a81b-1778e5f52f99",
+          "text": "Distressing, irresistible need to move legs usually accompanied by paresthesias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d581850a-8eaa-4214-a476-4ecbadc78e58",
+          "text": "Symptoms worsen at night.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "28983b4a-16ac-4a00-bd8b-a5145d102fad",
+        "text": "Cataplexy"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "28983b4a-16ac-4a00-bd8b-a5145d102fad",
+          "text": "Cataplexy",
+          "is_correct": true
+        }
+      ],
+      "explanation": "RLS presents the following four diagnostic criteria in patients aged 12 or older: Akathisia (distressing, irresistible need to move legs), usually accompanied by paresthesias. (This is a core feature), Motor restlessness, Symptoms worsen at rest and Symptoms worsen at night.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 67,
+      "question_id": "a6c9c3de-fbcc-41c3-b826-26bd497b97ee",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following is a core feature to make a diagnosis of restless leg syndrome?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "060b7583-ae63-4ea9-b1d0-c9de291efc74",
+          "text": "Symptoms worsen at night.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "8f6a16e9-a45f-4bfc-a882-08471a6fba07",
+          "text": "Distressing, irresistible need to move legs",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "8fa088b7-6de4-4c1a-9f01-02718e03b52a",
+          "text": "Motor restlessness.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c0bee24f-7a82-402e-b33b-6a6e05eef6ab",
+          "text": "Symptoms worsen at rest.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e0341800-be54-4521-a56d-53a51d21b8bb",
+          "text": "Day time sleepiness",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "8f6a16e9-a45f-4bfc-a882-08471a6fba07",
+        "text": "Distressing, irresistible need to move legs"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "8f6a16e9-a45f-4bfc-a882-08471a6fba07",
+          "text": "Distressing, irresistible need to move legs",
+          "is_correct": true
+        }
+      ],
+      "explanation": "RLS presents the following four diagnostic criteria in patients aged 12 or older: Akathisia (distressing, irresistible need to move legs), usually accompanied by paresthesias is a core feature.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 68,
+      "question_id": "d6dfbd9b-8630-4d0e-b49f-ad90dd576a84",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In REM sleep behavioural disorder, the associated lesions are situated in which part of the brain?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "244c66df-bc8e-4555-9cee-925a1dd4791a",
+          "text": "Hippocampus",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "30affe3f-376c-4bb8-96c4-37c094fdfbcd",
+          "text": "Basal ganglia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "41bcd7ed-bc5f-46bd-8d7b-e5995a09f62e",
+          "text": "Uncus",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "803268d1-d90f-41bf-b45c-94a3873588f3",
+          "text": "Brain stem",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "90b64ba0-fd83-4b54-9743-ecbe41ef67c4",
+          "text": "Cortex",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "803268d1-d90f-41bf-b45c-94a3873588f3",
+        "text": "Brain stem"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "803268d1-d90f-41bf-b45c-94a3873588f3",
+          "text": "Brain stem",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Rapid-eye-movement (REM) sleep behavior disorder (RBD) is thought to result from a dysfunction of the brainstem structures that regulate physiologic REM sleep muscle atonia.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 69,
+      "question_id": "b48a21d7-b7cc-455a-8233-8540a7dab813",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The first-line treatment for Restless Leg syndrome is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "636dcc97-34f8-4f37-9626-206897212c79",
+          "text": "Clonazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "6dbc3de3-13b1-4a9a-bb84-587fc4b59677",
+          "text": "Anticonvulsants",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "990a7612-7f94-4438-a96f-b01f835598ff",
+          "text": "Nonergot D2 agonists",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "d0f7ad6c-468a-4185-bcde-3cffafbdcef7",
+          "text": "Opioids",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f45ef169-8a77-48bb-a5c4-5dc05f3dadc3",
+          "text": "Diazepam",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "990a7612-7f94-4438-a96f-b01f835598ff",
+        "text": "Nonergot D2 agonists"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "990a7612-7f94-4438-a96f-b01f835598ff",
+          "text": "Nonergot D2 agonists",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Pharmacologic treatment options for RLS include dopaminergic agents (l-dopa, pergolide, pramipexole), anticonvulsants (gabapentin, CBZ), opioids (oxycodone, propoxyphene), and clonazepam.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 70,
+      "question_id": "2f32ddf2-ea4f-4b7d-bcb5-39a2027b2a6c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following is a maintaining factor for CFS?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1cf42c7a-a0a2-41a4-86d8-2a18ddebba2a",
+          "text": "Attributing the illness to physical cause",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "73dea8a2-91e2-48eb-9069-86b0a4d080d2",
+          "text": "Neuroticism and introversion",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7cd4198a-1d71-4f50-a030-7a879a672a9e",
+          "text": "Serious life events",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "9a058f30-18f0-4299-938e-6d24dd149af6",
+          "text": "Inactivity after mononucleosis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c961a819-d28e-46bd-b214-f09072c03fc0",
+          "text": "Pre morbid mood disorder",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "1cf42c7a-a0a2-41a4-86d8-2a18ddebba2a",
+        "text": "Attributing the illness to physical cause"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "1cf42c7a-a0a2-41a4-86d8-2a18ddebba2a",
+          "text": "Attributing the illness to physical cause",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Patients with CFS strongly believe in physical cause of CFS and refute role of psychological and personal factors. This leads to increase in symptoms and reduces in level of functioning.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 71,
+      "question_id": "d604a48d-33e3-4de3-be06-a78ec435e081",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which is the most common presenting symptom of obstructive sleep apnoea?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1d9837be-9143-4708-bf47-fc3ff4412718",
+          "text": "Snoring",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "25c89266-6c17-4e1d-9581-8d0311966eff",
+          "text": "Mouth breathing",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3983489c-4810-4fdc-98a9-cc0f228edb89",
+          "text": "Breathing pauses",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6f7f06a8-22df-4522-867c-1d5955da9f78",
+          "text": "Restless sleep",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a3ed7e6b-e8f7-4056-9901-f1d8fd1cfd8f",
+          "text": "Increased perspiration at night",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "1d9837be-9143-4708-bf47-fc3ff4412718",
+        "text": "Snoring"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "1d9837be-9143-4708-bf47-fc3ff4412718",
+          "text": "Snoring",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Obstructive sleep apnoea: It is more common in men (4%) than in women (2.5%). History of loud snoring, breathing pauses, mouth breathing, restless sleep, and increased perspiration at night. Snoring is the most common presenting symptom.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 72,
+      "question_id": "d9c0d0f9-6e94-4ddf-bebb-857f812f308b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Mr. X suffers from recurrent episodes of abrupt awakening from sleep characterized by a panicky scream, with intense fear. He has no recall of the details of the event and is unresponsive during the episode. His most likely diagnosis is:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "11069e2b-ec2f-4b25-b359-cd976768ea6b",
+          "text": "Night terrors",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "5f2e95cd-d138-4083-9315-e492efb87ce7",
+          "text": "Sleep walking",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b8f0e1e2-975a-49c7-ab9e-90dbc94d297c",
+          "text": "Nightmares",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c6e1b6cd-d436-4639-9228-ea71e37d5dde",
+          "text": "REM sleep behavioural disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f9e73845-145e-4574-8ab8-936b4b6a79ec",
+          "text": "Confusion arousals",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "11069e2b-ec2f-4b25-b359-cd976768ea6b",
+        "text": "Night terrors"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "11069e2b-ec2f-4b25-b359-cd976768ea6b",
+          "text": "Night terrors",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Night terrors are recurrent episodes of abrupt awakening from sleep characterized by a panicky scream, with intense fear and autonomic arousal. The individual usually has no recall of the details of the event and is unresponsive during the episode.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 73,
+      "question_id": "32e08a19-39cb-491b-b006-1ad9b4acdaed",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Initial insomnia is frequently related to which of the following conditions?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "02e3d8c5-2169-4ee5-a26f-9a2d7f932a24",
+          "text": "Depression",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "0abd0e33-bd18-474a-8cdb-54a068db48e9",
+          "text": "Anxiety disorders",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "712e6408-3411-45ea-92f1-7dcf3d396727",
+          "text": "Enuresis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d62052c9-bb9e-4d26-8b7d-0bf965250326",
+          "text": "Medical illness",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d6d2ef21-9880-4c8c-ad67-25a318b81626",
+          "text": "Pain syndromes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "0abd0e33-bd18-474a-8cdb-54a068db48e9",
+        "text": "Anxiety disorders"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "0abd0e33-bd18-474a-8cdb-54a068db48e9",
+          "text": "Anxiety disorders",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Initial insomnia is characterized by difficulty falling asleep, with increased sleep latency. It is frequently related to anxiety disorders.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 74,
+      "question_id": "bc850f1e-5b14-4d8d-82bd-2a77f7d74ed3",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which neuropeptide has been found to be low in patients with narcolepsy?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1dcb7578-cd6d-4939-b190-e5a97d9c0ffb",
+          "text": "Neuropeptide -Y",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "8b9b2256-8063-48f1-b755-294cace49df2",
+          "text": "Beta-endorphins",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "93dfe359-60fa-4a86-83e3-fbb324e7a3d6",
+          "text": "Hypocretin -1",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "a1004c16-d921-43d4-aa9b-2b463a55418b",
+          "text": "Met/Leu -Enkephalins",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a9b01300-ac18-436f-9a20-2f31b274c153",
+          "text": "Neurotensin",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "93dfe359-60fa-4a86-83e3-fbb324e7a3d6",
+        "text": "Hypocretin -1"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "93dfe359-60fa-4a86-83e3-fbb324e7a3d6",
+          "text": "Hypocretin -1",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Hypocretins (Orexins) are hypothalamic neuropeptides believed to play a role in regulating sleep and arousal. Abnormally low concentrations of hypocretin-1 (Orexin-A) have been found in the CSF of patients with narcolepsy.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 75,
+      "question_id": "922b767f-2dc8-4c7f-8c4a-e4fb7010f303",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Identify the good prognostic factors of CFS from the list given below.",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "056d097f-158f-4ff4-b145-dcabb26d9e2d",
+          "text": "Severe fatigue",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2627b2fd-77a1-41d1-be53-459911879aa9",
+          "text": "Patients not attributing CFS to physical causes.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "954edd11-9b7f-46aa-b7ac-19a9ee210430",
+          "text": "Longer illness duration",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d5f08a1e-5ac9-4935-ab9e-c6c6c2328b6d",
+          "text": "Belief in complete rest as the treatment",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fc433b27-516f-482b-b0a4-975ec1b639cd",
+          "text": "Older age",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "2627b2fd-77a1-41d1-be53-459911879aa9",
+        "text": "Patients not attributing CFS to physical causes."
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "2627b2fd-77a1-41d1-be53-459911879aa9",
+          "text": "Patients not attributing CFS to physical causes.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Good prognostic factors include a lack of strong attribution to physical causes, less severe baseline fatigue, and younger age (Children and adolescent recover faster).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 76,
+      "question_id": "61b293ec-4862-498a-a83e-35cd140c28b2",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which immunological test is diagnostic of CFS?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "074a5ff9-58b7-4e3f-80a6-1f58a36e7be6",
+          "text": "Deficient Interleukin 6",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "1a00ecba-b7f4-4c53-bf61-0c72f0cdb61d",
+          "text": "Increased number of CD8+ cytotoxic T cells bearing antigenic marker",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "1b5b2e3a-eeba-4b10-a302-d2a994d5e611",
+          "text": "None of the listed options",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "4e268607-14f7-452a-9708-949cc9588845",
+          "text": "Increased expression of activation markers on the surface of T lymphocytes",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f87278e3-6db7-446d-88ec-c961ef16d65b",
+          "text": "Deficiency in natural killer cell function",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "1b5b2e3a-eeba-4b10-a302-d2a994d5e611",
+        "text": "None of the listed options"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "1b5b2e3a-eeba-4b10-a302-d2a994d5e611",
+          "text": "None of the listed options",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Evidence for immune system abnormalities is inconsistent. No immunological test is diagnostic of CFS.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 77,
+      "question_id": "709397a7-ab11-4969-9574-ea51a7c2bc66",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following is classified as a dyssomnia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "53104da7-7f02-47cc-894b-22540dee0a09",
+          "text": "Sleep walking",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5f833fce-521f-469b-a08d-bcaa16b60bec",
+          "text": "Narcolepsy",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "61ac76bd-e9d9-4907-9c62-835103f67391",
+          "text": "Nightmares",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a60f93da-86b9-4f10-bb57-472759afde01",
+          "text": "REM behavioural disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c3da4665-64d9-4a0f-ad1a-0a5abf8930ef",
+          "text": "Sleep terrors",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "5f833fce-521f-469b-a08d-bcaa16b60bec",
+        "text": "Narcolepsy"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "5f833fce-521f-469b-a08d-bcaa16b60bec",
+          "text": "Narcolepsy",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Dyssomnias are primary sleep disorders which cause either difficulty getting off to sleep or remaining asleep (insomnia) or excessive sleepiness during the day.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 78,
+      "question_id": "280e365b-8313-46b9-b100-a59f6d4002d5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Diagnostic features of neurasthenia include all of the following except",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2834127c-ff11-4af9-ba59-692013c808da",
+          "text": "Fatigue alleviated by prolonged rest",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "48493617-b3d7-46cb-9dac-cc6c07cab827",
+          "text": "Duration greater than 6 months",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "71a57f62-360c-4b7d-a973-db4c3d455929",
+          "text": "Muscular aches and pains",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "93499087-d66c-4650-8e8b-791e6a0821e2",
+          "text": "Poor (unrefreshing) sleep",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a2a47ae5-616d-4fef-ae7e-5453bf418822",
+          "text": "Easy fatigueability after minimal effort",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "2834127c-ff11-4af9-ba59-692013c808da",
+        "text": "Fatigue alleviated by prolonged rest"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "2834127c-ff11-4af9-ba59-692013c808da",
+          "text": "Fatigue alleviated by prolonged rest",
+          "is_correct": true
+        }
+      ],
+      "explanation": "CFS criteria US-CDCP (1994) suggests that to diagnose CFS (or neurasthenia in ICD10), patients must have persistent or relapsing unexplained chronic fatigue. The fatigue must last for at least 6 months and should appear not to be alleviated by rest.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 79,
+      "question_id": "e0989410-ca68-4906-ab35-c22e2522b1cc",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The most common problem seen in patients with medically unexplained symptoms is the potential for",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "061b126a-1a64-4ac3-8d56-0fa5e991889e",
+          "text": "Parasuicide",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "32dd1a57-2458-4747-809b-2c7d3333bc8e",
+          "text": "Iatrogenic harm",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "90252f0d-a310-4de5-af6d-9098db5fcfd0",
+          "text": "Hostility",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e4eb0060-8fde-4a33-b43f-dda74368ab2b",
+          "text": "Suicide",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e66772d9-c29c-4b74-a8b9-fd93802254e1",
+          "text": "Violence",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "32dd1a57-2458-4747-809b-2c7d3333bc8e",
+        "text": "Iatrogenic harm"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "32dd1a57-2458-4747-809b-2c7d3333bc8e",
+          "text": "Iatrogenic harm",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A problem common to all patients with medically unexplained symptoms is the potential for iatrogenic harm. These patients often accrue considerable morbidity and even mortality due to excess negative investigations, irradiation, operative procedures, etc.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 80,
+      "question_id": "44d6a840-f7df-470d-aaff-74c642b104f0",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following modes of treatments is not endorsed by evidence-based guidelines for managing anorexia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3862a572-cc1e-4651-9eaa-5622947c327d",
+          "text": "Antidepressants",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b23847cd-7c7b-4eb9-84c0-c7766fba24d7",
+          "text": "Family based interventions",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "bf8b44fe-e08f-46bb-a4c7-8daf9e401108",
+          "text": "Dialectic behavioural therapy",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "c6b9ca17-88b9-4c67-b60f-1c01d64e0dda",
+          "text": "Cognitive behavioural therapy",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e8eda022-4068-4d60-8925-9159b8d5ff46",
+          "text": "Cognitive analytical therapy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "bf8b44fe-e08f-46bb-a4c7-8daf9e401108",
+        "text": "Dialectic behavioural therapy"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "bf8b44fe-e08f-46bb-a4c7-8daf9e401108",
+          "text": "Dialectic behavioural therapy",
+          "is_correct": true
+        }
+      ],
+      "explanation": "While CBT and CAT have a modest evidence base to support their use, IPT or DBT do not have any supportive evidence for anorexia.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 81,
+      "question_id": "a0edaa87-63ca-4ac5-887e-d880c32e2a73",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a characteristic feature of emotionally unstable personality disorder?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "002db4d5-66bb-4ff3-b290-e2e75b966441",
+          "text": "Fear of boredom",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2eb0ff65-7a21-4e5d-9e1a-e7e8c3d37593",
+          "text": "Fear of abandonment",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "545afb10-cf61-470d-8f98-6d35e6c97564",
+          "text": "Generalised lack of trust",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6f703710-327c-4bc6-b25a-12b83f7c6b6a",
+          "text": "Avoidance of social contact",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ea91b703-d0e3-409b-95c7-02ebc0c79529",
+          "text": "Attention seeking behaviour",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "2eb0ff65-7a21-4e5d-9e1a-e7e8c3d37593",
+        "text": "Fear of abandonment"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "2eb0ff65-7a21-4e5d-9e1a-e7e8c3d37593",
+          "text": "Fear of abandonment",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Impulsive traits with a high degree of emotional instability and fear of abandonment is seen in emotionally unstable/borderline personality disorder.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 82,
+      "question_id": "4138947f-392b-4e6d-83d6-80e1f1e9afde",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 28 year-old man comes to your outpatient clinic who has been arrested 8 times in the past for hitting his girlfriends. He had 10 previous relationships. He is now starting a new relationship and is worried that the same will happen again. As a child he has a history of truancy, hitting other children and getting into trouble with police for drinking. Your examination reveals no indication of a current mental illness. What would you do?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "67dd5975-061d-421c-bb89-a2a2c975273d",
+          "text": "No medication as he has no treatable illness",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "9037ee65-2b42-4ed0-83d7-571c78d7c14d",
+          "text": "Prescribe an antipsychotic and follow up in the clinic",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9191c0ff-749d-40df-a522-462df98c1e66",
+          "text": "No medication but follow up as he is at higher risk of psychiatric disorders",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "f7805c7d-3cad-4996-b06f-5939c9420786",
+          "text": "Prescribe Lithium to control aggression.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f969f002-c0da-4d09-aab5-ccc273d6c6dd",
+          "text": "Prescribe antidepressant to prevent psychiatric disorders.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "9191c0ff-749d-40df-a522-462df98c1e66",
+        "text": "No medication but follow up as he is at higher risk of psychiatric disorders"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "9191c0ff-749d-40df-a522-462df98c1e66",
+          "text": "No medication but follow up as he is at higher risk of psychiatric disorders",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The diagnosis is antisocial PD. Given that he has no mental illness now, prescribing lithium, antipsychotic or antidepressants is not warranted. Patients with antisocial PDs have a high risk of mental illness, and the patient here is undergoing a life event (starting a new relationship). It will be necessary to offer a follow up at the least.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 83,
+      "question_id": "bf8ee5d0-337b-4f6c-b704-16d363744628",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is not commonly associated with bulimia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2c77b023-ff27-447e-880a-8bb60582c5ce",
+          "text": "Seizures",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5b6af280-15eb-4d2e-996b-f6729a34c01d",
+          "text": "Dental decay",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "66357a5d-8cd9-4dd4-895c-9cd335b73184",
+          "text": "Parotid gland enlargement",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "94284de1-2bbc-4c9b-8482-8c0cb66dae01",
+          "text": "Peptic ulcer",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "cf853698-9684-4f3c-841e-ca38d0405f51",
+          "text": "Oesophageal tears",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "94284de1-2bbc-4c9b-8482-8c0cb66dae01",
+        "text": "Peptic ulcer"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "94284de1-2bbc-4c9b-8482-8c0cb66dae01",
+          "text": "Peptic ulcer",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Repeated binges and vomiting result in oesophageal tears, dental erosion. Seizures may occur due to repeated vomiting and resulting electrolyte imbalance. Parotid enlargement is secondary to repeated vomiting and salivary secretion. Peptic ulcer is not directly related to bulimia.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 84,
+      "question_id": "4c36c43c-7c80-443d-94ce-e578625b79e9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a laboratory abnormality seen in anorexia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "145688b7-5c41-4337-862e-763cbb2219a7",
+          "text": "Low cortisol",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "33aaad78-294f-4aeb-aa22-69b216c433a6",
+          "text": "Low triiodothyronine",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "582e57a3-a43a-4c8d-a3ce-0334d6991e2a",
+          "text": "High oestrogen",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "59e2acc7-0402-47bb-bba2-daa50038bfba",
+          "text": "Hyperphosphataemia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "7fafc128-3441-4d45-8803-6850d13cbd2c",
+          "text": "Hyperkalaemia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "33aaad78-294f-4aeb-aa22-69b216c433a6",
+        "text": "Low triiodothyronine"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "33aaad78-294f-4aeb-aa22-69b216c433a6",
+          "text": "Low triiodothyronine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Low concentrations of leutenising hormone, follicle stimulating hormone, and oestradiol, Low T3, T4 in low normal range, normal concentrations of thyroid stimulating hormone (low T3 syndrome), mild increase in plasma cortisol, raised growth hormone concentration, severe hypoglycaemia (rare), low leptin (but possibly higher than would be expected for bodyweight), hypercholesterolaemia, raised serum carotene are some of the abnormalities seen in anorexia.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 85,
+      "question_id": "51dbba43-86ac-4fec-8b0b-e113cd233add",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following cluster of personality disorders is most commonly seen in psychiatric outpatient samples?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1098a36a-e9b1-4715-99f1-7235c484cbf9",
+          "text": "Cluster A",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2534d2f6-c03e-46eb-aa96-e41ce2f1b396",
+          "text": "Cluster E",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2b36c80c-c235-4613-be78-a128bb312803",
+          "text": "Cluster D",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "88cc330a-efaa-4d28-8668-ce9208bdc2e7",
+          "text": "Cluster B",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d85420f1-5b9b-4fc1-a73c-2ff7aaa9fdcf",
+          "text": "Cluster C",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "d85420f1-5b9b-4fc1-a73c-2ff7aaa9fdcf",
+        "text": "Cluster C"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "d85420f1-5b9b-4fc1-a73c-2ff7aaa9fdcf",
+          "text": "Cluster C",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In psychiatric OPD samples a distribution of the following pattern is noted: Cluster A = 6% Cluster B = 13% Cluster C = 22% Any PD = 46%.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 86,
+      "question_id": "ccab3be7-5c84-49ce-99e3-b25d41345e9c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Monozygotic concordance rate in anorexia is estimated to be around",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "377965b6-e348-4161-9c9e-6860762f83f0",
+          "text": "15%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "42c1dc5a-67bf-44c7-a62b-16b6a01e6525",
+          "text": "20%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8c115766-d827-4f40-b701-1d6174cab2b9",
+          "text": "55%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "bbd53a40-503a-4252-8981-561f9d3f5a87",
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "cd96dbfd-c20e-4998-93c3-812b6a374300",
+          "text": "35%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "8c115766-d827-4f40-b701-1d6174cab2b9",
+        "text": "55%"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "8c115766-d827-4f40-b701-1d6174cab2b9",
+          "text": "55%",
+          "is_correct": true
+        }
+      ],
+      "explanation": "For anorexia nervosa, monozygotes have 55% concordance and dizygotes have 0 to 5% concordance. For bulimia nervosa, monozygotes have 35% concordance and dizygotes have 30% concordance.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 87,
+      "question_id": "581362da-7b45-48ee-86b5-59d01e855f42",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A patient with mixed personality disorders show predominantly low mood, temper outbursts, dysphoria and recurrent suicidal behaviour. Which of the following could be prescribed based on the symptom profile?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "54c91c11-e97b-4b1f-991d-0683d500d93d",
+          "text": "Antipsychotics",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "596d607a-8ca2-460b-bc7d-2346da57820c",
+          "text": "SSRIs",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "660644a6-1b0d-4e87-a626-b71ac4f8a9d1",
+          "text": "Mood stabilisers",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "669d500d-34ab-49e4-b6fb-d9909aaa6a25",
+          "text": "Tricyclics",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "91a7f62d-6b2f-43c5-8c4e-5a5fc9e45574",
+          "text": "Benzodiazepines",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "596d607a-8ca2-460b-bc7d-2346da57820c",
+        "text": "SSRIs"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "596d607a-8ca2-460b-bc7d-2346da57820c",
+          "text": "SSRIs",
+          "is_correct": true
+        }
+      ],
+      "explanation": "For affective dysregulation symptoms in PD a trial of SSRIs may be useful though there is no evidence base to support this in regular practice.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 88,
+      "question_id": "4ad1e17b-8a15-4b3a-b557-0a502bb3d12c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following are common physical features seen in anorexia nervosa?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2baf11cd-b157-4742-a24e-932779338046",
+          "text": "Bradycardia and hypotension",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "45590ad4-ece3-401f-91f7-683d8477c1ba",
+          "text": "Tachycardia and hypotension",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "bd954d85-be25-4e0f-9420-bd821f1e5ff2",
+          "text": "Normal pulse",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c6c6917a-d044-4ae2-bdbd-377eb6cfb840",
+          "text": "Bradycardia and hypertension",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e8e06cbd-0976-4213-b710-4708c5442bf2",
+          "text": "Tachycardia with hypertension",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "2baf11cd-b157-4742-a24e-932779338046",
+        "text": "Bradycardia and hypotension"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "2baf11cd-b157-4742-a24e-932779338046",
+          "text": "Bradycardia and hypotension",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Cardiac effects from anorexia nervosa include profound bradycardia, hypotension, decreased the size of the cardiac silhouette, and decreased left ventricular mass associated with an abnormal systolic function.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 89,
+      "question_id": "d382b5f7-8fa8-45db-abe0-e0af6d2521c7",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is true concerning the diagnosis of eating disorders?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5720fea8-68e3-45c0-8531-90db326e2fea",
+          "text": "Anorexic patients seek treatment more often than bulimic patients",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "871cb46f-14f9-487b-8919-b5fc13fb4f4f",
+          "text": "Binge episodes are characteristic of anorexia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "99f34a0d-1cc0-41a4-a5e5-91d3aed23c45",
+          "text": "A typical binge can include 1000 -2000 Cal",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "d81dadbc-df12-4952-a118-f4b12a55debd",
+          "text": "Most patients with anorexia have a past history of bulimia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ee1bfba3-2029-4f7f-af04-1214ed1dd7f3",
+          "text": "Anorexia is more prevalent than bulimia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "99f34a0d-1cc0-41a4-a5e5-91d3aed23c45",
+        "text": "A typical binge can include 1000 -2000 Cal"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "99f34a0d-1cc0-41a4-a5e5-91d3aed23c45",
+          "text": "A typical binge can include 1000 -2000 Cal",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Binge is more often seen in bulimia, can include up to 1000 -2000 Cal food. Bulimics seek treatment more than anorexics.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 90,
+      "question_id": "3fecef22-8eed-4df6-80ad-9eb57eb8d7fc",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A patient presents with impulsive nature and anger outbursts that has led to several criminal charges. Which of the following would be an appropriate diagnosis when considering personality disorders?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "12b14c6c-6960-4ce7-8e98-29721b4a24a8",
+          "text": "Dissocial personality disorder",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "82f4e962-a83e-4e21-b533-3d5fa2a0d229",
+          "text": "Emotionally unstable personality disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9e7fc69a-48b8-42ff-93a4-0c78b72536e9",
+          "text": "Narcissistic personality disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "af03cbc5-7fbd-46af-8f94-8e573e33d625",
+          "text": "Avoidant personality disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b19298c3-3df5-4018-9a37-e3066a71559e",
+          "text": "Anankastic personality disorder",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "12b14c6c-6960-4ce7-8e98-29721b4a24a8",
+        "text": "Dissocial personality disorder"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "12b14c6c-6960-4ce7-8e98-29721b4a24a8",
+          "text": "Dissocial personality disorder",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Antisocial personality disorder is also known as dissocial personality disorder. It is associated with lack of regard for the rights and feelings of other people and a high degree of impulsivity.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

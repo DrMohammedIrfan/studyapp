@@ -1,0 +1,3503 @@
+{
+  "chapter_id": 211,
+  "chapter_name": "Schizophrenia & Psychotic disorders 2",
+  "subject_name": "Schizophrenia & Psychotic disorders",
+  "total_questions": 75,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 25496,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "KarXT (xanomeline-trospium), FDA-approved in September 2024 for schizophrenia, represents a mechanistic breakthrough. What is xanomeline's primary target?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 127674,
+          "text": "Dopamine D2 receptor antagonism",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 127675,
+          "text": "Muscarinic M1/M4 receptor agonism",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 127676,
+          "text": "Serotonin 5-HT2A inverse agonism",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 127677,
+          "text": "NMDA receptor positive modulation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 127678,
+          "text": "Histamine H1 receptor blockade",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 127675,
+        "text": "Muscarinic M1/M4 receptor agonism"
+      },
+      "explanation": "Xanomeline is a muscarinic M1/M4 receptor agonist with no significant dopamine D2 affinity — the first approved antipsychotic that bypasses D2 blockade entirely. It activates muscarinic cholinergic circuits in the prefrontal cortex and striatum, reducing glutamate dysregulation and normalising dopamine activity indirectly. Trospium (a peripherally restricted muscarinic antagonist) is combined to prevent xanomeline's peripheral side effects (nausea, hypersalivation, GI symptoms) without crossing the BBB. Phase 3 EMERGENT trials showed significant PANSS improvement vs placebo with no metabolic side effects, no prolactin elevation, and no tardive dyskinesia risk. This validates the muscarinic hypothesis of schizophrenia and opens a new therapeutic class.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": 25497,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Ulotaront (SEP-363856) is a novel antipsychotic candidate that produced significant PANSS improvement in a Phase 2 trial despite having no meaningful affinity for dopamine D2 or serotonin 5-HT2A receptors. Its primary mechanism is:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 127679,
+          "text": "Selective noradrenaline reuptake inhibition",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 127680,
+          "text": "GABA-A receptor positive allosteric modulation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 127681,
+          "text": "Trace amine-associated receptor 1 (TAAR1) agonism",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 127682,
+          "text": "mGluR2/3 receptor agonism",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 127683,
+          "text": "Glycine transporter 1 (GlyT1) inhibition",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 127681,
+        "text": "Trace amine-associated receptor 1 (TAAR1) agonism"
+      },
+      "explanation": "Ulotaront is a TAAR1 (trace amine-associated receptor 1) agonist and 5-HT1A partial agonist. TAAR1 is a Gs/Gq-coupled GPCR expressed in dopaminergic and glutamatergic neurons; its activation inhibits presynaptic dopamine neuron firing and modulates NMDA receptor function, reducing subcortical dopamine hyperactivity without direct D2 blockade. Its Phase 2 trial (DIAMOND, 2019) showed significant PANSS reduction and was the first antipsychotic in 60 years to show efficacy without D2/5-HT2A binding, validating TAAR1 as a therapeutic target. However, Phase 3 trials (EMPOWER) were discontinued in 2023 due to failure to meet primary endpoints — highlighting the challenges of translating Phase 2 results in psychiatry. TAAR1 agonism remains an active target with other compounds in development.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": 25498,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Lumateperone (Caplyta), approved for schizophrenia and bipolar depression, has a unique receptor profile. Which combination best describes its mechanism?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 127684,
+          "text": "Full D2 antagonism with strong H1 blockade",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 127685,
+          "text": "D2 partial agonism with 5-HT1A agonism only",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 127686,
+          "text": "Pre/postsynaptic D2 modulation, SERT inhibition, 5-HT2A antagonism",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 127687,
+          "text": "Exclusive muscarinic M1/M4 agonism",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 127688,
+          "text": "D3-preferential partial agonism",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 127686,
+        "text": "Pre/postsynaptic D2 modulation, SERT inhibition, 5-HT2A antagonism"
+      },
+      "explanation": "Lumateperone has a distinctive tripartite mechanism: (1) Presynaptic D2 agonism (reducing dopamine synthesis/release) and postsynaptic D2 antagonism — with a 60-fold D2 vs D3 selectivity; (2) SERT inhibition (serotonin reuptake blockade at antidepressant-relevant concentrations); (3) 5-HT2A antagonism/inverse agonism. This combination produces antipsychotic effects with rapid, robust improvements in depression (used for bipolar I and II depression). Lumateperone has minimal histamine H1, alpha-1, and muscarinic affinity — explaining its low metabolic, sedation, and EPS burden. Unlike most antipsychotics, it modulates glutamatergic NMDA receptors indirectly via serotonin-glutamate interactions. Its approval for bipolar depression (all phases) distinguishes it from most antipsychotics approved only for bipolar mania.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": 25499,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Cariprazine is distinguished from other partial D2 agonists (aripiprazole, brexpiprazole) by its relatively higher affinity for which receptor, which may explain its particular efficacy for negative symptoms of schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 127689,
+          "text": "5-HT7 receptor",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 127690,
+          "text": "Dopamine D3 receptor",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 127691,
+          "text": "Histamine H3 receptor",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 127692,
+          "text": "Muscarinic M2 receptor",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 127693,
+          "text": "Adenosine A2A receptor",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 127690,
+        "text": "Dopamine D3 receptor"
+      },
+      "explanation": "Cariprazine is a D3-preferential partial agonist — it binds D3 receptors with ~10-fold higher affinity than D2 receptors, unlike aripiprazole (D2 preferential) and brexpiprazole (approximately equal D2/D3). Dopamine D3 receptors are highly expressed in mesolimbic and mesocortical regions (nucleus accumbens, prefrontal cortex) involved in reward, motivation, and cognition. D3 receptor overactivity in schizophrenia has been implicated in negative symptoms and cognitive impairment. The PANSS negative symptom subscale and the Phase 3 CARF trial demonstrated cariprazine's superiority over risperidone specifically for negative symptoms, attributed to its D3 partial agonism in mesocortical circuits. Cariprazine is also approved for bipolar I mania and bipolar depression. Its active metabolite (DCAR) has a half-life of ~1 week, requiring careful dose titration to avoid accumulation.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": 25215,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 22-year-old man is admitted with troublesome voices discussing his sexuality. He also believes they influence his actions and control his thoughts. Which of the following instrument can be used to monitor his symptoms?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 126274,
+          "text": "Schedule for Assessment of Negative symptoms",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 126275,
+          "text": "Brief Psychiatric Rating Scale",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 126276,
+          "text": "Bristol Assessment Scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 126277,
+          "text": "Thought Language Index",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 126278,
+          "text": "General Health Questionnaire",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 126275,
+        "text": "Brief Psychiatric Rating Scale"
+      },
+      "explanation": "BPRS is useful to monitor changes in positive psychotic symptoms.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": 25500,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Pimavanserin (Nuplazid) was the first drug approved specifically for Parkinson's disease psychosis. Unlike other antipsychotics, its mechanism carries minimal motor worsening risk because it:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 127694,
+          "text": "Blocks striatal dopamine D2 receptors selectively",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 127695,
+          "text": "Acts as a 5-HT2A inverse agonist/antagonist with no D2 affinity",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 127696,
+          "text": "Activates D1 receptors in the prefrontal cortex",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 127697,
+          "text": "Inhibits MAO-B reducing dopamine metabolism",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 127698,
+          "text": "Enhances GABA-A activity in the basal ganglia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 127695,
+        "text": "Acts as a 5-HT2A inverse agonist/antagonist with no D2 affinity"
+      },
+      "explanation": "Pimavanserin is a selective 5-HT2A/2C inverse agonist/antagonist with no affinity for dopamine, histamine, muscarinic, or adrenergic receptors. Since it does not block striatal D2 receptors, it does not worsen the dopaminergic motor symptoms of Parkinson's disease — the major limitation of all other antipsychotics in PD psychosis. 5-HT2A receptors modulate cortical and limbic circuits mediating hallucinations and delusions without requiring striatal D2 blockade. FDA approved in 2016 for hallucinations/delusions associated with PD psychosis. It carries a Black Box Warning for increased mortality in elderly patients with dementia-related psychosis (shared with all antipsychotics). Phase 3 trials for Alzheimer's disease psychosis (HARMONY trial) showed delayed relapse. Pimavanserin is also in trials for schizophrenia as an adjunct to D2 blockers.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": 25501,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The muscarinic hypothesis of schizophrenia proposes reduced central cholinergic activity as a pathophysiological mechanism. Post-mortem studies supporting this include:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 127699,
+          "text": "Increased muscarinic M1 receptor density in the DLPFC of schizophrenia patients",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 127700,
+          "text": "Reduced muscarinic M1 and M4 receptors in the PFC, hippocampus and striatum",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 127701,
+          "text": "Elevated choline acetyltransferase in the basal forebrain",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 127702,
+          "text": "No change in muscarinic receptor density in any brain region",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 127703,
+          "text": "Upregulated nicotinic alpha-7 receptors in the thalamus",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 127700,
+        "text": "Reduced muscarinic M1 and M4 receptors in the PFC, hippocampus and striatum"
+      },
+      "explanation": "Post-mortem brain studies in schizophrenia consistently show reduced muscarinic M1 (and M4) receptor density and binding in the prefrontal cortex, hippocampus, caudate, and putamen — identifying a subgroup ('muscarinic receptor-deficit schizophrenia') comprising approximately 25% of patients who may respond preferentially to muscarinic agonist treatments. This hypocholinergic state in limbic and cortical circuits contributes to cognitive dysfunction, negative symptoms, and the dysregulation of mesocortical dopamine and glutamate signalling. The success of KarXT (xanomeline-trospium) in Phase 3 trials, achieving significant improvements in positive and negative symptoms, has provided clinical validation of this hypothesis. The cholinergic-dopaminergic balance in the striatum (where acetylcholine opposes dopamine) is another therapeutic target, as striatal cholinergic interneurons regulate dopamine release.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": 25502,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Amisulpride is a benzamide antipsychotic with a dose-dependent mechanism. At low doses (&lt;300mg/day), its primary pharmacological action is:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 127704,
+          "text": "Postsynaptic D2/D3 antagonism in the striatum",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 127705,
+          "text": "Preferential presynaptic D2/D3 autoreceptor blockade enhancing dopamine",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 127706,
+          "text": "5-HT2A inverse agonism in the cortex",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 127707,
+          "text": "Glutamate AMPA receptor potentiation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 127708,
+          "text": "Histamine H1 blockade causing sedation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 127705,
+        "text": "Preferential presynaptic D2/D3 autoreceptor blockade enhancing dopamine"
+      },
+      "explanation": "Amisulpride is unique in its dose-dependent mechanism: at low doses (50-300mg/day), it preferentially blocks presynaptic D2/D3 autoreceptors on dopaminergic neurons in the mesocortical pathway, disinhibiting dopamine release in the prefrontal cortex — thereby increasing dopaminergic activity and improving negative symptoms and depression. This explains its licensed use at low doses for dysthymia and primary negative symptoms. At higher doses (&gt;300-400mg/day), postsynaptic D2/D3 blockade predominates in the mesolimbic pathway, reducing positive symptoms. Amisulpride has minimal affinity for serotonin, histamine, muscarinic, or adrenergic receptors — accounting for its low sedation, metabolic, and EPS profile (except prolactin elevation, which is high due to D2 blockade in tuberoinfundibular pathway). IV amisulpride (Barhemsys) is also FDA-approved for postoperative nausea/vomiting.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": 25216,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Mr. Y is a 30-year-old man who presented to the A and E after an overdose. He believes that there are cameras spying on his movements. He has stopped going out and no longer socialises with friends. He has been hearing voices discussing his sexuality in an unpleasant way. Which of the following tools would be helpful to assess and monitor his psychopathology?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 126279,
+          "text": "MADRS",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 126280,
+          "text": "PANSS",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 126281,
+          "text": "MMSE",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 126282,
+          "text": "HAS",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 126283,
+          "text": "GHQ",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 126280,
+        "text": "PANSS"
+      },
+      "explanation": "Based on two established psychiatric rating systems, the 30-item PANSS was conceived as an operationalized, drug-sensitive instrument that provides balanced representation of positive and negative symptoms and gauges their relationship to one another and to global psychopathology. It thus constitutes four scales measuring positive and negative syndromes, their differential, and the general severity of illness. (Excerpt retrieved from http://schizophreniabulletin.oxfordjournals.org/content/13/2/261)",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": 25503,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The RELN gene, encoding the extracellular matrix protein reelin which is critical for cortical lamination and synaptic plasticity, shows increased promoter methylation in post-mortem brain studies of which psychiatric condition?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 127709,
+          "text": "Generalised anxiety disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 127710,
+          "text": "Bipolar disorder type II only",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 127711,
+          "text": "Schizophrenia and bipolar disorder",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 127712,
+          "text": "Autism spectrum disorder exclusively",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 127713,
+          "text": "Major depressive disorder",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 127711,
+        "text": "Schizophrenia and bipolar disorder"
+      },
+      "explanation": "Post-mortem brain studies consistently show increased RELN promoter methylation in schizophrenia and bipolar disorder, correlating with reduced reelin mRNA and protein expression in GABAergic interneurons of the prefrontal cortex and hippocampus. Reelin is secreted by Cajal-Retzius cells during development and by cortical GABAergic interneurons in adults. It modulates dendritic spine density, LTP, and synaptic plasticity via ApoE receptor 2 (ApoER2) and VLDLR signalling. Reduced reelin is associated with deficits in GABAergic transmission, particularly involving parvalbumin-positive interneurons, contributing to gamma oscillation abnormalities and cognitive dysfunction. Increased DNMT1 and DNMT3A expression in GABAergic interneurons drives the hypermethylation. This represents a convergence of epigenetic, GABAergic, and glutamatergic hypotheses of psychosis. Treatment with HDAC inhibitors can partially restore reelin expression in animal models.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": 25217,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A patient admitted at an inpatient unit is making steady progress. But his symptoms worsen whenever he comes back from home leave. His mother criticises him of being very reluctant and lazy to get involved in 'normal life'. The next step in management must consider",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 126284,
+          "text": "Behavioural therapy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 126285,
+          "text": "Increase antipsychotic dose",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 126286,
+          "text": "Family therapy",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 126287,
+          "text": "Detention",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 126288,
+          "text": "Antidepressant drugs",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 126286,
+        "text": "Family therapy"
+      },
+      "explanation": "Classical studies by Brown et al., and Vaughn and Leff indicated four times higher relapse rates for patients with schizophrenia who were discharged to parents who were hostile, critical, or overly involved (high Expressed emotions - EE), compared to patients whose parents who did not behave this way. A greater degree of patient adjustment and decreased relapse are associated with higher levels of family tolerance (Spiegel and Wissle, 1986). Family therapy can help reduce the EE.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": 25218,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A patient with acute relapse of schizophrenia was given time off the ward. He came back next day with his mother who was blaming him for his illness, and 'what he has put himself through'. Which of the following actions is likely to be most helpful?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 126289,
+          "text": "Suggest Cognitive Behavioural Therapy for schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 126290,
+          "text": "Stop all home leave immediately",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 126291,
+          "text": "Suggest family therapy",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 126292,
+          "text": "Provide psychodynamic support to the mother",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 126293,
+          "text": "Use Mental Health Act to detain the patient to the ward",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 126291,
+        "text": "Suggest family therapy"
+      },
+      "explanation": "High EE can be reduced by family therapy focussed on addressing communication patterns within the family unit.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": 25219,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 40-year-old man with schizophrenia is treatment resistant. He lives with his family who apparently has high EE. Which of the following statements about EE is true?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 126294,
+          "text": "High EE may be the cause for his schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 126295,
+          "text": "Reducing the duration of face to face time spent with family may reduce the relapse",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 126296,
+          "text": "High EE can cause poor insight",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 126297,
+          "text": "EE can be measured using Camberwell Assessment of Needs (CANE)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 126298,
+          "text": "High EE has no effect on relapse rates in female patients",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 126295,
+        "text": "Reducing the duration of face to face time spent with family may reduce the relapse"
+      },
+      "explanation": "In the majority of the studies, high expressed emotion was predictive of relapse in symptoms of schizophrenia nine months later for both genders. A large amount of face-to-face contact (more than 35 hours per week) with a relative with a high expressed emotion score increased the risk of relapse, but in households with a low expressed emotion score, high levels of contact appeared to be protective (Expressed emotion across cultures | BJPsych Advances, http://apt.rcpsych.org/content/9/5/342 (accessed April 13, 2015).).",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": 25220,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Immigrants carry a higher risk of schizophrenia than the native population in UK. Which of the following is in this regard?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 126299,
+          "text": "Significant social disadvantage in the immigrants may explain the association",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 126300,
+          "text": "Pre-psychotic segregation explains the higher risk",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 126301,
+          "text": "Incidence rates of schizophrenia in Caribbean countries are higher than UK",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 126302,
+          "text": "Psychiatric hospital admission rates are lesser among ethnic minorities",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 126303,
+          "text": "Excess risk is specific for African and Caribbean immigrants",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 126299,
+        "text": "Significant social disadvantage in the immigrants may explain the association"
+      },
+      "explanation": "Though the frequency of most mental illnesses are found to be higher in migrants that the natives, schizophrenia has been studied the most. Conflicting explanations have been offered to explain why migrants have more schizophrenia. Copper has revisited and reappraised the data available and summarised the main findings as below; a.The excess risk is not specific for African-Caribbean immigrants. It is also present among African-born Black immigrants to the UK, and to a lesser extent among immigrants from Asian countries. Hence, any explanation cannot be purely biological and not simply race specific. b.Incidence rates of schizophrenia in Caribbean countries are similar to those found in the indigenous UK population; this excludes country of origin theory which proposes that the immigrants carry such higher incidence rates from where they come from. The rate for schizophrenia in second generation African- Caribbean people born in the UK appears to be higher than in the first generation, which is strongly suggestive of an environmental rather than a genetic effect. c.There is no evidence for selective immigration from the Caribbean as part of a pre-psychotic segregation. According to this theory individuals who are psychosis prone find it hard to survive in the countries of birth and so immigrate to other regions. d.A significant social disadvantage is evident in the immigrant population with a higher risk of schizophrenia. e.The immigrants' pathways to psychiatric care are characterized by long delays in seeking professional help, a lower probability of medical referral, frequent involvement of the police and emergency services and high proportions of compulsory and secure-unit admissions. The long-term outcome tends to be correspondingly unfavorable for immigrants. Hospital admission rates are consistently noted to be higher among ethnic minority population as a whole but variations between groups. In UK, highest rates of hospital admissions were noted among Irish migrants followed by people born in Caribbean. Rate of mental illness among South Asian population is notably lower than UK-born white population. It is unclear if these are effects of migration or social disadvantage or organizational differences in pathways of care. Census of inpatients, 2005 showed that 9% of in-patients were black or mixed black white ethnicity while black patients were 44% more likely to have been sectioned and 50% more likely to have been put in seclusion. Black Caribbean men were 29% more likely to have been subject to control and restraint. It is speculated that an association with the use of substances may be a confounder (Retrieved from http://bjp.rcpsych.org/content/186/5/361).",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": 25221,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Mr. Y has a diagnosis of chronic schizophrenia. He has polyuria, polydipsia and becomes acutely confused. On further investigation, his serum sodium levels are notably low. What will you suspect?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 126304,
+          "text": "Serotonin syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 126305,
+          "text": "Dehydration",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 126306,
+          "text": "Catatonia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 126307,
+          "text": "Neuroleptic malignant syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 126308,
+          "text": "Water intoxication",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 126308,
+        "text": "Water intoxication"
+      },
+      "explanation": " Water intoxication occurs particularly in patients with chronic schizophrenia. The clinical presentation includes polyuria, polydipsia, hyponatraemia, confusion, seizures, cerebral and peripheral edema. Death can occur in extreme cases. The cause is generally unknown.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": 25222,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is not a feature of late onset schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 126309,
+          "text": "Family history of schizophrenia is infrequent when compared to early onset",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 126310,
+          "text": "Less pronounced formal thought disturbances",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 126311,
+          "text": "White matter hyperintensities on MRI brain",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 126312,
+          "text": "Fewer negative symptoms",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 126313,
+          "text": "Prominent hallucinations",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 126311,
+        "text": "White matter hyperintensities on MRI brain"
+      },
+      "explanation": "Late-onset schizophrenia is characterised by a predominance of females, fewer negative symptoms, infrequent formal thought disorder but prominent hallucinations (notably visual). Associations include social isolation, sensory impairment and premorbid paranoid personality traits; family loading for schizophrenia is lower than for early- onset cases (Howard et al., 2000). White matter hyperintensities are not associated with late-onset schizophrenia (Howard 1995; Rivkin 2000) though one contradictory study exists favouring higher frequency of WMH in late-onset schizophrenia (Sachdev 1999).",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": 25223,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 44-year-old man with schizophrenia has intense suspiciousness and persecutory delusions. He tells you that his neighbours want him to prepare a home-made explosive with detonators. Which of the following would be the best response at this point of interview?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 126314,
+          "text": "Perhaps we should ask your neighbours if this is true",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 126315,
+          "text": "Why do you think your neighbours want you to do that?",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 126316,
+          "text": "No, I don't think this sort of thing could happen",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 126317,
+          "text": "If you prepare explosives, we may have to involve the police",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 126318,
+          "text": "It doesn't sound like a good idea to prepare explosives",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 126315,
+        "text": "Why do you think your neighbours want you to do that?"
+      },
+      "explanation": "The main purpose of the interview is to collect clinically useful information that will enable diagnostic process and facilitate management. It is important to maintain a good therapeutic relationship with the patient while pursuing the above goals. Enquiring 'Why do you think your neighbours want you to do that?' serves both these purposes.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": 25224,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "You arrived late to a psychotherapy meeting and the therapist talks about 'Loss of ego boundaries'. Which of the following condition is she most likely referring to?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 126319,
+          "text": "Depression",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 126320,
+          "text": "Schizophrenia",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 126321,
+          "text": "Dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 126322,
+          "text": "Borderline personality disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 126323,
+          "text": "Severe anxiety",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 126320,
+        "text": "Schizophrenia"
+      },
+      "explanation": "Loss of ego boundaries occurs in schizophrenia and other psychotic disorders. It is a feeling of blurring of boundaries of self with the environment; uncertainty and perplexity regarding own identity and meaning of existence",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": 25225,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The double-bind theory in schizophrenia refers to",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 126324,
+          "text": "One parent assumes a dominant and the other a submissive role",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 126325,
+          "text": "Parents downgrading the roles of each other",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 126326,
+          "text": "Giving contradictory messages to a child",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 126327,
+          "text": "",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 126328,
+          "text": "Migration being a precipitant for psychosis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 126326,
+        "text": "Giving contradictory messages to a child"
+      },
+      "explanation": "Gregory Bateson and Donald Jackson formulated the double bind concept. It was used to describe a hypothetical family, in which children receive conflicting parental messages about their behaviour, attitude and feelings. According to Bateson's hypothesis, children withdraw into a psychotic state to escape the unsolvable confusion of the double bind. Ref: Bateson, G., Jackson, D.D., Haley, J. and Weakland, J., 1956. Toward a theory of schizophrenia. Behavioral science, 1(4), pp.251-264.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": 25226,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Sammy Taylor is coming to see you in clinic as an emergency book-in. He is 19 years old and has developed some voice-hearing experiences and bizarre thoughts regarding the MI5. Which of these might be a precipitating factor?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 126329,
+          "text": "Having been adopted at the age of 7 months",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 126330,
+          "text": "Having dropped out of school prematurely at the age of 15",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 126331,
+          "text": "Having a brother who has a diagnosis of schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 126332,
+          "text": "Having lost his adoptive father to a road traffic accident two weeks previously",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 126333,
+          "text": "Having had a traumatic birth",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 126332,
+        "text": "Having lost his adoptive father to a road traffic accident two weeks previously"
+      },
+      "explanation": "The others may be contributing factors, but most are predisposing rather than precipitating. A precipitating factor has a strong temporal link to the onset of the episode of mental illness (e.g. it occurs just before).",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": 24431,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 15-year-old boy has not been to his school for last few weeks as he has been disturbed by derogatory auditory hallucinations. He has been hearing voices in the third person for two months and is receiving messages from the television. The most likely treatment option is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122378,
+          "text": "Parental Training",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122379,
+          "text": "Family Therapy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122380,
+          "text": "Fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122381,
+          "text": "Cognitive Behavioural Therapy for anxiety",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122382,
+          "text": "Low dose risperidone",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 122382,
+        "text": "Low dose risperidone"
+      },
+      "explanation": "The diagnosis is early onset schizophrenia and treatment should be one of the second-generation antipsychotics like Risperidone (low dose).",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": 25227,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following statements is true about the diagnosis of delusional disorder?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 126334,
+          "text": "Work and social functioning are minimally impaired aside from ramifications of the delusions",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 126335,
+          "text": "ICD-10 requires the symptoms to be present for 6 months",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 126336,
+          "text": "ICD-10 code for delusional disorders is F21",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 126337,
+          "text": "Delusional disorder is associated with mood symptoms",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 126338,
+          "text": "ICD-10 classifies delusional disorder under neurotic disorders",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 126334,
+        "text": "Work and social functioning are minimally impaired aside from ramifications of the delusions"
+      },
+      "explanation": "Delusional disorder (ICD-10 code F22) is a disorder characterized by one or more non-bizarre delusions lasting at least one month. The disorder does not impair work and social functioning outside of the ramifications of the delusion. Delusional disorder is classified under 'schizophrenia, schizotypal, delusional and other non-mood psychotic disorders' and is therefore not associated with mood symptoms. Manifestations of delusional disorder include Erotomania and Othello syndrome (delusional jealousy).",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": 24432,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one of the following has the worst prognosis among the subtypes of schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122383,
+          "text": "Residual schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122384,
+          "text": "Catatonic schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122385,
+          "text": "Post schizophrenic depression",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122386,
+          "text": "Hebephrenic schizophrenia",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 122387,
+          "text": "Paranoid schizophrenia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 122386,
+        "text": "Hebephrenic schizophrenia"
+      },
+      "explanation": "The onset of hebephrenic schizophrenia is insidious, usually in the early second decade. The course is often progressively downhill. There is a rapid development of negative symptoms and disorganised behaviour. Severe deterioration without remission occurs over time. A recovery from the first episode rarely occurs in typical cases.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": 24433,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A patient with schizophrenia experienced his most recent relapse 8 months ago. He currently has low mood, anhedonia, flat affect, apathy and suspiciousness over religious people. For the last 2 weeks he has not eaten well, currently avoids eye contact and appears tearful. Which of the following diagnosis is appropriate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122388,
+          "text": "Simple schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122389,
+          "text": "Residual schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122390,
+          "text": "Mixed bipolar episode",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122391,
+          "text": "Post schizophrenic depression",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 122392,
+          "text": "Paranoid schizophrenia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 122391,
+        "text": "Post schizophrenic depression"
+      },
+      "explanation": "To diagnose post-schizophrenic depression (ICD10), some schizophrenic symptoms (mostly negative) must be present though not dominating the picture. The most recent episode of relapse must not be more than 12 months ago. If no current schizophrenic symptoms at all the depression can be diagnosed. If florid schizophrenia symptoms with minor affective disturbances noted, then relapse must be suspected",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": 24434,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 32-year-old woman was brought by the Police to the A and E Department after she was found attempting to gain access to a hotel room where a popular football player was staying. She stated that the football player invited her into his hotel room and also claimed that they were secretly married. The football player denied this but admitted that the woman had sent him hundreds of emails over the last year. The woman had not been in trouble with the law so far and was functioning well in the community. Which of the following is the most likely diagnosis?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122393,
+          "text": "De-clerambault syndrome",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 122394,
+          "text": "Othello syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122395,
+          "text": "Fregoli syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122396,
+          "text": "Ekbom syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122397,
+          "text": "Capgras syndrome",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 122393,
+        "text": "De-clerambault syndrome"
+      },
+      "explanation": "De-Clerambault syndrome is classified under persistent delusional disorders. It occurs most often in women, and there is an erotic conviction that a person with higher status is secretly in love with the patient. The patients make efforts to contact this person, and some cases are associated with dangerous or assaultive behaviour.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": 24435,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The term simple schizophrenia was added to the categories of existing schizophrenias by",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122398,
+          "text": "Bleuler",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 122399,
+          "text": "Hubbard",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122400,
+          "text": "Hecker",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122401,
+          "text": "Angst",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122402,
+          "text": "Liddle",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 122398,
+        "text": "Bleuler"
+      },
+      "explanation": "The diagnostic category called simple schizophrenia has a long history; it was one of the traditional schizophrenic subtypes identified by Bleuler and was later accepted by Kraepelin. The term was removed from the official American nosology but has been retained in the ICD system.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": 24436,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following delusions is least likely to be associated with a delusional disorder?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122403,
+          "text": "Erotomanic delusions",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122404,
+          "text": "Delusions of jealousy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122405,
+          "text": "Hypochondriacal delusions",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122406,
+          "text": "Bizarre delusions",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 122407,
+          "text": "Persecutory delusions",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 122406,
+        "text": "Bizarre delusions"
+      },
+      "explanation": "Delusional disorders, unlike schizophrenia, are characterized by non-bizarre delusions. Note that DSM-V has removed this distinction now as 'bizarreness' is difficult to define clinically.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": 24437,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "One of your patients has a co-morbid paranoid personality disorder with a persistent delusional disorder. Identify the correct statement regarding persistent delusional disorders.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122408,
+          "text": "Depressive episodes invalidate the diagnosis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122409,
+          "text": "Delusional disorders are associated with blunted affect.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122410,
+          "text": "The delusions must be present for a period of at least 3 months",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 122411,
+          "text": "Passivity phenomenon is an important feature",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122412,
+          "text": "Persistent hallucinations are notable in most but not all patients",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 122410,
+        "text": "The delusions must be present for a period of at least 3 months"
+      },
+      "explanation": "The persistent delusional disorders are characterized by chronic, often life-long, non-bizarre delusions often arising insidiously in midlife or later. Transient auditory hallucinations may occur but clear and persistent auditory hallucinations (voices), schizophreniform symptoms such as delusions of control and blunting of affect, or the presence of an organic brain disease are all incompatible with this diagnosis. There is no necessity to have an identifiable stressor. Symptoms should have been present for at least 1 month (DSM- IV). ICD-10 specifies at least 3 months for a diagnosis of delusional disorder.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": 24438,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is a poor prognostic factor for schizophrenia in terms of relapse/recovery from the illness?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122413,
+          "text": "Late onset",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122414,
+          "text": "Higher premorbid functioning",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122415,
+          "text": "Presence of affective symptoms",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122416,
+          "text": "Male gender",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 122417,
+          "text": "Acute onset",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 122416,
+        "text": "Male gender"
+      },
+      "explanation": "Males have distinctly poorer prognosis than females with schizophrenia. This is thought to be linked to the early age of onset in males.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": 24439,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Mr.Z was admitted to a psychiatric ward 7 days ago. On mental state examination, he appeared thought disordered and also had mood-incongruent delusions and hallucinations. His mood symptoms were less marked at this stage. What is the most appropriate diagnosis?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122418,
+          "text": "Schizophrenia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 122419,
+          "text": "Secondary Mania",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122420,
+          "text": "Bi Polar disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122421,
+          "text": "Classification",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 122418,
+        "text": "Schizophrenia"
+      },
+      "explanation": "In schizophrenia, thought and perceptual disorders are more prominent while mood symptoms are less marked in the initial stages. Delusions and hallucinations are stable. Mood incongruent hallucinations and behaviour are the norm. The patient is incapable of behaving fully consistent with their delusional ideas.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": 24440,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The diagnosis of induced delusional disorder is most commonly found in which of the following groups?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122422,
+          "text": "Family blood relations",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122423,
+          "text": "Couple relationships",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 122424,
+          "text": "Children and adolescence",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122425,
+          "text": "Groups of men rather than women",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122426,
+          "text": "Groups of women rather than men",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 122423,
+        "text": "Couple relationships"
+      },
+      "explanation": "Induced delusional disorder is more common in a couple but is occasionally seen in groups. This is a rare delusional disorder characterised by sharing of delusions between usually 2 or occasionally more persons who usually have closely knit emotional bonds. Only one person has genuine delusions due to underlying psychiatric disorder, most often schizophrenia or delusional disorder. On separation, the dependent individual may give up his or her delusions and the patient with the genuine delusions should be treated appropriately.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": 24441,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 40-year-old patient with a history of long-standing problems with hearing voices and feeling under threat from the government now presents with waxy flexibility and resistance to all instructions. He repeats whatever is said during the interview in a stilted voice but does not speak spontaneously. The most likely diagnosis is which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122427,
+          "text": "malingering",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122428,
+          "text": "drug-induced psychosis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122429,
+          "text": "hebephrenic schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122430,
+          "text": "catatonic schizophrenia",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 122431,
+          "text": "elective mutism",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 122430,
+        "text": "catatonic schizophrenia"
+      },
+      "explanation": "Catatonic schizophrenia is dominated by prominent psychomotor disturbances that may alternate between extremes such as hyperkinesis and stupor, or automatic obedience and negativism. Constrained attitudes and postures may be maintained for long periods. Episodes of violent excitement may be a striking feature 25/59 of the condition. The catatonic phenomena may be combined with a dream-like (oneiroid) state with vivid Classification scenic hallucinations (ICD-10)",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": 24442,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the minimum symptom duration required to make an ICD-10 diagnosis of schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122432,
+          "text": "6 months",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122433,
+          "text": "3 months",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122434,
+          "text": "Classification",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122435,
+          "text": "1 month",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 122435,
+        "text": "1 month"
+      },
+      "explanation": "For an ICD 10 diagnosis symptom duration of at least 1 month is generally required while with DSM, duration of at least 6 months is needed. If the duration is less than one month then a diagnosis of acute schizophrenia-like psychotic disorder should be made.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": 24443,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Dream-like (oneiroid) states with visual hallucinations are features of which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122436,
+          "text": "Residual schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122437,
+          "text": "Paranoid schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122438,
+          "text": "Catatonic schizophrenia",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 122439,
+          "text": "Hebephrenic schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122440,
+          "text": "Post schizophrenic depression",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 122438,
+        "text": "Catatonic schizophrenia"
+      },
+      "explanation": "Catatonic schizophrenia is an uncommon subtype which is characterised by psychomotor symptoms ranging from violent excitement through posturing, negativism, waxy flexibility, perseveration to stupor. It is characterised by marked disturbance of motor behaviour and can present in three clinical forms; (1) excited catatonia (2) stuporus catatonia and (3) catatonia alternating between excitement and stupor. Oneiroid states are also reported.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": 24444,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one of the following symptoms is most frequently noted in schizophrenic patients?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122441,
+          "text": "Auditory hallucinations",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122442,
+          "text": "Ideas of reference",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122443,
+          "text": "Suspiciousness",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122444,
+          "text": "Flatness of affect",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122445,
+          "text": "Lack of insight",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 122445,
+        "text": "Lack of insight"
+      },
+      "explanation": "The International Pilot Study of Schizophrenia survey determined the commonest symptoms exhibited by 306 schizophrenic patients in 9 countries as follows: Lack of insight = 97%; Auditory hallucinations - 74%; Ideas of reference - 70%.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": 24445,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which uncommon subtype of schizophrenia is characterised by an insidious development of negative symptoms without evidence of positive symptoms?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122446,
+          "text": "Hebephrenic schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122447,
+          "text": "Catatonic schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122448,
+          "text": "Residual Schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122449,
+          "text": "Paranoid schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122450,
+          "text": "Simple schizophrenia",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 122450,
+        "text": "Simple schizophrenia"
+      },
+      "explanation": "Simple schizophrenia is characterised by an early onset (usually in the second decade), very insidious and progressive course, presence of characteristic negative symptoms like marked social withdrawal, loss of initiative and drive and shallow emotional response. People with this condition drift down the social ladder quickly, living shabbily and wandering aimlessly. Delusions and hallucinations are usually absent; if present, they are short lasting and poorly systematised. The prognosis is usually very poor.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": 24446,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The term schizophrenia was coined by",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122451,
+          "text": "Kahlbaum",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122452,
+          "text": "Freud",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122453,
+          "text": "Kraeplin",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122454,
+          "text": "Jung",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122455,
+          "text": "Bleuler",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 122455,
+        "text": "Bleuler"
+      },
+      "explanation": "Bleuler coined the term schizophrenia in 1911.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": 24447,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following disorders is believed to represent a point on a continuum of 'unitary psychosis' lying quantitatively between schizophrenic and mood symptoms?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122456,
+          "text": "Organic mood disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122457,
+          "text": "Schizoaffective disorder",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 122458,
+          "text": "Classification",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122459,
+          "text": "Bipolar affective disorder",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 122457,
+        "text": "Schizoaffective disorder"
+      },
+      "explanation": "In schizoaffective disorder, the symptoms of affective disorder and schizophrenia are present in approximately equal proportion. Both schizophrenic and affective symptoms are present simultaneously present and are equally prominent. The aetiology is assumed to be intermediate to that of schizophrenia and affective disorder. The depressive symptoms are more likely to signal a chronic course compared to manic presentations.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": 24448,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A patient suffers from florid racing of thoughts, decreased sleep, high energy levels and believes aliens are putting thoughts into his brain. He also believes his nail bed is made soft by 'Bull-bull bird'. His history suggests that he always had affective and psychotic disturbances occurring simultaneously. Which of the following chapters will his diagnosis fall under in ICD?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122460,
+          "text": "F00 organic",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122461,
+          "text": "F20 schizophrenia",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 122462,
+          "text": "F30 mood disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122463,
+          "text": "Not coded",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122464,
+          "text": "F40 neurosis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 122461,
+        "text": "F20 schizophrenia"
+      },
+      "explanation": "Schizoaffective disorder is placed with F20 not 30. Both schizophrenic and mood symptoms are seen simultaneously.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": 24449,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one of the following can be a discriminating symptom while making a clinical diagnosis?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122465,
+          "text": "Memory problems",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122466,
+          "text": "Poor concentration",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122467,
+          "text": "Thought withdrawal",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 122468,
+          "text": "Panic attacks",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122469,
+          "text": "Anhedonia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 122467,
+        "text": "Thought withdrawal"
+      },
+      "explanation": "Thought withdrawal is a first rank symptom for a diagnosis of schizophrenia.This is considered to be a discriminating symptom while making a clinical diagnosis.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": 24450,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Mr.X is a 27-year-old gentleman with a long standing diagnosis of schizophrenic illness. He has both positive and negative symptoms of schizophrenia. Which among the following is classified as a negative symptom of schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122470,
+          "text": "Hallucinations",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122471,
+          "text": "Bizarre behaviour",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122472,
+          "text": "Affective flattening",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 122473,
+          "text": "Delusions",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122474,
+          "text": "Formal thought disorder",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 122472,
+        "text": "Affective flattening"
+      },
+      "explanation": "Schizophrenia is characterised by positive symptoms including delusions, hallucinations, formal thought disorder, bizarre behaviour and inappropriate affect. The negative symptoms include poverty of speech (alogia), affective flattening/blunting, avolition, apathy, anhedonia, asociality and attentional impairment. The negative symptoms become more prominent as the illness becomes chronic.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": 24451,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In post schizophrenic depression the most recent episode of relapse should be within the last",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122475,
+          "text": "12 months",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 122476,
+          "text": "3 months",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122477,
+          "text": "Classification",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122478,
+          "text": "24 months",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 122475,
+        "text": "12 months"
+      },
+      "explanation": "Some schizophrenic patients develop depressive features within 12 months of an acute episode of schizophrenia. To make a diagnosis of post-schizophrenia depression, the most recent episode of relapse must not have been more than 12 months ago. If no current schizophrenic symptoms at all then the depression can be diagnosed. If florid schizophrenia symptoms with minor affective disturbances are noted, then the possibility of relapse must be suspected.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": 24452,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following subtype of schizophrenia is diagnosed when a psychotic episode is followed by minimal or reduced symptoms present for at least a year?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122479,
+          "text": "Paranoid schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122480,
+          "text": "Residual schizophrenia",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 122481,
+          "text": "Post schizophrenic depression",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122482,
+          "text": "Catatonic schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122483,
+          "text": "Hebephrenic schizophrenia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 122480,
+        "text": "Residual schizophrenia"
+      },
+      "explanation": "According to the ICD 10 diagnosis residual schizophrenia is characterised by the following features in additional to the general guidelines of schizophrenia which includes prominent negative schizophrenic symptoms, evidence in the past of at least one clear-cut psychotic episode meeting the diagnostic criteria 45/59 for schizophrenia, a period of at least one year during which the intensity and frequency of florid symptoms Classification such as delusions and hallucinations have been minimal or substantially reduced and absence of organic brain disease or disorder.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 44,
+      "question_id": 24453,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Mr.X is a 29-year-old gentleman who has a 6 month history of persecutory delusions about being spied on at home by his neighbours. There is no evidence of functional impairment. There is no history of past psychiatric illness or substance misuse. His most likely diagnosis is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122484,
+          "text": "Paranoid personality disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122485,
+          "text": "Simple schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122486,
+          "text": "Schizophrenic form disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122487,
+          "text": "Persistent delusional disorder",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 122488,
+          "text": "Paranoid schizophrenia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 122487,
+        "text": "Persistent delusional disorder"
+      },
+      "explanation": "Persistent delusional disorder is a category in ICD 10 that includes all disorders in which persistent delusions are the prominent and most important clinical features and delusions must be present for at least 3 months. It includes delusions of persecution, delusions of grandeur, delusions of jealousy, somatic delusions or other non- bizarre delusions. There should be a clear absence of significant or persistent 48/59 hallucination and absence of organic mental disorders, schizophrenia and mood disorders. Very often, the Classification individuals carry on near normal and social and occupational life without arousing suspicion regarding the delusional disorder.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 45,
+      "question_id": 24454,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The term schizoaffective psychosis was coined by",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122489,
+          "text": "Kretschmer",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122490,
+          "text": "Greisinger",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122491,
+          "text": "Kraeplin",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122492,
+          "text": "Kasanin",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 122493,
+          "text": "Kanner",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 122492,
+        "text": "Kasanin"
+      },
+      "explanation": "The term schizoaffective psychosis was introduced by the Russian-born American psychiatrist Jacob Kasanin in 1933. The earlier concepts of schizoaffective disorder regarded this diagnosis as a good prognosis schizophrenia, with psychoanalytic explanations.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 46,
+      "question_id": 24455,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is true regarding persistent delusional disorder according to ICD 10 diagnostic criteria?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122494,
+          "text": "No hallucinations must be present",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122495,
+          "text": "Only single theme of delusion must be present.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122496,
+          "text": "More than 3 months duration of delusions",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 122497,
+          "text": "Delusions incongruent to mood",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122498,
+          "text": "Preceding stressor should be identifiable",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 122496,
+        "text": "More than 3 months duration of delusions"
+      },
+      "explanation": "The persistence in persistent delusional disorder is defined as a minimum period of 3 months.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 47,
+      "question_id": 24456,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Marked out of 1.00 Which one among the following symptoms is not classified under Schneiderian first rank symptoms of Classification schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122499,
+          "text": "Thought insertion",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122500,
+          "text": "Delusional perception",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122501,
+          "text": "Waxy flexibility",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 122502,
+          "text": "Third person singular hallucinations",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122503,
+          "text": "Thought broadcasting",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 122501,
+        "text": "Waxy flexibility"
+      },
+      "explanation": "Waxy flexibility is classified under Catatonia. Here parts of the patients' body can be placed in positions that will be maintained for long periods of time even if very uncomfortable and the patient is flexible like a wax.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 48,
+      "question_id": 24457,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is true concerning head injury and schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122504,
+          "text": "Genetic predisposition to schizophrenia has no influence on vulnerability for psychosis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122505,
+          "text": "after head injury",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122506,
+          "text": "Head injury increases risk of non-affective psychosis more than affective psychosis",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 122507,
+          "text": "Psychosis related to head injury is usually acute in onset",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122508,
+          "text": "Head injury increases likelihood of developing schizophrenia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 122506,
+        "text": "Head injury increases risk of non-affective psychosis more than affective psychosis"
+      },
+      "explanation": "Head injury, especially in teens, increases the risk of nonaffective psychosis including schizophrenia.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 49,
+      "question_id": 24458,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Crowding of thoughts occurs mainly in",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122509,
+          "text": "Schizophrenia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 122510,
+          "text": "Dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122511,
+          "text": "Mania",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122512,
+          "text": "Learning disability",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122513,
+          "text": "Depression",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 122509,
+        "text": "Schizophrenia"
+      },
+      "explanation": "Crowding of thought occurs in schizophrenia. Here the patient describes his thoughts as being passively concentrated and compressed in his head. The associations are experienced as being excessive in amount, too fast, inexplicable and outside the person's control. Experientially, this is different from a manic flight of ideas.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 50,
+      "question_id": 24459,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "My thoughts leave my head in a type of mental ticker-tape. Everyone around me has only to pass the tape through their mind, and they know my thoughts.' This patient is describing",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122514,
+          "text": "Thought broadcast",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 122515,
+          "text": "Thought withdrawal",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122516,
+          "text": "Thought echo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122517,
+          "text": "Thought blocking",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122518,
+          "text": "Thought insertion",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 122514,
+        "text": "Thought broadcast"
+      },
+      "explanation": "This is the classical feature of thought broadcast: everyone comes to know what we think, as and when we think. [Excerpt from TABLE 1. Examples of positive symptoms of schizophrenia. (n.d.). Retrieved from http://www.nature.com/nrn/journal/v10/n1/fig_tab/nrn2536_T1.html]",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 51,
+      "question_id": 24460,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is a thought disorder that predicts relapse in schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122519,
+          "text": "Circumstantiality",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122520,
+          "text": "Tangentiality",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122521,
+          "text": "None of the listed",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 122522,
+          "text": "Vorbeireden",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122523,
+          "text": "Concrete thinking",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 122521,
+        "text": "None of the listed"
+      },
+      "explanation": "Descriptive Psychopathology FTDs seen in acute state have no prognostic value in predicting relapses",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 52,
+      "question_id": 24461,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A voice in a flat monotone describes everything the patient is doing: 'She is peeling potatoes, she has now got hold of the peeler, she does not want that potato...' This is best described as",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122524,
+          "text": "Running commentary",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 122525,
+          "text": "Second person hallucinations",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122526,
+          "text": "Imperative hallucinations",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122527,
+          "text": "First person hallucinations",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122528,
+          "text": "Autochthonous perceptions",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 122524,
+        "text": "Running commentary"
+      },
+      "explanation": "Running commentary hallucinations are a part of Schneider's first rank symptoms of schizophrenia. Mellor, C. S. First rank symptoms of schizophrenia. Br. J. Psychiatry 117, 15-23 (1970).",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 53,
+      "question_id": 24462,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is NOT a first rank symptom of schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122529,
+          "text": "Voices giving repeated feedback as and when the patient does an act",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122530,
+          "text": "Voices commanding the patient",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 122531,
+          "text": "Voices discussing among themselves",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122532,
+          "text": "Voices echoing patient's own thoughts",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122533,
+          "text": "Voices giving commentary on the patient",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 122530,
+        "text": "Voices commanding the patient"
+      },
+      "explanation": "Voices sometimes give instructions to a patient, who may or may not act upon them; these are termed 'imperative' or 'command hallucinations' and are not a FRS.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 54,
+      "question_id": 24463,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 35 year old man in your inpatient unit keeps his ears blocked with cotton and tape. He is disturbed by two persons discussing between themselves about every movement that he makes. They also discuss his emotions and plans. The most likely description is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122534,
+          "text": "Referential delusions",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122535,
+          "text": "2nd person hallucinations",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122536,
+          "text": "3rd person hallucinations",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 122537,
+          "text": "Thought broadcast",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122538,
+          "text": "1st person hallucinations",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 122536,
+        "text": "3rd person hallucinations"
+      },
+      "explanation": "Third person hallucinations are auditory hallucinations in which patients hear voices talking about themselves, referring to them in the third person, for example 'he is an evil person'. This type of auditory hallucination is particularly associated with schizophrenia, but can occur in affective disorders.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 55,
+      "question_id": 24464,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is not a catatonic sign?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122539,
+          "text": "Catalepsy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122540,
+          "text": "Posturing",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122541,
+          "text": "Negativism",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122542,
+          "text": "Ambivalence",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 122543,
+          "text": "Ambitendence",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 122542,
+        "text": "Ambivalence"
+      },
+      "explanation": "Ambivalence is an inability to make decisions; it is not a catatonic sign on its own unless it manifests as ambitendence.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 56,
+      "question_id": 24465,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one among the following is not a motor symptom of schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122544,
+          "text": "Cataplexy",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 122545,
+          "text": "Psychological pillow",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122546,
+          "text": "Negativism",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122547,
+          "text": "Ambitendency",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122548,
+          "text": "Catalepsy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 122544,
+        "text": "Cataplexy"
+      },
+      "explanation": "Recognised motor symptoms of schizophrenia include catatonia, catalepsy, negativism, ambitendency, psychological pillow, mannerism, stereotypy, echopraxia, mitmachen, mitgehen and automatic obedience.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 57,
+      "question_id": 24466,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "It is not me who is unhappy, but they are projecting unhappiness into my brain. They project upon me laughter for no reason.' This is called",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122549,
+          "text": "Made impulse",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122550,
+          "text": "Made act",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122551,
+          "text": "Blunted affect",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122552,
+          "text": "Somatic passivity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122553,
+          "text": "Made affect",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 122553,
+        "text": "Made affect"
+      },
+      "explanation": "This is a passivity symptom described along with other FRS. (Excerpt from TABLE 1. Examples of positive symptoms of schizophrenia, http://www.nature.com/nrn/journal/v10/n1/fig_tab/nrn2536_T1.html (accessed April 11, 2015).)",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 58,
+      "question_id": 24467,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The thoughts of Elvis come into my mind. He treats my mind like a screen and flashes his thoughts on to it like you flash a picture. This patient is experiencing",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122554,
+          "text": "Thought blocking",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122555,
+          "text": "Thought insertion",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 122556,
+          "text": "Thought broadcast",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122557,
+          "text": "Obsessions",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122558,
+          "text": "Thought withdrawal",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 122555,
+        "text": "Thought insertion"
+      },
+      "explanation": "This refers to the phenomenon of insertion of thought; the important feature is the experience of the thought belonging to someone else being placed in one's own stream of thoughts.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 59,
+      "question_id": 24468,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one of the following statements about first rank symptoms of schizophrenia is NOT true?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122559,
+          "text": "They carry prognostic significance",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 122560,
+          "text": "They are also seen in Organic Psychosis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122561,
+          "text": "These are a group of symptoms which are useful in the diagnosis of schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122562,
+          "text": "They are also seen in affective psychoses",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122563,
+          "text": "They are neither pathognomonic nor specific to schizophrenia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 122559,
+        "text": "They carry prognostic significance"
+      },
+      "explanation": "Presence or absence of FRS in schizophrenia does not add any prognostic information to a presentation. We cannot say that someone has a more severe form of schizophrenia if they have a high number of FRS.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 60,
+      "question_id": 24469,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one among the following is not a first rank symptom of schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122564,
+          "text": "Thought insertion",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122565,
+          "text": "Thought withdrawal",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122566,
+          "text": "Thought broadcasting",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122567,
+          "text": "Delusional perception",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122568,
+          "text": "Thought Block",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 122568,
+        "text": "Thought Block"
+      },
+      "explanation": "Thought blocking is not described along with other first-rank symptoms. The three thought phenomena included with FRS are thought insertion, withdrawal and broadcast.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 61,
+      "question_id": 24470,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 66 yr old patient diagnosed with schizophrenia is observed to have rigidity at rest but carries out voluntary movements normally. Which of the following is true?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122569,
+          "text": "He has extrapyramidal rigidity from antipsychotics",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122570,
+          "text": "He is a malingerer",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122571,
+          "text": "He has spasticity due to cerebrovascular pathology",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122572,
+          "text": "He does not have catatonia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122573,
+          "text": "He is exhibiting catatonia",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 122573,
+        "text": "He is exhibiting catatonia"
+      },
+      "explanation": "Increased resting muscle tone that comes down during voluntary action is characteristic of catatonia.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 62,
+      "question_id": 24471,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 35-year-old lady in your inpatient unit covers her head with a veil. She claims that other people can come to know what she thinks. The most likely description is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122574,
+          "text": "Thought insertion",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122575,
+          "text": "Thought broadcast",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 122576,
+          "text": "Thought withdrawal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122577,
+          "text": "Thought blocking",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122578,
+          "text": "Obsessions",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 122575,
+        "text": "Thought broadcast"
+      },
+      "explanation": "Patients may complain that their thoughts are no longer private but are accessible to others. This is associated with thought broadcasting or thought diffusion (also a first-rank symptom) and is best classified as a disorder of thought rather than a hallucinatory experience, since there is no necessary implication that thoughts must first be heard.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 63,
+      "question_id": 24472,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one of the following is not a negative symptom of schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122579,
+          "text": "Anhedonia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122580,
+          "text": "Attentional impairment",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122581,
+          "text": "Affective flattening or blunting",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122582,
+          "text": "Alexithymia",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 122583,
+          "text": "Avolition",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 122582,
+        "text": "Alexithymia"
+      },
+      "explanation": "The prominent negative symptoms include affective flattening or blunting, attentional impairment, avolitionapathy (lack of initiative), anhedonia, asociality, alogia (lack of speech output).",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 64,
+      "question_id": 24473,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Schnauzkrampf is associated with",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122584,
+          "text": "Dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122585,
+          "text": "Schizophrenia",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 122586,
+          "text": "Bipolar disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122587,
+          "text": "Depression",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122588,
+          "text": "None of the above",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 122585,
+        "text": "Schizophrenia"
+      },
+      "explanation": "Schnauzkrampf: A characteristic facial expression in which the nose and lips are drawn together.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 65,
+      "question_id": 24474,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following factors predict a high persistence of delusional ideas?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122589,
+          "text": "Younger patients",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122590,
+          "text": "Having a diagnosis of schizophrenia",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 122591,
+          "text": "Married patients",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122592,
+          "text": "Having a delusion of grandiosity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122593,
+          "text": "Having single primary delusion",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 122590,
+        "text": "Having a diagnosis of schizophrenia"
+      },
+      "explanation": "A diagnosis of schizophrenia is the best predictor of persistence of delusional beliefs.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 66,
+      "question_id": 24475,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is true about first rank symptoms of schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122594,
+          "text": "They are essential for diagnosing schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122595,
+          "text": "They represent disturbance of ego-boundary",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 122596,
+          "text": "They are not seen in other psychiatric disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122597,
+          "text": "They are specific for schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122598,
+          "text": "They emphasize on content rather than form",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 122595,
+        "text": "They represent disturbance of ego-boundary"
+      },
+      "explanation": "The original psychoanalytic interpretation of FRS is that the boundary between the ego and the surrounding world breaks down, leading to thought and volition being alienated.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 67,
+      "question_id": 24476,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one of the following is a type of catatonic phenomenon?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122599,
+          "text": "Descriptive Psychopathology",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122600,
+          "text": "Aphonia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122601,
+          "text": "Waxy flexibility",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 122602,
+          "text": "Dyskinesia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 122601,
+        "text": "Waxy flexibility"
+      },
+      "explanation": "Except waxy flexibility, the other terms described in the question are neurological conditions.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 68,
+      "question_id": 24477,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one of the following statements about delusional mood is incorrect?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122603,
+          "text": "Delusional mood is same as delusional atmosphere.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122604,
+          "text": "The patient feels profoundly apprehensive and uncomfortable",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122605,
+          "text": "Delusional mood is often followed by a fully formed delusion",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122606,
+          "text": "Delusional mood is characteristically associated with perplexity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122607,
+          "text": "Delusional mood is a first rank symptom of schizophrenia",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 122607,
+        "text": "Delusional mood is a first rank symptom of schizophrenia"
+      },
+      "explanation": "Delusional mood is a primary delusional state, but not a FRS.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 69,
+      "question_id": 24478,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one of the following is not true about Folie a Deux?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122608,
+          "text": "The person with the primary psychosis is usually the active member.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122609,
+          "text": "In folie, a deux the associate usually experiences a primary delusion",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 122610,
+          "text": "The associate is usually in some way disadvantaged and dependent",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122611,
+          "text": "The commonest relationship among sufferers is that of twin sisters.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122612,
+          "text": "The delusions are usually persecutory in nature.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 122609,
+        "text": "In folie, a deux the associate usually experiences a primary delusion"
+      },
+      "explanation": "Folie a deux is a term derived from French words meaning 'madness shared by two'. An individual develops a delusion similar to another individual who already has an established delusion; usually the two individuals have a close relationship (often sisters). In DSM-5, this is termed as Shared Psychotic Disorder. Note: Folie a trios - madness shared by three. Folie a quatre - madness shared by four. Folie a famille madness shared by the family. Folie a plusieurs - madness shared by many.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 70,
+      "question_id": 24479,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Auditory hallucinations with clear consciousness are least likely to be due to",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122613,
+          "text": "Temporal lobe epilepsy",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 122614,
+          "text": "Alzheimer's disease.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122615,
+          "text": "Cocaine abuse",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122616,
+          "text": "Alcohol abuse",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122617,
+          "text": "Schizophrenia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 122613,
+        "text": "Temporal lobe epilepsy"
+      },
+      "explanation": "Alcoholic hallucinosis, any functional psychiatric disorder, and early dementia can cause auditory hallucinations with clear consciousness.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 71,
+      "question_id": 24480,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In which of the following forms does morbid jealousy NOT occur usually?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122618,
+          "text": "In dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122619,
+          "text": "As misidentification syndrome",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 122620,
+          "text": "In depression",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122621,
+          "text": "As delusion",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122622,
+          "text": "As an overvalued idea",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 122619,
+        "text": "As misidentification syndrome"
+      },
+      "explanation": "The term 'delusion of jealousy' is a misnomer as patients with morbid jealousy tend to have delusions of infidelity, rather than delusions of jealousy (Munro, 1999). Delusions of infidelity may especially occur in schizophrenia and alcohol dependency syndrome. It is not a misidentification syndrome.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 72,
+      "question_id": 24481,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to Jaspers which of the following is true about primary delusions?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122623,
+          "text": "They occur before other symptoms",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122624,
+          "text": "They are un-understandable in terms of other mental experiences",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 122625,
+          "text": "They are specific for schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122626,
+          "text": "They have prognostic significance in schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122627,
+          "text": "They are resistant to treatment",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 122624,
+        "text": "They are un-understandable in terms of other mental experiences"
+      },
+      "explanation": "Jaspers emphasized the importance of un-understandability. Primary delusional experiences tend to be reported in acute schizophrenia but are less common in chronic schizophrenia, where they may be buried under a mass of secondary delusions arising from primary delusional experiences, hallucinations, formal thought disorder and mood disorders.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 73,
+      "question_id": 24482,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The commonest psychiatric diagnosis reported in patients with Capgras syndrome is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122628,
+          "text": "Psychotic depression",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122629,
+          "text": "Schizophrenia",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 122630,
+          "text": "Alzheimer's dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122631,
+          "text": "Depression",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122632,
+          "text": "Bipolar disorder",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 122629,
+        "text": "Schizophrenia"
+      },
+      "explanation": "Here the patient believes that a familiar person has been replaced by an impostor whose external appearances are identical to the real person. It was first described by Rebout-Lachaux. Most patients with Capgras syndrome are females and the commonest reported psychiatric diagnosis is schizophrenia. Psychological Medicine (1991), 21:905-910",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 74,
+      "question_id": 24483,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Ekbom's syndrome is least likely to be related to",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122633,
+          "text": "Cocaine use",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122634,
+          "text": "Dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122635,
+          "text": "Autism",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 122636,
+          "text": "Schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122637,
+          "text": "Alcohol withdrawal",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 122635,
+        "text": "Autism"
+      },
+      "explanation": "Ekbom's syndrome is a delusional belief that one's skin is infested with multiple tiny mite like organisms. It is a mono-symptomatic delusional disorder where the core delusion pertains to parasitic infestation. It may be secondary to tactile hallucinations seen in cocaine intoxication or alcohol withdrawal.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 75,
+      "question_id": 24484,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a patient with schizophrenia, which pathway of the brain is thought to have excessive dopamine transmission",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122638,
+          "text": "Posterior column pathway",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122639,
+          "text": "Prefrontal pathway",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122640,
+          "text": "Mesolimbic pathway",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 122641,
+          "text": "Pyramidal pathway",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122642,
+          "text": "Cerebellar pathway",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 122640,
+        "text": "Mesolimbic pathway"
+      },
+      "explanation": "Kapur proposed that in the normal individual, the role of mesolimbic dopamine is to attach significance or 'salience' to an external stimulus, or an internal thought. This converts a neutral piece of information into an attention-grabbing information (Kapur, 2003). In acute psychosis, where hyperdopaminergic state is noted in the mesolimbic system, insignificant events and perceptions receive inappropriate salience. For example, an innocuous smile of a stranger may be given high degree of 'aberrant salience' leading to delusional elaborations. On a similar note, when such aberrant salience is attached to internally generated self-speech, hallucinations may be experienced. Antipsychotics are claimed to 'dampen the salience' of these abnormal experiences (not erase them) but provide a platform for a process of psychological resolution.",
+      "image_url": "",
+      "explanation_image_url": null
+    }
+  ]
+}

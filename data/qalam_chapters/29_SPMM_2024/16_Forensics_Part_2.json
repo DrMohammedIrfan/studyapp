@@ -1,0 +1,2102 @@
+{
+  "chapter_id": "da674380-22fd-42f2-ad00-9f9997baad20",
+  "chapter_name": "Forensics Part 2",
+  "chapter_title": "Forensics Part 2",
+  "resource_id": "039807c2-2598-493f-ad2f-16246c68bcb8",
+  "resource_title": "SPMM 2024",
+  "subject_name": "SPMM 2024",
+  "chapter_number": 16,
+  "total_questions": 36,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "7812dcf6-424a-4b6d-a624-b60135854721",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Studies concerning supervised discharge and related arrangements agree on which of the following?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a8b1b5e1-28de-46da-a3dd-c071210e42c3",
+          "text": "Frequent contact with services is unnecessary for an efficient supervised discharge",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "9c4f7d1b-2630-4aff-a927-82885ba54d05",
+          "text": "No reduction occurs in hospitalisation rates after a supervised discharge",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "da67d99e-bd85-47e8-a178-63ae54fe4484",
+          "text": "Supervised discharge is most effective for those with non-affective psychosis",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "d97bd6e8-440e-4e60-821e-f38a6a4fcd2a",
+          "text": "No reduction occurs in rates of violence after a supervised discharge",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "3e5219f8-53dd-41b3-8ec5-5207398b31e2",
+          "text": "Use of existing powers of supervised discharge is widespread and uniform",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "da67d99e-bd85-47e8-a178-63ae54fe4484",
+        "text": "Supervised discharge is most effective for those with non-affective psychosis"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "da67d99e-bd85-47e8-a178-63ae54fe4484",
+          "text": "Supervised discharge is most effective for those with non-affective psychosis",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In the UK, forensic psychiatry inpatient care is organised into three levels: high, medium, and low secure facilities. On discharge from inpatient services, many patients are subject to conditions under a Community Treatment Order (CTO), or 'restrictions' under Section 41 of the Mental Health Act, known as 'conditional discharge'. Examples of conditions and restrictions include being resident at a specified address, medication adherence, or cooperating with supervision by mental health services. There have been many studies of forensic patients discharged to the community, typically under some form of conditional supervision. Involuntary outpatient commitments in other countries (similar to supervised discharges) are most effective in schizophrenia patients, not personality disorders. This reduces hospitalisations and violence rate but frequent contacts are necessary. For non-forensic populations, the effectiveness of CTOs have come under scrutiny as recent large scale studies fail to show sufficient benefits. Ref: Tully J et al. Follow-up study of 6.5 years of admissions to a UK female medium secure forensic psychiatry unit. BJPsych bulletin. 2019 Apr;43(2):54-7. Bjørkly S et al. Violence after discharge from forensic units in the safe pilot study: a prospective study with matched pair design. Psychology research and behaviour management. 2019;12:755. Davies S. Compulsory treatment in the community: current legal powers. Advances in Psychiatric Treatment. 2002 May;8(3):180-8. Barnett P, et al. Compulsory community treatment to reduce readmission to hospital and increase engagement with community care in people with mental illness: a systematic review and meta-analysis. The Lancet Psychiatry. 2018 Dec 1;5(12):1013-22.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": "9d860a26-0c1e-4af0-9e14-b15715e8c817",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 24-year-old man describes repeatedly becoming sexually aroused while fantasizing that he cannot breathe. At times, he has tied a rope around his neck to induce oxygen deprivation, and has lost consciousness. He is very distressed by his fantasies and behaviour. What is the most likely ICD-11 diagnosis?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a6f5009e-fbde-4655-bbe5-fa5ddecd92d4",
+          "text": "Coercive sexual sadism disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "8d96accd-e471-4e2a-a6b2-1948e7928c44",
+          "text": "Exhibitionistic disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "255e0805-077e-46c4-95c8-e427a06b4518",
+          "text": "Frotteuristic disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "444205b5-59d5-4d63-8e3d-0c36bcb220d0",
+          "text": "Paraphilic disorder involving consenting individuals",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "73058a62-85e9-4427-884d-913d5227b400",
+          "text": "Paraphilic disorder involving solitary behaviour",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "73058a62-85e9-4427-884d-913d5227b400",
+        "text": "Paraphilic disorder involving solitary behaviour"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "73058a62-85e9-4427-884d-913d5227b400",
+          "text": "Paraphilic disorder involving solitary behaviour",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In ICD-11, a paraphilic disorder involving solitary behaviour is characterised by a persistent and intense pattern of atypical sexual arousal – manifested by sexual thoughts, fantasies, urges, or behaviours – that involves solitary behaviours. One of two elements must be met: 1) the person is markedly distressed by the nature of the arousal pattern and the distress is not simply a consequence of rejection or feared rejection of the arousal pattern by others; or 2) the nature of the paraphilic behaviour involves significant risk of injury or death to the individual (e.g., asphyxophilia or achieving sexual arousal by restriction of breathing). This diagnostic code also includes paraphilic disorder involving consenting individuals. Ref: International Statistical Classification of Diseases and Related Health Problems (11th ed. ICD-11; World Health Organization, 2020).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "a3c04aa6-9f6e-42e5-89df-6c29fa4a4f1f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is an actuarial tool for violence risk assessment?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6df71e59-463c-443d-98a6-20efd34981c2",
+          "text": "Hare Psychopathy Checklist",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a3af05d7-8020-43ad-9470-90ca8d0e85f1",
+          "text": "HCR 20",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "48ee225b-05e5-48db-92bd-0f9b45d5c071",
+          "text": "Violence Risk Appraisal Guide",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "3b784341-2e63-42b3-b52c-0e6142479bb7",
+          "text": "Health of Nations Outcome Scale",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "3efcfc1e-e600-4e95-8f0b-3ed1cfb57e50",
+          "text": "None of the listed options",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "48ee225b-05e5-48db-92bd-0f9b45d5c071",
+        "text": "Violence Risk Appraisal Guide"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "48ee225b-05e5-48db-92bd-0f9b45d5c071",
+          "text": "Violence Risk Appraisal Guide",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Violence Risk Appraisal Guide (VRAG) is an actuarial instrument for violence risk assessment. An actuarial instrument is a statistical approach based on multivariate analyses of factors in samples of forensic patients or prisoners to determine which predict further violence. It is reliant on historical factors and considered by some to be inflexible and unsuitable to inform risk management. Ref: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford University Press; 2019 Jul 30. p. 748.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": "077ec5cd-e955-4d30-b7a5-5efc6534d11a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following may allow for a finding of diminished responsibility in a UK court?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "7a05ca56-5dab-48cf-b9b6-2176d1416d17",
+          "text": "Being drunk at the time of the murder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "97489c21-2e1a-4b4b-9264-6d72ba39c7d5",
+          "text": "Experiencing PTSD at the time of the murder",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "803df3bc-818a-4beb-b675-64a4b3ddf155",
+          "text": "Having amnesia for the murder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "01a4ba71-c1de-4c77-add8-cb4a740d1e7e",
+          "text": "Being sleep-deprived at the time of the murder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a6d0cca2-ac00-4d3a-9f08-c36d834c2744",
+          "text": "Having a history of epilepsy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "97489c21-2e1a-4b4b-9264-6d72ba39c7d5",
+        "text": "Experiencing PTSD at the time of the murder"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "97489c21-2e1a-4b4b-9264-6d72ba39c7d5",
+          "text": "Experiencing PTSD at the time of the murder",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In murder cases, a person's mental condition may be such that although they cannot be fully absolved of responsibility, they are found to be of diminished responsibility. A finding of diminished responsibility results in conviction for the lesser offence of manslaughter. There is no mandatory sentence of life imprisonment, and the court may pass any sentence it sees fit: penal sanctions in the community or prison, or any of the mental health disposals available following conviction. The accused should have evidently been suffering from an 'abnormality of the mind' (i.e. a mental disorder not severe enough to deem them 'insane', but of sufficient degree to substantially impair their ability to determine or control their actions). Diagnoses that may be relevant include any of the diagnoses applicable for insanity (dementia and other chronic organic disorders; delirium; schizophrenia and related psychoses; severe affective disorders with psychotic symptoms; and severe intellectual disability), as well as non-psychotic affective disorders; acute stress reactions, adjustment disorders, and PTSD; personality disorders (not antisocial personality disorder in Scotland); and mild to moderate intellectual disability and pervasive developmental disorders (including autism spectrum disorders). Ref: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford University Press; 2019 Jul 30. pp. 780-783.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": "6cdab878-d124-45e9-8215-392b29ca4f81",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The gold standard assessment tool for psychopathy in forensic practice is the",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "fed82346-4834-46ce-ac1a-ec68778ed17c",
+          "text": "SORAG",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "99d54029-8157-4649-957d-3ab481001c25",
+          "text": "PCL-R",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "27aeba92-1f31-4d8e-b918-62d190c74f65",
+          "text": "HCR-20",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6683716c-fb24-4fc4-b7e2-d5ccc8b11265",
+          "text": "VRAG",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a0ecd704-d4fc-4557-b43f-99dcbc6a62ad",
+          "text": "SARA",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "99d54029-8157-4649-957d-3ab481001c25",
+        "text": "PCL-R"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "99d54029-8157-4649-957d-3ab481001c25",
+          "text": "PCL-R",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In 1941, Cleckley described various features of psychopathy, referring to cold, callous, self-centred, predatory, and parasitic individuals. This concept led to the development of Hare's Psychopathy Checklist-Revised (PCL-R), which measures the extent to which a person manifests the features of a prototypical psychopath. The PCL-R is the gold standard instrument for psychopathy assessment and defines a narrower group than individuals with antisocial PD. Individuals scoring highly on the PCL-R commonly fulfill criteria for antisocial, narcissistic, histrionic, paranoid, and perhaps borderline categories in DSM-5. Psychopathy, as defined by the PCL-R, is strongly correlated with a risk of future violence. PCL-R (Hare) has a 0–40 score range; with a score of 0–2 for each item and 20 items in total. A cut-off of 25 is often used to diagnose psychopathy. Ref: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford University Press; 2019 Jul 30. p. 524.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": "1c16f950-bac2-4145-82d4-98422105da62",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a risk factor for antisocial behaviour in children and adolescents?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d8f09bf5-b111-46cf-8dc4-98b791d24cea",
+          "text": "Coercive parenting",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "2cbaab84-135c-4bec-8c1f-0da65e8839b4",
+          "text": "Moderate family income",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8b8cab43-0996-444f-a501-17560d36c552",
+          "text": "High parental education",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c9f2495d-db3f-4f59-9458-cf4fba8f8ba3",
+          "text": "Stable housing",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "0181ea59-e86e-48ad-b944-0844b7bb48fc",
+          "text": "Consistent discipline",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "d8f09bf5-b111-46cf-8dc4-98b791d24cea",
+        "text": "Coercive parenting"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "d8f09bf5-b111-46cf-8dc4-98b791d24cea",
+          "text": "Coercive parenting",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Several cross-sectional and longitudinal studies have found family conflicts, coercive or hostile parenting, inconsistent discipline and poor supervision, parental strain, as well as unhealthy family functioning to be associated with antisocial behaviour in children and adolescents. Further, living in disrupted families (meaning that the child is permanently or temporarily separated from a biological parent) may contribute to the development of antisocial behaviour. A family history of mental health problems, as well as parental chronic disease, are associated with the development of childhood antisocial behaviour and delinquency. In terms of socioeconomic factors, cross-sectional studies have demonstrated associations of low family income, low parental education, and poor housing with antisocial behaviour in children and adolescents. Further, there is evidence of an association between migration background and more pronounced antisocial behaviour. Ref: Otto C et al. Risk and resource factors of antisocial behaviour in children and adolescents: results of the longitudinal BELLA study. Child and adolescent psychiatry and mental health. 2021 Dec;15(1):1-4.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": "ccb6eaa8-ad85-4585-8771-a5b5b1264b07",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following factors is most strongly associated with sexual offence recidivism?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "ceb0aade-31f4-41db-8673-0a9c3e39baf7",
+          "text": "Mental illness",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ea341c7e-24c6-42b8-bfa1-c2ef21d72fab",
+          "text": "Conditional release",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "109a9e17-3b3f-4d47-90e9-5a6a3c63f35e",
+          "text": "Part-time employment",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6e072dc4-5e6d-44ac-bf40-43f944e43aa6",
+          "text": "Deviant sexual interests",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "02b20496-5e23-4ca7-8f11-5b9f48febd2e",
+          "text": "Lack of victim empathy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "6e072dc4-5e6d-44ac-bf40-43f944e43aa6",
+        "text": "Deviant sexual interests"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "6e072dc4-5e6d-44ac-bf40-43f944e43aa6",
+          "text": "Deviant sexual interests",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Sexual offenders are more likely to recidivate (i.e., reoffend) with a non-sexual offence than a sexual offence. 10–20% of sexual offenders commit further sexual offences over 5–10 years. Sexual recidivism has been shown to be associated with at least two factors: deviant sexual interests – deviant sexual interests and antisocial orientation/lifestyle instability. Individuals with interests in deviant sexual activities (e.g., sexual interest in children, rape, auto-erotic asphyxia, and paraphilic disorders) are among the most likely to continue sexual offending. Antisocial orientation is also one of the largest predictors of sexual recidivism (e.g. non-compliance with supervision, violation of conditional release). Sexual crimes are associated with an unstable, antisocial lifestyle instability (crime-prone personality) characterised by rule violations, poor employment history and reckless, impulsive behaviour. Rapists are more likely to have an antisocial orientation than are child molester. Although general lack of empathy for others (a trait of psychopathy) is associated with recidivism, lack of empathy for one’s victims specifically does not appear to be. Ref: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford University Press; 2019 Jul 30. p. 739. Darjee R, Russell K. What clinicians need to know before assessing risk in sexual offenders. Advances in psychiatric treatment. 2012 Nov;18(6):467-78. Hanson RK, Morton-Bourgon K. Predictors of sexual recidivism: An updated meta-analysis 2004–02. Public Safety and Emergency Preparedness Canada; 2004.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": "81a64e3c-6a28-4fe2-b212-69726f4ad4bc",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What is the most reliable predictor to identify whether mothers will murder their children?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b1df0d48-aac8-4f69-8d23-bf277638483a",
+          "text": "Family income",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "8bebf78b-b031-4417-aea7-4b789154ba3c",
+          "text": "History of substance misuse",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "0ee34c43-ead4-41cd-a6fc-1aae01364159",
+          "text": "Previous history of sexual abuse in the mother",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "62964d90-6d01-4cbc-a7f3-7ae67b0e0152",
+          "text": "Maternal age",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "30892fbb-fbe9-44d6-b46b-e4675ca055b5",
+          "text": "There are no reliable predictors",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "30892fbb-fbe9-44d6-b46b-e4675ca055b5",
+        "text": "There are no reliable predictors"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "30892fbb-fbe9-44d6-b46b-e4675ca055b5",
+          "text": "There are no reliable predictors",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Though teenage mothers and mothers with affective disorders may be at higher risk, there are no reliable predictors to identify whether mothers will murder their children. Flynn SM et al. Filicide: mental illness in those who kill their children. PloS one. 2013 Apr 4;8(4):e58981.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": "97eeb5b2-947c-4868-9e74-460a9399220e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Incidents of domestic violence most often involve an",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "ddef970a-e1c2-4a10-8062-ba5edbe343b5",
+          "text": "Adult male perpetrator and adult male victim",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "dbf82703-7cdc-49db-9a57-934b84eac17d",
+          "text": "Adult female perpetrator and adult female victim",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f9f37214-501e-4727-8be1-c757cfc0c9b3",
+          "text": "Adult female perpetrator and child victim",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "34503e98-606c-4e3d-b03d-df4847f62798",
+          "text": "Adult male perpetrator and child victim",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fd41c6ac-923b-462a-941f-bca689a54d68",
+          "text": "Adult male perpetrator and adult female victim",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "fd41c6ac-923b-462a-941f-bca689a54d68",
+        "text": "Adult male perpetrator and adult female victim"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "fd41c6ac-923b-462a-941f-bca689a54d68",
+          "text": "Adult male perpetrator and adult female victim",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Domestic violence (DV) is any incident or pattern of incidents of controlling, coercive, or threatening behaviour, violence, or abuse between those who have been intimate partners or family members, regardless of gender or sexuality. This can encompass psychological, physical, sexual, financial, and/or emotional abuse. One in four women experience DV, and women are victims of 70% of DV. While both men and women may use violence in relationships, men use DV more frequently and severely, resulting in female victims fearing for their lives. Globally, 38% of all female homicides are DV-related, and for women of child-bearing age, DV is a leading contributor to death, disability, and illness, mainly because of mental ill health. For children, DV-related trauma left unrecognised is cumulative and associated with social, behavioural, emotional, and cognitive problems, persisting into adulthood. Ref: http://www.police-foundation.org.uk/2017/wp-content/uploads/2017/08/domestic_abuse_briefing_final.pdf Semple D, Smyth R. Oxford handbook of psychiatry. Oxford University Press; 2019 Jul 30. p. 736. Hegarty K, Tarzia L. Identification and management of domestic and sexual violence in primary care in the # MeToo era: an update. Current psychiatry reports. 2019 Feb;21(2):1-8.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": "68de0cf0-5acb-499d-9d71-0f895ca9f9aa",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is true about sane automatism?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "7e0ca9fc-daee-43bd-a427-d8a752e6d3f0",
+          "text": "It includes epilepsy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "24f98bf3-b68a-46ac-998a-72951d32adb2",
+          "text": "The defendant had control over their mind during the offence",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3ffb19d5-eb50-4f7e-99ce-f3fb90830437",
+          "text": "Intent to harm need not be excluded",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e205fcbc-aa49-438c-810e-a36a32053541",
+          "text": "It is a very common defence in psychiatric patients",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "eecb7839-302c-46b0-9ff6-f72caba0537e",
+          "text": "It results in complete acquittal if successful",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "eecb7839-302c-46b0-9ff6-f72caba0537e",
+        "text": "It results in complete acquittal if successful"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "eecb7839-302c-46b0-9ff6-f72caba0537e",
+          "text": "It results in complete acquittal if successful",
+          "is_correct": true
+        }
+      ],
+      "explanation": "If an individual commits an offence when their body is not under the control of their mind, (e.g. when asleep), they are not guilty of the offence. Legally, this is called an automatism. This defence has given rise to considerable problems, stemming mainly from the acquittal which results if it succeeds. As a result, courts have restricted the scope and availability of automatism, making it a rare plea. In England and Wales, two legal types of automatism are recognised: insane and sane (automatism simpliciter). The distinction is based on whether the behaviour is likely to recur. Insane automatisms are due to an intrinsic cause (e.g. sleepwalking, brain tumours, epilepsy) and result in acquittal on the grounds of insanity. Sane automatisms are due to an extrinsic cause (e.g., confusional states, concussion, reflex actions after bee stings, dissociative states, sleep terrors, and hypoglycaemia) and result in complete acquittal. Ref: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford University Press; 2019 Jul 30. p. 778. Mackay RD. An anatomy of automatism. Medicine, Science and the Law. 2015 Jul;55(3):150-5.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": "1fd974df-8ef3-4d55-8953-dfb04eff4a74",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 31-year-old man stalks his ex-wife with the hope that a reconciliation of their broken relationship will occur. He is most appropriately categorised as what type of stalker?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "525953f2-4780-447e-aa1c-6524b00b3ed4",
+          "text": "Incompetent suitors",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "57e13800-10e6-4ef2-a408-ddab7904aea9",
+          "text": "Rejected stalkers",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "f641efa9-e29a-4fc9-862b-9f4f3ef57283",
+          "text": "Resentful stalkers",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "cd79584f-b235-4d9f-96cc-7d1e6a759b25",
+          "text": "Predatory stalkers",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "1532bf8f-1517-4847-abbd-b4fa2cfdc0bf",
+          "text": "Intimacy seekers",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "57e13800-10e6-4ef2-a408-ddab7904aea9",
+        "text": "Rejected stalkers"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "57e13800-10e6-4ef2-a408-ddab7904aea9",
+          "text": "Rejected stalkers",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Typology of stalking perpetrators:\n·  Rejected stalkers: pursue victims in order to reverse, correct, or avenge rejection (e.g. divorce, termination of relationship); previous sexual relationship; want to keep the victim in their lives\n·  Intimacy seekers: infatuated with their victims and believe their victims are infatuated with them; no previous sexual relationship\n·  Incompetent suitors: despite poor social or courting skills, have a fixation on (or in some cases a sense of entitlement to) an intimate relationship with those who have attracted their amorous interest\n·  Resentful stalkers: pursue a vendetta because of a sense of grievance against the victim; motivated by a desire to frighten and distress; not following a sexual relationship\n·  Predatory stalkers: initially spy on victims as a precursor to sexual assault; victim is often a stranger or acquaintance\nRef: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford University Press; 2019 Jul 30. p. 742.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": "bb8be836-13c9-4ddc-a8e4-0b2ee82a7692",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A newly appointed executive of a forensic secure hospital board is exploring ways of improving the security of the units. Which of the following is best described as a measure of relational security?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5e400ce4-d0af-4b5d-89d8-440b04a27ca3",
+          "text": "Provision of meaningful activities to patients",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "5cce80e6-3c2a-42bd-93c0-49bc8addcaa8",
+          "text": "Pre-employment checks on staff members",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "a3c883a0-2472-4d01-a45a-e39bef1595c1",
+          "text": "Minimising the use of temporary members of staff",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "db132249-b01a-40dd-befb-524a6f5f3d17",
+          "text": "Investigating and learning from incidents",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d7b98617-c132-4834-87ec-2aeb73c7da86",
+          "text": "Removing hanging points",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "5e400ce4-d0af-4b5d-89d8-440b04a27ca3",
+        "text": "Provision of meaningful activities to patients"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "5e400ce4-d0af-4b5d-89d8-440b04a27ca3",
+          "text": "Provision of meaningful activities to patients",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Three concepts of security:\n1.  Physical/environmental – fence/locks and other means of securing against leaving the premises; also the use of soft cutlery, removing glasses, sharps and hanging points to reduce the risk of harm to self or others\n2.  Relational – training, good communication, meaningful activities, knowing patients well and developing good relationships with them; often a lack of relational security can decrease the actual safety net provided by the physical security measures\n3.  Procedural – searches, investigating and learning from incidents, staff pre-employment checks, other clinical governance arrangements, and risk management\nRef: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford University Press; 2019 Jul 30. p. 750.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": "d15d5f09-d839-4b88-8f95-c4fa5e1b4320",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The most common type of delusion among stalkers is a delusion of",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "aa5ec3f6-36bb-46be-a49b-1d89909dacb7",
+          "text": "Reference",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "cc00d7b2-8554-4f76-92a7-8031a27833ee",
+          "text": "Persecution",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b94305a1-e95a-44d4-b851-c59e5d5fecd0",
+          "text": "Love",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "dca53f8d-2793-4337-b953-62af4346d133",
+          "text": "Jealousy",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "8c5b9e05-0439-4174-87f4-84c1974d2d0c",
+          "text": "Grandiosity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "b94305a1-e95a-44d4-b851-c59e5d5fecd0",
+        "text": "Love"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "b94305a1-e95a-44d4-b851-c59e5d5fecd0",
+          "text": "Love",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Stalking is a behaviour, not a mental disorder. Having said that, research suggests that 50% of stalking offenders have some sort of mental disorder. Personality disorders (predominantly cluster B), substance use disorders, schizophrenia and other psychotic disorders, and depression are the most common. A significant minority of cases occur because of erotomanic delusions (delusions of love) in which the stalker believes the victim to be in love with them. Ref: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford University Press; 2019 Jul 30. pp. 110, 742-743.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": "3ae735db-374b-45ec-b679-9c7d8191e23a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Of those listed, what is the most common psychiatric diagnosis in perpetrators of arson?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "7b4ce3b9-4c11-4851-b25c-b8cf1e7d88df",
+          "text": "Intellectual disability",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b8d62846-c1f8-4221-adf0-f33cbd43b051",
+          "text": "Autism spectrum disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "1abf850b-974a-4508-8899-091278db858f",
+          "text": "Personality disorder",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "6923a805-ead2-4326-a41e-a6be9747aee5",
+          "text": "Anxiety disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "4f826c9c-630e-4fff-839d-97b6a36a4cb3",
+          "text": "Schizophrenia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "1abf850b-974a-4508-8899-091278db858f",
+        "text": "Personality disorder"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "1abf850b-974a-4508-8899-091278db858f",
+          "text": "Personality disorder",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Arson is a criminal act in which one willfully and maliciously sets fire to or aids in setting fire to a structure, dwelling, or property of another. Most arsonists are male, aged late adolescence–early adulthood, unmarried, poorly educated, living alone, and unemployed or unskilled labourers. Psychiatric disorders are over-represented in arsonists compared to the general population and other offender groups. Substance use disorders (especially alcohol) and personality disorders (particularly antisocial) are most common. Others include psychotic disorders and intellectual disability/low intellectual functioning. Ref: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford University Press; 2019 Jul 30. p. 744. Burton P et al. Firesetting, arson, pyromania, and the forensic mental health expert. Journal of the American Academy of Psychiatry and the Law Online. 2012 Sep 1;40(3):355-65.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": "2701433a-7eeb-4372-8f68-53b4fffa7b44",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 23-year-old man is convicted of arson. Which of the following is an evidence-based treatment modality for individuals who deliberately set fires?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "22074422-812d-47ba-b020-5628c82b860c",
+          "text": "Interpersonal therapy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "516b0392-63ae-4f4a-b77c-3bc5e200f1a7",
+          "text": "Aversion therapy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "59873d9d-72a2-442a-9cce-84c5e603d141",
+          "text": "Cognitive behavioural therapy",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "5cbf16bc-dbe3-4893-a6c5-a0a206136a59",
+          "text": "Psychoanalytic therapy",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "5ac65845-1388-4678-804e-70fc024753c9",
+          "text": "Supportive counselling",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "59873d9d-72a2-442a-9cce-84c5e603d141",
+        "text": "Cognitive behavioural therapy"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "59873d9d-72a2-442a-9cce-84c5e603d141",
+          "text": "Cognitive behavioural therapy",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Very few specialist assessment and intervention frameworks are available to assess and treat arson. In the past decade, two UK psychological treatment programmes have been developed specifically for adults who deliberately set fires: the Firesetting Intervention Programme for Prisoners (FIPP) and the Firesetting Intervention Programme for Mentally Disordered Offenders (FIP-MO). FIPP is a cognitive behavioural group treatment programme designed specifically to address key factors associated with deliberate firesetting, alongside general risk management. FIP-MO was developed as a 'sister' programme to FIPP to address the clinical need in forensic mental health services. It targets key psychological factors identified as being related to firesetting: problematic fire interest and associations with fire, offence supportive attitudes, social competency, self-management/coping skills, and risk management. Ref: Tyler N et al. Arson assessment and treatment: the need for an evidence-based approach. The Lancet Psychiatry. 2019 Oct 1;6(10):808-9. Tyler N et al. An evaluation of a specialist firesetting treatment programme for male and female mentally disordered offenders (the FIP-MO). Clinical psychology & psychotherapy. 2018 May;25(3):388-400.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": "fe47a7ec-e117-4950-a29c-9635a68e64fe",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following may be included in the assessment of sex offenders, especially those who have offended against children?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "73b5c1cf-f223-4e68-a8bb-b5c0f387001b",
+          "text": "Serum folate measurement",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "898da435-6bb1-4e89-a158-897c8cd6f2f0",
+          "text": "Penile plethysmography",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "8e31e20a-e522-4138-84bd-02b395182840",
+          "text": "Full blood count",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "133a1711-ba5c-4224-a253-775f971cbb9f",
+          "text": "Magnetic resonance imaging",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "2937840b-6fae-435c-84ec-6542c5c79e2b",
+          "text": "Truth serum analysis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "898da435-6bb1-4e89-a158-897c8cd6f2f0",
+        "text": "Penile plethysmography"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "898da435-6bb1-4e89-a158-897c8cd6f2f0",
+          "text": "Penile plethysmography",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Phallometry (also known as penile plethysmography or penile tumescence testing) is an objective method of assessing male sexual arousal. In forensic psychiatry it is primarily deployed in the management of people who have committed sexual offences, especially those who have offended against children. Some clinics use phallometric testing in the management of men with suspected paraphilic disorders not known to have acted on their problematic sexual interests to commit offences. When employed in clinical forensic psychiatry, phallometry should form part of a much broader sexology assessment. Ref: Bickle A et al. International overview of phallometric testing for sexual offending behaviour and sexual risk. BJPsych international. 2021 Nov 1:1-4.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": "ec83dfef-48fa-414c-9705-8b11b625f422",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following terms used in medical jurisprudence refers to the (voluntary) act of crime?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a47e7953-1569-45ee-a493-571163c503a6",
+          "text": "Habeas corpus",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b9e2772c-c5ef-467b-8c6f-33589262f7ee",
+          "text": "Mens rea",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "bbb52a83-ba5e-4858-8f0a-a70b48e0ce98",
+          "text": "Actus reus",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "037b4a59-8c26-4871-a8a4-b3285918bc71",
+          "text": "Corpus delicti",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "6b526b78-b055-4a2b-a4b7-14c2acce36e3",
+          "text": "Compos mentis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "bbb52a83-ba5e-4858-8f0a-a70b48e0ce98",
+        "text": "Actus reus"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "bbb52a83-ba5e-4858-8f0a-a70b48e0ce98",
+          "text": "Actus reus",
+          "is_correct": true
+        }
+      ],
+      "explanation": "According to criminal law, committing a socially harmful act is not the sole criterion of whether a crime has been committed. Instead, the objectionable act must have two components: actus reus and mens rea. Actus reus refers to the (voluntary) act of crime. Mens rea refers to the (evil) intent of crime. An evil intent cannot exist when an offender's mental status is so deficient, so abnormal, or so diseased to have deprived the offender of the capacity for rational intent. Neither behaviour, however harmful, nor the intent to harm, alone, is grounds for criminal action. Ref: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 843.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": "7c2e7df7-8fed-4544-bd27-d09e2c90ee38",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The genetic heritability of antisocial behaviour overlaps with which of the following conditions?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e900004d-32fd-41b9-a799-876e09c703ff",
+          "text": "Neuroticism",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "516b93fc-cfff-46dd-8aca-ef15038f4aa5",
+          "text": "ADHD",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "33b4a617-6a92-418e-afb7-94aa1a12ff13",
+          "text": "Alcohol use disorder",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "d9bbb68a-9b74-49fc-ba36-17ff4e76db30",
+          "text": "Movement disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "bd0cd3c2-e0f0-4a80-9182-5d8d23380ed1",
+          "text": "School refusal",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "33b4a617-6a92-418e-afb7-94aa1a12ff13",
+        "text": "Alcohol use disorder"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "33b4a617-6a92-418e-afb7-94aa1a12ff13",
+          "text": "Alcohol use disorder",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Antisocial behaviour and alcohol & drug abuse share a number of genetic risk factors. Ref: Szalavitz M. Genetics: No more addictive personality. Nature. 2015 Jun;522(7557):S48-9.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": "3218229b-547d-4e3a-aa14-1137f5fe1e48",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 35-year-old man in prison has medically unexplained physical symptoms and disorientation. When asked how many eyes a dog has, his answer is '3'. He does not appear to gain anything by answering questions incorrectly. Which of the following is the most likely diagnosis?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f2feb687-e153-4504-9230-9800decc0e83",
+          "text": "Couvade syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "129cca49-7283-48af-a948-91294215820c",
+          "text": "Munchausen syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "aee42de7-ffa7-439d-aab7-8b3c097da4a9",
+          "text": "Ganser syndrome",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "95ab544a-ef2a-4859-a491-4207c454ba6a",
+          "text": "Capgras syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b54cc88b-89ab-448c-9033-12e7fc239deb",
+          "text": "Malingering",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "aee42de7-ffa7-439d-aab7-8b3c097da4a9",
+        "text": "Ganser syndrome"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "aee42de7-ffa7-439d-aab7-8b3c097da4a9",
+          "text": "Ganser syndrome",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In 1898, Ganser described four criminals showing several common features, including clouding of consciousness with disorientation, auditory and visual hallucinations (or pseudo-hallucinations), amnesia for the period during which the symptoms manifest, conversion symptoms and recent head injury, infection, and severe emotional stress. Approximate answers suggest that the patient understands questions but appears to be deliberately avoiding the correct answer. When asked what the capital of England is, the reply might be 'Bristol', or when asked how many eyes a dog has, the answer given may be '3'. Ganser believed this to be a hysterical condition with the unconscious production of symptoms to avoid a court appearance. Many now believe that Ganser syndrome is indicative of either an organic or a psychotic state, rather than hysteria as originally believed. A similar condition of approximate answers is found in those consciously feigning illness – this should be called malingering or factitious disorder according to the nature of the gain. Ganser syndrome and malingering/factitious disorder are often confused despite the conscious basis for the latter. Ref: Casey P, Kelly B. Fish's clinical pathology: Signs and symptoms in psychiatry, 4th Edition. 2019. pp. 68-69. Dieguez S. Ganser syndrome. Neurologic-Psychiatric Syndromes in Focus-Part II. 2018;42:1-22.",
+      "explanation_images": [
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%202024/16.%20Forensics%20Part%202/19/explanation_image-3218229b-547d-4e3a-aa14-1137f5fe1e48-1787090122348.jpeg"
+      ],
+      "explanation_image_url": "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%202024/16.%20Forensics%20Part%202/19/explanation_image-3218229b-547d-4e3a-aa14-1137f5fe1e48-1787090122348.jpeg"
+    },
+    {
+      "question_number": 20,
+      "question_id": "74b1d8c4-4a77-4d65-8308-79626f5d614f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A patient admitted to a psychiatric intensive care unit has delusions of passivity. He believes that his \"words are spoken by the devil's inner soul\" and that his actions are controlled by the devil. When the devil takes over the patient's body, he punches his doctor who he believes is trying to poison him with ECT. This constellation of symptoms is called",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "ca6265f9-0b76-4cb5-9f54-76d0088dee9d",
+          "text": "Passivity loss syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3bfedd5f-5c26-4c14-9670-5d7f44ec033e",
+          "text": "Malingering",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "38a3ff6f-e3c5-4e68-8058-5315046e3c67",
+          "text": "Passive activity syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "9dc920de-d1cc-41ab-996b-e63305203e54",
+          "text": "Threat-control override symptoms",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "829cc3d4-7041-4eed-a783-24ff0e2277df",
+          "text": "None of the listed options",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "9dc920de-d1cc-41ab-996b-e63305203e54",
+        "text": "Threat-control override symptoms"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "9dc920de-d1cc-41ab-996b-e63305203e54",
+          "text": "Threat-control override symptoms",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Threat-control override symptoms in which patients feel like they are being threatened or controlled (delusions of influence, delusions of threat, command hallucinations, threatening content of auditory hallucinations) have been found to be associated with violence. Having said that, most patients with these symptoms are never violent. Ref: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford University Press; 2019 Jul 30. p. 746. Haddock G et al. Psychotic symptoms, self-harm and violence in individuals with schizophrenia and substance misuse problems. Schizophrenia research. 2013 Dec 1;151(1-3):215-20.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": "5a65102b-312a-4338-ba9f-feff41debd1d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is least likely to increase the risk of violence in those with schizophrenia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6db80c93-ea43-4e8e-98b4-dc6e2fa9611f",
+          "text": "History of victimisation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2c9f0893-684d-4c62-8fad-3efbaa3869fa",
+          "text": "History of conduct disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "a755831e-454f-47c3-a55d-04e1ed7ed2f3",
+          "text": "Negative symptoms",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "6ab251d8-ee6d-4667-9dc5-09b3498e66ee",
+          "text": "Depressive symptoms",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ee028e6b-86ca-4c92-b8cf-f026bb394828",
+          "text": "Persecutory delusions",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "a755831e-454f-47c3-a55d-04e1ed7ed2f3",
+        "text": "Negative symptoms"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "a755831e-454f-47c3-a55d-04e1ed7ed2f3",
+          "text": "Negative symptoms",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Negative symptoms, including blunting of affect and poverty of speech, have been associated with less violence in individuals with schizophrenia. Ref: Buchanan A et al. Correlates of future violence in people being treated for schizophrenia. American Journal of Psychiatry. 2019 Sep 1;176(9):694-701.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": "dade9bc3-6eb4-4bf2-bac8-b7c108d9b12c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A married man was accused of indecent exposure and you have examined his mental state. You have to write a report. What will reduce his chance of re-offending?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "007f5ffc-94ce-4b27-9fcd-fc2d6339e564",
+          "text": "Psychosexual assessment",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "0c7225ee-e863-410c-8df6-b85eec7a5e0d",
+          "text": "Cyproterone acetate",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b9c725e6-35fc-4fc6-8d45-abbc794134a8",
+          "text": "Court appearance",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "b9d936f9-d3dd-48f9-9dac-90e27616480d",
+          "text": "Penile plethysmography",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d7ab177a-2329-4ca5-b4cd-1a8c1945ac45",
+          "text": "Polygraph assessment",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "b9c725e6-35fc-4fc6-8d45-abbc794134a8",
+        "text": "Court appearance"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "b9c725e6-35fc-4fc6-8d45-abbc794134a8",
+          "text": "Court appearance",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Court appearance and sentencing would sometimes reduce the risk of recidivism although this obviously depends on the offender's personality. Multiagency working (e.g. co-ordinated risk management MAPPA- probation, housing, social services, psychiatry etc.) and Sex Offender Treatment Programmes (SOTP) are the most important ways of reducing the risk of recidivism. Psychiatric treatment is unlikely to be indicated in most sex offenders- including those convicted of indecent exposure. Polygraph assessment, psychosexual assessment, penile plethysmography are all helpful in risk assessment but not linked to reduction in recidivism, anti-androgens (this might reduce the risk of recidivism in serious sex offenders, but would obviously not be indicated for an offender whose offence is indecent exposure), SSRIs (these might be helpful for those who are depressed or obsessional, but only indicated in a small proportion).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": "918af34c-14a4-4ada-a491-1cd04b29c0ac",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The MacArthur Competence Assessment Tool is most commonly used to evaluate which of the following?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "38108da1-4d28-441c-bfe1-42e1d151d37e",
+          "text": "Fitness to plead",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "e721ee9d-5aba-4392-a42f-5f99843eb774",
+          "text": "Withdrawal of life support",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "15478066-4eb6-42dc-b6a3-4229fe7945b9",
+          "text": "Parental decision making",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b1cef1f1-66f5-434e-95a5-57186f5d486a",
+          "text": "Prisoners' capacity to vote",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "48e61acd-cd87-483a-82f2-1e937fab7e66",
+          "text": "Gillick competence",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "38108da1-4d28-441c-bfe1-42e1d151d37e",
+        "text": "Fitness to plead"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "38108da1-4d28-441c-bfe1-42e1d151d37e",
+          "text": "Fitness to plead",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In the United States, Hoge et al. developed and validated the MacArthur Structured Assessment of the Competence of Criminal Defendants to assess a defendant's fitness to plead based on legal theory of competence. This 47-item measure was subsequently reduced to a 22-item clinical instrument, the MacArthur Competence Assessment Tool – Criminal Adjudication (MacCAT-CA). The MacCAT-CA was then modified to test abilities according to the criteria for fitness to stand trial in England and Wales. These changes include, for example, omitting reference to juries being involved in sentencing (a feature in some U.S. jurisdictions, but not in England and Wales) and adjusting offence designations. This process led to the development of a tool specific for England and Wales, the MacArthur Competence Assessment Tool–Fitness to Plead. Ref: Akinkunmi AA. The MacArthur Competence Assessment Tool--Fitness to plead: A preliminary evaluation of a research instrument for assessing fitness to plead in England and Wales. Journal of the American Academy of Psychiatry and the Law. 2002.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": "e5b7a112-c5d4-4e14-bdfc-9a2d5d59f558",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is an evidence-based risk factor for sexual re-offending?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b193c4e7-4c74-4ac0-8524-cba1b6da1928",
+          "text": "Poor victim empathy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c6262627-6bd5-4302-8f23-944c77ec55b1",
+          "text": "Motivation for treatment",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "bdce31a9-f066-4c54-b177-c55490f83c6c",
+          "text": "Denial",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "02615aab-462b-4d76-865a-f9963b995899",
+          "text": "General lack of empathy",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "b15e33a2-488d-4c26-90fd-2c851ff74a6a",
+          "text": "Social skills deficits",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "02615aab-462b-4d76-865a-f9963b995899",
+        "text": "General lack of empathy"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "02615aab-462b-4d76-865a-f9963b995899",
+          "text": "General lack of empathy",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Poor victim empathy is not a risk factor for sexual re-offending. Although it seems to make sense that lack of victim empathy would make someone riskier, this 'common-sense' is based on our own emotional and moral reactions, not evidence. Victim empathy is a multifaceted concept which is heterogeneous and difficult to define, encompassing emotional, perceptual, cognitive, and behavioural aspects. While general lack of empathy for others (a trait of psychopathy) is associated with recidivism, lack of empathy for one's victims does not appear to be. Motivation for treatment is notoriously difficult to assess and is not an evidence-based risk factor for sexual recidivism, nor are social skills deficits. Interestingly, denial has not been found to be related to recidivism and may actually be protective. Ref: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford University Press; 2019 Jul 30. p. 739. Darjee R, Russell K. What clinicians need to know before assessing risk in sexual offenders. Advances in psychiatric treatment. 2012 Nov;18(6):467-78.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": "2d1f4a92-0901-4d8b-9cec-a2574a777886",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The most commonly seen psychiatric side effect of cyproterone acetate is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "ffc3d986-f7cd-432f-bd9b-9df06f93fcce",
+          "text": "Anxiety",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ced3e701-e4b0-479d-acb4-98fe13ee166d",
+          "text": "Depression",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "06a3eef7-d64a-4249-8bfc-0535fc6dc166",
+          "text": "Psychosis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f2c747cd-6a09-4765-b430-929bd39faef2",
+          "text": "Mania",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c7863445-03b9-487c-81d5-28797ccb3997",
+          "text": "Cognitive deterioration",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "ced3e701-e4b0-479d-acb4-98fe13ee166d",
+        "text": "Depression"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "ced3e701-e4b0-479d-acb4-98fe13ee166d",
+          "text": "Depression",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Anti-androgen therapy, such as cyproterone acetate, has been shown to place patients at a higher risk of neurocognitive and/or psychiatric complications, particularly depression. Depression may occur as a result of low androgen levels and/or activity, which is the major mechanism underlying anti-androgen therapy. Ref: Alwhaibi A et al. Androgen deprivation therapy and depression in the prostate cancer patients: review of risk and pharmacological management. The Aging Male. 2022 Dec 31;25(1):101-24.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": "16d65871-0c44-4ade-87f4-d44f20934b70",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following personality traits is more commonly seen in elderly sexual offenders compared to elderly non-sex-offenders?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f25157a9-5c07-49e3-a585-ab739fe2c371",
+          "text": "Antisocial",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "9ba8c47e-2215-45d5-8701-4d0f3dc6e811",
+          "text": "Dependent",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "fb9cdee9-60cd-446a-afa8-88e43b8ac277",
+          "text": "Paranoid",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "1ebd13c1-c388-4934-80f2-3821cbd1cfe5",
+          "text": "Schizoid",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "86e63e6c-ccb9-465f-b2f5-06a5c5f6db95",
+          "text": "Schizotypal",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "1ebd13c1-c388-4934-80f2-3821cbd1cfe5",
+        "text": "Schizoid"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "1ebd13c1-c388-4934-80f2-3821cbd1cfe5",
+          "text": "Schizoid",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Elderly sex offenders and non-sex-offenders have similar prevalence rates of mental illness (Fazel, 2006). However, elderly sex offenders have increased rates of personality disorders (33% prevalence rates for any personality disorder). Previous research has suggested that elderly sex offenders have increased schizoid, obsessive-compulsive, and avoidant personality traits compared to elderly non-sex-offenders. When compared with the younger offenders, older prisoners have higher levels of physical and mental comorbidities, and are 5 times more likely to be depressed; with lower rates of personality disorders and schizophrenia (Fazel & Grann, 2002). Ref: Fazel S et al. Psychiatric, demographic and personality characteristics of elderly sex offenders. Psychological medicine. 2002 Feb 5;32(2). Crookes RL, Tramontano C, Brown SJ, Walker K, Wright H. Older individuals convicted of sexual offenses: a literature review. Sexual Abuse. 2022 Apr;34(3):341-71.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": "0897b015-a94e-4a73-b67a-f969fe010bec",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Pharmacotherapeutic options in the treatment of sex offenders include all of the following except",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f4d6705a-c2a1-4089-856d-26542464b729",
+          "text": "Gonadotrophin releasing hormone (GnRH) agonists",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e23db50a-c16a-4dc0-acbf-59055302302a",
+          "text": "Anti-androgens",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "26e899f6-0c0d-43ec-8a6d-d3e2f5977747",
+          "text": "Selective serotonin re-uptake inhibitors (SSRIs)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ac7ea878-c222-46fa-a1d8-651bd237c6e8",
+          "text": "Combination of a GnRH agonist and SSRI",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "83c0291b-5413-4db2-b46f-ad53391083f0",
+          "text": "Sildenafil citrate",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "83c0291b-5413-4db2-b46f-ad53391083f0",
+        "text": "Sildenafil citrate"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "83c0291b-5413-4db2-b46f-ad53391083f0",
+          "text": "Sildenafil citrate",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Since the 1990s, CBT has been the main modality of psychotherapeutic treatment for people convicted of sexual offences in the UK. Systematic use of medication only began to emerge in the early 2000s. The three classes of medications most often prescribed for problematic sexual behaviour include the SSRIs and two types of testosterone‐lowering agents: the anti‐androgens and the gonadotrophin releasing hormone (GnRH) agonists. Treatment guidelines propose a hierarchical treatment protocol in which treatment is largely based on risk and progresses from psychotherapy (offered at all stages) to an ultimate stage where the combination of a GnRH agonist with an anti‐androgen and/or SSRI is recommended. GnRH agonists are often considered preferable to anti‐androgens whenever a testosterone-lowering medication is indicated as their side-effect profile appears to be relatively milder, and their effect more consistent. Ref: Winder B et al. The pharmacologic treatment of problematic sexual interests, paraphilic disorders, and sexual preoccupation in adult men who have committed a sexual offence. International Review of Psychiatry. 2019 Feb 17;31(2):159-68.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": "e6e3ebcf-589c-4af6-a2cd-af9969457a61",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following offences is the most common forensic presentation of conduct disorder?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a5e102a8-e6c4-480f-9b43-c96138764884",
+          "text": "sexual offence",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "7f18f164-6b8e-4b5f-a08f-8b7728d89c8f",
+          "text": "shoplifting",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "82147927-4ca2-402d-8d25-be738f81fb52",
+          "text": "arson",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "4de67fdb-1ec8-4ff9-a6ee-3928143b40d0",
+          "text": "robbery",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "dc44f2f7-16b3-466a-b8a8-c21c81fea23a",
+          "text": "burglary",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "7f18f164-6b8e-4b5f-a08f-8b7728d89c8f",
+        "text": "shoplifting"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "7f18f164-6b8e-4b5f-a08f-8b7728d89c8f",
+          "text": "shoplifting",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Stealing without confronting the victim (e.g. shoplifting) is the most common offence that brings children with conduct disorder to the attention of a forensic setting. Ref: Sasaki Y, Yagihashi T, Kasahara M, Usami M, Kono T, Okada T. Clinical implications of a history of stealing on psychiatric disorders in children and adolescents. PLoS One. 2020 Aug 27;15(8):e0237906.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": "a4b92609-d049-483e-b453-eadc39dc3e67",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following offences is more common in people with intellectual disability compared to the general population?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "29dbcc7e-7027-4e20-a9c3-304170d719ab",
+          "text": "Sexual offences",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "8ddd0c19-9872-4579-a523-e07e4fddbd88",
+          "text": "Threats",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "1588ea50-e797-4e35-965e-edb09356682f",
+          "text": "Substance misuse",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e0c122b8-0d1e-485e-92b3-47c3c283f982",
+          "text": "Theft",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "73823416-4159-4d49-b690-740185d00107",
+          "text": "Property damage",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "29dbcc7e-7027-4e20-a9c3-304170d719ab",
+        "text": "Sexual offences"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "29dbcc7e-7027-4e20-a9c3-304170d719ab",
+          "text": "Sexual offences",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Violent offences include common assault, murder, aggravated robbery, as well as any form of contact sexual offence. Sexual offences involve indecent assault, rape, and incest. Non-sexual non-violent offences include theft, property damage, substance misuse, threats, and arson. Compared with community groups, violent and sexual offending are more common in people with intellectual disability (ID). Among individuals subject to pre-trial forensic psychiatric assessment, ID offenders are more likely than non-ID offenders to have a sexual crime as an index crime as well as previous convictions regarding sexual offending. These associations are restricted to male offenders; sexual offending is uncommon among women. Ref: Fogden BC et al. Crime and victimisation in people with intellectual disability: a case linkage study. BMC Psychiatry. 2016 Dec;16:1-9. Edberg H et al. Crimes and sentences in individuals with intellectual disability in a forensic psychiatric context: a register-based study. Epidemiology and Psychiatric Sciences. 2022;31:e2.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": "4027b5eb-86bd-4c55-844f-10093a61e0fe",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is most likely to be associated with amnesia for offending?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9d44360a-865f-454f-848e-5e879c5eb1fc",
+          "text": "Automotive theft",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "8d226d6e-fa84-4313-b3b1-d6d3f256657b",
+          "text": "Psychotic symptoms at the time of the offence",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5fff2de0-0e58-44b6-ac5f-9bb659b469d0",
+          "text": "Shoplifting",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "2f22a831-8385-44c2-b9cc-e890d429c6e0",
+          "text": "Elevated mood in the perpetrator",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "41c2733e-872e-4f80-b8d5-0d8b128f9bbb",
+          "text": "Extreme emotional arousal during the offence",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "41c2733e-872e-4f80-b8d5-0d8b128f9bbb",
+        "text": "Extreme emotional arousal during the offence"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "41c2733e-872e-4f80-b8d5-0d8b128f9bbb",
+          "text": "Extreme emotional arousal during the offence",
+          "is_correct": true
+        }
+      ],
+      "explanation": "There may be three different explanations for memory loss in offenders. The first explanation contends that, during the time of the crime, some offenders suffer from a temporary (or permanent) brain dysfunction that prevents or undermines the storage of crime-related events in memory (organic amnesia). The second explanation holds that some offenders are in an extreme emotional condition (e.g., rage) when committing a crime, particularly a violent crime. Later, the offender is unable to remember the crime because of a mismatch in emotional state between the encoding of crime-related events and the retrieval of such events (dissociative amnesia). The third explanation for crime-related amnesia is that a considerable number of offenders are pretending to be unable to remember crime-related details (feigned amnesia). Ref: Jelicic M. Testing claims of crime-related amnesia. Frontiers in Psychiatry. 2018 Nov 21;9:617.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": "f8194b25-a0ab-42d4-b481-9ebc54278025",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 31-year-old man charged with homicide has a medical history of somnambulism. Which of the following is true about this condition?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5c074702-dc9e-48ff-a1bd-764e88100908",
+          "text": "The subject is awake when sleepwalking",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "39d6a512-cf01-46d5-9142-184550940cd4",
+          "text": "Sleepwalking is more common in the elderly than in children",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "0b893c88-c899-486c-b416-89d586a67603",
+          "text": "An offence committed while sleepwalking may result in acquittal",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "13080132-ed30-406a-96b8-c6489fa0aa5b",
+          "text": "An offence committed while sleepwalking is usually considered under sane automatism",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "1bc8dede-9c6f-49b3-9c8d-a89b65ea3b37",
+          "text": "Sleepwalking usually occurs during REM sleep",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "0b893c88-c899-486c-b416-89d586a67603",
+        "text": "An offence committed while sleepwalking may result in acquittal"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "0b893c88-c899-486c-b416-89d586a67603",
+          "text": "An offence committed while sleepwalking may result in acquittal",
+          "is_correct": true
+        }
+      ],
+      "explanation": "If an individual commits an offence when their body is not under the control of their mind, (e.g. when asleep), they are not guilty of the offence. Legally, this is called an automatism. Insane automatisms are due to an intrinsic cause (e.g. sleepwalking, brain tumours, epilepsy) and result in acquittal on the grounds of insanity. Sleepwalking is a NREM-related parasomnia that involves complex, automatic behaviours (automatisms) such as wandering, attempting to dress or undress, carrying objects, eating, urinating in unusual places, and rarely driving a car or sexual behaviour. Behaviours usually occur 15–120 minutes following sleep onset. Though asleep, the person's eyes are usually wide open and glassy, and talk is incoherent, with communication usually impossible. Activity never appears intentional or planned, and only rarely does aggressive behaviour occur. The person usually has no recollection of the episode. Ref: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford University Press; 2019 Jul 30. pp. 460, 778.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": "e31537b7-7be3-45b5-b730-34e424364e3f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following is a structured risk assessment tool?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0d3323e9-ef94-4ddf-93df-819ef237a51f",
+          "text": "PCL-R",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "080578c6-3a00-4aa9-9286-e7e8002dfcc6",
+          "text": "STATIC",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "0108ad03-2b43-44fb-9395-c0099b5dd95e",
+          "text": "VRAG",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "477be976-6526-4d81-9edf-bf38e75935f2",
+          "text": "SARA",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "666a6a06-3a4c-474e-94e5-64d3c1579532",
+          "text": "VRS",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "477be976-6526-4d81-9edf-bf38e75935f2",
+        "text": "SARA"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "477be976-6526-4d81-9edf-bf38e75935f2",
+          "text": "SARA",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Spousal Assault Risk Assessment (SARA; Kropp 1995) is a 20-item structured risk assessment tool that can be used to help gauge the risk of future violence when there has been a history of domestic abuse, or the victim of a sexual offence has been a partner or a partner's child. Ref: Russell K, Darjee R. Practical assessment and management of risk in sexual offenders. Advances in psychiatric treatment. 2013 Jan;19(1):56-66.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": "8f8ccce2-b6cc-486b-b220-92ac5aba305c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following increases the risk of violence in association with stalking?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "079119b1-0be7-4ae8-96d6-0c2605bca9b8",
+          "text": "Long duration of stalking",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "60ed79f2-b1ff-49ed-ad06-814e1818c35f",
+          "text": "The stalker has psychosis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b45183f9-b892-4e16-a4da-042e9ceb5dc9",
+          "text": "The victim is male",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "edf43c0d-48da-443c-a097-c76db30f945f",
+          "text": "The stalker is an ex-partner",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "a14ed776-accc-40e5-9d83-3bd0f855fa3d",
+          "text": "The stalker is highly educated",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "edf43c0d-48da-443c-a097-c76db30f945f",
+        "text": "The stalker is an ex-partner"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "edf43c0d-48da-443c-a097-c76db30f945f",
+          "text": "The stalker is an ex-partner",
+          "is_correct": true
+        }
+      ],
+      "explanation": "As with many kinds of violent victimisation, women are over-represented as victims of stalking. The majority of stalking victims are female, while 80–90% of perpetrators are male. One-third of those stalked by a current or former intimate partner experience physical violence. Risk factors for violence in stalking include: ex-intimate partner, absence of psychosis, suicidal ideation, revenge motive, poor education, threats of violence, personality disorder. Risk factors for homicide in stalking include: ex-intimate partner, appearing at the victim's home, shorter duration of stalking, threatening messages in victim's car, and last resort thinking. Ref: Burczycka M, Conroy S. Family violence in Canada: A statistical profile, 2016. Juristat: Canadian Centre for Justice Statistics. 2018 Jan 17:1-96. Semple D, Smyth R. Oxford handbook of psychiatry. Oxford University Press; 2019 Jul 30. p. 743.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": "55b92260-e50c-421c-bbff-02fe1a68b0d3",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 33-year-old man is charged with murder. His counsel pleads not guilty on the basis of sleepwalking. Sleepwalking may be accepted as an automatism provided that",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "510589f9-5ff4-4cc0-aa1c-63740f187ab2",
+          "text": "The perpetrator has no previous history of sleepwalking",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "fe7ed9c7-f44b-4e5e-b0e4-240c5842cf30",
+          "text": "The perpetrator was able to narrate the event on waking up",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5194b83d-ded7-4ab2-8f3e-2a84d81e234d",
+          "text": "The homicide took place within the first 2 hours of sleeping",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "5650d95a-abc5-49b0-b307-d1488fc0eb2f",
+          "text": "The perpetrator has partial recall for the act",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "dde5679a-d1ac-4c87-8a76-4110e6712ca2",
+          "text": "The perpetrator wakes up in the middle of the act with panic and screams",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "5194b83d-ded7-4ab2-8f3e-2a84d81e234d",
+        "text": "The homicide took place within the first 2 hours of sleeping"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "5194b83d-ded7-4ab2-8f3e-2a84d81e234d",
+          "text": "The homicide took place within the first 2 hours of sleeping",
+          "is_correct": true
+        }
+      ],
+      "explanation": "If an individual commits an offence when their body is not under the control of their mind, (e.g. when asleep), they are not guilty of the offence. Legally, this is called an automatism. Insane automatisms are likely to recur and are due to an intrinsic cause (e.g. sleepwalking, brain tumours, epilepsy). Insane automatisms result in acquittal on the grounds of insanity. Sleepwalking involves complex, automatic behaviours (automatisms) such as wandering, attempting to dress or undress, carrying objects, eating, urinating in unusual places, and rarely driving a car or sexual behaviour. Behaviours usually occur 15–120 minutes following sleep onset. The activity never appears intentional or planned, and only rarely does aggressive behaviour occur. The person usually has no recollection of the episode. If awakened during the episode, they are usually confused and disoriented. Ref: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford University Press; 2019 Jul 30. pp. 460, 778.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": "58609b6a-7391-4bf7-be3f-8a386182f801",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In forensic psychiatry, the Penrose hypothesis refers to which of the following?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "8eb0e6e8-0f83-4291-8f11-8011986c614b",
+          "text": "The relationship between homicide rates and psychiatric bed numbers",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5a529a4f-e408-45e1-b3f2-2d5cf0780a1d",
+          "text": "The relationship between the prison population and income inequality",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2f6afa29-5894-441c-80bf-482a0ba75785",
+          "text": "The relationship between the prison population and psychiatric bed numbers",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "6379d8e1-727e-466e-bc24-9c07392ae2b8",
+          "text": "The relationship between income inequality and crime",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "9db46c4a-bdb6-488b-93cc-7991efbf2571",
+          "text": "The relationship between the prison population and suicide rates",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "2f6afa29-5894-441c-80bf-482a0ba75785",
+        "text": "The relationship between the prison population and psychiatric bed numbers"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "2f6afa29-5894-441c-80bf-482a0ba75785",
+          "text": "The relationship between the prison population and psychiatric bed numbers",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Penrose proposed an inverse relationship between the relative number of psychiatric beds available to a population and its total number of prisoners, based on calculations from cross-sectional study of 18 countries. Ref: Toynbee M. The Penrose hypothesis in the 21st century: revisiting the asylum. Evidence-based mental health. 2015 Aug 1;18(3):76.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": "fdd0f98f-f154-4410-84ee-ddc9e4ba9daf",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is considered to be a test for fitness to give evidence in court?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "ef80a4bc-6416-4378-976d-114f38f1730c",
+          "text": "Ability to challenge a juror",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ba38ee4d-1f09-4c5d-9f0d-149b7b92655e",
+          "text": "Understanding the concept of 'guilty mind'",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "803101f1-b3f5-4702-b50f-2386cbefbaed",
+          "text": "Ability to instruct counsel",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "bc72617c-42a0-42c3-baf8-c89da2b79b74",
+          "text": "Understanding the concept of criminal responsibility",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "6c282647-d73d-49c1-8a2e-53069f19c88d",
+          "text": "Ability to understand questions posed by the court",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "6c282647-d73d-49c1-8a2e-53069f19c88d",
+        "text": "Ability to understand questions posed by the court"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "6c282647-d73d-49c1-8a2e-53069f19c88d",
+          "text": "Ability to understand questions posed by the court",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Though there is an absence of medical literature assessing the capacity to give evidence, legal competence in the UK requires that the person be able to understand questions and able to give answers that can be understood. Competence to give evidence is a decision for the judge, who may ask for the opinion of a psychiatrist or psychologist. The law presumes that ordinary individuals are competent and can be compelled to testify. Individuals may lack capacity to give evidence because of age or mental disorder. Ref: Jones R, Elliott T. Capacity to give evidence in court: issues that may arise when a client with dementia is a victim of crime. Psychiatric Bulletin. 2005 Sep;29(9):324-6.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

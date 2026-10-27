@@ -1,0 +1,5104 @@
+{
+  "total_qalam_chapters": 504,
+  "total_qalam_questions": 28760,
+  "total_kdpsych_chapters": 58,
+  "total_kdpsych_questions": 5823,
+  "total_mock_exams": 8,
+  "total_mock_questions": 1184,
+  "total_chapters": 562,
+  "total_questions": 34583,
+  "qalam_chapters": [
+    {
+      "id": "b5a1d3b8-0e0b-4cbe-9a70-4390632eb56e",
+      "index": 1,
+      "name": "The Psychiatric Interview and Mental Status Examination",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/01_The_Psychiatric_Interview_and_Mental_Status_Examination.json",
+      "total_questions": 12
+    },
+    {
+      "id": "9c38c917-4682-4893-bd3c-aa7b09075a7e",
+      "index": 2,
+      "name": "DSM-5 as a Framework for Psychiatric Diagnosis",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/02_DSM-5_as_a_Framework_for_Psychiatric_Diagnosis.json",
+      "total_questions": 12
+    },
+    {
+      "id": "36712077-dddc-4ff8-9a6a-ebe119274b9d",
+      "index": 3,
+      "name": "Psychological Assessment",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/03_Psychological_Assessment.json",
+      "total_questions": 16
+    },
+    {
+      "id": "85e28d1e-76df-4e3e-9ec6-59ce51a48bc9",
+      "index": 4,
+      "name": "Laboratory Testing and Imaging Studies in Psychiatry",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/04_Laboratory_Testing_and_Imaging_Studies_in_Psychiatry.json",
+      "total_questions": 15
+    },
+    {
+      "id": "c54a72bb-1180-4d98-923b-9fea0594cc47",
+      "index": 5,
+      "name": "Normal Child and Adolescent Development",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/05_Normal_Child_and_Adolescent_Development.json",
+      "total_questions": 13
+    },
+    {
+      "id": "1c5fac6e-a96a-4cff-9906-e07ad8ac6772",
+      "index": 6,
+      "name": "Clinical Issues in Psychiatry and the Law",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/06_Clinical_Issues_in_Psychiatry_and_the_Law.json",
+      "total_questions": 15
+    },
+    {
+      "id": "94834f7e-4792-4f9b-95cf-407a2287b1d1",
+      "index": 7,
+      "name": "Ethical Aspects of Clinical Psychiatry",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/07_Ethical_Aspects_of_Clinical_Psychiatry.json",
+      "total_questions": 14
+    },
+    {
+      "id": "20154b01-65d1-4910-a66b-5cac82d8223c",
+      "index": 8,
+      "name": "Neurodevelopmental Disorders",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/08_Neurodevelopmental_Disorders.json",
+      "total_questions": 16
+    },
+    {
+      "id": "a29868ab-8cc2-479b-9b94-4e3d627e8429",
+      "index": 9,
+      "name": "Schizophrenia Spectrum and Other Psychotic Disorders",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/09_Schizophrenia_Spectrum_and_Other_Psychotic_Disorders.json",
+      "total_questions": 14
+    },
+    {
+      "id": "5b41a0cb-6939-4e3e-97e6-738ce5c204a3",
+      "index": 10,
+      "name": "Bipolar and Related Disorders",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/10_Bipolar_and_Related_Disorders.json",
+      "total_questions": 14
+    },
+    {
+      "id": "cc9f82b2-c0bb-4905-aefd-1cd327f87aef",
+      "index": 11,
+      "name": "Depressive Disorders",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/11_Depressive_Disorders.json",
+      "total_questions": 13
+    },
+    {
+      "id": "7d98f15b-7318-4a2c-aaea-54a560ffe8c2",
+      "index": 12,
+      "name": "Anxiety Disorders",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/12_Anxiety_Disorders.json",
+      "total_questions": 14
+    },
+    {
+      "id": "a66d700e-4cda-444f-88fd-c9a3d932cb57",
+      "index": 13,
+      "name": "Obsessive-Compulsive and Related Disorders",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/13_Obsessive-Compulsive_and_Related_Disorders.json",
+      "total_questions": 18
+    },
+    {
+      "id": "c69c75f7-5c04-4aae-aab0-8d66786945aa",
+      "index": 14,
+      "name": "Trauma- and Stressor-Related Disorders",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/14_Trauma-_and_Stressor-Related_Disorders.json",
+      "total_questions": 20
+    },
+    {
+      "id": "ff50457c-b788-4e9e-ad8d-d0ff075f2c75",
+      "index": 15,
+      "name": "Dissociative Disorders",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/15_Dissociative_Disorders.json",
+      "total_questions": 10
+    },
+    {
+      "id": "5f84a998-add6-49a2-9342-ce8a6dc0bfec",
+      "index": 16,
+      "name": "Somatic Symptom and Related Disorders",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/16_Somatic_Symptom_and_Related_Disorders.json",
+      "total_questions": 14
+    },
+    {
+      "id": "4fadeb59-205c-45e1-b04e-fb8239dc7821",
+      "index": 17,
+      "name": "Feeding and Eating Disorders",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/17_Feeding_and_Eating_Disorders.json",
+      "total_questions": 14
+    },
+    {
+      "id": "56b5cff7-fd70-4d63-ad0f-a8134e79fcb4",
+      "index": 18,
+      "name": "Elimination Disorders",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/18_Elimination_Disorders.json",
+      "total_questions": 9
+    },
+    {
+      "id": "c5bd6803-41bc-4f2b-b3c2-aae65dab589d",
+      "index": 19,
+      "name": "Sleep-Wake Disorders",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/19_Sleep-Wake_Disorders.json",
+      "total_questions": 15
+    },
+    {
+      "id": "1ac50628-1617-4b96-a7cf-6a0573bbe085",
+      "index": 20,
+      "name": "Sexual Dysfunctions",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/20_Sexual_Dysfunctions.json",
+      "total_questions": 10
+    },
+    {
+      "id": "1d815075-b07c-4d15-a1ad-7100b294e024",
+      "index": 21,
+      "name": "Gender Dysphoria",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/21_Gender_Dysphoria.json",
+      "total_questions": 10
+    },
+    {
+      "id": "461db77f-3a9d-4af5-a2b3-5c51c054d23d",
+      "index": 22,
+      "name": "Disruptive, Impulse-Control, and Conduct Disorders",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/22_Disruptive,_Impulse-Control,_and_Conduct_Disorders.json",
+      "total_questions": 16
+    },
+    {
+      "id": "198e56e7-7223-44e2-8a37-e7197d43e3a6",
+      "index": 23,
+      "name": "Substance-Related and Addictive Disorders",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/23_Substance-Related_and_Addictive_Disorders.json",
+      "total_questions": 15
+    },
+    {
+      "id": "38279085-0975-4364-982a-bce7f5e5a428",
+      "index": 24,
+      "name": "Neurocognitive Disorders",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/24_Neurocognitive_Disorders.json",
+      "total_questions": 20
+    },
+    {
+      "id": "522e09e9-0f1e-485b-a835-5954974a3261",
+      "index": 25,
+      "name": "Personality Disorders",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/25_Personality_Disorders.json",
+      "total_questions": 11
+    },
+    {
+      "id": "706c6cc7-a6f0-4e76-9ce7-e3074ae643aa",
+      "index": 26,
+      "name": "Paraphilic Disorders",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/26_Paraphilic_Disorders.json",
+      "total_questions": 7
+    },
+    {
+      "id": "76de3781-fd4c-49ac-96eb-718216ad6c2c",
+      "index": 27,
+      "name": "Psychopharmacology",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/27_Psychopharmacology.json",
+      "total_questions": 20
+    },
+    {
+      "id": "7226d712-2efd-41e3-91a1-57d339ffa20a",
+      "index": 28,
+      "name": "Brain Stimulation Therapies",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/28_Brain_Stimulation_Therapies.json",
+      "total_questions": 12
+    },
+    {
+      "id": "08cb44f3-0011-4adc-8399-763ae061b878",
+      "index": 29,
+      "name": "Brief Psychotherapies",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/29_Brief_Psychotherapies.json",
+      "total_questions": 10
+    },
+    {
+      "id": "21733fd3-b177-4c2f-aeca-c282a49710dc",
+      "index": 30,
+      "name": "Psychodynamic Psychotherapy",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/30_Psychodynamic_Psychotherapy.json",
+      "total_questions": 14
+    },
+    {
+      "id": "5cf7b461-e7ea-4bc2-b2bb-5fe555779595",
+      "index": 31,
+      "name": "Mentalizing in Psychotherapy",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/31_Mentalizing_in_Psychotherapy.json",
+      "total_questions": 13
+    },
+    {
+      "id": "77958df6-0ac6-495f-aacb-fad624dc27de",
+      "index": 32,
+      "name": "Cognitive-Behavior Therapy",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/32_Cognitive-Behavior_Therapy.json",
+      "total_questions": 14
+    },
+    {
+      "id": "f0a7146f-6f7f-4854-8786-540e88b791e7",
+      "index": 33,
+      "name": "Supportive Psychotherapy",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/33_Supportive_Psychotherapy.json",
+      "total_questions": 14
+    },
+    {
+      "id": "2508f732-62cb-4ad4-a31d-01a1e09947bc",
+      "index": 34,
+      "name": "Treatment of Children and Adolescents",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/34_Treatment_of_Children_and_Adolescents.json",
+      "total_questions": 18
+    },
+    {
+      "id": "93f57f99-1440-4cf5-932f-886e9d32c4c2",
+      "index": 35,
+      "name": "Treatment of Seniors",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/35_Treatment_of_Seniors.json",
+      "total_questions": 10
+    },
+    {
+      "id": "98145c76-d52d-47c0-976d-93c7af80dd53",
+      "index": 36,
+      "name": "Treatment of Culturally Diverse Populations",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/36_Treatment_of_Culturally_Diverse_Populations.json",
+      "total_questions": 10
+    },
+    {
+      "id": "80eda0b4-100a-4f46-9c92-520491e14c0c",
+      "index": 37,
+      "name": "Treatment of Lesbian, Gay, Bisexual, and Transgender Patients\t",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/37_Treatment_of_Lesbian,_Gay,_Bisexual,_and_Transgender_Patients.json",
+      "total_questions": 8
+    },
+    {
+      "id": "cadf0eb8-f55c-4a26-a13c-1d44f2834659",
+      "index": 38,
+      "name": "Treatment of Women",
+      "subject": "APA Study Guide To Psychiatry",
+      "resource": "APA Study Guide To Psychiatry",
+      "file": "data/qalam_chapters/01_APA_Study_Guide_To_Psychiatry/38_Treatment_of_Women.json",
+      "total_questions": 15
+    },
+    {
+      "id": "f173f943-808f-420e-9383-5d2451b85623",
+      "index": 39,
+      "name": "Arab Board Part I",
+      "subject": "Arab board previous years ",
+      "resource": "Arab board previous years ",
+      "file": "data/qalam_chapters/02_Arab_board_previous_years/01_Arab_Board_Part_I.json",
+      "total_questions": 117
+    },
+    {
+      "id": "000ad2d2-3dd1-4d7b-9f8d-3af9240f4a7b",
+      "index": 40,
+      "name": "2013 PSYCHIATRY RESIDENT IN-TRAINING EXAMINATION",
+      "subject": "Arab board previous years ",
+      "resource": "Arab board previous years ",
+      "file": "data/qalam_chapters/02_Arab_board_previous_years/02_2013_PSYCHIATRY_RESIDENT_IN-TRAINING_EXAMINATION.json",
+      "total_questions": 148
+    },
+    {
+      "id": "5a1e9c01-d901-4b94-88dd-60f2add9305a",
+      "index": 41,
+      "name": "Arab Board Paper II",
+      "subject": "Arab board previous years ",
+      "resource": "Arab board previous years ",
+      "file": "data/qalam_chapters/02_Arab_board_previous_years/03_Arab_Board_Paper_II.json",
+      "total_questions": 60
+    },
+    {
+      "id": "971bf5a1-2617-41db-bb00-a5454ee01da4",
+      "index": 42,
+      "name": "Arab Board Part III",
+      "subject": "Arab board previous years ",
+      "resource": "Arab board previous years ",
+      "file": "data/qalam_chapters/02_Arab_board_previous_years/04_Arab_Board_Part_III.json",
+      "total_questions": 193
+    },
+    {
+      "id": "1633d0a0-108e-42e5-9832-df59add540c4",
+      "index": 43,
+      "name": "Arab Board Part IV",
+      "subject": "Arab board previous years ",
+      "resource": "Arab board previous years ",
+      "file": "data/qalam_chapters/02_Arab_board_previous_years/05_Arab_Board_Part_IV.json",
+      "total_questions": 159
+    },
+    {
+      "id": "faee1350-33ca-4059-83b4-859e44604fff",
+      "index": 44,
+      "name": "Clinical Skills",
+      "subject": "Best of Five MCQs Paper 1",
+      "resource": "Best of Five MCQs Paper 1",
+      "file": "data/qalam_chapters/03_Best_of_Five_MCQs_Paper_1/01_Clinical_Skills.json",
+      "total_questions": 75
+    },
+    {
+      "id": "a9c5a9f8-3071-459b-9785-85619eb5802d",
+      "index": 45,
+      "name": "Core Clinical Psychiatry",
+      "subject": "Best of Five MCQs Paper 1",
+      "resource": "Best of Five MCQs Paper 1",
+      "file": "data/qalam_chapters/03_Best_of_Five_MCQs_Paper_1/02_Core_Clinical_Psychiatry.json",
+      "total_questions": 100
+    },
+    {
+      "id": "e2d22b1e-2776-4226-8877-5eb4a046fbb7",
+      "index": 46,
+      "name": "Psychopathology",
+      "subject": "Best of Five MCQs Paper 1",
+      "resource": "Best of Five MCQs Paper 1",
+      "file": "data/qalam_chapters/03_Best_of_Five_MCQs_Paper_1/03_Psychopathology.json",
+      "total_questions": 85
+    },
+    {
+      "id": "90885625-bc1c-4ae9-8ce0-52872ed5d103",
+      "index": 47,
+      "name": "Psychology",
+      "subject": "Best of Five MCQs Paper 1",
+      "resource": "Best of Five MCQs Paper 1",
+      "file": "data/qalam_chapters/03_Best_of_Five_MCQs_Paper_1/04_Psychology.json",
+      "total_questions": 70
+    },
+    {
+      "id": "f73b3d82-99d2-4a49-ae37-c3a6b3459aab",
+      "index": 48,
+      "name": "Psychopharmacology",
+      "subject": "Best of Five MCQs Paper 1",
+      "resource": "Best of Five MCQs Paper 1",
+      "file": "data/qalam_chapters/03_Best_of_Five_MCQs_Paper_1/05_Psychopharmacology.json",
+      "total_questions": 60
+    },
+    {
+      "id": "ab7b26c9-c2ec-416a-accd-7e6a351dad21",
+      "index": 49,
+      "name": "History, Social Psyhchiatry, and Ethics",
+      "subject": "Best of Five MCQs Paper 1",
+      "resource": "Best of Five MCQs Paper 1",
+      "file": "data/qalam_chapters/03_Best_of_Five_MCQs_Paper_1/06_History,_Social_Psyhchiatry,_and_Ethics.json",
+      "total_questions": 60
+    },
+    {
+      "id": "b7bcbb16-32ce-49f4-9050-cde0e6450bd6",
+      "index": 50,
+      "name": "Psychiatric Genetics",
+      "subject": "Best of Five MCQs Paper 2",
+      "resource": "Best of Five MCQs Paper 2",
+      "file": "data/qalam_chapters/04_Best_of_Five_MCQs_Paper_2/01_Psychiatric_Genetics.json",
+      "total_questions": 80
+    },
+    {
+      "id": "e81c6b12-a00f-4ebe-aefe-96a70a902f7d",
+      "index": 51,
+      "name": "Epidemiology",
+      "subject": "Best of Five MCQs Paper 2",
+      "resource": "Best of Five MCQs Paper 2",
+      "file": "data/qalam_chapters/04_Best_of_Five_MCQs_Paper_2/02_Epidemiology.json",
+      "total_questions": 70
+    },
+    {
+      "id": "cf1c8b4b-0ecb-4a9f-a989-1e5cb393306d",
+      "index": 52,
+      "name": "Advanced Psychology",
+      "subject": "Best of Five MCQs Paper 2",
+      "resource": "Best of Five MCQs Paper 2",
+      "file": "data/qalam_chapters/04_Best_of_Five_MCQs_Paper_2/03_Advanced_Psychology.json",
+      "total_questions": 70
+    },
+    {
+      "id": "e2338c1f-80e6-4831-8c2e-3479aad977a3",
+      "index": 53,
+      "name": "Pharmacology",
+      "subject": "Best of Five MCQs Paper 2",
+      "resource": "Best of Five MCQs Paper 2",
+      "file": "data/qalam_chapters/04_Best_of_Five_MCQs_Paper_2/04_Pharmacology.json",
+      "total_questions": 95
+    },
+    {
+      "id": "209bebc0-76c3-4682-95e3-42e82eb3b271",
+      "index": 54,
+      "name": "Neurosciences",
+      "subject": "Best of Five MCQs Paper 2",
+      "resource": "Best of Five MCQs Paper 2",
+      "file": "data/qalam_chapters/04_Best_of_Five_MCQs_Paper_2/05_Neurosciences.json",
+      "total_questions": 140
+    },
+    {
+      "id": "de39e39b-82d1-424e-b954-3f1da9c749f3",
+      "index": 55,
+      "name": "General Adult Psychiatry\t",
+      "subject": "Best of Five MCQs Paper 3",
+      "resource": "Best of Five MCQs Paper 3",
+      "file": "data/qalam_chapters/05_Best_of_Five_MCQs_Paper_3/01_General_Adult_Psychiatry.json",
+      "total_questions": 50
+    },
+    {
+      "id": "7be0053c-75a7-49ec-b6d6-efd2dc0a8183",
+      "index": 56,
+      "name": "Forensic and Rehabilitation Psychiatry\t",
+      "subject": "Best of Five MCQs Paper 3",
+      "resource": "Best of Five MCQs Paper 3",
+      "file": "data/qalam_chapters/05_Best_of_Five_MCQs_Paper_3/02_Forensic_and_Rehabilitation_Psychiatry.json",
+      "total_questions": 50
+    },
+    {
+      "id": "902387bd-9b78-4f16-a9ff-29b8cdc12467",
+      "index": 57,
+      "name": "Child Psychiatry and Learning Disabilities",
+      "subject": "Best of Five MCQs Paper 3",
+      "resource": "Best of Five MCQs Paper 3",
+      "file": "data/qalam_chapters/05_Best_of_Five_MCQs_Paper_3/03_Child_Psychiatry_and_Learning_Disabilities.json",
+      "total_questions": 50
+    },
+    {
+      "id": "155b401e-ef59-4f5c-93f8-331c6635619f",
+      "index": 58,
+      "name": "Old Age Psychiatry",
+      "subject": "Best of Five MCQs Paper 3",
+      "resource": "Best of Five MCQs Paper 3",
+      "file": "data/qalam_chapters/05_Best_of_Five_MCQs_Paper_3/04_Old_Age_Psychiatry.json",
+      "total_questions": 50
+    },
+    {
+      "id": "fb1d6362-ed10-43a2-b7ac-826c7877a8d5",
+      "index": 59,
+      "name": "Substance Use Disorders",
+      "subject": "Best of Five MCQs Paper 3",
+      "resource": "Best of Five MCQs Paper 3",
+      "file": "data/qalam_chapters/05_Best_of_Five_MCQs_Paper_3/05_Substance_Use_Disorders.json",
+      "total_questions": 50
+    },
+    {
+      "id": "852053a3-3152-43e3-b3e7-7fa7d25df1f8",
+      "index": 60,
+      "name": "Organic, Liaison, and Perinatal Psychiatry",
+      "subject": "Best of Five MCQs Paper 3",
+      "resource": "Best of Five MCQs Paper 3",
+      "file": "data/qalam_chapters/05_Best_of_Five_MCQs_Paper_3/06_Organic,_Liaison,_and_Perinatal_Psychiatry.json",
+      "total_questions": 50
+    },
+    {
+      "id": "74a9aa9e-9247-47af-9d4b-2886259cb4f7",
+      "index": 61,
+      "name": "Psychotherapy",
+      "subject": "Best of Five MCQs Paper 3",
+      "resource": "Best of Five MCQs Paper 3",
+      "file": "data/qalam_chapters/05_Best_of_Five_MCQs_Paper_3/07_Psychotherapy.json",
+      "total_questions": 50
+    },
+    {
+      "id": "3bc12d9f-0d80-4ea0-9110-a9eb1f12cf83",
+      "index": 62,
+      "name": "Basic Statistics",
+      "subject": "Best of Five MCQs Paper 3",
+      "resource": "Best of Five MCQs Paper 3",
+      "file": "data/qalam_chapters/05_Best_of_Five_MCQs_Paper_3/08_Basic_Statistics.json",
+      "total_questions": 100
+    },
+    {
+      "id": "7013be5b-1deb-4cf3-bccd-10d600f650f0",
+      "index": 63,
+      "name": "Part 1",
+      "subject": "Birmingham",
+      "resource": "Birmingham",
+      "file": "data/qalam_chapters/06_Birmingham/01_Part_1.json",
+      "total_questions": 150
+    },
+    {
+      "id": "982efcac-a08e-4934-8233-7bffb0d7f458",
+      "index": 64,
+      "name": "Part 2",
+      "subject": "Birmingham",
+      "resource": "Birmingham",
+      "file": "data/qalam_chapters/06_Birmingham/02_Part_2.json",
+      "total_questions": 150
+    },
+    {
+      "id": "2c594fec-c477-43d7-ba8e-b5ecdb213c0b",
+      "index": 65,
+      "name": "Part 3",
+      "subject": "Birmingham",
+      "resource": "Birmingham",
+      "file": "data/qalam_chapters/06_Birmingham/03_Part_3.json",
+      "total_questions": 150
+    },
+    {
+      "id": "7b33f64c-74fe-4566-851e-766099b72b5d",
+      "index": 66,
+      "name": "Part 4",
+      "subject": "Birmingham",
+      "resource": "Birmingham",
+      "file": "data/qalam_chapters/06_Birmingham/04_Part_4.json",
+      "total_questions": 150
+    },
+    {
+      "id": "ccf55561-7037-412c-b2bc-19ee203937db",
+      "index": 67,
+      "name": "Part 5",
+      "subject": "Birmingham",
+      "resource": "Birmingham",
+      "file": "data/qalam_chapters/06_Birmingham/05_Part_5.json",
+      "total_questions": 150
+    },
+    {
+      "id": "c9b4a379-edf5-41cd-aeed-6757c37c834f",
+      "index": 68,
+      "name": "Part 6",
+      "subject": "Birmingham",
+      "resource": "Birmingham",
+      "file": "data/qalam_chapters/06_Birmingham/06_Part_6.json",
+      "total_questions": 150
+    },
+    {
+      "id": "1d4ac2e6-9014-4a32-a6f1-e6fdb73e18aa",
+      "index": 69,
+      "name": "Part 7",
+      "subject": "Birmingham",
+      "resource": "Birmingham",
+      "file": "data/qalam_chapters/06_Birmingham/07_Part_7.json",
+      "total_questions": 150
+    },
+    {
+      "id": "c7622370-1d64-4f67-b6ed-118f9f58abef",
+      "index": 70,
+      "name": "Part 8",
+      "subject": "Birmingham",
+      "resource": "Birmingham",
+      "file": "data/qalam_chapters/06_Birmingham/08_Part_8.json",
+      "total_questions": 150
+    },
+    {
+      "id": "c1703eb4-0e76-4901-869c-9530e93065a5",
+      "index": 71,
+      "name": "Part 9",
+      "subject": "Birmingham",
+      "resource": "Birmingham",
+      "file": "data/qalam_chapters/06_Birmingham/09_Part_9.json",
+      "total_questions": 150
+    },
+    {
+      "id": "7d4c29b1-aa21-49b9-8c0d-48717dbf2bd7",
+      "index": 72,
+      "name": "Part 10",
+      "subject": "Birmingham",
+      "resource": "Birmingham",
+      "file": "data/qalam_chapters/06_Birmingham/10_Part_10.json",
+      "total_questions": 150
+    },
+    {
+      "id": "1659f00a-00df-44ae-b33a-2a2c7112233f",
+      "index": 73,
+      "name": "Part 11",
+      "subject": "Birmingham",
+      "resource": "Birmingham",
+      "file": "data/qalam_chapters/06_Birmingham/11_Part_11.json",
+      "total_questions": 150
+    },
+    {
+      "id": "5bda8f0f-fa4c-4967-ab70-74830ea2b629",
+      "index": 74,
+      "name": "Part 12",
+      "subject": "Birmingham",
+      "resource": "Birmingham",
+      "file": "data/qalam_chapters/06_Birmingham/12_Part_12.json",
+      "total_questions": 79
+    },
+    {
+      "id": "70d9208f-b97b-4741-9461-9a0313a5306b",
+      "index": 75,
+      "name": "Normal Growth and Development",
+      "subject": "Child and Adolescent Psychiatry",
+      "resource": "Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/07_Child_and_Adolescent_Psychiatry/01_Normal_Growth_and_Development.json",
+      "total_questions": 112
+    },
+    {
+      "id": "03c66c75-cda5-4df8-9bfc-ed7977cdf9ea",
+      "index": 76,
+      "name": "Neurodevelopmental Disorders",
+      "subject": "Child and Adolescent Psychiatry",
+      "resource": "Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/07_Child_and_Adolescent_Psychiatry/02_Neurodevelopmental_Disorders.json",
+      "total_questions": 91
+    },
+    {
+      "id": "c9a9d106-2b2d-4e8a-bca3-d4837a6e23e7",
+      "index": 77,
+      "name": "Schizophrenia Spectrum Disorders and Other Psychotic Disorders",
+      "subject": "Child and Adolescent Psychiatry",
+      "resource": "Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/07_Child_and_Adolescent_Psychiatry/03_Schizophrenia_Spectrum_Disorders_and_Other_Psychotic_Disorders.json",
+      "total_questions": 20
+    },
+    {
+      "id": "c5ba2d16-b5b7-44e4-9459-220f57c225c5",
+      "index": 78,
+      "name": "Bipolar and Related Disorders and Depressive Disorders",
+      "subject": "Child and Adolescent Psychiatry",
+      "resource": "Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/07_Child_and_Adolescent_Psychiatry/04_Bipolar_and_Related_Disorders_and_Depressive_Disorders.json",
+      "total_questions": 35
+    },
+    {
+      "id": "c9732e64-a7db-40c3-bead-c9218f470848",
+      "index": 79,
+      "name": "Disruptive, Impulse-Control, and Conduct Disorders",
+      "subject": "Child and Adolescent Psychiatry",
+      "resource": "Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/07_Child_and_Adolescent_Psychiatry/05_Disruptive,_Impulse-Control,_and_Conduct_Disorders.json",
+      "total_questions": 20
+    },
+    {
+      "id": "c026b2a6-6a49-4e8e-9a55-9c6bed128368",
+      "index": 80,
+      "name": "Anxiety Disorders, Obsessive-Compulsive and Related Disorders, Trauma- and Stressor-Related Disorders, and Dissociative Disorders",
+      "subject": "Child and Adolescent Psychiatry",
+      "resource": "Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/07_Child_and_Adolescent_Psychiatry/06_Anxiety_Disorders,_Obsessive-Compulsive_and_Related_Disorders,_Trauma-_and_Stres.json",
+      "total_questions": 40
+    },
+    {
+      "id": "5b43440e-ef57-4dfd-83e5-29a486d95d3e",
+      "index": 81,
+      "name": "Feeding and Eating Disorders, Elimination Disorders, and Obesity",
+      "subject": "Child and Adolescent Psychiatry",
+      "resource": "Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/07_Child_and_Adolescent_Psychiatry/07_Feeding_and_Eating_Disorders,_Elimination_Disorders,_and_Obesity.json",
+      "total_questions": 53
+    },
+    {
+      "id": "b122fe05-2ae9-492d-9b61-f78b97ccb128",
+      "index": 82,
+      "name": "Somatic Symptoms and Related Disorders and Sleep-Wake Disorders",
+      "subject": "Child and Adolescent Psychiatry",
+      "resource": "Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/07_Child_and_Adolescent_Psychiatry/08_Somatic_Symptoms_and_Related_Disorders_and_Sleep-Wake_Disorders.json",
+      "total_questions": 40
+    },
+    {
+      "id": "deaf8b44-97f6-401d-925c-c91a0a0b8f5b",
+      "index": 83,
+      "name": "Substance-Related and Addictive Disorders",
+      "subject": "Child and Adolescent Psychiatry",
+      "resource": "Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/07_Child_and_Adolescent_Psychiatry/09_Substance-Related_and_Addictive_Disorders.json",
+      "total_questions": 26
+    },
+    {
+      "id": "671bdbd0-6bf3-410d-9aae-ec0929939431",
+      "index": 84,
+      "name": "Special Issues (Suicide, Sexual Dysfunction, Gender Dysphoria, AIDS, Paraphilic Disorders, Abuse, and Personality Disorders)",
+      "subject": "Child and Adolescent Psychiatry",
+      "resource": "Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/07_Child_and_Adolescent_Psychiatry/10_Special_Issues_(Suicide,_Sexual_Dysfunction,_Gender_Dysphoria,_AIDS,_Paraphilic_.json",
+      "total_questions": 74
+    },
+    {
+      "id": "2c0c5f6d-77cc-4eb6-96c1-d443ab361987",
+      "index": 85,
+      "name": "Psychological Testing and Rating Scales",
+      "subject": "Child and Adolescent Psychiatry",
+      "resource": "Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/07_Child_and_Adolescent_Psychiatry/11_Psychological_Testing_and_Rating_Scales.json",
+      "total_questions": 30
+    },
+    {
+      "id": "2f073fc9-69ab-4c10-9ca3-c3bbd73adafd",
+      "index": 86,
+      "name": "Psychopharmacology and Medication-induced Movement Disorders and Other Adverse Effects of Medication",
+      "subject": "Child and Adolescent Psychiatry",
+      "resource": "Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/07_Child_and_Adolescent_Psychiatry/12_Psychopharmacology_and_Medication-induced_Movement_Disorders_and_Other_Adverse_E.json",
+      "total_questions": 70
+    },
+    {
+      "id": "b757fd32-c06f-4215-b63f-5d5200d23103",
+      "index": 87,
+      "name": "Psychotherapies",
+      "subject": "Child and Adolescent Psychiatry",
+      "resource": "Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/07_Child_and_Adolescent_Psychiatry/13_Psychotherapies.json",
+      "total_questions": 40
+    },
+    {
+      "id": "0012a04e-74d8-419c-af07-70edd8ed1c9b",
+      "index": 88,
+      "name": "Treatment Settings, Health Care System, and Outcome",
+      "subject": "Child and Adolescent Psychiatry",
+      "resource": "Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/07_Child_and_Adolescent_Psychiatry/14_Treatment_Settings,_Health_Care_System,_and_Outcome.json",
+      "total_questions": 20
+    },
+    {
+      "id": "02f1addb-a1c4-442b-827c-828687c87fbc",
+      "index": 89,
+      "name": "Special Topics (Consultation, Forensics, and Public Health)",
+      "subject": "Child and Adolescent Psychiatry",
+      "resource": "Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/07_Child_and_Adolescent_Psychiatry/15_Special_Topics_(Consultation,_Forensics,_and_Public_Health).json",
+      "total_questions": 40
+    },
+    {
+      "id": "f34cb429-1630-45e3-aa51-9e28b38c1cc4",
+      "index": 90,
+      "name": "Research Design, Statistics, and Technologies",
+      "subject": "Child and Adolescent Psychiatry",
+      "resource": "Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/07_Child_and_Adolescent_Psychiatry/16_Research_Design,_Statistics,_and_Technologies.json",
+      "total_questions": 25
+    },
+    {
+      "id": "0c6850ee-a390-4e81-b774-1480e71f9b0d",
+      "index": 91,
+      "name": "Case Histories and Treatment Planning",
+      "subject": "Child and Adolescent Psychiatry",
+      "resource": "Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/07_Child_and_Adolescent_Psychiatry/17_Case_Histories_and_Treatment_Planning.json",
+      "total_questions": 80
+    },
+    {
+      "id": "fec16b86-8280-4ed8-a55d-25a52d03efa4",
+      "index": 92,
+      "name": "DSM-5 Introduction",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/00_DSM-5_Introduction.json",
+      "total_questions": 3
+    },
+    {
+      "id": "e941c691-f81d-47e8-a099-36d673edbb36",
+      "index": 93,
+      "name": "Neurodevelopmental Disorders",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/01_Neurodevelopmental_Disorders.json",
+      "total_questions": 75
+    },
+    {
+      "id": "45aed393-2f08-4c27-a504-c4df7ec3a6dd",
+      "index": 94,
+      "name": "Schizophrenia Spectrum and Other Psychotic Disorders",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/02_Schizophrenia_Spectrum_and_Other_Psychotic_Disorders.json",
+      "total_questions": 35
+    },
+    {
+      "id": "9cded267-e00b-409c-a78c-fb3f5be167eb",
+      "index": 95,
+      "name": "Bipolar and Related Disorders",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/03_Bipolar_and_Related_Disorders.json",
+      "total_questions": 18
+    },
+    {
+      "id": "2d02bb0d-9527-4ce5-a39f-8a32b9c8e54c",
+      "index": 96,
+      "name": "Depressive Disorders",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/04_Depressive_Disorders.json",
+      "total_questions": 31
+    },
+    {
+      "id": "2917405f-7072-4aef-b002-eb67328b7911",
+      "index": 97,
+      "name": "Anxiety Disorders",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/05_Anxiety_Disorders.json",
+      "total_questions": 24
+    },
+    {
+      "id": "20b88b2b-4afd-42d5-bbc2-0deff540a393",
+      "index": 98,
+      "name": "Obsessive-Compulsive and Related Disorders",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/06_Obsessive-Compulsive_and_Related_Disorders.json",
+      "total_questions": 19
+    },
+    {
+      "id": "0d233333-9566-4c7f-bef5-33456ea19a7b",
+      "index": 99,
+      "name": "Trauma- and Stressor Related Disorders",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/07_Trauma-_and_Stressor_Related_Disorders.json",
+      "total_questions": 26
+    },
+    {
+      "id": "5914e51d-692e-463f-80a3-0d10c3cda412",
+      "index": 100,
+      "name": "Dissociative Disorders",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/08_Dissociative_Disorders.json",
+      "total_questions": 8
+    },
+    {
+      "id": "145cc656-ebbf-4d9a-a8cc-17a489a201e1",
+      "index": 101,
+      "name": "Somatic Symptom and Related Disorders",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/09_Somatic_Symptom_and_Related_Disorders.json",
+      "total_questions": 22
+    },
+    {
+      "id": "d285533c-2849-46e5-8665-60b31a837d00",
+      "index": 102,
+      "name": "Feeding and Eating Disorders",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/10_Feeding_and_Eating_Disorders.json",
+      "total_questions": 14
+    },
+    {
+      "id": "5ebc26f2-f0e9-4612-872f-6dd63595829d",
+      "index": 103,
+      "name": "Elimination Disorders",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/11_Elimination_Disorders.json",
+      "total_questions": 8
+    },
+    {
+      "id": "308ffcff-8b31-44f7-a817-9bceef3215c0",
+      "index": 104,
+      "name": "Sleep-Wake Disorders",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/12_Sleep-Wake_Disorders.json",
+      "total_questions": 27
+    },
+    {
+      "id": "252591e5-a2cb-4d7f-a6c0-3defe21ff9f9",
+      "index": 105,
+      "name": "Sexual Dysfunctions",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/13_Sexual_Dysfunctions.json",
+      "total_questions": 13
+    },
+    {
+      "id": "410c29e3-08f8-4770-9f12-b44353b976a4",
+      "index": 106,
+      "name": "Gender Dysphoria",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/14_Gender_Dysphoria.json",
+      "total_questions": 9
+    },
+    {
+      "id": "b0b500dc-782c-4075-9617-442816e5370d",
+      "index": 107,
+      "name": "Disruptive, ImpulseControl, and Conduct Disorders",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/15_Disruptive,_ImpulseControl,_and_Conduct_Disorders.json",
+      "total_questions": 24
+    },
+    {
+      "id": "be5b73c1-7938-4445-a094-d80d797381e3",
+      "index": 108,
+      "name": "Substance-Related and Addictive Disorders",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/16_Substance-Related_and_Addictive_Disorders.json",
+      "total_questions": 43
+    },
+    {
+      "id": "a5787cbe-668b-4f20-a422-972274db801d",
+      "index": 109,
+      "name": "Neurocognitive Disorders",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/17_Neurocognitive_Disorders.json",
+      "total_questions": 24
+    },
+    {
+      "id": "896e0751-eb4a-46ad-8cf2-c9d3d4bedbf8",
+      "index": 110,
+      "name": "Personality Disorders",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/18_Personality_Disorders.json",
+      "total_questions": 24
+    },
+    {
+      "id": "24978b00-6901-4fa7-87e6-9adc530147f7",
+      "index": 111,
+      "name": "Paraphilic Disorders",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/19_Paraphilic_Disorders.json",
+      "total_questions": 7
+    },
+    {
+      "id": "f03075c8-82ad-4475-8fb8-0741c36ac0fc",
+      "index": 112,
+      "name": "Assessment Measures (DSM-5 Section III)",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/20_Assessment_Measures_(DSM-5_Section_III).json",
+      "total_questions": 9
+    },
+    {
+      "id": "165eba21-c8e6-4241-aafe-767339f09ba8",
+      "index": 113,
+      "name": "Cultural Formulation (DSM-5 Section III) and Glossary of Cultural Concepts of Distress",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/21_Cultural_Formulation_(DSM-5_Section_III)_and_Glossary_of_Cultural_Concepts_of_Di.json",
+      "total_questions": 13
+    },
+    {
+      "id": "ed569b79-68a0-4119-b8fe-8032c6d746d8",
+      "index": 114,
+      "name": "Alternative DSM-5 Model for Personality Disorders (DSM-5 Section III)",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/22_Alternative_DSM-5_Model_for_Personality_Disorders_(DSM-5_Section_III).json",
+      "total_questions": 11
+    },
+    {
+      "id": "c2dfcd4f-393f-41d5-a47f-d1e7741bf9a4",
+      "index": 115,
+      "name": "Glossary of Technical Terms (DSM-5 Appendix)",
+      "subject": "DSM-5 SELF-EXAM QUESTIONS",
+      "resource": "DSM-5 SELF-EXAM QUESTIONS",
+      "file": "data/qalam_chapters/08_DSM-5_SELF-EXAM_QUESTIONS/23_Glossary_of_Technical_Terms_(DSM-5_Appendix).json",
+      "total_questions": 26
+    },
+    {
+      "id": "2af8b465-82d7-4171-ba10-340a699689b6",
+      "index": 116,
+      "name": "NEURODEVELOPMENTAL\tDISORDERS",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/01_NEURODEVELOPMENTAL_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "2317e102-1e9a-4dae-9a08-a0ed55d62919",
+      "index": 117,
+      "name": "SCHIZOPHRENIA\tSPECTRUM\tAND\tOTHER\tPSYCHOTIC\tDISORDERS",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/02_SCHIZOPHRENIA_SPECTRUM_AND_OTHER_PSYCHOTIC_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "1aba323e-76a7-4c5b-be65-62fae9455847",
+      "index": 118,
+      "name": "BIPOLAR\tAND\tRELATED\tDISORDERS",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/03_BIPOLAR_AND_RELATED_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "e6e4fafc-24b8-444b-8bdf-141d8be11326",
+      "index": 119,
+      "name": "DEPRESSIVE DISORDERS",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/04_DEPRESSIVE_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "8b179e4c-9d5b-4ffb-be22-8baddffba744",
+      "index": 120,
+      "name": "ANXIETY DISORDERS",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/05_ANXIETY_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "1f2acc01-0de2-4821-973c-c6aa1a0fe22f",
+      "index": 121,
+      "name": "OBSSESIVE COMPULSIVE AND RELATED DISORDERS",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/06_OBSSESIVE_COMPULSIVE_AND_RELATED_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "3259a43a-d70a-4044-a8c1-ab7ac622df84",
+      "index": 122,
+      "name": "TRAUMA AND STRESSOR RELATED DISORDERS",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/07_TRAUMA_AND_STRESSOR_RELATED_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "fdae9ca4-189e-4eff-ad32-6e6cb40db1f4",
+      "index": 123,
+      "name": "DISSOCIATIVE DISORDERS",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/08_DISSOCIATIVE_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "5a191203-cbbc-4c02-8f23-77eab9a0f5d1",
+      "index": 124,
+      "name": "SOMATIC SYMPTOMS AND RELATED DISORDERS",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/09_SOMATIC_SYMPTOMS_AND_RELATED_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "6d7f6da4-8e6e-4aab-93f5-cf87c51c8f92",
+      "index": 125,
+      "name": "FEEDING AND EATING DISORDERS",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/10_FEEDING_AND_EATING_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "2afe4f92-89de-4669-aba4-0bfdfa1a5bf1",
+      "index": 126,
+      "name": "ELIMINATION DISORDERS",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/11_ELIMINATION_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "ea80d2e8-6f84-41ab-9a46-6d60336d0073",
+      "index": 127,
+      "name": "SLEEP-WAKE DISORDERS",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/12_SLEEP-WAKE_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "290d1710-4e19-418a-9c3a-6ecb3546b1dd",
+      "index": 128,
+      "name": "GENDER DYSPHORIA",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/13_GENDER_DYSPHORIA.json",
+      "total_questions": 50
+    },
+    {
+      "id": "6449301a-6ad0-44ec-9cae-1faeb2ccf373",
+      "index": 129,
+      "name": "DISRUPTIVE, IMPULSE-CONTROL, AND CONDUCT DISORDERS",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/14_DISRUPTIVE,_IMPULSE-CONTROL,_AND_CONDUCT_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "85df40e5-a3c9-499d-a10a-845b44b67075",
+      "index": 130,
+      "name": "SUBSTANCE-RELATED AND ADDICTIVE DISORDERS",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/15_SUBSTANCE-RELATED_AND_ADDICTIVE_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "d6700077-819c-4a8c-8574-9a05b4af7299",
+      "index": 131,
+      "name": "NEUROCOGNITIVE DISOREDRS",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/16_NEUROCOGNITIVE_DISOREDRS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "e4aa2361-8499-4678-afba-da04667494ce",
+      "index": 132,
+      "name": "PERSONALITY DISORDERS",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/17_PERSONALITY_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "50ec7091-385f-4a5f-8c05-baaf6cc725e8",
+      "index": 133,
+      "name": "PARAPHILIC DISORDERS",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/18_PARAPHILIC_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "27a104c5-1344-4b1a-babf-bf9c45f43bed",
+      "index": 134,
+      "name": "OTHER MENTAL DISORDERS",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/19_OTHER_MENTAL_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "cc1e581d-abd4-4e68-a399-4c1382d12749",
+      "index": 135,
+      "name": "SEXUAL DYSFUNCTION",
+      "subject": "DSM-5-TR",
+      "resource": "DSM-5-TR",
+      "file": "data/qalam_chapters/09_DSM-5-TR/20_SEXUAL_DYSFUNCTION.json",
+      "total_questions": 50
+    },
+    {
+      "id": "6f7a83bf-1b09-40fb-bc0d-aabf2d4eadf6",
+      "index": 136,
+      "name": "Part 1",
+      "subject": "Focus Psychiatry Review",
+      "resource": "Focus Psychiatry Review",
+      "file": "data/qalam_chapters/10_Focus_Psychiatry_Review/01_Part_1.json",
+      "total_questions": 100
+    },
+    {
+      "id": "0613671b-2657-4734-8ab9-f38a93fc71d7",
+      "index": 137,
+      "name": "Part 2",
+      "subject": "Focus Psychiatry Review",
+      "resource": "Focus Psychiatry Review",
+      "file": "data/qalam_chapters/10_Focus_Psychiatry_Review/02_Part_2.json",
+      "total_questions": 100
+    },
+    {
+      "id": "37ffed3f-2f7c-48e5-bf3c-44be40b18395",
+      "index": 138,
+      "name": "Part 3",
+      "subject": "Focus Psychiatry Review",
+      "resource": "Focus Psychiatry Review",
+      "file": "data/qalam_chapters/10_Focus_Psychiatry_Review/03_Part_3.json",
+      "total_questions": 100
+    },
+    {
+      "id": "dca8a3b9-f7ac-4df7-9289-80bc4e9ab60f",
+      "index": 139,
+      "name": "Part 4",
+      "subject": "Focus Psychiatry Review",
+      "resource": "Focus Psychiatry Review",
+      "file": "data/qalam_chapters/10_Focus_Psychiatry_Review/04_Part_4.json",
+      "total_questions": 100
+    },
+    {
+      "id": "3719b162-fcf0-4b2e-8ec9-6b32eda6de48",
+      "index": 140,
+      "name": "EXAMINATION 1",
+      "subject": "Get Through A1",
+      "resource": "Get Through A1",
+      "file": "data/qalam_chapters/11_Get_Through_A1/01_EXAMINATION_1.json",
+      "total_questions": 194
+    },
+    {
+      "id": "4938a863-baa8-41ec-9059-e2c6882b0f45",
+      "index": 141,
+      "name": "EXAMINATION 2",
+      "subject": "Get Through A1",
+      "resource": "Get Through A1",
+      "file": "data/qalam_chapters/11_Get_Through_A1/02_EXAMINATION_2.json",
+      "total_questions": 185
+    },
+    {
+      "id": "dcefc469-ed68-4066-a382-f44d0be4c8c1",
+      "index": 142,
+      "name": "EXAMINATION 3",
+      "subject": "Get Through A1",
+      "resource": "Get Through A1",
+      "file": "data/qalam_chapters/11_Get_Through_A1/03_EXAMINATION_3.json",
+      "total_questions": 193
+    },
+    {
+      "id": "5b540a11-5d94-4d03-a329-87d434ea8375",
+      "index": 143,
+      "name": "EXAMINATION 4",
+      "subject": "Get Through A1",
+      "resource": "Get Through A1",
+      "file": "data/qalam_chapters/11_Get_Through_A1/04_EXAMINATION_4.json",
+      "total_questions": 194
+    },
+    {
+      "id": "0fb8d497-0c07-41e2-a878-ae37aedf4db3",
+      "index": 144,
+      "name": "EXAMINATION 5",
+      "subject": "Get Through A1",
+      "resource": "Get Through A1",
+      "file": "data/qalam_chapters/11_Get_Through_A1/05_EXAMINATION_5.json",
+      "total_questions": 193
+    },
+    {
+      "id": "07b5a552-6eca-4020-9357-141df18e21b2",
+      "index": 145,
+      "name": "EXAMINATION 1",
+      "subject": "Get Through A2",
+      "resource": "Get Through A2",
+      "file": "data/qalam_chapters/12_Get_Through_A2/01_EXAMINATION_1.json",
+      "total_questions": 184
+    },
+    {
+      "id": "d8cd7520-7dfc-4979-a7da-21e621992f4d",
+      "index": 146,
+      "name": "EXAMINATION 2",
+      "subject": "Get Through A2",
+      "resource": "Get Through A2",
+      "file": "data/qalam_chapters/12_Get_Through_A2/02_EXAMINATION_2.json",
+      "total_questions": 174
+    },
+    {
+      "id": "8d40485a-2815-485f-b422-0f3b2cb2f2a1",
+      "index": 147,
+      "name": "EXAMIANTION 3",
+      "subject": "Get Through A2",
+      "resource": "Get Through A2",
+      "file": "data/qalam_chapters/12_Get_Through_A2/03_EXAMIANTION_3.json",
+      "total_questions": 166
+    },
+    {
+      "id": "fd4d9741-e1cf-4f3d-986c-8118dea449aa",
+      "index": 148,
+      "name": "EXAMINATION 4",
+      "subject": "Get Through A2",
+      "resource": "Get Through A2",
+      "file": "data/qalam_chapters/12_Get_Through_A2/04_EXAMINATION_4.json",
+      "total_questions": 176
+    },
+    {
+      "id": "a2393f52-4164-4d00-b46b-48a0dcc87531",
+      "index": 149,
+      "name": "EXAMINATION 5",
+      "subject": "Get Through A2",
+      "resource": "Get Through A2",
+      "file": "data/qalam_chapters/12_Get_Through_A2/05_EXAMINATION_5.json",
+      "total_questions": 175
+    },
+    {
+      "id": "1bb70915-8eb5-4f8d-b1b4-7cc9d8c0852d",
+      "index": 150,
+      "name": "EXAMINATION 1",
+      "subject": "Get Through Mock Exam Paper B",
+      "resource": "Get Through Mock Exam Paper B",
+      "file": "data/qalam_chapters/13_Get_Through_Mock_Exam_Paper_B/01_EXAMINATION_1.json",
+      "total_questions": 191
+    },
+    {
+      "id": "aa0ed891-47c0-45da-8c7c-4b35bad61273",
+      "index": 151,
+      "name": "EXAMINATION 2",
+      "subject": "Get Through Mock Exam Paper B",
+      "resource": "Get Through Mock Exam Paper B",
+      "file": "data/qalam_chapters/13_Get_Through_Mock_Exam_Paper_B/02_EXAMINATION_2.json",
+      "total_questions": 193
+    },
+    {
+      "id": "4e829715-5cb7-4dcc-af8b-923f9f5d5d38",
+      "index": 152,
+      "name": "EXAMINATION 3",
+      "subject": "Get Through Mock Exam Paper B",
+      "resource": "Get Through Mock Exam Paper B",
+      "file": "data/qalam_chapters/13_Get_Through_Mock_Exam_Paper_B/03_EXAMINATION_3.json",
+      "total_questions": 188
+    },
+    {
+      "id": "257d1eca-6043-4fa5-aaa2-d2c61d30ff4d",
+      "index": 153,
+      "name": "EXAMINATION 4",
+      "subject": "Get Through Mock Exam Paper B",
+      "resource": "Get Through Mock Exam Paper B",
+      "file": "data/qalam_chapters/13_Get_Through_Mock_Exam_Paper_B/04_EXAMINATION_4.json",
+      "total_questions": 191
+    },
+    {
+      "id": "2cf2d4c6-2c3e-4594-9d05-a08ced11b2b4",
+      "index": 154,
+      "name": "EXAMINATION 5",
+      "subject": "Get Through Mock Exam Paper B",
+      "resource": "Get Through Mock Exam Paper B",
+      "file": "data/qalam_chapters/13_Get_Through_Mock_Exam_Paper_B/05_EXAMINATION_5.json",
+      "total_questions": 173
+    },
+    {
+      "id": "1925d17a-2ef8-4cb6-a45d-575935558e5f",
+      "index": 155,
+      "name": "Basic psychological processes",
+      "subject": "Get Through Paper 1",
+      "resource": "Get Through Paper 1",
+      "file": "data/qalam_chapters/14_Get_Through_Paper_1/01_Basic_psychological_processes.json",
+      "total_questions": 50
+    },
+    {
+      "id": "b7bc8811-fe5d-4866-ba1e-8aad7a61135a",
+      "index": 156,
+      "name": "Learning theory and personality",
+      "subject": "Get Through Paper 1",
+      "resource": "Get Through Paper 1",
+      "file": "data/qalam_chapters/14_Get_Through_Paper_1/02_Learning_theory_and_personality.json",
+      "total_questions": 51
+    },
+    {
+      "id": "6729a973-5edc-4437-9be6-3fe39c791a27",
+      "index": 157,
+      "name": " Human development",
+      "subject": "Get Through Paper 1",
+      "resource": "Get Through Paper 1",
+      "file": "data/qalam_chapters/14_Get_Through_Paper_1/03_Human_development.json",
+      "total_questions": 50
+    },
+    {
+      "id": "a0d365fa-62fe-4613-b60c-1e1dd2ab03a6",
+      "index": 158,
+      "name": "Social psychology and basic psychological treatments",
+      "subject": "Get Through Paper 1",
+      "resource": "Get Through Paper 1",
+      "file": "data/qalam_chapters/14_Get_Through_Paper_1/04_Social_psychology_and_basic_psychological_treatments.json",
+      "total_questions": 50
+    },
+    {
+      "id": "555a5fe8-222d-4f53-b582-49d4b5dfe3b9",
+      "index": 159,
+      "name": "Descriptive psychopathology",
+      "subject": "Get Through Paper 1",
+      "resource": "Get Through Paper 1",
+      "file": "data/qalam_chapters/14_Get_Through_Paper_1/05_Descriptive_psychopathology.json",
+      "total_questions": 82
+    },
+    {
+      "id": "83680539-fadd-48dd-8ec5-5475b37d1f31",
+      "index": 160,
+      "name": "Psychopharmacology",
+      "subject": "Get Through Paper 1",
+      "resource": "Get Through Paper 1",
+      "file": "data/qalam_chapters/14_Get_Through_Paper_1/06_Psychopharmacology.json",
+      "total_questions": 50
+    },
+    {
+      "id": "79ac88e3-5921-4caa-97ec-7357e162935f",
+      "index": 161,
+      "name": "Psychopharmacology",
+      "subject": "Get Through Paper 1",
+      "resource": "Get Through Paper 1",
+      "file": "data/qalam_chapters/14_Get_Through_Paper_1/07_Psychopharmacology.json",
+      "total_questions": 50
+    },
+    {
+      "id": "8dfb5920-ba49-4424-ba3a-787cdcf4f32f",
+      "index": 162,
+      "name": "Clinical psychiatry 1",
+      "subject": "Get Through Paper 1",
+      "resource": "Get Through Paper 1",
+      "file": "data/qalam_chapters/14_Get_Through_Paper_1/08_Clinical_psychiatry_1.json",
+      "total_questions": 57
+    },
+    {
+      "id": "88ef1c80-0ead-4c5d-9bc4-54ef86eacf4b",
+      "index": 163,
+      "name": "Clinical psychiatry 2",
+      "subject": "Get Through Paper 1",
+      "resource": "Get Through Paper 1",
+      "file": "data/qalam_chapters/14_Get_Through_Paper_1/09_Clinical_psychiatry_2.json",
+      "total_questions": 50
+    },
+    {
+      "id": "1a6a4e91-4635-47ee-8fd8-97313e48a8b3",
+      "index": 164,
+      "name": "Clinical psychiatry 3",
+      "subject": "Get Through Paper 1",
+      "resource": "Get Through Paper 1",
+      "file": "data/qalam_chapters/14_Get_Through_Paper_1/10_Clinical_psychiatry_3.json",
+      "total_questions": 50
+    },
+    {
+      "id": "9eb4d69a-8616-43be-adc6-0a9aa94799ca",
+      "index": 165,
+      "name": "Clinical psychiatry 4",
+      "subject": "Get Through Paper 1",
+      "resource": "Get Through Paper 1",
+      "file": "data/qalam_chapters/14_Get_Through_Paper_1/11_Clinical_psychiatry_4.json",
+      "total_questions": 50
+    },
+    {
+      "id": "b13af662-92a9-4e9f-a0ec-ac154cf9b1f0",
+      "index": 166,
+      "name": "Clinical psychiatry 5",
+      "subject": "Get Through Paper 1",
+      "resource": "Get Through Paper 1",
+      "file": "data/qalam_chapters/14_Get_Through_Paper_1/12_Clinical_psychiatry_5.json",
+      "total_questions": 50
+    },
+    {
+      "id": "43311638-1556-4627-908e-f756871df8d8",
+      "index": 167,
+      "name": "Advanced psychological processes and treatments",
+      "subject": "Get Through Paper 2",
+      "resource": "Get Through Paper 2",
+      "file": "data/qalam_chapters/15_Get_Through_Paper_2/01_Advanced_psychological_processes_and_treatments.json",
+      "total_questions": 50
+    },
+    {
+      "id": "2587f4bf-12fa-447d-8303-f5204ab9a4b0",
+      "index": 168,
+      "name": "Advanced psychological processes and treatments",
+      "subject": "Get Through Paper 2",
+      "resource": "Get Through Paper 2",
+      "file": "data/qalam_chapters/15_Get_Through_Paper_2/02_Advanced_psychological_processes_and_treatments.json",
+      "total_questions": 50
+    },
+    {
+      "id": "87d17958-172f-4b4e-af0d-e6ffa6b756b4",
+      "index": 169,
+      "name": "Advanced psychology, pharmacology and treatments",
+      "subject": "Get Through Paper 2",
+      "resource": "Get Through Paper 2",
+      "file": "data/qalam_chapters/15_Get_Through_Paper_2/03_Advanced_psychology,_pharmacology_and_treatments.json",
+      "total_questions": 50
+    },
+    {
+      "id": "4e462254-d570-443e-85b3-e23b53773bac",
+      "index": 170,
+      "name": "Neurosciences",
+      "subject": "Get Through Paper 2",
+      "resource": "Get Through Paper 2",
+      "file": "data/qalam_chapters/15_Get_Through_Paper_2/04_Neurosciences.json",
+      "total_questions": 50
+    },
+    {
+      "id": "55e997b8-075d-4cb0-9365-2d5feca7ca6b",
+      "index": 171,
+      "name": "Genetics and basic neurosciences",
+      "subject": "Get Through Paper 2",
+      "resource": "Get Through Paper 2",
+      "file": "data/qalam_chapters/15_Get_Through_Paper_2/05_Genetics_and_basic_neurosciences.json",
+      "total_questions": 50
+    },
+    {
+      "id": "ba9107bf-cace-401e-9e8a-d8ae834934aa",
+      "index": 172,
+      "name": "Psychopharmacology",
+      "subject": "Get Through Paper 2",
+      "resource": "Get Through Paper 2",
+      "file": "data/qalam_chapters/15_Get_Through_Paper_2/06_Psychopharmacology.json",
+      "total_questions": 50
+    },
+    {
+      "id": "8bc95f28-3b5e-4273-959c-653e69e82598",
+      "index": 173,
+      "name": "Epidemiology",
+      "subject": "Get Through Paper 2",
+      "resource": "Get Through Paper 2",
+      "file": "data/qalam_chapters/15_Get_Through_Paper_2/07_Epidemiology.json",
+      "total_questions": 50
+    },
+    {
+      "id": "9b7a508a-fd83-4ee1-a7f9-959094d798e7",
+      "index": 174,
+      "name": "General adult psychiatry 1",
+      "subject": "Get Through Paper 3",
+      "resource": "Get Through Paper 3",
+      "file": "data/qalam_chapters/16_Get_Through_Paper_3/01_General_adult_psychiatry_1.json",
+      "total_questions": 50
+    },
+    {
+      "id": "0ffbda81-c221-4d11-9587-b4ff6f35d937",
+      "index": 175,
+      "name": "General adult psychiatry 2",
+      "subject": "Get Through Paper 3",
+      "resource": "Get Through Paper 3",
+      "file": "data/qalam_chapters/16_Get_Through_Paper_3/02_General_adult_psychiatry_2.json",
+      "total_questions": 60
+    },
+    {
+      "id": "d856da90-f9c7-42be-bf4a-1d5cf96820e9",
+      "index": 176,
+      "name": "Old age psychiatry",
+      "subject": "Get Through Paper 3",
+      "resource": "Get Through Paper 3",
+      "file": "data/qalam_chapters/16_Get_Through_Paper_3/03_Old_age_psychiatry.json",
+      "total_questions": 62
+    },
+    {
+      "id": "477c72c0-9cb5-4024-a30e-50aa0fc68101",
+      "index": 177,
+      "name": "Addiction psychiatry and forensic psychiatry",
+      "subject": "Get Through Paper 3",
+      "resource": "Get Through Paper 3",
+      "file": "data/qalam_chapters/16_Get_Through_Paper_3/04_Addiction_psychiatry_and_forensic_psychiatry.json",
+      "total_questions": 50
+    },
+    {
+      "id": "335dcfb4-fa30-4aa3-854b-f4287629b7d1",
+      "index": 178,
+      "name": "Child and adolescent psychiatry and learning disability",
+      "subject": "Get Through Paper 3",
+      "resource": "Get Through Paper 3",
+      "file": "data/qalam_chapters/16_Get_Through_Paper_3/05_Child_and_adolescent_psychiatry_and_learning_disability.json",
+      "total_questions": 50
+    },
+    {
+      "id": "f19dcafa-1c7e-4a85-bfa4-c7552d077559",
+      "index": 179,
+      "name": "Research methods, evidence-based practice, statistics and critical appraisal 1",
+      "subject": "Get Through Paper 3",
+      "resource": "Get Through Paper 3",
+      "file": "data/qalam_chapters/16_Get_Through_Paper_3/06_Research_methods,_evidence-based_practice,_statistics_and_critical_appraisal_1.json",
+      "total_questions": 50
+    },
+    {
+      "id": "b2d9be53-7cd7-439d-9fa2-ca333ec37ce2",
+      "index": 180,
+      "name": "Research methods, evidence-based practice, statistics and critical appraisal 2",
+      "subject": "Get Through Paper 3",
+      "resource": "Get Through Paper 3",
+      "file": "data/qalam_chapters/16_Get_Through_Paper_3/07_Research_methods,_evidence-based_practice,_statistics_and_critical_appraisal_2.json",
+      "total_questions": 65
+    },
+    {
+      "id": "f4381ef3-fdbf-4751-8197-2ccc499e602e",
+      "index": 181,
+      "name": "Neural Sciences",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/01_Neural_Sciences.json",
+      "total_questions": 31
+    },
+    {
+      "id": "1eff4323-be83-4404-9051-9583bffdcfba",
+      "index": 182,
+      "name": "Neuropsychiatry and Behavioral Neurology",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/02_Neuropsychiatry_and_Behavioral_Neurology.json",
+      "total_questions": 13
+    },
+    {
+      "id": "99e57ee5-1fba-4391-b8f0-e6eeb847b69e",
+      "index": 183,
+      "name": "Contributions of the Psychosocial Sciences to Human Behavior",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/03_Contributions_of_the_Psychosocial_Sciences_to_Human_Behavior.json",
+      "total_questions": 49
+    },
+    {
+      "id": "efcc982a-1dc6-42c5-a920-27125fe0533b",
+      "index": 184,
+      "name": "Clinical Neuropsychological Testing",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/04_Clinical_Neuropsychological_Testing.json",
+      "total_questions": 53
+    },
+    {
+      "id": "2f06f6be-f1df-4d46-9964-8f7a0d7d4f37",
+      "index": 185,
+      "name": "Theories of Personality and Psychopathology",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/05_Theories_of_Personality_and_Psychopathology.json",
+      "total_questions": 55
+    },
+    {
+      "id": "7b56da1b-09f8-40c0-aabc-ec9b4c247fea",
+      "index": 186,
+      "name": "The Patient–Doctor Relationship and the Psychiatric Interview",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/06_The_Patient–Doctor_Relationship_and_the_Psychiatric_Interview.json",
+      "total_questions": 42
+    },
+    {
+      "id": "8286567a-c2ce-410b-9c2a-401aa701ae47",
+      "index": 187,
+      "name": "Clinical Examination of the Psychiatric Patient",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/07_Clinical_Examination_of_the_Psychiatric_Patient.json",
+      "total_questions": 42
+    },
+    {
+      "id": "9d80cdb1-2b91-4c0d-beef-4470dde0e9ea",
+      "index": 188,
+      "name": "Signs and Symptoms in Psychiatry",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/08_Signs_and_Symptoms_in_Psychiatry.json",
+      "total_questions": 63
+    },
+    {
+      "id": "8a59415a-5af9-4360-8483-bc727902742a",
+      "index": 189,
+      "name": "Classification in Psychiatry and Psychiatric Rating Scales",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/09_Classification_in_Psychiatry_and_Psychiatric_Rating_Scales.json",
+      "total_questions": 36
+    },
+    {
+      "id": "45d9c9e9-a20b-40d0-944c-a25ac3a7e5ac",
+      "index": 190,
+      "name": "Delirium, Dementia, and Amnestic and Other Cognitive Disorders and Mental Disorders Due to a General Medical Condition",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/10_Delirium,_Dementia,_and_Amnestic_and_Other_Cognitive_Disorders_and_Mental_Disord.json",
+      "total_questions": 55
+    },
+    {
+      "id": "ff7e97e5-34ad-4acb-b54e-730d08c2384e",
+      "index": 191,
+      "name": "Neuropsychiatric Aspects of HIV Infection and AIDS",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/11_Neuropsychiatric_Aspects_of_HIV_Infection_and_AIDS.json",
+      "total_questions": 21
+    },
+    {
+      "id": "bdb2053b-e35c-4b22-bfad-eaef5b73ac20",
+      "index": 192,
+      "name": "Substance-Related Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/12_Substance-Related_Disorders.json",
+      "total_questions": 51
+    },
+    {
+      "id": "6fe27482-637b-4893-958a-5e36938f7a0f",
+      "index": 193,
+      "name": "Schizophrenia",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/13_Schizophrenia.json",
+      "total_questions": 56
+    },
+    {
+      "id": "8ea31bdb-4679-41ca-b2ca-470aed6ffe77",
+      "index": 194,
+      "name": "Other Psychotic Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/14_Other_Psychotic_Disorders.json",
+      "total_questions": 40
+    },
+    {
+      "id": "f5d709d8-5611-4650-92ac-22323d960e97",
+      "index": 195,
+      "name": "Mood Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/15_Mood_Disorders.json",
+      "total_questions": 59
+    },
+    {
+      "id": "5723c870-af73-4370-9763-8759a3877093",
+      "index": 196,
+      "name": "Anxiety Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/16_Anxiety_Disorders.json",
+      "total_questions": 54
+    },
+    {
+      "id": "0ed40d3b-fef3-4621-b464-333e861c139e",
+      "index": 197,
+      "name": "Somatoform Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/17_Somatoform_Disorders.json",
+      "total_questions": 33
+    },
+    {
+      "id": "51ec158d-f8f9-43ed-a2cc-f3f5870467ed",
+      "index": 198,
+      "name": "Factitious Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/18_Factitious_Disorders.json",
+      "total_questions": 21
+    },
+    {
+      "id": "05d15fe0-6242-48bf-8842-1ac6a6c5a46f",
+      "index": 199,
+      "name": "Dissociative Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/19_Dissociative_Disorders.json",
+      "total_questions": 31
+    },
+    {
+      "id": "dbd54ddc-8567-492e-99d5-7be4e232e021",
+      "index": 200,
+      "name": "Human Sexuality",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/20_Human_Sexuality.json",
+      "total_questions": 38
+    },
+    {
+      "id": "0089882d-800c-43e4-bf6f-c386444c5888",
+      "index": 201,
+      "name": "Gender Identity Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/21_Gender_Identity_Disorders.json",
+      "total_questions": 15
+    },
+    {
+      "id": "6ce05749-7e4e-4abd-8a1c-dca705a29286",
+      "index": 202,
+      "name": "Eating Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/22_Eating_Disorders.json",
+      "total_questions": 34
+    },
+    {
+      "id": "3c5a2f42-34ad-4374-8b68-20acdf21d103",
+      "index": 203,
+      "name": "Normal Sleep and Sleep Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/23_Normal_Sleep_and_Sleep_Disorders.json",
+      "total_questions": 31
+    },
+    {
+      "id": "a2b1fe52-3c1c-4b94-bee5-2757d29d0b67",
+      "index": 204,
+      "name": "Impulse-Control Disorder Not Elsewhere Classified",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/24_Impulse-Control_Disorder_Not_Elsewhere_Classified.json",
+      "total_questions": 24
+    },
+    {
+      "id": "af7a7945-2e40-49ee-b9e2-481d8b9fa6a3",
+      "index": 205,
+      "name": "Adjustment Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/25_Adjustment_Disorders.json",
+      "total_questions": 18
+    },
+    {
+      "id": "50d774b8-5c1c-403f-b5b4-6d8c9a9b0781",
+      "index": 206,
+      "name": "Personality Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/26_Personality_Disorders.json",
+      "total_questions": 22
+    },
+    {
+      "id": "507b2189-0336-4eb1-bb1a-09a80cc4acb2",
+      "index": 207,
+      "name": "Psychosomatic Medicine and Consultation-Liaison Psychiatry",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/27_Psychosomatic_Medicine_and_Consultation-Liaison_Psychiatry.json",
+      "total_questions": 48
+    },
+    {
+      "id": "af28364a-8cbd-47e1-8484-27fe7ffe1b8d",
+      "index": 208,
+      "name": "Nonconventional Approaches in Mental Health Care",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/28_Nonconventional_Approaches_in_Mental_Health_Care.json",
+      "total_questions": 6
+    },
+    {
+      "id": "fee7759b-cabc-49b3-9065-f74dc971a2d8",
+      "index": 209,
+      "name": "Psychiatry and Reproductive Medicine",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/29_Psychiatry_and_Reproductive_Medicine.json",
+      "total_questions": 15
+    },
+    {
+      "id": "a91d271d-d5fe-4803-9720-75c6235a3c1c",
+      "index": 210,
+      "name": "Relational Problems",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/30_Relational_Problems.json",
+      "total_questions": 19
+    },
+    {
+      "id": "4b294841-805d-43c4-ae8f-659cc248a916",
+      "index": 211,
+      "name": "Problems Related to Abuse or Neglect",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/31_Problems_Related_to_Abuse_or_Neglect.json",
+      "total_questions": 13
+    },
+    {
+      "id": "3ee57356-b65f-4e9b-a9b3-1a9146c8b1b5",
+      "index": 212,
+      "name": "Additional Conditions That May Be a Focus of Clinical Attention",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/32_Additional_Conditions_That_May_Be_a_Focus_of_Clinical_Attention.json",
+      "total_questions": 16
+    },
+    {
+      "id": "74d75e5c-d199-4bed-aa9a-c0b943c283d9",
+      "index": 213,
+      "name": "Emergency Psychiatric Medicine",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/33_Emergency_Psychiatric_Medicine.json",
+      "total_questions": 24
+    },
+    {
+      "id": "365a7cf0-a72a-4c02-9ea2-0031ad45f8ca",
+      "index": 214,
+      "name": "Psychotherapies",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/34_Psychotherapies.json",
+      "total_questions": 28
+    },
+    {
+      "id": "b3301176-5b87-4381-8ecf-93ab2440c3da",
+      "index": 215,
+      "name": "Biological Therapies",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/35_Biological_Therapies.json",
+      "total_questions": 49
+    },
+    {
+      "id": "d5132afb-b329-478c-b3be-093633089b9c",
+      "index": 216,
+      "name": "Child Psychiatry: Assessment, Examination, and Psychological Testing",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/36_Child_Psychiatry_Assessment,_Examination,_and_Psychological_Testing.json",
+      "total_questions": 25
+    },
+    {
+      "id": "c0ab8a8b-4bf3-4b2f-aee3-81ef2f02af16",
+      "index": 217,
+      "name": "Mental Retardation",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/37_Mental_Retardation.json",
+      "total_questions": 35
+    },
+    {
+      "id": "0f99a148-c93d-4013-8b9a-829a245b1111",
+      "index": 218,
+      "name": "Learning Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/38_Learning_Disorders.json",
+      "total_questions": 20
+    },
+    {
+      "id": "fec513ad-ed55-4874-9afb-4f12b1589e7e",
+      "index": 219,
+      "name": "Motor Skills Disorder: Developmental Coordination Disorder",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/39_Motor_Skills_Disorder_Developmental_Coordination_Disorder.json",
+      "total_questions": 8
+    },
+    {
+      "id": "bc682d60-6b23-4e5b-9a1f-41382711420e",
+      "index": 220,
+      "name": "Communication Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/40_Communication_Disorders.json",
+      "total_questions": 18
+    },
+    {
+      "id": "7aeaccce-e1b9-4651-b99f-c1e9ca2508ab",
+      "index": 221,
+      "name": "Pervasive Developmental Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/41_Pervasive_Developmental_Disorders.json",
+      "total_questions": 27
+    },
+    {
+      "id": "7fa78a18-4a9a-43a5-85e1-2a1588011084",
+      "index": 222,
+      "name": "Attention-Deficit Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/42_Attention-Deficit_Disorders.json",
+      "total_questions": 17
+    },
+    {
+      "id": "89dc9be0-9da7-49fc-bf47-e8f5ba39e3d5",
+      "index": 223,
+      "name": "Disruptive Behavior Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/43_Disruptive_Behavior_Disorders.json",
+      "total_questions": 11
+    },
+    {
+      "id": "bb0c09a2-bc88-4c56-9955-f8def6b3f2c9",
+      "index": 224,
+      "name": "Feeding and Eating Disorders of Infancy or Early Childhood",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/44_Feeding_and_Eating_Disorders_of_Infancy_or_Early_Childhood.json",
+      "total_questions": 21
+    },
+    {
+      "id": "bb1dec12-fdf2-4e4f-a9bf-983bd2784b17",
+      "index": 225,
+      "name": "Tic Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/45_Tic_Disorders.json",
+      "total_questions": 20
+    },
+    {
+      "id": "b19b689a-04ec-4f35-baa0-c643fd8588bd",
+      "index": 226,
+      "name": "Elimination Disorders",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/46_Elimination_Disorders.json",
+      "total_questions": 16
+    },
+    {
+      "id": "b092ddc8-5fe3-4236-a8ba-d0eeebc20064",
+      "index": 227,
+      "name": "Mood Disorders and Suicide in Children and Adolescents",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/48_Mood_Disorders_and_Suicide_in_Children_and_Adolescents.json",
+      "total_questions": 7
+    },
+    {
+      "id": "f4d762c6-d05e-4b7b-b792-51090b0d68f3",
+      "index": 228,
+      "name": "Anxiety Disorders of Infancy, Childhood, and Adolescence",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/49_Anxiety_Disorders_of_Infancy,_Childhood,_and_Adolescence.json",
+      "total_questions": 19
+    },
+    {
+      "id": "ea773d10-5969-4774-a640-c79ccdb70d46",
+      "index": 229,
+      "name": "Early-Onset Schizophrenia",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/50_Early-Onset_Schizophrenia.json",
+      "total_questions": 8
+    },
+    {
+      "id": "6ed19970-d3b0-4742-8b33-eb5928435f9a",
+      "index": 230,
+      "name": "Adolescent Substance Abuse",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/51_Adolescent_Substance_Abuse.json",
+      "total_questions": 16
+    },
+    {
+      "id": "3fe346af-b17e-43fd-95a3-e3f2b090a442",
+      "index": 231,
+      "name": "Child Psychiatry: Additional Conditions That May Be a Focus of Clinical Attention",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/52_Child_Psychiatry_Additional_Conditions_That_May_Be_a_Focus_of_Clinical_Attention.json",
+      "total_questions": 9
+    },
+    {
+      "id": "743899e7-2d5e-490b-bccc-227dc403b201",
+      "index": 232,
+      "name": "Psychiatric Treatment of Children and Adolescents",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/53_Psychiatric_Treatment_of_Children_and_Adolescents.json",
+      "total_questions": 15
+    },
+    {
+      "id": "56a73a2c-5790-4c64-a6ca-b9e21684d4c8",
+      "index": 233,
+      "name": "Forensic Issues in Child and Adolescent Psychiatry",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/54_Forensic_Issues_in_Child_and_Adolescent_Psychiatry.json",
+      "total_questions": 14
+    },
+    {
+      "id": "5508ffe3-f3a1-47e0-9d48-24799e4a88aa",
+      "index": 234,
+      "name": "Geriatric Psychiatry",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/55_Geriatric_Psychiatry.json",
+      "total_questions": 17
+    },
+    {
+      "id": "61bd3cb1-7882-43e7-9ca9-b62dafe40048",
+      "index": 235,
+      "name": "End-of-Life Care and Palliative Medicine",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/56_End-of-Life_Care_and_Palliative_Medicine.json",
+      "total_questions": 29
+    },
+    {
+      "id": "3cb24ca3-41d2-419a-ae66-17082cc77d6f",
+      "index": 236,
+      "name": "Forensic Psychiatry",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/57_Forensic_Psychiatry.json",
+      "total_questions": 41
+    },
+    {
+      "id": "449dbcec-6482-418e-af15-8c0c7f7a7199",
+      "index": 237,
+      "name": "Ethics in Psychiatry",
+      "subject": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "resource": "KAPLAN Study Guide and Self-Examination 9th edition",
+      "file": "data/qalam_chapters/17_KAPLAN_Study_Guide_and_Self-Examination_9th_edition/58_Ethics_in_Psychiatry.json",
+      "total_questions": 24
+    },
+    {
+      "id": "a3f70571-c680-4562-b68c-2058ed556363",
+      "index": 238,
+      "name": "Examination and Diagnosis of the Psychiatric Patient",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/01_Examination_and_Diagnosis_of_the_Psychiatric_Patient.json",
+      "total_questions": 42
+    },
+    {
+      "id": "2206ea1f-9152-44aa-adc1-8f109652410c",
+      "index": 239,
+      "name": "Neurodevelopmental Disorders",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/02_Neurodevelopmental_Disorders.json",
+      "total_questions": 36
+    },
+    {
+      "id": "39f17184-cba5-49ab-9e42-b5ba04346dac",
+      "index": 240,
+      "name": "Neurocognitive Disorders",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/03_Neurocognitive_Disorders.json",
+      "total_questions": 22
+    },
+    {
+      "id": "e2d19673-573a-4858-bca3-7d723126e64f",
+      "index": 241,
+      "name": "Substance Use and Addictive Disorders",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/04_Substance_Use_and_Addictive_Disorders.json",
+      "total_questions": 39
+    },
+    {
+      "id": "2b9b44c5-bb8c-4d86-90fe-04d8f08b3ea5",
+      "index": 242,
+      "name": "Schizophrenia Spectrum and Other Psychotic Disorders",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/05_Schizophrenia_Spectrum_and_Other_Psychotic_Disorders.json",
+      "total_questions": 13
+    },
+    {
+      "id": "554ca87b-682d-4df4-867d-007319329e6b",
+      "index": 243,
+      "name": "Bipolar Disorders",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/06_Bipolar_Disorders.json",
+      "total_questions": 8
+    },
+    {
+      "id": "2a2d22f2-4ec0-43d4-9bfc-d12534a3618b",
+      "index": 244,
+      "name": "Depressive Disorder",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/07_Depressive_Disorder.json",
+      "total_questions": 12
+    },
+    {
+      "id": "f04b8af1-0e03-4c42-be76-b313caf65d93",
+      "index": 245,
+      "name": "Anxiety Disorders",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/08_Anxiety_Disorders.json",
+      "total_questions": 6
+    },
+    {
+      "id": "9667fe5b-7c59-4fc9-af88-1e8e9a144bb2",
+      "index": 246,
+      "name": "Obsessive-Compulsive and Related Disorders",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/09_Obsessive-Compulsive_and_Related_Disorders.json",
+      "total_questions": 10
+    },
+    {
+      "id": "d0e49d6c-07a9-48ec-8db2-1e3173410fbc",
+      "index": 247,
+      "name": "Trauma- and Stressor-Related Disorders",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/10_Trauma-_and_Stressor-Related_Disorders.json",
+      "total_questions": 7
+    },
+    {
+      "id": "76c7c6bf-90a8-40ac-92c4-e1ee2087b9df",
+      "index": 248,
+      "name": "Dissociative Disorders",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/11_Dissociative_Disorders.json",
+      "total_questions": 10
+    },
+    {
+      "id": "8ba6d29b-5a45-4444-8583-2df1515f7d47",
+      "index": 249,
+      "name": "Somatic Symptom and Related Disorders",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/12_Somatic_Symptom_and_Related_Disorders.json",
+      "total_questions": 14
+    },
+    {
+      "id": "f7b4632e-d2b6-496e-a7b3-56777a8ac5fd",
+      "index": 250,
+      "name": "Feeding and Eating Disorders",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/13_Feeding_and_Eating_Disorders.json",
+      "total_questions": 16
+    },
+    {
+      "id": "4f3b2eb3-36df-4ec3-96c0-a8c57ad44a08",
+      "index": 251,
+      "name": "Elimination Disorders",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/14_Elimination_Disorders.json",
+      "total_questions": 11
+    },
+    {
+      "id": "55ac2983-316a-4c54-90bc-7751ecd40f13",
+      "index": 252,
+      "name": "Sleep–Wake Disorders",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/15_Sleep–Wake_Disorders.json",
+      "total_questions": 10
+    },
+    {
+      "id": "4dfd5fae-e40b-4d06-8db1-11ce9d9d0730",
+      "index": 253,
+      "name": "Human Sexuality and Sexual Dysfunctions",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/16_Human_Sexuality_and_Sexual_Dysfunctions.json",
+      "total_questions": 17
+    },
+    {
+      "id": "489cafb2-267b-470f-95af-ebe42bd3e5ba",
+      "index": 254,
+      "name": "Gender Dysphoria, Gender Identity\t",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/17_Gender_Dysphoria,_Gender_Identity.json",
+      "total_questions": 4
+    },
+    {
+      "id": "c33b910f-2e82-4fe0-a316-885bbee372cd",
+      "index": 255,
+      "name": "Disruptive, Impulse Control, and Conduct Disorders",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/18_Disruptive,_Impulse_Control,_and_Conduct_Disorders.json",
+      "total_questions": 5
+    },
+    {
+      "id": "b71a822f-a2ef-40e5-a750-5cbd1a814e5a",
+      "index": 256,
+      "name": "Personality Disorders",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/19_Personality_Disorders.json",
+      "total_questions": 21
+    },
+    {
+      "id": "cfb17bbe-dc12-445d-a53b-4671fd4ccdd1",
+      "index": 257,
+      "name": "Other Conditions that May Be a Focus of Clinical Attention",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/20_Other_Conditions_that_May_Be_a_Focus_of_Clinical_Attention.json",
+      "total_questions": 10
+    },
+    {
+      "id": "c46cfabc-ad85-4b13-8c43-c0b38c41543b",
+      "index": 258,
+      "name": "Psychopharmacology",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/21_Psychopharmacology.json",
+      "total_questions": 70
+    },
+    {
+      "id": "0e96e0ee-49f3-4249-827b-b4345267782a",
+      "index": 259,
+      "name": "Other Somatic Therapies",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/22_Other_Somatic_Therapies.json",
+      "total_questions": 13
+    },
+    {
+      "id": "e6e38c49-1688-4d76-a73e-ff6dcb36693c",
+      "index": 260,
+      "name": "Psychotherapy",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/23_Psychotherapy.json",
+      "total_questions": 21
+    },
+    {
+      "id": "8a2c2fbc-ca8d-4723-b867-b92c45ca7e75",
+      "index": 261,
+      "name": "Psychiatric Rehabilitation",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/24_Psychiatric_Rehabilitation.json",
+      "total_questions": 8
+    },
+    {
+      "id": "1478d490-2b05-40ae-adfa-95b594d8d908",
+      "index": 262,
+      "name": "Consult to Other Disciplines",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/25_Consult_to_Other_Disciplines.json",
+      "total_questions": 28
+    },
+    {
+      "id": "33e38927-fdd6-4fe8-9ce3-470b31d0e51c",
+      "index": 263,
+      "name": "Level of Care",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/26_Level_of_Care.json",
+      "total_questions": 3
+    },
+    {
+      "id": "6eb84010-5ac9-4111-a939-65c1c375e019",
+      "index": 264,
+      "name": "Ethics and Professionalism",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/27_Ethics_and_Professionalism.json",
+      "total_questions": 9
+    },
+    {
+      "id": "14613ac3-904a-41d9-a734-ee56c2d0bacf",
+      "index": 265,
+      "name": "Forensic and Legal Issues",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/28_Forensic_and_Legal_Issues.json",
+      "total_questions": 17
+    },
+    {
+      "id": "f2a8105f-efb4-467f-9544-c3db5365b975",
+      "index": 266,
+      "name": "End-of-Life Issues and Palliative Care",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/29_End-of-Life_Issues_and_Palliative_Care.json",
+      "total_questions": 14
+    },
+    {
+      "id": "a387d125-ec49-4741-91ab-c4e5c59f10bb",
+      "index": 267,
+      "name": "Community Psychiatry",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/30_Community_Psychiatry.json",
+      "total_questions": 7
+    },
+    {
+      "id": "e2982284-6a88-4493-bed3-73a952e03e03",
+      "index": 268,
+      "name": "Global and Cultural Issues",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/31_Global_and_Cultural_Issues.json",
+      "total_questions": 7
+    },
+    {
+      "id": "2e8aebe5-5e75-4b0b-8676-4282b789940f",
+      "index": 269,
+      "name": "Normal Development and Aging",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/32_Normal_Development_and_Aging.json",
+      "total_questions": 24
+    },
+    {
+      "id": "87612866-3c96-4ef3-b365-ec2b69d66e85",
+      "index": 270,
+      "name": "Contributions from the Neurosciences",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/33_Contributions_from_the_Neurosciences.json",
+      "total_questions": 31
+    },
+    {
+      "id": "f6f3dc71-10a6-4f89-b55a-374e15dbf621",
+      "index": 271,
+      "name": "Contributions from the Behavioral and Social Sciences",
+      "subject": "Kaplan MCQs",
+      "resource": "Kaplan MCQs",
+      "file": "data/qalam_chapters/18_Kaplan_MCQs/34_Contributions_from_the_Behavioral_and_Social_Sciences.json",
+      "total_questions": 37
+    },
+    {
+      "id": "595205fe-3515-4f60-be5c-05b0c7506672",
+      "index": 272,
+      "name": "Child and Adolescent Psychiatry",
+      "subject": "Lange Q&A Psychiatry",
+      "resource": "Lange Q&A Psychiatry",
+      "file": "data/qalam_chapters/19_Lange_Q&A_Psychiatry/01_Child_and_Adolescent_Psychiatry.json",
+      "total_questions": 99
+    },
+    {
+      "id": "c6159d8d-997b-4417-9a3f-26ad9b37f188",
+      "index": 273,
+      "name": "Adult Psychopathology",
+      "subject": "Lange Q&A Psychiatry",
+      "resource": "Lange Q&A Psychiatry",
+      "file": "data/qalam_chapters/19_Lange_Q&A_Psychiatry/02_Adult_Psychopathology.json",
+      "total_questions": 145
+    },
+    {
+      "id": "116d1066-c6ec-4b0a-8678-cde8a37f5b0b",
+      "index": 274,
+      "name": "Somatic Treatment and Psychopharmacology",
+      "subject": "Lange Q&A Psychiatry",
+      "resource": "Lange Q&A Psychiatry",
+      "file": "data/qalam_chapters/19_Lange_Q&A_Psychiatry/03_Somatic_Treatment_and_Psychopharmacology.json",
+      "total_questions": 123
+    },
+    {
+      "id": "ba35b00c-bade-42e5-84a3-c14dff14fb18",
+      "index": 275,
+      "name": "Psychological Treatment and Management",
+      "subject": "Lange Q&A Psychiatry",
+      "resource": "Lange Q&A Psychiatry",
+      "file": "data/qalam_chapters/19_Lange_Q&A_Psychiatry/04_Psychological_Treatment_and_Management.json",
+      "total_questions": 50
+    },
+    {
+      "id": "38e0084e-ccc9-476c-9f97-d4e808687991",
+      "index": 276,
+      "name": "Legal and Ethical Issues in Psychiatry and Medicine",
+      "subject": "Lange Q&A Psychiatry",
+      "resource": "Lange Q&A Psychiatry",
+      "file": "data/qalam_chapters/19_Lange_Q&A_Psychiatry/05_Legal_and_Ethical_Issues_in_Psychiatry_and_Medicine.json",
+      "total_questions": 51
+    },
+    {
+      "id": "b1650cf8-5bb8-4864-b9b6-d4f54d99f0a4",
+      "index": 277,
+      "name": "Differential Diagnosis and Management",
+      "subject": "Lange Q&A Psychiatry",
+      "resource": "Lange Q&A Psychiatry",
+      "file": "data/qalam_chapters/19_Lange_Q&A_Psychiatry/06_Differential_Diagnosis_and_Management.json",
+      "total_questions": 108
+    },
+    {
+      "id": "f6d243ec-e60d-4933-9067-3cbd474a4e21",
+      "index": 278,
+      "name": "Practice Test 1",
+      "subject": "Lange Q&A Psychiatry",
+      "resource": "Lange Q&A Psychiatry",
+      "file": "data/qalam_chapters/19_Lange_Q&A_Psychiatry/07_Practice_Test_1.json",
+      "total_questions": 116
+    },
+    {
+      "id": "14a81d52-1e02-40b2-87eb-f8a00beb72f8",
+      "index": 279,
+      "name": "Practice Test 2",
+      "subject": "Lange Q&A Psychiatry",
+      "resource": "Lange Q&A Psychiatry",
+      "file": "data/qalam_chapters/19_Lange_Q&A_Psychiatry/08_Practice_Test_2.json",
+      "total_questions": 118
+    },
+    {
+      "id": "5ed470b1-2aca-4e04-aeb4-117c9f2b579c",
+      "index": 280,
+      "name": "Test One",
+      "subject": "Lewis’s Child and Adolescent Psychiatry",
+      "resource": "Lewis’s Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/20_Lewis’s_Child_and_Adolescent_Psychiatry/01_Test_One.json",
+      "total_questions": 200
+    },
+    {
+      "id": "c858ab46-9c49-451c-a7fb-577bb2ecede5",
+      "index": 281,
+      "name": "Test Two",
+      "subject": "Lewis’s Child and Adolescent Psychiatry",
+      "resource": "Lewis’s Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/20_Lewis’s_Child_and_Adolescent_Psychiatry/02_Test_Two.json",
+      "total_questions": 200
+    },
+    {
+      "id": "ff535f87-da9c-45ea-8863-0c5409f0219f",
+      "index": 282,
+      "name": "Test Three",
+      "subject": "Lewis’s Child and Adolescent Psychiatry",
+      "resource": "Lewis’s Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/20_Lewis’s_Child_and_Adolescent_Psychiatry/03_Test_Three.json",
+      "total_questions": 200
+    },
+    {
+      "id": "518b9513-3906-4ae2-ad3c-b0589e828cd6",
+      "index": 283,
+      "name": "Test Four",
+      "subject": "Lewis’s Child and Adolescent Psychiatry",
+      "resource": "Lewis’s Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/20_Lewis’s_Child_and_Adolescent_Psychiatry/04_Test_Four.json",
+      "total_questions": 200
+    },
+    {
+      "id": "4f488442-0d28-4c29-9d53-b2b0d69e897d",
+      "index": 284,
+      "name": "Test Five",
+      "subject": "Lewis’s Child and Adolescent Psychiatry",
+      "resource": "Lewis’s Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/20_Lewis’s_Child_and_Adolescent_Psychiatry/05_Test_Five.json",
+      "total_questions": 200
+    },
+    {
+      "id": "d7f4268a-d195-43b5-a172-d2c201fcd19a",
+      "index": 285,
+      "name": "Test Six",
+      "subject": "Lewis’s Child and Adolescent Psychiatry",
+      "resource": "Lewis’s Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/20_Lewis’s_Child_and_Adolescent_Psychiatry/06_Test_Six.json",
+      "total_questions": 200
+    },
+    {
+      "id": "4d287707-72ff-4918-9cb2-957182df35cb",
+      "index": 286,
+      "name": "Test Seven",
+      "subject": "Lewis’s Child and Adolescent Psychiatry",
+      "resource": "Lewis’s Child and Adolescent Psychiatry",
+      "file": "data/qalam_chapters/20_Lewis’s_Child_and_Adolescent_Psychiatry/07_Test_Seven.json",
+      "total_questions": 200
+    },
+    {
+      "id": "2752a60d-8e3f-47d1-a4af-797bb23e42d2",
+      "index": 287,
+      "name": "Test Questions 1",
+      "subject": "MRCPsych Paper 1: 600 MCQs",
+      "resource": "MRCPsych Paper 1: 600 MCQs",
+      "file": "data/qalam_chapters/21_MRCPsych_Paper_1_600_MCQs/01_Test_Questions_1.json",
+      "total_questions": 130
+    },
+    {
+      "id": "2706aa02-472b-413a-b836-cec5da5e0892",
+      "index": 288,
+      "name": "Test Questions 2",
+      "subject": "MRCPsych Paper 1: 600 MCQs",
+      "resource": "MRCPsych Paper 1: 600 MCQs",
+      "file": "data/qalam_chapters/21_MRCPsych_Paper_1_600_MCQs/02_Test_Questions_2.json",
+      "total_questions": 135
+    },
+    {
+      "id": "669efd94-9d0a-4581-8bc0-80ee79dde968",
+      "index": 289,
+      "name": "Test Questions 3",
+      "subject": "MRCPsych Paper 1: 600 MCQs",
+      "resource": "MRCPsych Paper 1: 600 MCQs",
+      "file": "data/qalam_chapters/21_MRCPsych_Paper_1_600_MCQs/03_Test_Questions_3.json",
+      "total_questions": 126
+    },
+    {
+      "id": "f0ed2702-cd3d-4377-9186-245805eb95b0",
+      "index": 290,
+      "name": "Test Questions 4",
+      "subject": "MRCPsych Paper 1: 600 MCQs",
+      "resource": "MRCPsych Paper 1: 600 MCQs",
+      "file": "data/qalam_chapters/21_MRCPsych_Paper_1_600_MCQs/04_Test_Questions_4.json",
+      "total_questions": 127
+    },
+    {
+      "id": "cb315aaa-2082-4de7-a521-a772a311781f",
+      "index": 291,
+      "name": "Mock Examination",
+      "subject": "MRCPsych Paper 1: 600 MCQs",
+      "resource": "MRCPsych Paper 1: 600 MCQs",
+      "file": "data/qalam_chapters/21_MRCPsych_Paper_1_600_MCQs/05_Mock_Examination.json",
+      "total_questions": 116
+    },
+    {
+      "id": "1216c5ec-ad10-4f35-a284-6a1c1a4bef6f",
+      "index": 292,
+      "name": "Test Questions 1",
+      "subject": "MRCPsych Paper 2: 600 MCQs",
+      "resource": "MRCPsych Paper 2: 600 MCQs",
+      "file": "data/qalam_chapters/22_MRCPsych_Paper_2_600_MCQs/01_Test_Questions_1.json",
+      "total_questions": 128
+    },
+    {
+      "id": "2dc22201-be12-4b74-bc94-28b339d9414d",
+      "index": 293,
+      "name": "Test Questions 2",
+      "subject": "MRCPsych Paper 2: 600 MCQs",
+      "resource": "MRCPsych Paper 2: 600 MCQs",
+      "file": "data/qalam_chapters/22_MRCPsych_Paper_2_600_MCQs/02_Test_Questions_2.json",
+      "total_questions": 123
+    },
+    {
+      "id": "c8cad485-cc6f-491c-a61b-f1e225d89e54",
+      "index": 294,
+      "name": "Test Questions 3",
+      "subject": "MRCPsych Paper 2: 600 MCQs",
+      "resource": "MRCPsych Paper 2: 600 MCQs",
+      "file": "data/qalam_chapters/22_MRCPsych_Paper_2_600_MCQs/03_Test_Questions_3.json",
+      "total_questions": 153
+    },
+    {
+      "id": "f6033f4a-dffb-48a7-bf0b-8eb8cdd8e074",
+      "index": 295,
+      "name": "Test Questions 4",
+      "subject": "MRCPsych Paper 2: 600 MCQs",
+      "resource": "MRCPsych Paper 2: 600 MCQs",
+      "file": "data/qalam_chapters/22_MRCPsych_Paper_2_600_MCQs/04_Test_Questions_4.json",
+      "total_questions": 141
+    },
+    {
+      "id": "e5ba636e-60df-448b-878e-54c6742a3ddf",
+      "index": 296,
+      "name": "Mock Examination",
+      "subject": "MRCPsych Paper 2: 600 MCQs",
+      "resource": "MRCPsych Paper 2: 600 MCQs",
+      "file": "data/qalam_chapters/22_MRCPsych_Paper_2_600_MCQs/05_Mock_Examination.json",
+      "total_questions": 116
+    },
+    {
+      "id": "fa23b22f-a350-4ad7-b91a-b9c3dac5204c",
+      "index": 297,
+      "name": "Evaluation, Assessment, and Diagnosis",
+      "subject": "Pretest Psychiatry 14th",
+      "resource": "Pretest Psychiatry 14th",
+      "file": "data/qalam_chapters/23_Pretest_Psychiatry_14th/01_Evaluation,_Assessment,_and_Diagnosis.json",
+      "total_questions": 66
+    },
+    {
+      "id": "d6f84559-a7d4-45df-9fa3-9b51c8a60487",
+      "index": 298,
+      "name": "Human Behavior: Theories of Personality and Development",
+      "subject": "Pretest Psychiatry 14th",
+      "resource": "Pretest Psychiatry 14th",
+      "file": "data/qalam_chapters/23_Pretest_Psychiatry_14th/02_Human_Behavior_Theories_of_Personality_and_Development.json",
+      "total_questions": 26
+    },
+    {
+      "id": "f0189640-2233-4898-85e6-dc1c344d7d85",
+      "index": 299,
+      "name": "Human Behavior: Biologic and Related Sciences",
+      "subject": "Pretest Psychiatry 14th",
+      "resource": "Pretest Psychiatry 14th",
+      "file": "data/qalam_chapters/23_Pretest_Psychiatry_14th/03_Human_Behavior_Biologic_and_Related_Sciences.json",
+      "total_questions": 82
+    },
+    {
+      "id": "1f7a317a-38b5-4a7e-b251-23ee9669a099",
+      "index": 300,
+      "name": "Disorders Seen in Childhood and Adolescence",
+      "subject": "Pretest Psychiatry 14th",
+      "resource": "Pretest Psychiatry 14th",
+      "file": "data/qalam_chapters/23_Pretest_Psychiatry_14th/04_Disorders_Seen_in_Childhood_and_Adolescence.json",
+      "total_questions": 17
+    },
+    {
+      "id": "c54a0436-15bf-4640-b12b-5abd1fec5161",
+      "index": 301,
+      "name": "Neurocognitive Disorders and Consultation-Liaison Psychiatry",
+      "subject": "Pretest Psychiatry 14th",
+      "resource": "Pretest Psychiatry 14th",
+      "file": "data/qalam_chapters/23_Pretest_Psychiatry_14th/05_Neurocognitive_Disorders_and_Consultation-Liaison_Psychiatry.json",
+      "total_questions": 48
+    },
+    {
+      "id": "96b9f3ba-13ed-41c7-85e4-294e8a8cbd5f",
+      "index": 302,
+      "name": "Schizophrenia and Other Psychotic Disorders",
+      "subject": "Pretest Psychiatry 14th",
+      "resource": "Pretest Psychiatry 14th",
+      "file": "data/qalam_chapters/23_Pretest_Psychiatry_14th/06_Schizophrenia_and_Other_Psychotic_Disorders.json",
+      "total_questions": 37
+    },
+    {
+      "id": "b6d1f7c3-e992-4bc4-a35e-800c2b5c7d7e",
+      "index": 303,
+      "name": "Psychotherapies",
+      "subject": "Pretest Psychiatry 14th",
+      "resource": "Pretest Psychiatry 14th",
+      "file": "data/qalam_chapters/23_Pretest_Psychiatry_14th/07_Psychotherapies.json",
+      "total_questions": 38
+    },
+    {
+      "id": "292fea1e-e72e-49fa-88c3-8f1252c640a6",
+      "index": 304,
+      "name": "Mood disorders",
+      "subject": "Pretest Psychiatry 14th",
+      "resource": "Pretest Psychiatry 14th",
+      "file": "data/qalam_chapters/23_Pretest_Psychiatry_14th/08_Mood_disorders.json",
+      "total_questions": 30
+    },
+    {
+      "id": "051dfc8b-8d98-47b2-8c54-601db5d7af4c",
+      "index": 305,
+      "name": "Anxiety, Obssesive-compulsive, Trauma or stress related, somatic symptoms and dissociative disorders",
+      "subject": "Pretest Psychiatry 14th",
+      "resource": "Pretest Psychiatry 14th",
+      "file": "data/qalam_chapters/23_Pretest_Psychiatry_14th/09_Anxiety,_Obssesive-compulsive,_Trauma_or_stress_related,_somatic_symptoms_and_di.json",
+      "total_questions": 23
+    },
+    {
+      "id": "663cd75e-8abe-4f05-a9a3-88660f986d1e",
+      "index": 306,
+      "name": "personality disorders, human sexuality, and miscellaneous syndromes",
+      "subject": "Pretest Psychiatry 14th",
+      "resource": "Pretest Psychiatry 14th",
+      "file": "data/qalam_chapters/23_Pretest_Psychiatry_14th/10_personality_disorders,_human_sexuality,_and_miscellaneous_syndromes.json",
+      "total_questions": 34
+    },
+    {
+      "id": "f41e2ddd-0733-454a-acfb-ffd34d459080",
+      "index": 307,
+      "name": "substance related disorders",
+      "subject": "Pretest Psychiatry 14th",
+      "resource": "Pretest Psychiatry 14th",
+      "file": "data/qalam_chapters/23_Pretest_Psychiatry_14th/11_substance_related_disorders.json",
+      "total_questions": 30
+    },
+    {
+      "id": "2b9f212b-bc54-476a-ab77-c6ebf830606f",
+      "index": 308,
+      "name": "psychopharmacology and other somatic therapies",
+      "subject": "Pretest Psychiatry 14th",
+      "resource": "Pretest Psychiatry 14th",
+      "file": "data/qalam_chapters/23_Pretest_Psychiatry_14th/12_psychopharmacology_and_other_somatic_therapies.json",
+      "total_questions": 54
+    },
+    {
+      "id": "7f3d255e-bbdf-4d46-8e5e-30fb26bbc2cf",
+      "index": 309,
+      "name": "Law and Ethics in psychiatry",
+      "subject": "Pretest Psychiatry 14th",
+      "resource": "Pretest Psychiatry 14th",
+      "file": "data/qalam_chapters/23_Pretest_Psychiatry_14th/13_Law_and_Ethics_in_psychiatry.json",
+      "total_questions": 15
+    },
+    {
+      "id": "b2bc8c86-fb9d-4cdc-9023-4c6d7b1c411e",
+      "index": 310,
+      "name": "Basics of Psychiatry",
+      "subject": "Pretest psychiatry 15th",
+      "resource": "Pretest psychiatry 15th",
+      "file": "data/qalam_chapters/24_Pretest_psychiatry_15th/01_Basics_of_Psychiatry.json",
+      "total_questions": 48
+    },
+    {
+      "id": "d728ab55-34b3-4671-9292-43bf08bdbc2d",
+      "index": 311,
+      "name": "Biologic and Related Sciences",
+      "subject": "Pretest psychiatry 15th",
+      "resource": "Pretest psychiatry 15th",
+      "file": "data/qalam_chapters/24_Pretest_psychiatry_15th/02_Biologic_and_Related_Sciences.json",
+      "total_questions": 74
+    },
+    {
+      "id": "d8a03775-c43e-4c23-9163-7ceb970acf9c",
+      "index": 312,
+      "name": "Disorders Seen in Childhood and Adolescence",
+      "subject": "Pretest psychiatry 15th",
+      "resource": "Pretest psychiatry 15th",
+      "file": "data/qalam_chapters/24_Pretest_psychiatry_15th/03_Disorders_Seen_in_Childhood_and_Adolescence.json",
+      "total_questions": 29
+    },
+    {
+      "id": "d7e16697-f309-4b7c-9ff0-979b354d616e",
+      "index": 313,
+      "name": "Neurocognitive Disorders and Consultation Liaison Psychiatry",
+      "subject": "Pretest psychiatry 15th",
+      "resource": "Pretest psychiatry 15th",
+      "file": "data/qalam_chapters/24_Pretest_psychiatry_15th/04_Neurocognitive_Disorders_and_Consultation_Liaison_Psychiatry.json",
+      "total_questions": 21
+    },
+    {
+      "id": "9fbdfa05-8af4-41d7-a0d8-26f63a681360",
+      "index": 314,
+      "name": "Schizophrenia and Other Psychotic Disorders",
+      "subject": "Pretest psychiatry 15th",
+      "resource": "Pretest psychiatry 15th",
+      "file": "data/qalam_chapters/24_Pretest_psychiatry_15th/05_Schizophrenia_and_Other_Psychotic_Disorders.json",
+      "total_questions": 24
+    },
+    {
+      "id": "d462e052-da2c-4f16-9dfb-1e07f054eb9f",
+      "index": 315,
+      "name": "Mood Disorders",
+      "subject": "Pretest psychiatry 15th",
+      "resource": "Pretest psychiatry 15th",
+      "file": "data/qalam_chapters/24_Pretest_psychiatry_15th/06_Mood_Disorders.json",
+      "total_questions": 20
+    },
+    {
+      "id": "f887cdf0-27a0-4636-9c89-328f3cca744c",
+      "index": 316,
+      "name": "Anxiety Disorders, Obsessive-Compulsive, Trauma-or Stress-Related Disorders",
+      "subject": "Pretest psychiatry 15th",
+      "resource": "Pretest psychiatry 15th",
+      "file": "data/qalam_chapters/24_Pretest_psychiatry_15th/07_Anxiety_Disorders,_Obsessive-Compulsive,_Trauma-or_Stress-Related_Disorders.json",
+      "total_questions": 15
+    },
+    {
+      "id": "e34b446d-4185-4067-9cf1-20035bcad69f",
+      "index": 317,
+      "name": "Somatic Symptom and Dissociative Disorders",
+      "subject": "Pretest psychiatry 15th",
+      "resource": "Pretest psychiatry 15th",
+      "file": "data/qalam_chapters/24_Pretest_psychiatry_15th/08_Somatic_Symptom_and_Dissociative_Disorders.json",
+      "total_questions": 14
+    },
+    {
+      "id": "4f611966-6e10-41e5-a7f8-702cd5e77f13",
+      "index": 318,
+      "name": "Personality Disorders",
+      "subject": "Pretest psychiatry 15th",
+      "resource": "Pretest psychiatry 15th",
+      "file": "data/qalam_chapters/24_Pretest_psychiatry_15th/09_Personality_Disorders.json",
+      "total_questions": 16
+    },
+    {
+      "id": "277ccfb6-d013-4ea9-8e24-862a298cb487",
+      "index": 319,
+      "name": "Human Sexuality, Sleep, and Other Disorders",
+      "subject": "Pretest psychiatry 15th",
+      "resource": "Pretest psychiatry 15th",
+      "file": "data/qalam_chapters/24_Pretest_psychiatry_15th/10_Human_Sexuality,_Sleep,_and_Other_Disorders.json",
+      "total_questions": 23
+    },
+    {
+      "id": "04e8019d-c432-45d7-a9cd-de049cbdf944",
+      "index": 320,
+      "name": "Substance-Related Disorders",
+      "subject": "Pretest psychiatry 15th",
+      "resource": "Pretest psychiatry 15th",
+      "file": "data/qalam_chapters/24_Pretest_psychiatry_15th/11_Substance-Related_Disorders.json",
+      "total_questions": 26
+    },
+    {
+      "id": "9e0989ea-daca-4fa3-bcda-847d68030bb6",
+      "index": 321,
+      "name": "Management of Psychiatric Disorders",
+      "subject": "Pretest psychiatry 15th",
+      "resource": "Pretest psychiatry 15th",
+      "file": "data/qalam_chapters/24_Pretest_psychiatry_15th/12_Management_of_Psychiatric_Disorders.json",
+      "total_questions": 134
+    },
+    {
+      "id": "8cc38bc4-438e-4d58-ac94-8d28f25211f0",
+      "index": 322,
+      "name": "Law and Ethics in Psychiatry",
+      "subject": "Pretest psychiatry 15th",
+      "resource": "Pretest psychiatry 15th",
+      "file": "data/qalam_chapters/24_Pretest_psychiatry_15th/13_Law_and_Ethics_in_Psychiatry.json",
+      "total_questions": 17
+    },
+    {
+      "id": "47515384-7468-455d-9236-fa795d4a0e67",
+      "index": 323,
+      "name": "self-test, uncued study questions",
+      "subject": "Pretest psychiatry 15th",
+      "resource": "Pretest psychiatry 15th",
+      "file": "data/qalam_chapters/24_Pretest_psychiatry_15th/14_self-test,_uncued_study_questions.json",
+      "total_questions": 39
+    },
+    {
+      "id": "74dc058d-06e6-4177-af89-bd4388976680",
+      "index": 324,
+      "name": "DEVELOPMENT THROUGH THE LIFE CYCLE",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/01_DEVELOPMENT_THROUGH_THE_LIFE_CYCLE.json",
+      "total_questions": 30
+    },
+    {
+      "id": "66afae79-85ef-4f6b-a639-9bcbc3041457",
+      "index": 325,
+      "name": "BEHAVIORAL AND SOCIAL SCIENCES",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/02_BEHAVIORAL_AND_SOCIAL_SCIENCES.json",
+      "total_questions": 20
+    },
+    {
+      "id": "1bb6102b-4442-4b8b-bd11-f49613121328",
+      "index": 326,
+      "name": "EPIDEMIOLOGY AND PUBLIC POLICY",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/03_EPIDEMIOLOGY_AND_PUBLIC_POLICY.json",
+      "total_questions": 20
+    },
+    {
+      "id": "9af87db3-0990-4588-b804-053279597a0e",
+      "index": 327,
+      "name": "DIAGNOSTIC PROCEDURES",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/04_DIAGNOSTIC_PROCEDURES.json",
+      "total_questions": 81
+    },
+    {
+      "id": "73df8198-d451-4ea4-afa5-0194d2814d9d",
+      "index": 328,
+      "name": "CLINICAL ASPECTS OF PSYCHIATRIC DISORDERS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/05_CLINICAL_ASPECTS_OF_PSYCHIATRIC_DISORDERS.json",
+      "total_questions": 88
+    },
+    {
+      "id": "4fa476c6-0738-4815-9ad6-7b09f490c7d8",
+      "index": 329,
+      "name": "TREATMENT OF PSYCHIATRIC DISORDERS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/06_TREATMENT_OF_PSYCHIATRIC_DISORDERS.json",
+      "total_questions": 20
+    },
+    {
+      "id": "6961d1c9-b497-47c9-8bb7-53d34fc9fbdf",
+      "index": 330,
+      "name": "NEURAL DEVELOPMENT THROUGH THE LIFE CYCLE",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/07_NEURAL_DEVELOPMENT_THROUGH_THE_LIFE_CYCLE.json",
+      "total_questions": 20
+    },
+    {
+      "id": "6ea831d9-d98a-4ee3-a754-574b7a454324",
+      "index": 331,
+      "name": "BASIC NEUROSCIENCES",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/08_BASIC_NEUROSCIENCES.json",
+      "total_questions": 20
+    },
+    {
+      "id": "7ca74ff9-810a-4a76-8439-e542647eac45",
+      "index": 332,
+      "name": "DIAGNOSTIC PROCEDURES",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/09_DIAGNOSTIC_PROCEDURES.json",
+      "total_questions": 10
+    },
+    {
+      "id": "ba449067-d688-4210-a582-132bfe60af9a",
+      "index": 333,
+      "name": "CLINICAL ASPECTS OF NEUROPSYCHIATRIC DISORDERS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/10_CLINICAL_ASPECTS_OF_NEUROPSYCHIATRIC_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "2a34a674-eba6-4e1f-bc44-d309b8a2d67e",
+      "index": 334,
+      "name": "TREATMENT OF NEUROPSYCHIATRIC DISORDERS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/11_TREATMENT_OF_NEUROPSYCHIATRIC_DISORDERS.json",
+      "total_questions": 50
+    },
+    {
+      "id": "f8b851a0-0d53-4a7d-93ea-91b20d81abeb",
+      "index": 335,
+      "name": "DIAGNOSTIC AND CLINICAL EVALUATION OF NEUROLOGICAL DISORDERS AND SYNDROMES",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/12_DIAGNOSTIC_AND_CLINICAL_EVALUATION_OF_NEUROLOGICAL_DISORDERS_AND_SYNDROMES.json",
+      "total_questions": 70
+    },
+    {
+      "id": "37f35052-2489-4275-8659-6032b485388e",
+      "index": 336,
+      "name": "MANAGEMENT AND TREATMENT OF NEUROLOGICAL DISORDERS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/13_MANAGEMENT_AND_TREATMENT_OF_NEUROLOGICAL_DISORDERS.json",
+      "total_questions": 30
+    },
+    {
+      "id": "1c092730-2704-423e-b7c3-fa5f29dc610c",
+      "index": 337,
+      "name": "CHILDHOOD-ONSET DISORDERS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/14_CHILDHOOD-ONSET_DISORDERS.json",
+      "total_questions": 30
+    },
+    {
+      "id": "ca3aca09-531e-4d07-a2a0-d8b31d893dbe",
+      "index": 338,
+      "name": "PSYCHIATRIC PRESENTATIONS DUE TO MEDICAL CONDITIONS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/15_PSYCHIATRIC_PRESENTATIONS_DUE_TO_MEDICAL_CONDITIONS.json",
+      "total_questions": 20
+    },
+    {
+      "id": "ee32e994-2a44-4ba1-8a87-fc587db4b249",
+      "index": 339,
+      "name": "SUBSTANCE-RELATED DISORDERS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/16_SUBSTANCE-RELATED_DISORDERS.json",
+      "total_questions": 30
+    },
+    {
+      "id": "c51633fa-b6a6-4686-8752-d21c91be8b4a",
+      "index": 340,
+      "name": "SCHIZOPHRENIA AND OTHER PSYCHOTIC DISORDERS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/17_SCHIZOPHRENIA_AND_OTHER_PSYCHOTIC_DISORDERS.json",
+      "total_questions": 30
+    },
+    {
+      "id": "9d4b1fb9-ae06-4412-86b1-226249a63659",
+      "index": 341,
+      "name": "MOOD DISORDERS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/18_MOOD_DISORDERS.json",
+      "total_questions": 30
+    },
+    {
+      "id": "d5db3c7c-c776-4ab0-973b-7b602a704f75",
+      "index": 342,
+      "name": "ANXIETY DISORDERS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/19_ANXIETY_DISORDERS.json",
+      "total_questions": 30
+    },
+    {
+      "id": "565611f6-337c-4b70-9a79-d5da25b0926e",
+      "index": 343,
+      "name": "SOMATIC SYMPTOM DISORDERS AND FACTITIOUS DISORDERS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/20_SOMATIC_SYMPTOM_DISORDERS_AND_FACTITIOUS_DISORDERS.json",
+      "total_questions": 20
+    },
+    {
+      "id": "e8a3087c-7caa-4beb-97a1-4395dc33ba36",
+      "index": 344,
+      "name": "DISSOCIATIVE DISORDERS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/21_DISSOCIATIVE_DISORDERS.json",
+      "total_questions": 10
+    },
+    {
+      "id": "b2e266e0-8fa3-404c-8c3c-cb58f2e2ed4a",
+      "index": 345,
+      "name": "SEXUAL DISORDERS AND GENDER DYSPHORIA",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/22_SEXUAL_DISORDERS_AND_GENDER_DYSPHORIA.json",
+      "total_questions": 20
+    },
+    {
+      "id": "227c033a-1638-44bb-98a8-e9e93feaceaf",
+      "index": 346,
+      "name": "EATING DISORDERS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/23_EATING_DISORDERS.json",
+      "total_questions": 10
+    },
+    {
+      "id": "e79412d1-37c7-4fbb-a0db-503deac06e06",
+      "index": 347,
+      "name": "IMPULSE CONTROL DISORDERS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/24_IMPULSE_CONTROL_DISORDERS.json",
+      "total_questions": 10
+    },
+    {
+      "id": "368b5dd7-2c23-4c0e-beb5-45dcc4e37207",
+      "index": 348,
+      "name": "ADJUSTMENT DISORDERS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/25_ADJUSTMENT_DISORDERS.json",
+      "total_questions": 10
+    },
+    {
+      "id": "c83c4f5a-b1b5-4649-9ff9-26dd0e9e45f9",
+      "index": 349,
+      "name": "PERSONALITY DISORDERS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/26_PERSONALITY_DISORDERS.json",
+      "total_questions": 20
+    },
+    {
+      "id": "c9b941f9-1167-433c-b7ca-3cde5892202c",
+      "index": 350,
+      "name": "DIAGNOSTIC PROCEDURES",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/27_DIAGNOSTIC_PROCEDURES.json",
+      "total_questions": 20
+    },
+    {
+      "id": "2343db37-eaa9-4fd0-8d8a-7d6560d79232",
+      "index": 351,
+      "name": "TREATMENT OF PSYCHIATRIC DISORDERS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/28_TREATMENT_OF_PSYCHIATRIC_DISORDERS.json",
+      "total_questions": 131
+    },
+    {
+      "id": "d2c849ec-2d0a-4058-b45f-7f88a100fe8c",
+      "index": 352,
+      "name": "ETHICS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/29_ETHICS.json",
+      "total_questions": 20
+    },
+    {
+      "id": "20f0f971-b9a1-4c14-afd0-0756640b675d",
+      "index": 353,
+      "name": "EPIDEMIOLOGY, BIOSTATISTICS, AND RESEARCH DESIGN",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/30_EPIDEMIOLOGY,_BIOSTATISTICS,_AND_RESEARCH_DESIGN.json",
+      "total_questions": 20
+    },
+    {
+      "id": "709febcf-64f8-40d2-a300-6e0720973166",
+      "index": 354,
+      "name": "INTERPERSONAL AND COMMUNICATION SKILLS",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/31_INTERPERSONAL_AND_COMMUNICATION_SKILLS.json",
+      "total_questions": 10
+    },
+    {
+      "id": "6410c94c-579c-42a7-a4c7-58bf26388ae1",
+      "index": 355,
+      "name": "SYSTEMS-BASED PRACTICE ISSUES",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/32_SYSTEMS-BASED_PRACTICE_ISSUES.json",
+      "total_questions": 11
+    },
+    {
+      "id": "723f1c79-addb-4d5a-88f8-8f1db6aee583",
+      "index": 356,
+      "name": "FACTORS AFFECTING PROGNOSIS OR COMPLICATING TREATMENT",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/33_FACTORS_AFFECTING_PROGNOSIS_OR_COMPLICATING_TREATMENT.json",
+      "total_questions": 20
+    },
+    {
+      "id": "5f4e2703-0da1-4b32-b90d-bdab2c691e4f",
+      "index": 357,
+      "name": "CLINICAL VIGNETTE (AUTISM SPECTRUM DISORDER)",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/34_CLINICAL_VIGNETTE_(AUTISM_SPECTRUM_DISORDER).json",
+      "total_questions": 7
+    },
+    {
+      "id": "fdb7b038-500c-468a-97bf-a1180d28717d",
+      "index": 358,
+      "name": "CLINICAL VIGNETTE (LEGAL - COMPETENCE TO STAND TRIAL)",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/35_CLINICAL_VIGNETTE_(LEGAL_-_COMPETENCE_TO_STAND_TRIAL).json",
+      "total_questions": 7
+    },
+    {
+      "id": "916ffaea-a769-45de-b1d6-d3f207f2c7e7",
+      "index": 359,
+      "name": "CLINICAL VIGNETTE (ETHICS - CAPACITY EVALUATION)",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/36_CLINICAL_VIGNETTE_(ETHICS_-_CAPACITY_EVALUATION).json",
+      "total_questions": 8
+    },
+    {
+      "id": "fd519f78-5195-44b6-a64a-354d555e79f5",
+      "index": 360,
+      "name": "CLINICAL VIGNETTE (DELIRIUM)",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/37_CLINICAL_VIGNETTE_(DELIRIUM).json",
+      "total_questions": 6
+    },
+    {
+      "id": "14a4e218-e6f5-468d-945a-69299261c0d5",
+      "index": 361,
+      "name": "CLINICAL VIGNETTE (PSYCHOSOMATICS - HIV)",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/38_CLINICAL_VIGNETTE_(PSYCHOSOMATICS_-_HIV).json",
+      "total_questions": 8
+    },
+    {
+      "id": "5a30bb2a-868e-4399-ae33-edd1b2c50c97",
+      "index": 362,
+      "name": "CLINICAL VIGNETTE (MOOD DISORDERS - WITH SUICIDAL IDEATION)",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/39_CLINICAL_VIGNETTE_(MOOD_DISORDERS_-_WITH_SUICIDAL_IDEATION).json",
+      "total_questions": 7
+    },
+    {
+      "id": "b462aa90-8e19-4018-8cd5-8b35d7b10d81",
+      "index": 363,
+      "name": "CLINICAL VIGNETTE (PERSONALITY DISORDERS)",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/40_CLINICAL_VIGNETTE_(PERSONALITY_DISORDERS).json",
+      "total_questions": 6
+    },
+    {
+      "id": "5592725f-89ea-4c88-9a4e-4aadb8313273",
+      "index": 364,
+      "name": "CLINICAL VIGNETTE (PSYCHOPHARMACOLOGY - EXTRAPYRAMIDAL SYMPTOMS)",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/41_CLINICAL_VIGNETTE_(PSYCHOPHARMACOLOGY_-_EXTRAPYRAMIDAL_SYMPTOMS).json",
+      "total_questions": 7
+    },
+    {
+      "id": "ab77a87a-2f18-4279-9d3b-af9330884b5f",
+      "index": 365,
+      "name": "CLINICAL VIGNETTE (SCHIZOPHRENIA)",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/42_CLINICAL_VIGNETTE_(SCHIZOPHRENIA).json",
+      "total_questions": 7
+    },
+    {
+      "id": "c9f2970e-c99d-4198-b892-912f92184c91",
+      "index": 366,
+      "name": "CLINICAL VIGNETTE (SUBSTANCE USE DISORDERS - ALCOHOL)",
+      "subject": "Psychiatry Board Review",
+      "resource": "Psychiatry Board Review",
+      "file": "data/qalam_chapters/25_Psychiatry_Board_Review/43_CLINICAL_VIGNETTE_(SUBSTANCE_USE_DISORDERS_-_ALCOHOL).json",
+      "total_questions": 11
+    },
+    {
+      "id": "a05eff78-738d-438d-aa5d-b82241762205",
+      "index": 367,
+      "name": "Test Number One",
+      "subject": "Psychiatry Test Preparation",
+      "resource": "Psychiatry Test Preparation",
+      "file": "data/qalam_chapters/26_Psychiatry_Test_Preparation/01_Test_Number_One.json",
+      "total_questions": 150
+    },
+    {
+      "id": "480d2c65-616e-497a-a86d-3f3e1800f121",
+      "index": 368,
+      "name": "Test Number Two",
+      "subject": "Psychiatry Test Preparation",
+      "resource": "Psychiatry Test Preparation",
+      "file": "data/qalam_chapters/26_Psychiatry_Test_Preparation/02_Test_Number_Two.json",
+      "total_questions": 150
+    },
+    {
+      "id": "e874032b-30d2-47f8-9eb3-6699259c2aca",
+      "index": 369,
+      "name": "Test Number Three",
+      "subject": "Psychiatry Test Preparation",
+      "resource": "Psychiatry Test Preparation",
+      "file": "data/qalam_chapters/26_Psychiatry_Test_Preparation/03_Test_Number_Three.json",
+      "total_questions": 150
+    },
+    {
+      "id": "c21a5131-edf8-4eb7-a5d0-26d052eaedc9",
+      "index": 370,
+      "name": "Test Number Four",
+      "subject": "Psychiatry Test Preparation",
+      "resource": "Psychiatry Test Preparation",
+      "file": "data/qalam_chapters/26_Psychiatry_Test_Preparation/04_Test_Number_Four.json",
+      "total_questions": 150
+    },
+    {
+      "id": "eca7ccf0-e650-41bc-a48c-1ea1bd54733a",
+      "index": 371,
+      "name": "Test Number Five",
+      "subject": "Psychiatry Test Preparation",
+      "resource": "Psychiatry Test Preparation",
+      "file": "data/qalam_chapters/26_Psychiatry_Test_Preparation/05_Test_Number_Five.json",
+      "total_questions": 150
+    },
+    {
+      "id": "8ac704b1-dc88-4ed2-aaaa-196749478f2c",
+      "index": 372,
+      "name": "Test Number Six",
+      "subject": "Psychiatry Test Preparation",
+      "resource": "Psychiatry Test Preparation",
+      "file": "data/qalam_chapters/26_Psychiatry_Test_Preparation/06_Test_Number_Six.json",
+      "total_questions": 150
+    },
+    {
+      "id": "a1ab73f6-f35f-4221-ab2f-a5891fddb574",
+      "index": 373,
+      "name": "Adult Psychopharmacology",
+      "subject": "Psychopharmacology 501 MCQs",
+      "resource": "Psychopharmacology 501 MCQs",
+      "file": "data/qalam_chapters/27_Psychopharmacology_501_MCQs/01_Adult_Psychopharmacology.json",
+      "total_questions": 49
+    },
+    {
+      "id": "0c243ea6-f95f-4fe5-bc6d-854b3662c3f3",
+      "index": 374,
+      "name": "Adult Psychopharmacology",
+      "subject": "Psychopharmacology 501 MCQs",
+      "resource": "Psychopharmacology 501 MCQs",
+      "file": "data/qalam_chapters/27_Psychopharmacology_501_MCQs/02_Adult_Psychopharmacology.json",
+      "total_questions": 50
+    },
+    {
+      "id": "0d6c34e8-7eb0-4e61-9f2f-cd33c14cfe31",
+      "index": 375,
+      "name": "Adult Psychopharmacology",
+      "subject": "Psychopharmacology 501 MCQs",
+      "resource": "Psychopharmacology 501 MCQs",
+      "file": "data/qalam_chapters/27_Psychopharmacology_501_MCQs/03_Adult_Psychopharmacology.json",
+      "total_questions": 50
+    },
+    {
+      "id": "22ab3896-64ee-4938-a86f-8c8efdf89f46",
+      "index": 376,
+      "name": "Adult Psychopharmacology",
+      "subject": "Psychopharmacology 501 MCQs",
+      "resource": "Psychopharmacology 501 MCQs",
+      "file": "data/qalam_chapters/27_Psychopharmacology_501_MCQs/04_Adult_Psychopharmacology.json",
+      "total_questions": 50
+    },
+    {
+      "id": "6ce9362c-c12a-4e6f-be06-54b5b4a1a81c",
+      "index": 377,
+      "name": "Adult Psychopharmacology",
+      "subject": "Psychopharmacology 501 MCQs",
+      "resource": "Psychopharmacology 501 MCQs",
+      "file": "data/qalam_chapters/27_Psychopharmacology_501_MCQs/05_Adult_Psychopharmacology.json",
+      "total_questions": 50
+    },
+    {
+      "id": "22d61ec8-f2e9-4ac4-a2de-d260d17485a9",
+      "index": 378,
+      "name": "Adult Psychopharmacology",
+      "subject": "Psychopharmacology 501 MCQs",
+      "resource": "Psychopharmacology 501 MCQs",
+      "file": "data/qalam_chapters/27_Psychopharmacology_501_MCQs/06_Adult_Psychopharmacology.json",
+      "total_questions": 49
+    },
+    {
+      "id": "dc6d53ba-0855-4966-b189-110460999b26",
+      "index": 379,
+      "name": "Adult Psychopharmacology",
+      "subject": "Psychopharmacology 501 MCQs",
+      "resource": "Psychopharmacology 501 MCQs",
+      "file": "data/qalam_chapters/27_Psychopharmacology_501_MCQs/07_Adult_Psychopharmacology.json",
+      "total_questions": 67
+    },
+    {
+      "id": "d20d9651-844f-4678-83e7-d6975b6230d1",
+      "index": 380,
+      "name": "Pediatric Psychpharmacology",
+      "subject": "Psychopharmacology 501 MCQs",
+      "resource": "Psychopharmacology 501 MCQs",
+      "file": "data/qalam_chapters/27_Psychopharmacology_501_MCQs/08_Pediatric_Psychpharmacology.json",
+      "total_questions": 36
+    },
+    {
+      "id": "9bb0bbcb-71d7-40c1-bad4-612a7359774f",
+      "index": 381,
+      "name": "Geriatric Psychopharmacology",
+      "subject": "Psychopharmacology 501 MCQs",
+      "resource": "Psychopharmacology 501 MCQs",
+      "file": "data/qalam_chapters/27_Psychopharmacology_501_MCQs/09_Geriatric_Psychopharmacology.json",
+      "total_questions": 48
+    },
+    {
+      "id": "164cba35-d30d-4273-bc81-81863aecbd41",
+      "index": 382,
+      "name": "Addiction Psychopharmacology",
+      "subject": "Psychopharmacology 501 MCQs",
+      "resource": "Psychopharmacology 501 MCQs",
+      "file": "data/qalam_chapters/27_Psychopharmacology_501_MCQs/10_Addiction_Psychopharmacology.json",
+      "total_questions": 30
+    },
+    {
+      "id": "cde75d86-38c1-44d8-9ffb-d9d0fc1ce591",
+      "index": 383,
+      "name": "Miscellaneous Topics",
+      "subject": "Psychopharmacology 501 MCQs",
+      "resource": "Psychopharmacology 501 MCQs",
+      "file": "data/qalam_chapters/27_Psychopharmacology_501_MCQs/11_Miscellaneous_Topics.json",
+      "total_questions": 19
+    },
+    {
+      "id": "7fefd74b-1b20-47b8-b189-fa49627975d2",
+      "index": 384,
+      "name": "Basic Psychology",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/01_Basic_Psychology.json",
+      "total_questions": 105
+    },
+    {
+      "id": "b30396f2-4417-4ac6-8e8c-da530f217323",
+      "index": 385,
+      "name": "Social psychology",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/02_Social_psychology.json",
+      "total_questions": 47
+    },
+    {
+      "id": "a488a7f0-5643-48ad-8c7f-c5b2db200968",
+      "index": 386,
+      "name": "Sociocultural psychiatry",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/03_Sociocultural_psychiatry.json",
+      "total_questions": 73
+    },
+    {
+      "id": "76f7fdcd-5364-4f0b-9379-fb770d88f23b",
+      "index": 387,
+      "name": "Human development",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/04_Human_development.json",
+      "total_questions": 129
+    },
+    {
+      "id": "c7643820-19d7-40a1-bdbf-9833db4eb42e",
+      "index": 388,
+      "name": "Neuroanatomy",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/05_Neuroanatomy.json",
+      "total_questions": 64
+    },
+    {
+      "id": "815088ee-d924-4b45-9592-0b3b6852093b",
+      "index": 389,
+      "name": "Neurophysiology",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/06_Neurophysiology.json",
+      "total_questions": 51
+    },
+    {
+      "id": "1ea28272-a169-486b-bfb1-345a60c63f67",
+      "index": 390,
+      "name": "Neurochemistry",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/07_Neurochemistry.json",
+      "total_questions": 38
+    },
+    {
+      "id": "63359a53-0554-45a1-9510-27b7ccf8eb61",
+      "index": 391,
+      "name": "Molecular Genetics",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/08_Molecular_Genetics.json",
+      "total_questions": 113
+    },
+    {
+      "id": "2d2834f1-eedf-44b0-93de-96340f06857f",
+      "index": 392,
+      "name": "Neuropathology",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/09_Neuropathology.json",
+      "total_questions": 32
+    },
+    {
+      "id": "c949b555-1f3f-4c1d-980a-e4bb129543b2",
+      "index": 393,
+      "name": "Applied Neuroscience",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/10_Applied_Neuroscience.json",
+      "total_questions": 48
+    },
+    {
+      "id": "92f83a6c-d36a-47b4-a541-7095c93ffbac",
+      "index": 394,
+      "name": "Basic Pharmacology",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/11_Basic_Pharmacology.json",
+      "total_questions": 56
+    },
+    {
+      "id": "a8133a8b-df90-49e3-961f-6bbe99c725dc",
+      "index": 395,
+      "name": "Pharmacokinetics",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/12_Pharmacokinetics.json",
+      "total_questions": 69
+    },
+    {
+      "id": "5970e7a9-4d12-443f-a5b6-9a7471bff772",
+      "index": 396,
+      "name": "Pharmacodynamics",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/13_Pharmacodynamics.json",
+      "total_questions": 50
+    },
+    {
+      "id": "ac9daf8b-4109-46c3-bd7a-7921a1e2db8e",
+      "index": 397,
+      "name": "Adverse Effects",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/14_Adverse_Effects.json",
+      "total_questions": 83
+    },
+    {
+      "id": "d4d9b8f9-23f4-492a-a0a0-4cc2dc832a78",
+      "index": 398,
+      "name": "Classification",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/15_Classification.json",
+      "total_questions": 146
+    },
+    {
+      "id": "8535144e-d904-4702-98bd-54c94ee09feb",
+      "index": 399,
+      "name": "Clinical Examination",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/16_Clinical_Examination.json",
+      "total_questions": 111
+    },
+    {
+      "id": "e49bfc30-eaf9-43b6-9183-dee9c45e4169",
+      "index": 400,
+      "name": "Descriptive Psychopathology",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/17_Descriptive_Psychopathology.json",
+      "total_questions": 189
+    },
+    {
+      "id": "5db94610-47a4-47fd-9d96-324b14673632",
+      "index": 401,
+      "name": "Dynamic Psychopathology",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/18_Dynamic_Psychopathology.json",
+      "total_questions": 37
+    },
+    {
+      "id": "6079f387-7e37-42c3-bcea-77f01570b996",
+      "index": 402,
+      "name": "Rating Scales",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/19_Rating_Scales.json",
+      "total_questions": 43
+    },
+    {
+      "id": "80572efc-dfca-494d-a9ea-3d37379153f0",
+      "index": 403,
+      "name": "Addiction 1",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/20_Addiction_1.json",
+      "total_questions": 80
+    },
+    {
+      "id": "1a184035-935b-44ec-8fb9-68bc542dcec6",
+      "index": 404,
+      "name": "Addiction 2",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/21_Addiction_2.json",
+      "total_questions": 73
+    },
+    {
+      "id": "ae482685-6164-49e9-b1dc-037d2c460e6b",
+      "index": 405,
+      "name": "Adult 1",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/22_Adult_1.json",
+      "total_questions": 90
+    },
+    {
+      "id": "35f13869-b4c8-4159-8cac-badf6422c446",
+      "index": 406,
+      "name": "Adult 2",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/23_Adult_2.json",
+      "total_questions": 88
+    },
+    {
+      "id": "67355fac-cedf-4393-8d4f-77c50aa62226",
+      "index": 407,
+      "name": "Child 1",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/24_Child_1.json",
+      "total_questions": 70
+    },
+    {
+      "id": "cb34ca46-771d-4825-bb1f-4b2ee90cb041",
+      "index": 408,
+      "name": "Child 2",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/25_Child_2.json",
+      "total_questions": 53
+    },
+    {
+      "id": "d6d3c1f1-0055-48a3-96b2-362c84b7dedd",
+      "index": 409,
+      "name": "Emergency",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/26_Emergency.json",
+      "total_questions": 39
+    },
+    {
+      "id": "fa6296bb-31b1-4cfa-a393-de6b702bddbe",
+      "index": 410,
+      "name": "Forensic 1",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/27_Forensic_1.json",
+      "total_questions": 40
+    },
+    {
+      "id": "f7da31ea-4595-436c-b23b-05f77fdd32e1",
+      "index": 411,
+      "name": "Forensic 2",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/28_Forensic_2.json",
+      "total_questions": 36
+    },
+    {
+      "id": "d420189b-fff5-416a-93ef-5066ffbaf247",
+      "index": 412,
+      "name": "Liaison 1",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/29_Liaison_1.json",
+      "total_questions": 70
+    },
+    {
+      "id": "3893e1aa-ce7c-44eb-b743-8dba6038b825",
+      "index": 413,
+      "name": "Liaison 2",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/30_Liaison_2.json",
+      "total_questions": 62
+    },
+    {
+      "id": "78936156-0210-4a6a-8dba-3d501975c8be",
+      "index": 414,
+      "name": "Old age 1",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/31_Old_age_1.json",
+      "total_questions": 70
+    },
+    {
+      "id": "66a0305b-a5e7-4d0a-aba8-ab0af15d0d77",
+      "index": 415,
+      "name": "Old age 2",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/32_Old_age_2.json",
+      "total_questions": 56
+    },
+    {
+      "id": "0161a8c0-1365-4214-b840-b88e0e168910",
+      "index": 416,
+      "name": "Perinatal",
+      "subject": "SPMM",
+      "resource": "SPMM",
+      "file": "data/qalam_chapters/28_SPMM/33_Perinatal.json",
+      "total_questions": 40
+    },
+    {
+      "id": "c668dc95-2078-432e-b42c-db8cec9c3ee9",
+      "index": 417,
+      "name": "Adult Part 1",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/01_Adult_Part_1.json",
+      "total_questions": 90
+    },
+    {
+      "id": "0ed8b818-f688-43b2-8a52-5041dedc1bd5",
+      "index": 418,
+      "name": "Adult Part 2",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/02_Adult_Part_2.json",
+      "total_questions": 88
+    },
+    {
+      "id": "e9aff12c-c527-4f4a-9444-590e0487dbc5",
+      "index": 419,
+      "name": "Liaison Part 1",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/03_Liaison_Part_1.json",
+      "total_questions": 70
+    },
+    {
+      "id": "a6da6510-92b1-4aef-b28e-d200bff09941",
+      "index": 420,
+      "name": "Liaison Part 2",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/04_Liaison_Part_2.json",
+      "total_questions": 62
+    },
+    {
+      "id": "18d5b7f6-edda-45b7-836f-2f4093546e16",
+      "index": 421,
+      "name": "Emergency Psychiatry",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/05_Emergency_Psychiatry.json",
+      "total_questions": 39
+    },
+    {
+      "id": "03452c8c-e646-4d88-a21c-7069e94bf9f1",
+      "index": 422,
+      "name": "Psychiatric Services\t",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/06_Psychiatric_Services.json",
+      "total_questions": 44
+    },
+    {
+      "id": "7eb8b535-4a19-46c5-ab10-ca21898ed2ba",
+      "index": 423,
+      "name": "Old age Part 1",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/07_Old_age_Part_1.json",
+      "total_questions": 70
+    },
+    {
+      "id": "ededd2f3-7d95-46c8-a092-08afdccd47e9",
+      "index": 424,
+      "name": "Old age Part 2",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/08_Old_age_Part_2.json",
+      "total_questions": 56
+    },
+    {
+      "id": "1d8bf4a2-fb8c-4323-a957-5c5758d9e921",
+      "index": 425,
+      "name": "Child Part 1",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/09_Child_Part_1.json",
+      "total_questions": 70
+    },
+    {
+      "id": "5dfa66bb-5f5a-4ff7-a0a8-08f5498df2c6",
+      "index": 426,
+      "name": "Child Part 2",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/10_Child_Part_2.json",
+      "total_questions": 63
+    },
+    {
+      "id": "e89f9c47-66b4-4d84-9419-947a24759690",
+      "index": 427,
+      "name": "Learning disability",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/11_Learning_disability.json",
+      "total_questions": 81
+    },
+    {
+      "id": "9a50ac77-a1ae-45a5-abc3-54a76d3f441a",
+      "index": 428,
+      "name": "Perinatal Psychiatry",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/12_Perinatal_Psychiatry.json",
+      "total_questions": 42
+    },
+    {
+      "id": "2d349005-0959-4c7a-9f0a-b02d109f100d",
+      "index": 429,
+      "name": "Addictions Part 1",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/13_Addictions_Part_1.json",
+      "total_questions": 80
+    },
+    {
+      "id": "21b7c029-f79c-498b-8ede-bbd601f0886c",
+      "index": 430,
+      "name": "Addiction Part 2",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/14_Addiction_Part_2.json",
+      "total_questions": 73
+    },
+    {
+      "id": "fae0b07b-13c8-4fa9-8516-a59bd17467bc",
+      "index": 431,
+      "name": "Forensics Part 1",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/15_Forensics_Part_1.json",
+      "total_questions": 40
+    },
+    {
+      "id": "da674380-22fd-42f2-ad00-9f9997baad20",
+      "index": 432,
+      "name": "Forensics Part 2",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/16_Forensics_Part_2.json",
+      "total_questions": 36
+    },
+    {
+      "id": "f8587a79-aa0c-4436-a88c-e8329c136ba5",
+      "index": 433,
+      "name": "Psychotherapy Part 1",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/17_Psychotherapy_Part_1.json",
+      "total_questions": 60
+    },
+    {
+      "id": "45c4410f-b9ba-4d82-87a0-1ecf15cabcc6",
+      "index": 434,
+      "name": "Psychotherapy Part 2",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/18_Psychotherapy_Part_2.json",
+      "total_questions": 69
+    },
+    {
+      "id": "5a60c421-e9e4-4175-ab3b-89a6419919d5",
+      "index": 435,
+      "name": "Paper B Mock Exam 14",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/19_Paper_B_Mock_Exam_14.json",
+      "total_questions": 94
+    },
+    {
+      "id": "32f23127-0047-4041-adb9-9eac30972c33",
+      "index": 436,
+      "name": "Fresh Questions October 2024 (set 10)",
+      "subject": "SPMM 2024",
+      "resource": "SPMM 2024",
+      "file": "data/qalam_chapters/29_SPMM_2024/20_Fresh_Questions_October_2024_(set_10).json",
+      "total_questions": 52
+    },
+    {
+      "id": "f927a1fa-524e-4283-ba78-588e521246ea",
+      "index": 437,
+      "name": "Adult part 1",
+      "subject": "SPMM 2025",
+      "resource": "SPMM 2025",
+      "file": "data/qalam_chapters/30_SPMM_2025/01_Adult_part_1.json",
+      "total_questions": 90
+    },
+    {
+      "id": "5c786ed8-3a63-4e80-8fbb-26a887db315c",
+      "index": 438,
+      "name": "Adult part 2",
+      "subject": "SPMM 2025",
+      "resource": "SPMM 2025",
+      "file": "data/qalam_chapters/30_SPMM_2025/02_Adult_part_2.json",
+      "total_questions": 88
+    },
+    {
+      "id": "150d709a-1254-49c6-a84a-5a61e09108a5",
+      "index": 439,
+      "name": "Child part 1",
+      "subject": "SPMM 2025",
+      "resource": "SPMM 2025",
+      "file": "data/qalam_chapters/30_SPMM_2025/03_Child_part_1.json",
+      "total_questions": 70
+    },
+    {
+      "id": "4d674d19-bb51-4ebe-bb84-25168b5f84b7",
+      "index": 440,
+      "name": "Child part 2",
+      "subject": "SPMM 2025",
+      "resource": "SPMM 2025",
+      "file": "data/qalam_chapters/30_SPMM_2025/04_Child_part_2.json",
+      "total_questions": 63
+    },
+    {
+      "id": "896648b9-ec3e-490e-8a53-4e98d824e062",
+      "index": 441,
+      "name": "Old Age part 1",
+      "subject": "SPMM 2025",
+      "resource": "SPMM 2025",
+      "file": "data/qalam_chapters/30_SPMM_2025/05_Old_Age_part_1.json",
+      "total_questions": 70
+    },
+    {
+      "id": "59879444-5feb-4157-87a6-a7fe5cca2a99",
+      "index": 442,
+      "name": "Old Age part 2",
+      "subject": "SPMM 2025",
+      "resource": "SPMM 2025",
+      "file": "data/qalam_chapters/30_SPMM_2025/06_Old_Age_part_2.json",
+      "total_questions": 56
+    },
+    {
+      "id": "43baa127-9bbb-4f54-b297-671e1660dbdd",
+      "index": 443,
+      "name": "Forensic part 1",
+      "subject": "SPMM 2025",
+      "resource": "SPMM 2025",
+      "file": "data/qalam_chapters/30_SPMM_2025/07_Forensic_part_1.json",
+      "total_questions": 40
+    },
+    {
+      "id": "8509c4d5-26fd-47e5-9254-e632d0fdae5e",
+      "index": 444,
+      "name": "Forensic part 2",
+      "subject": "SPMM 2025",
+      "resource": "SPMM 2025",
+      "file": "data/qalam_chapters/30_SPMM_2025/08_Forensic_part_2.json",
+      "total_questions": 36
+    },
+    {
+      "id": "b1bf0a68-7fa5-4c94-9aa6-e176ae39bc98",
+      "index": 445,
+      "name": "Addiction part 1",
+      "subject": "SPMM 2025",
+      "resource": "SPMM 2025",
+      "file": "data/qalam_chapters/30_SPMM_2025/09_Addiction_part_1.json",
+      "total_questions": 79
+    },
+    {
+      "id": "588a911c-4fbb-422e-a21b-bcc4df683515",
+      "index": 446,
+      "name": "Addictionj part 2",
+      "subject": "SPMM 2025",
+      "resource": "SPMM 2025",
+      "file": "data/qalam_chapters/30_SPMM_2025/10_Addictionj_part_2.json",
+      "total_questions": 70
+    },
+    {
+      "id": "9058ebc5-7953-41a8-a562-c6c1cfa39cfb",
+      "index": 447,
+      "name": "Intellectual Disability",
+      "subject": "SPMM 2025",
+      "resource": "SPMM 2025",
+      "file": "data/qalam_chapters/30_SPMM_2025/11_Intellectual_Disability.json",
+      "total_questions": 81
+    },
+    {
+      "id": "615ac181-f00f-42bd-9459-74c2baa65a94",
+      "index": 448,
+      "name": "Psychiatric Services",
+      "subject": "SPMM 2025",
+      "resource": "SPMM 2025",
+      "file": "data/qalam_chapters/30_SPMM_2025/12_Psychiatric_Services.json",
+      "total_questions": 44
+    },
+    {
+      "id": "a34d2b9c-b0f3-464e-809d-d84ed9eb16d2",
+      "index": 449,
+      "name": "Emergency Psychiatry",
+      "subject": "SPMM 2025",
+      "resource": "SPMM 2025",
+      "file": "data/qalam_chapters/30_SPMM_2025/13_Emergency_Psychiatry.json",
+      "total_questions": 37
+    },
+    {
+      "id": "fda9ef81-55ed-4697-b3ec-f150601491e2",
+      "index": 450,
+      "name": "Laison part 1",
+      "subject": "SPMM 2025",
+      "resource": "SPMM 2025",
+      "file": "data/qalam_chapters/30_SPMM_2025/14_Laison_part_1.json",
+      "total_questions": 66
+    },
+    {
+      "id": "19b6851d-3689-4dda-9906-6808c50325bd",
+      "index": 451,
+      "name": "Laison part 2",
+      "subject": "SPMM 2025",
+      "resource": "SPMM 2025",
+      "file": "data/qalam_chapters/30_SPMM_2025/15_Laison_part_2.json",
+      "total_questions": 62
+    },
+    {
+      "id": "ab7800e7-a505-4186-aed7-732e43a590b0",
+      "index": 452,
+      "name": "psychotherapy part 1",
+      "subject": "SPMM 2025",
+      "resource": "SPMM 2025",
+      "file": "data/qalam_chapters/30_SPMM_2025/16_psychotherapy_part_1.json",
+      "total_questions": 60
+    },
+    {
+      "id": "30b07490-6317-4d2c-9dcf-93e0f71357e2",
+      "index": 453,
+      "name": "Psychotherapy part 2",
+      "subject": "SPMM 2025",
+      "resource": "SPMM 2025",
+      "file": "data/qalam_chapters/30_SPMM_2025/17_Psychotherapy_part_2.json",
+      "total_questions": 69
+    },
+    {
+      "id": "7ecfd080-5fd5-4735-8ecb-d9e8433a2337",
+      "index": 454,
+      "name": "Basic psychology",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/01_Basic_psychology.json",
+      "total_questions": 105
+    },
+    {
+      "id": "178ad10b-4b5c-4905-8eb8-b8b4edc80c4d",
+      "index": 455,
+      "name": "Social Psychology",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/02_Social_Psychology.json",
+      "total_questions": 47
+    },
+    {
+      "id": "ce38a4db-44a9-46bd-a576-59a7617ae601",
+      "index": 456,
+      "name": "Sociocultural Psychiatry",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/03_Sociocultural_Psychiatry.json",
+      "total_questions": 73
+    },
+    {
+      "id": "241b38f3-036c-42c1-a4ae-91bab4ad119f",
+      "index": 457,
+      "name": "Human Development",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/04_Human_Development.json",
+      "total_questions": 129
+    },
+    {
+      "id": "0dc68324-1661-4d07-91c8-fed7041dca6e",
+      "index": 458,
+      "name": "Neuroanatomy",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/05_Neuroanatomy.json",
+      "total_questions": 64
+    },
+    {
+      "id": "afab529b-70e3-4109-995f-88ccd3e0bd59",
+      "index": 459,
+      "name": "Neurophysiology",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/06_Neurophysiology.json",
+      "total_questions": 51
+    },
+    {
+      "id": "7693393d-93d0-413f-8d52-3f371c185092",
+      "index": 460,
+      "name": "Neurochemistry",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/07_Neurochemistry.json",
+      "total_questions": 38
+    },
+    {
+      "id": "917bdc89-d386-43a9-87a0-9ca41182ccb7",
+      "index": 461,
+      "name": "Neuropathology",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/08_Neuropathology.json",
+      "total_questions": 32
+    },
+    {
+      "id": "cf68c6b9-b37a-4c98-9b00-c1814c87713c",
+      "index": 462,
+      "name": "Basic Pharmacology",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/09_Basic_Pharmacology.json",
+      "total_questions": 56
+    },
+    {
+      "id": "5dd444e8-3150-424e-b206-1f8212c3aa0a",
+      "index": 463,
+      "name": "pharmacokinetics",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/10_pharmacokinetics.json",
+      "total_questions": 69
+    },
+    {
+      "id": "3cbfb44f-f3d2-49bd-ac3b-75b3ffd93ad3",
+      "index": 464,
+      "name": "Adverse effects attempts",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/11_Adverse_effects_attempts.json",
+      "total_questions": 83
+    },
+    {
+      "id": "42b7557d-e14d-4a24-a20f-906c9dac8b30",
+      "index": 465,
+      "name": "Clinical Examination Attempts",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/12_Clinical_Examination_Attempts.json",
+      "total_questions": 111
+    },
+    {
+      "id": "ec43812e-cc02-40c8-bac5-47d356e6ad46",
+      "index": 466,
+      "name": "Classification Attempts",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/13_Classification_Attempts.json",
+      "total_questions": 146
+    },
+    {
+      "id": "a0f6f4ee-f6cd-46a2-be5a-8771218dab58",
+      "index": 467,
+      "name": "Descriptive Psychopathology",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/14_Descriptive_Psychopathology.json",
+      "total_questions": 189
+    },
+    {
+      "id": "6202ca8b-07dc-4cf5-9f62-035e32fa47e9",
+      "index": 468,
+      "name": "Dynamic Psychopathology",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/15_Dynamic_Psychopathology.json",
+      "total_questions": 37
+    },
+    {
+      "id": "61410c6e-25b2-45e9-af97-40322de3cb14",
+      "index": 469,
+      "name": "Molecular Genetics",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/16_Molecular_Genetics.json",
+      "total_questions": 113
+    },
+    {
+      "id": "145e5c4a-83c0-49e1-a607-47daf0d5ec97",
+      "index": 470,
+      "name": "Rating Scales",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/17_Rating_Scales.json",
+      "total_questions": 43
+    },
+    {
+      "id": "dac4080c-8b0f-496c-ad0f-226ce7c9f92d",
+      "index": 471,
+      "name": "Advanced Neuroscience",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/18_Advanced_Neuroscience.json",
+      "total_questions": 45
+    },
+    {
+      "id": "1f7e5bf8-d780-45d2-82d2-8ea5de835f33",
+      "index": 472,
+      "name": "Pharmacodynamics",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/19_Pharmacodynamics.json",
+      "total_questions": 50
+    },
+    {
+      "id": "544fbfb5-f755-4376-8f79-fe60172f7be9",
+      "index": 473,
+      "name": "Applied Neurosciences",
+      "subject": "SPMM I",
+      "resource": "SPMM I",
+      "file": "data/qalam_chapters/31_SPMM_I/20_Applied_Neurosciences.json",
+      "total_questions": 48
+    },
+    {
+      "id": "93d748b2-e4cc-4b88-8135-fa8bacb0aa02",
+      "index": 474,
+      "name": "2024-1",
+      "subject": "SPMM II",
+      "resource": "SPMM II",
+      "file": "data/qalam_chapters/32_SPMM_II/01_2024-1.json",
+      "total_questions": 48
+    },
+    {
+      "id": "2071434e-7169-4586-b4cf-e550d3654b47",
+      "index": 475,
+      "name": "2024-2",
+      "subject": "SPMM II",
+      "resource": "SPMM II",
+      "file": "data/qalam_chapters/32_SPMM_II/02_2024-2.json",
+      "total_questions": 48
+    },
+    {
+      "id": "181cbf1b-ec47-43b7-a604-f3f040efafa7",
+      "index": 476,
+      "name": "2016-3",
+      "subject": "SPMM II",
+      "resource": "SPMM II",
+      "file": "data/qalam_chapters/32_SPMM_II/03_2016-3.json",
+      "total_questions": 67
+    },
+    {
+      "id": "d40b69ca-a9ca-48b4-b584-35dfb8c69cd7",
+      "index": 477,
+      "name": "2017-1",
+      "subject": "SPMM II",
+      "resource": "SPMM II",
+      "file": "data/qalam_chapters/32_SPMM_II/04_2017-1.json",
+      "total_questions": 48
+    },
+    {
+      "id": "6c18e007-ef85-4094-b8d3-ebc2bc46fc8a",
+      "index": 478,
+      "name": "2017-2",
+      "subject": "SPMM II",
+      "resource": "SPMM II",
+      "file": "data/qalam_chapters/32_SPMM_II/05_2017-2.json",
+      "total_questions": 45
+    },
+    {
+      "id": "0504bd3d-da64-41da-a38c-10adbd6c370e",
+      "index": 479,
+      "name": "2018-1",
+      "subject": "SPMM II",
+      "resource": "SPMM II",
+      "file": "data/qalam_chapters/32_SPMM_II/06_2018-1.json",
+      "total_questions": 42
+    },
+    {
+      "id": "0ac614e4-bc74-415a-acd4-643dcfd4c271",
+      "index": 480,
+      "name": "2018-2",
+      "subject": "SPMM II",
+      "resource": "SPMM II",
+      "file": "data/qalam_chapters/32_SPMM_II/07_2018-2.json",
+      "total_questions": 37
+    },
+    {
+      "id": "084faf04-2d2f-49c5-9016-bb65e05dfeca",
+      "index": 481,
+      "name": "2019-1",
+      "subject": "SPMM II",
+      "resource": "SPMM II",
+      "file": "data/qalam_chapters/32_SPMM_II/08_2019-1.json",
+      "total_questions": 48
+    },
+    {
+      "id": "c27d8ddf-4f57-42f2-aeae-c2b67501220a",
+      "index": 482,
+      "name": "2019-2",
+      "subject": "SPMM II",
+      "resource": "SPMM II",
+      "file": "data/qalam_chapters/32_SPMM_II/09_2019-2.json",
+      "total_questions": 74
+    },
+    {
+      "id": "933432ec-b74c-4d54-9104-0fad5381f249",
+      "index": 483,
+      "name": "2020-1",
+      "subject": "SPMM II",
+      "resource": "SPMM II",
+      "file": "data/qalam_chapters/32_SPMM_II/10_2020-1.json",
+      "total_questions": 25
+    },
+    {
+      "id": "6559c94d-4e2e-48c7-9081-feb3d5201049",
+      "index": 484,
+      "name": "2020-2",
+      "subject": "SPMM II",
+      "resource": "SPMM II",
+      "file": "data/qalam_chapters/32_SPMM_II/11_2020-2.json",
+      "total_questions": 41
+    },
+    {
+      "id": "d6e737e4-c02e-4daa-844f-182387731d8c",
+      "index": 485,
+      "name": "2021-1",
+      "subject": "SPMM II",
+      "resource": "SPMM II",
+      "file": "data/qalam_chapters/32_SPMM_II/12_2021-1.json",
+      "total_questions": 16
+    },
+    {
+      "id": "25e218ce-81ed-4309-807b-823cbb214cc5",
+      "index": 486,
+      "name": "2021-2",
+      "subject": "SPMM II",
+      "resource": "SPMM II",
+      "file": "data/qalam_chapters/32_SPMM_II/13_2021-2.json",
+      "total_questions": 105
+    },
+    {
+      "id": "dec5de70-1461-4180-b05e-d12279b71220",
+      "index": 487,
+      "name": "2021-3",
+      "subject": "SPMM II",
+      "resource": "SPMM II",
+      "file": "data/qalam_chapters/32_SPMM_II/14_2021-3.json",
+      "total_questions": 144
+    },
+    {
+      "id": "6829505d-3893-41c9-982c-5312f43c7116",
+      "index": 488,
+      "name": "2021-4",
+      "subject": "SPMM II",
+      "resource": "SPMM II",
+      "file": "data/qalam_chapters/32_SPMM_II/15_2021-4.json",
+      "total_questions": 17
+    },
+    {
+      "id": "63a25a42-6a7a-41c1-9a11-41ad42dcf518",
+      "index": 489,
+      "name": "2016-1",
+      "subject": "SPMM II",
+      "resource": "SPMM II",
+      "file": "data/qalam_chapters/32_SPMM_II/16_2016-1.json",
+      "total_questions": 93
+    },
+    {
+      "id": "e86030ed-7a1b-4410-b354-3ab7a8150892",
+      "index": 490,
+      "name": "Psychology",
+      "subject": "SPMM Previous Years",
+      "resource": "SPMM Previous Years",
+      "file": "data/qalam_chapters/33_SPMM_Previous_Years/01_Psychology.json",
+      "total_questions": 22
+    },
+    {
+      "id": "1032ecd7-10d6-4478-82f4-0087f1f061c3",
+      "index": 491,
+      "name": "Psychopathology",
+      "subject": "SPMM Previous Years",
+      "resource": "SPMM Previous Years",
+      "file": "data/qalam_chapters/33_SPMM_Previous_Years/02_Psychopathology.json",
+      "total_questions": 9
+    },
+    {
+      "id": "7e9c271a-29a4-4c8e-a59b-3276221573a1",
+      "index": 492,
+      "name": "Psychopharmacology",
+      "subject": "SPMM Previous Years",
+      "resource": "SPMM Previous Years",
+      "file": "data/qalam_chapters/33_SPMM_Previous_Years/03_Psychopharmacology.json",
+      "total_questions": 15
+    },
+    {
+      "id": "a4b6be86-a01e-4e80-83d0-a9ed37010315",
+      "index": 493,
+      "name": "Set 1",
+      "subject": "Spmm Mock Exam Paper A",
+      "resource": "Spmm Mock Exam Paper A",
+      "file": "data/qalam_chapters/34_Spmm_Mock_Exam_Paper_A/01_Set_1.json",
+      "total_questions": 105
+    },
+    {
+      "id": "e46a20b8-f25b-48d5-93d3-9c9261953796",
+      "index": 494,
+      "name": "Set 2",
+      "subject": "Spmm Mock Exam Paper A",
+      "resource": "Spmm Mock Exam Paper A",
+      "file": "data/qalam_chapters/34_Spmm_Mock_Exam_Paper_A/02_Set_2.json",
+      "total_questions": 95
+    },
+    {
+      "id": "925197c5-503e-405e-aaae-6802a7b90bc9",
+      "index": 495,
+      "name": "Set 3",
+      "subject": "Spmm Mock Exam Paper A",
+      "resource": "Spmm Mock Exam Paper A",
+      "file": "data/qalam_chapters/34_Spmm_Mock_Exam_Paper_A/03_Set_3.json",
+      "total_questions": 100
+    },
+    {
+      "id": "fc2b399e-1cdf-47c7-bf58-a7acfc26e5ad",
+      "index": 496,
+      "name": "Set 4",
+      "subject": "Spmm Mock Exam Paper A",
+      "resource": "Spmm Mock Exam Paper A",
+      "file": "data/qalam_chapters/34_Spmm_Mock_Exam_Paper_A/04_Set_4.json",
+      "total_questions": 104
+    },
+    {
+      "id": "093757e7-2de8-4b13-802b-391222bddf24",
+      "index": 497,
+      "name": "Set 5",
+      "subject": "Spmm Mock Exam Paper A",
+      "resource": "Spmm Mock Exam Paper A",
+      "file": "data/qalam_chapters/34_Spmm_Mock_Exam_Paper_A/05_Set_5.json",
+      "total_questions": 104
+    },
+    {
+      "id": "0d1a3c2e-4f77-4a76-b8be-599c366f16d8",
+      "index": 498,
+      "name": "Set 6",
+      "subject": "Spmm Mock Exam Paper A",
+      "resource": "Spmm Mock Exam Paper A",
+      "file": "data/qalam_chapters/34_Spmm_Mock_Exam_Paper_A/06_Set_6.json",
+      "total_questions": 101
+    },
+    {
+      "id": "4c8a7d14-c85e-4116-9cb5-6ed3e8498b00",
+      "index": 499,
+      "name": "Set 7",
+      "subject": "Spmm Mock Exam Paper A",
+      "resource": "Spmm Mock Exam Paper A",
+      "file": "data/qalam_chapters/34_Spmm_Mock_Exam_Paper_A/07_Set_7.json",
+      "total_questions": 99
+    },
+    {
+      "id": "a6aaecbb-57f0-408f-9f12-101a82b4372f",
+      "index": 500,
+      "name": "Set 8",
+      "subject": "Spmm Mock Exam Paper A",
+      "resource": "Spmm Mock Exam Paper A",
+      "file": "data/qalam_chapters/34_Spmm_Mock_Exam_Paper_A/08_Set_8.json",
+      "total_questions": 105
+    },
+    {
+      "id": "eec8fe7a-c328-4a9d-8fad-66082f75174d",
+      "index": 501,
+      "name": "Set 9",
+      "subject": "Spmm Mock Exam Paper A",
+      "resource": "Spmm Mock Exam Paper A",
+      "file": "data/qalam_chapters/34_Spmm_Mock_Exam_Paper_A/09_Set_9.json",
+      "total_questions": 98
+    },
+    {
+      "id": "51aca3b2-5718-4ef5-931b-29bbdab7cf54",
+      "index": 502,
+      "name": "Set 10",
+      "subject": "Spmm Mock Exam Paper A",
+      "resource": "Spmm Mock Exam Paper A",
+      "file": "data/qalam_chapters/34_Spmm_Mock_Exam_Paper_A/10_Set_10.json",
+      "total_questions": 98
+    },
+    {
+      "id": "914e3b45-e295-4c04-b51f-d50acd68cde2",
+      "index": 503,
+      "name": "Set 11",
+      "subject": "Spmm Mock Exam Paper A",
+      "resource": "Spmm Mock Exam Paper A",
+      "file": "data/qalam_chapters/34_Spmm_Mock_Exam_Paper_A/11_Set_11.json",
+      "total_questions": 97
+    },
+    {
+      "id": "58b0e895-4104-478b-92b0-58b456723753",
+      "index": 504,
+      "name": "Set 12",
+      "subject": "Spmm Mock Exam Paper A",
+      "resource": "Spmm Mock Exam Paper A",
+      "file": "data/qalam_chapters/34_Spmm_Mock_Exam_Paper_A/12_Set_12.json",
+      "total_questions": 106
+    }
+  ],
+  "chapters": [
+    {
+      "id": 167,
+      "index": 1,
+      "name": "Substance Use & Addiction 1",
+      "subject": "Addiction & SUD",
+      "file": "data/chapters/01_Substance_Use_&_Addiction_1.json",
+      "total_questions": 162
+    },
+    {
+      "id": 168,
+      "index": 2,
+      "name": "Substance Use & Addiction 2",
+      "subject": "Addiction & SUD",
+      "file": "data/chapters/02_Substance_Use_&_Addiction_2.json",
+      "total_questions": 158
+    },
+    {
+      "id": 246,
+      "index": 3,
+      "name": "Substance Use & Addiction 3",
+      "subject": "Addiction & SUD",
+      "file": "data/chapters/03_Substance_Use_&_Addiction_3.json",
+      "total_questions": 6
+    },
+    {
+      "id": 71,
+      "index": 4,
+      "name": "Adolescence, Adulthood & Ageing",
+      "subject": "Adolescence, Adulthood & Ageing",
+      "file": "data/chapters/04_Adolescence,_Adulthood_&_Ageing.json",
+      "total_questions": 66
+    },
+    {
+      "id": 65,
+      "index": 5,
+      "name": "Anxiety & Related Disorders_1",
+      "subject": "Anxiety & Related Disorders",
+      "file": "data/chapters/05_Anxiety_&_Related_Disorders_1.json",
+      "total_questions": 165
+    },
+    {
+      "id": 66,
+      "index": 6,
+      "name": "Anxiety & Related Disorders_2",
+      "subject": "Anxiety & Related Disorders",
+      "file": "data/chapters/06_Anxiety_&_Related_Disorders_2.json",
+      "total_questions": 50
+    },
+    {
+      "id": 214,
+      "index": 7,
+      "name": "Anxiety & Related Disorders_1 2",
+      "subject": "Anxiety & Related Disorders",
+      "file": "data/chapters/07_Anxiety_&_Related_Disorders_1_2.json",
+      "total_questions": 14
+    },
+    {
+      "id": 93,
+      "index": 8,
+      "name": "Basic Epidemiology_1",
+      "subject": "Basic Epidemiology",
+      "file": "data/chapters/08_Basic_Epidemiology_1.json",
+      "total_questions": 78
+    },
+    {
+      "id": 94,
+      "index": 9,
+      "name": "Basic Epidemiology_2",
+      "subject": "Basic Epidemiology",
+      "file": "data/chapters/09_Basic_Epidemiology_2.json",
+      "total_questions": 69
+    },
+    {
+      "id": 95,
+      "index": 10,
+      "name": "Basic Epidemiology_3",
+      "subject": "Basic Epidemiology",
+      "file": "data/chapters/10_Basic_Epidemiology_3.json",
+      "total_questions": 62
+    },
+    {
+      "id": 96,
+      "index": 11,
+      "name": "Basic Epidemiology_4",
+      "subject": "Basic Epidemiology",
+      "file": "data/chapters/11_Basic_Epidemiology_4.json",
+      "total_questions": 84
+    },
+    {
+      "id": 97,
+      "index": 12,
+      "name": "Basic Epidemiology_5",
+      "subject": "Basic Epidemiology",
+      "file": "data/chapters/12_Basic_Epidemiology_5.json",
+      "total_questions": 83
+    },
+    {
+      "id": 98,
+      "index": 13,
+      "name": "Basic Epidemiology_6",
+      "subject": "Basic Epidemiology",
+      "file": "data/chapters/13_Basic_Epidemiology_6.json",
+      "total_questions": 84
+    },
+    {
+      "id": 99,
+      "index": 14,
+      "name": "Basic Epidemiology_7",
+      "subject": "Basic Epidemiology",
+      "file": "data/chapters/14_Basic_Epidemiology_7.json",
+      "total_questions": 81
+    },
+    {
+      "id": 100,
+      "index": 15,
+      "name": "Basic Epidemiology_8",
+      "subject": "Basic Epidemiology",
+      "file": "data/chapters/15_Basic_Epidemiology_8.json",
+      "total_questions": 84
+    },
+    {
+      "id": 101,
+      "index": 16,
+      "name": "Basic Epidemiology_9",
+      "subject": "Basic Epidemiology",
+      "file": "data/chapters/16_Basic_Epidemiology_9.json",
+      "total_questions": 82
+    },
+    {
+      "id": 102,
+      "index": 17,
+      "name": "Basic Epidemiology_10",
+      "subject": "Basic Epidemiology",
+      "file": "data/chapters/17_Basic_Epidemiology_10.json",
+      "total_questions": 83
+    },
+    {
+      "id": 103,
+      "index": 18,
+      "name": "Basic Epidemiology_11",
+      "subject": "Basic Epidemiology",
+      "file": "data/chapters/18_Basic_Epidemiology_11.json",
+      "total_questions": 75
+    },
+    {
+      "id": 72,
+      "index": 19,
+      "name": "Child & Adolescent Psychiatry_1",
+      "subject": "Child & Adolescent Psychiatry",
+      "file": "data/chapters/19_Child_&_Adolescent_Psychiatry_1.json",
+      "total_questions": 151
+    },
+    {
+      "id": 73,
+      "index": 20,
+      "name": "Child & Adolescent Psychiatry_2",
+      "subject": "Child & Adolescent Psychiatry",
+      "file": "data/chapters/20_Child_&_Adolescent_Psychiatry_2.json",
+      "total_questions": 150
+    },
+    {
+      "id": 74,
+      "index": 21,
+      "name": "Child & Adolescent Psychiatry_3",
+      "subject": "Child & Adolescent Psychiatry",
+      "file": "data/chapters/21_Child_&_Adolescent_Psychiatry_3.json",
+      "total_questions": 150
+    },
+    {
+      "id": 217,
+      "index": 22,
+      "name": "Child & Adolescent Psychiatry_1 2",
+      "subject": "Child & Adolescent Psychiatry",
+      "file": "data/chapters/22_Child_&_Adolescent_Psychiatry_1_2.json",
+      "total_questions": 25
+    },
+    {
+      "id": 169,
+      "index": 23,
+      "name": "Eating Disorders",
+      "subject": "Eating Disorders",
+      "file": "data/chapters/23_Eating_Disorders.json",
+      "total_questions": 98
+    },
+    {
+      "id": 210,
+      "index": 24,
+      "name": "Exam Themes Questions 2026 ( Paper A )",
+      "subject": "Exams Themes Questions",
+      "file": "data/chapters/24_Exam_Themes_Questions_2026_(_Paper_A_).json",
+      "total_questions": 116
+    },
+    {
+      "id": 176,
+      "index": 25,
+      "name": "Paper B Themes 2025/2026",
+      "subject": "Exams Themes Questions",
+      "file": "data/chapters/25_Paper_B_Themes_2025_2026.json",
+      "total_questions": 179
+    },
+    {
+      "id": 153,
+      "index": 26,
+      "name": "Forensic Psychiatry 1",
+      "subject": "Forensic Pscyhiatry",
+      "file": "data/chapters/26_Forensic_Psychiatry_1.json",
+      "total_questions": 117
+    },
+    {
+      "id": 154,
+      "index": 27,
+      "name": "Forensic Psychiatry 2",
+      "subject": "Forensic Pscyhiatry",
+      "file": "data/chapters/27_Forensic_Psychiatry_2.json",
+      "total_questions": 114
+    },
+    {
+      "id": 155,
+      "index": 28,
+      "name": "Forensic Psychiatry 3",
+      "subject": "Forensic Pscyhiatry",
+      "file": "data/chapters/28_Forensic_Psychiatry_3.json",
+      "total_questions": 114
+    },
+    {
+      "id": 144,
+      "index": 29,
+      "name": "Intellectual Disability Psychiatry_1",
+      "subject": "Intellectual Disability Psychiatry",
+      "file": "data/chapters/29_Intellectual_Disability_Psychiatry_1.json",
+      "total_questions": 84
+    },
+    {
+      "id": 145,
+      "index": 30,
+      "name": "Intellectual Disability Psychiatry_2",
+      "subject": "Intellectual Disability Psychiatry",
+      "file": "data/chapters/30_Intellectual_Disability_Psychiatry_2.json",
+      "total_questions": 84
+    },
+    {
+      "id": 146,
+      "index": 31,
+      "name": "Intellectual Disability Psychiatry_3",
+      "subject": "Intellectual Disability Psychiatry",
+      "file": "data/chapters/31_Intellectual_Disability_Psychiatry_3.json",
+      "total_questions": 82
+    },
+    {
+      "id": 128,
+      "index": 32,
+      "name": "Liaison Psychiatry",
+      "subject": "Liaison Psychiatry",
+      "file": "data/chapters/32_Liaison_Psychiatry.json",
+      "total_questions": 126
+    },
+    {
+      "id": 129,
+      "index": 33,
+      "name": "Liaison Psychiatry 2",
+      "subject": "Liaison Psychiatry",
+      "file": "data/chapters/33_Liaison_Psychiatry_2.json",
+      "total_questions": 117
+    },
+    {
+      "id": 126,
+      "index": 34,
+      "name": "Organic & Neuropsychiatry 1",
+      "subject": "Liaison Psychiatry",
+      "file": "data/chapters/34_Organic_&_Neuropsychiatry_1.json",
+      "total_questions": 155
+    },
+    {
+      "id": 127,
+      "index": 35,
+      "name": "Organic & Neuropsychiatry 2",
+      "subject": "Liaison Psychiatry",
+      "file": "data/chapters/35_Organic_&_Neuropsychiatry_2.json",
+      "total_questions": 151
+    },
+    {
+      "id": 147,
+      "index": 36,
+      "name": "Mood Disorders_1",
+      "subject": "Mood Disorders",
+      "file": "data/chapters/36_Mood_Disorders_1.json",
+      "total_questions": 163
+    },
+    {
+      "id": 148,
+      "index": 37,
+      "name": "Mood Disorders_2",
+      "subject": "Mood Disorders",
+      "file": "data/chapters/37_Mood_Disorders_2.json",
+      "total_questions": 157
+    },
+    {
+      "id": 212,
+      "index": 38,
+      "name": "Mood Disorders_1 2",
+      "subject": "Mood Disorders",
+      "file": "data/chapters/38_Mood_Disorders_1_2.json",
+      "total_questions": 31
+    },
+    {
+      "id": 224,
+      "index": 39,
+      "name": "Mood Disorders_2 2",
+      "subject": "Mood Disorders",
+      "file": "data/chapters/39_Mood_Disorders_2_2.json",
+      "total_questions": 7
+    },
+    {
+      "id": 137,
+      "index": 40,
+      "name": "Old Age Psychiatry_1",
+      "subject": "Old Age Psychiatry",
+      "file": "data/chapters/40_Old_Age_Psychiatry_1.json",
+      "total_questions": 124
+    },
+    {
+      "id": 138,
+      "index": 41,
+      "name": "Old Age Psychiatry_2",
+      "subject": "Old Age Psychiatry",
+      "file": "data/chapters/41_Old_Age_Psychiatry_2.json",
+      "total_questions": 115
+    },
+    {
+      "id": 139,
+      "index": 42,
+      "name": "Old Age Psychiatry_3",
+      "subject": "Old Age Psychiatry",
+      "file": "data/chapters/42_Old_Age_Psychiatry_3.json",
+      "total_questions": 114
+    },
+    {
+      "id": 130,
+      "index": 43,
+      "name": "Perinatal Psychiatry",
+      "subject": "Perinatal Psychiatry",
+      "file": "data/chapters/43_Perinatal_Psychiatry.json",
+      "total_questions": 113
+    },
+    {
+      "id": 149,
+      "index": 44,
+      "name": "Psychological Treatments",
+      "subject": "Psychotherapy models",
+      "file": "data/chapters/44_Psychological_Treatments.json",
+      "total_questions": 116
+    },
+    {
+      "id": 150,
+      "index": 45,
+      "name": "Psychotherapy_1",
+      "subject": "Psychotherapy models",
+      "file": "data/chapters/45_Psychotherapy_1.json",
+      "total_questions": 112
+    },
+    {
+      "id": 151,
+      "index": 46,
+      "name": "Psychotherapy_2",
+      "subject": "Psychotherapy models",
+      "file": "data/chapters/46_Psychotherapy_2.json",
+      "total_questions": 108
+    },
+    {
+      "id": 152,
+      "index": 47,
+      "name": "Schizophrenia & Psychotic disorders",
+      "subject": "Schizophrenia & Psychotic disorders",
+      "file": "data/chapters/47_Schizophrenia_&_Psychotic_disorders.json",
+      "total_questions": 254
+    },
+    {
+      "id": 211,
+      "index": 48,
+      "name": "Schizophrenia & Psychotic disorders 2",
+      "subject": "Schizophrenia & Psychotic disorders",
+      "file": "data/chapters/48_Schizophrenia_&_Psychotic_disorders_2.json",
+      "total_questions": 75
+    },
+    {
+      "id": 170,
+      "index": 49,
+      "name": "Somatic & Dissociative Disorders",
+      "subject": "Somatic & Dissociative Disorders",
+      "file": "data/chapters/49_Somatic_&_Dissociative_Disorders.json",
+      "total_questions": 164
+    },
+    {
+      "id": 219,
+      "index": 50,
+      "name": "Somatic & Dissociative Disorders 2",
+      "subject": "Somatic & Dissociative Disorders",
+      "file": "data/chapters/50_Somatic_&_Dissociative_Disorders_2.json",
+      "total_questions": 12
+    },
+    {
+      "id": 91,
+      "index": 51,
+      "name": "Basic Biostatistics_1",
+      "subject": "Statistics and Critical appraisal",
+      "file": "data/chapters/51_Basic_Biostatistics_1.json",
+      "total_questions": 101
+    },
+    {
+      "id": 92,
+      "index": 52,
+      "name": "Basic Biostatistics_2",
+      "subject": "Statistics and Critical appraisal",
+      "file": "data/chapters/52_Basic_Biostatistics_2.json",
+      "total_questions": 91
+    },
+    {
+      "id": 104,
+      "index": 53,
+      "name": "Basic Health Economics",
+      "subject": "Statistics and Critical appraisal",
+      "file": "data/chapters/53_Basic_Health_Economics.json",
+      "total_questions": 79
+    },
+    {
+      "id": 209,
+      "index": 54,
+      "name": "Biostatistics 3",
+      "subject": "Statistics and Critical appraisal",
+      "file": "data/chapters/54_Biostatistics_3.json",
+      "total_questions": 23
+    },
+    {
+      "id": 105,
+      "index": 55,
+      "name": "Critical Appraisal_1",
+      "subject": "Statistics and Critical appraisal",
+      "file": "data/chapters/55_Critical_Appraisal_1.json",
+      "total_questions": 99
+    },
+    {
+      "id": 106,
+      "index": 56,
+      "name": "Critical Appraisal_2",
+      "subject": "Statistics and Critical appraisal",
+      "file": "data/chapters/56_Critical_Appraisal_2.json",
+      "total_questions": 90
+    },
+    {
+      "id": 107,
+      "index": 57,
+      "name": "Critical Appraisal_3",
+      "subject": "Statistics and Critical appraisal",
+      "file": "data/chapters/57_Critical_Appraisal_3.json",
+      "total_questions": 88
+    },
+    {
+      "id": 108,
+      "index": 58,
+      "name": "Critical Appraisal_4",
+      "subject": "Statistics and Critical appraisal",
+      "file": "data/chapters/58_Critical_Appraisal_4.json",
+      "total_questions": 88
+    }
+  ],
+  "mock_exams": [
+    {
+      "id": "mock_18",
+      "mock_id": 18,
+      "index": 1,
+      "name": "MRCPsych Paper B Mock 01",
+      "subject": "Mock Exams",
+      "time_limit_minutes": 180,
+      "pass_percentage": 60,
+      "file": "data/mock_exams/01_MRCPsych_Paper_B_Mock_01.json",
+      "total_questions": 141
+    },
+    {
+      "id": "mock_19",
+      "mock_id": 19,
+      "index": 2,
+      "name": "Paper B — Mock Exam 02",
+      "subject": "Mock Exams",
+      "time_limit_minutes": 180,
+      "pass_percentage": 60,
+      "file": "data/mock_exams/02_Paper_B_Mock_Exam_02.json",
+      "total_questions": 150
+    },
+    {
+      "id": "mock_20",
+      "mock_id": 20,
+      "index": 3,
+      "name": "Paper B — Mock Exam 03",
+      "subject": "Mock Exams",
+      "time_limit_minutes": 180,
+      "pass_percentage": 60,
+      "file": "data/mock_exams/03_Paper_B_Mock_Exam_03.json",
+      "total_questions": 148
+    },
+    {
+      "id": "mock_21",
+      "mock_id": 21,
+      "index": 4,
+      "name": "Paper B — Mock Exam 04",
+      "subject": "Mock Exams",
+      "time_limit_minutes": 180,
+      "pass_percentage": 60,
+      "file": "data/mock_exams/04_Paper_B_Mock_Exam_04.json",
+      "total_questions": 149
+    },
+    {
+      "id": "mock_22",
+      "mock_id": 22,
+      "index": 5,
+      "name": "Paper B — Mock Exam 05",
+      "subject": "Mock Exams",
+      "time_limit_minutes": 180,
+      "pass_percentage": 60,
+      "file": "data/mock_exams/05_Paper_B_Mock_Exam_05.json",
+      "total_questions": 147
+    },
+    {
+      "id": "mock_23",
+      "mock_id": 23,
+      "index": 6,
+      "name": "Paper B — Mock Exam 06",
+      "subject": "Mock Exams",
+      "time_limit_minutes": 180,
+      "pass_percentage": 60,
+      "file": "data/mock_exams/06_Paper_B_Mock_Exam_06.json",
+      "total_questions": 149
+    },
+    {
+      "id": "mock_24",
+      "mock_id": 24,
+      "index": 7,
+      "name": "Paper B — Mock Exam 07",
+      "subject": "Mock Exams",
+      "time_limit_minutes": 180,
+      "pass_percentage": 60,
+      "file": "data/mock_exams/07_Paper_B_Mock_Exam_07.json",
+      "total_questions": 150
+    },
+    {
+      "id": "mock_25",
+      "mock_id": 25,
+      "index": 8,
+      "name": "Paper B — Mock Exam 08",
+      "subject": "Mock Exams",
+      "time_limit_minutes": 180,
+      "pass_percentage": 60,
+      "file": "data/mock_exams/08_Paper_B_Mock_Exam_08.json",
+      "total_questions": 150
+    }
+  ]
+}

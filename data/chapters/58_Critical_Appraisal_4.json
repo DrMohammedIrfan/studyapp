@@ -1,0 +1,4144 @@
+{
+  "chapter_id": 108,
+  "chapter_name": "Critical Appraisal_4",
+  "subject_name": "Statistics and Critical appraisal",
+  "total_questions": 88,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 8265,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the hierarchy of evidence, a well-conducted clinical study without randomisation is classified as which level of evidence?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41359,
+          "text": "Level I",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41360,
+          "text": "Level IIa",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41361,
+          "text": "Level IIb",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41362,
+          "text": "Level III",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41363,
+          "text": "Level IV",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41360,
+        "text": "Level IIa"
+      },
+      "explanation": "Level IIa evidence is specifically defined as evidence obtained from at least one well-designed controlled study without randomisation. Level I requires RCTs or meta-analyses of RCTs, making IIa the correct classification for non-randomised controlled studies. Level IIb refers to quasi-experimental studies, Level III to non-experimental descriptive studies, and Level IV to expert opinion.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": 8331,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A psychiatric researcher wants to understand why patients with schizophrenia are non-adherent to antipsychotics. Which study design is most appropriate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41689,
+          "text": "Randomised controlled trial comparing medications",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41690,
+          "text": "Qualitative study exploring patient experiences and perceptions",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41691,
+          "text": "Cross-sectional prevalence survey",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41692,
+          "text": "Case-control study comparing adherent and non-adherent patients",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41693,
+          "text": "Meta-analysis of medication efficacy studies",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41690,
+        "text": "Qualitative study exploring patient experiences and perceptions"
+      },
+      "explanation": "Evidence shows qualitative studies are useful when conventional theories are inadequate to explain",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": 8317,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A psychiatric researcher is investigating whether poor medication adherence leads to relapse in bipolar disorder. Which study design would best establish this causal relationship?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41619,
+          "text": "Cross-sectional survey",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41620,
+          "text": "Case series",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41621,
+          "text": "Randomised controlled trial",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41622,
+          "text": "Qualitative interview study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41623,
+          "text": "Ecological correlation study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41621,
+        "text": "Randomised controlled trial"
+      },
+      "explanation": "Evidence indicates that RCTs are ideal to assess causality / effect of treatment and can minimize bias &amp; confounding. While cohort studies can assess prognosis and aetiology, RCTs provide the strongest evidence for causal relationships. Cross-sectional surveys, case series, qualitative studies, and ecological studies are not designed to establish causality.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": 8335,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Why is clinical audit considered to have limitations in demonstrating service effectiveness?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41709,
+          "text": "Audits cannot measure compliance with established standards",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41710,
+          "text": "Demonstrating that care was delivered according to agreed criteria does not confirm that those criteria actually produced good patient outcomes",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41711,
+          "text": "Audits are too expensive and time-consuming",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41712,
+          "text": "Audits require randomisation to be valid",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41713,
+          "text": "Audits cannot identify any performance gaps",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41710,
+        "text": "Demonstrating that care was delivered according to agreed criteria does not confirm that those criteria actually produced good patient outcomes"
+      },
+      "explanation": "Clinical audit measures whether care was delivered in accordance with agreed standards or criteria. However, as the source notes, this provides an unreliable estimate of service delivery effectiveness  the fact that things have been done \\'as per criteria\\' does not confirm that those criteria actually produced good patient outcomes. Option A is wrong because audit explicitly measures compliance with standards. Option C is incorrect as cost and time are not the stated limitation. Option D is wrong because audit does not require randomisation. Option E is incorrect because identifying performance gaps is a core function of audit.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": 8287,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In formulating a clinical question using the PICO framework, how does the specificity of the question relate to appropriate study design selection?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41469,
+          "text": "Study design is unrelated to question specificity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41470,
+          "text": "Vague questions lead to appropriate study selection",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41471,
+          "text": "The type of question determines the kind of study design most appropriate and leads to appropriate searching",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41472,
+          "text": "Question formulation only matters for qualitative research",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41473,
+          "text": "All study designs are equally appropriate for any clinical question",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41471,
+        "text": "The type of question determines the kind of study design most appropriate and leads to appropriate searching"
+      },
+      "explanation": "Evidence shows the type of question determines the kind of study design that is most appropriate and leads us to search appropriately. A well-formulated PICO question guides selection of the most suitable design for the clinical issue being addressed.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": 22357,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study is evaluating the effect of agomelatine on postnatal depression at a mother and baby unit. Which one of the following should be considered when assessing the internal validity of this study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112092,
+          "text": "Benefi ts of agomelatine in major depression outside the postpartum period",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 112093,
+          "text": "The degree to which the subjects adhered to the study protocol",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 112094,
+          "text": "The cost of using agomelatine compared with standard care",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 112095,
+          "text": "Consistency of the reported outcome in comparison with previous studies",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 112096,
+          "text": "Benefi ts of agomelatine in postpartum depression when used at an outpatient service",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 112093,
+        "text": "The degree to which the subjects adhered to the study protocol"
+      },
+      "explanation": "Internal validity is the degree to which a study establishes the cause-and-effect relationship between the treatment and the observed outcome. External validity is the degree to which the results of a study becomes applicable outside the experimental setting in which the study was conducted. In other words, external validity refers to generalizability of study results while internal validity refers to rigorousness of the research method. The benefi t of agomelatine in different populations (choices A and E) refers to external validity; the cost of the drug and consistency of results obtained from different studies are related to applicability of the intervention in a clinical setting. Assessment of adherence to study protocol is one of many ways of analysing the quality of an intervention trial. Slack MK and Drugalis JR. Establishing the internal and external validity of experimental studies. American Journal of Health–Systems Pharm 2001; 58: 2173–2184.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": 8340,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A cohort study follows patients with newly diagnosed depression over 5 years to determine predictors of treatment response. This study design is appropriate for answering which type of clinical question?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41734,
+          "text": "Aetiology of depression",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41735,
+          "text": "Prognosis and long-term outcomes",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41736,
+          "text": "Efficacy of specific antidepressant drugs",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41737,
+          "text": "Prevalence of depression in a community",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41738,
+          "text": "Rare side effects of psychiatric medications",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41735,
+        "text": "Prognosis and long-term outcomes"
+      },
+      "explanation": "The source's table indicates cohort studies are most appropriate for answering prognosis questions (marked with ✓). While cohort studies can address aetiology questions, their particular strength in this scenario (following a defined group over time) makes them ideal for determining long-term outcomes and prognostic factors. RCTs assess treatment efficacy; cross-sectional studies assess prevalence; cohort studies are less efficient for rare events.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": 8270,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A clinical audit measures current performance against established standards. Which of the following is a key limitation of clinical audit in determining treatment effectiveness?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41384,
+          "text": "Clinical audits cannot be conducted in mental health settings",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41385,
+          "text": "Clinical audits require randomisation to be valid",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41386,
+          "text": "Audit establishes whether criteria were met, but does not reliably estimate how well they were performed",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41387,
+          "text": "Clinical audits are too expensive compared to RCTs",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41388,
+          "text": "Audit designs cannot incorporate patient preferences",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41386,
+        "text": "Audit establishes whether criteria were met, but does not reliably estimate how well they were performed"
+      },
+      "explanation": "The source explicitly states that clinical audit provides an unreliable estimate of effectiveness. Because things have been done as per criteria",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": 8308,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In searching for evidence, why should clear search terms be developed before database selection?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41574,
+          "text": "Search terms determine which database will be most appropriate for comprehensive searching",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 41575,
+          "text": "Clear terms reduce the need to search multiple databases",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41576,
+          "text": "Search terms are irrelevant if multiple databases are searched",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41577,
+          "text": "Database selection should occur before developing search terms",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41578,
+          "text": "Clear search terms guarantee finding all relevant evidence",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 41574,
+        "text": "Search terms determine which database will be most appropriate for comprehensive searching"
+      },
+      "explanation": "The source emphasises: It is important to have clear search terms and to search in different databases. Clear terms allow targeted searching across multiple sources. Option B is incorrect (multiple databases remain necessary despite clear terms). Option C is wrong (terms remain important). Option D reverses the proper sequence. Option E is too absolute.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": 8328,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A clinician appraises a study and finds it has high validity and significant clinical impact, but concerns exist about whether it applies to his diverse patient population. What is the most appropriate next step?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41674,
+          "text": "Reject the findings entirely as not applicable",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41675,
+          "text": "Apply the findings to all patients without modification",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41676,
+          "text": "Assess the similarities and differences between trial subjects and individual patients",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41677,
+          "text": "Only use the findings if the patient consents",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41678,
+          "text": "Wait for a new study to be conducted in the specific population",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41676,
+        "text": "Assess the similarities and differences between trial subjects and individual patients"
+      },
+      "explanation": "The source addresses this scenario directly in Step 4 (Application), stating the decision depends on the similarities and differences between the subjects in the paper and your patient / patient groups. This assessment of population characteristics determines whether and how to apply the evidence. The other options either ignore the appraisal step or represent impractical extreme positions.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": 8334,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Grade A evidence in the NICE hierarchy requires which of the following as a minimum?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41704,
+          "text": "Multiple expert committee reports",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41705,
+          "text": "At least one randomised controlled trial within a body of overall good quality literature",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41706,
+          "text": "At least three well-conducted observational studies",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41707,
+          "text": "A single qualitative study with robust methodology",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41708,
+          "text": "Ecological studies showing group-level correlations",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41705,
+        "text": "At least one randomised controlled trial within a body of overall good quality literature"
+      },
+      "explanation": "The source explicitly defines Grade A evidence as At least one randomised controlled trial as part of a body of literature of overall good quality and consistency. Grades B, C, and lower levels accept observational studies, expert opinion, and weaker designs. Qualitative and ecological studies do not meet Grade A criteria.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": 8332,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following represents a key strength of cross-sectional studies in psychiatric epidemiology?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41694,
+          "text": "They establish causality between risk factors and psychiatric disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41695,
+          "text": "They are often cheap, relatively easy to conduct, and have no problems with loss to follow-up",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41696,
+          "text": "They can definitively determine the long-term prognosis of psychiatric conditions",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41697,
+          "text": "They require large sample sizes and expensive data collection methods",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41698,
+          "text": "They provide stronger evidence than randomised controlled trials",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41695,
+        "text": "They are often cheap, relatively easy to conduct, and have no problems with loss to follow-up"
+      },
+      "explanation": "The source lists strengths of cross-sectional studies as often cheap and relatively easier to carry out and no problems with loss to follow-up or recall bias. The source does not claim they establish causality (a limitation), require large samples (contrary to the strength of being cheap), or exceed RCT evidence. The statements about prognosis are outside the design's purpose.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": 8277,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A psychiatrist evaluates a study on antidepressant efficacy but notes the study population consisted entirely of young adults aged 18-25. The psychiatrist plans to treat an 80-year-old patient with similar depression. This concern primarily relates to which appraisal concept?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41419,
+          "text": "Validity of the study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41420,
+          "text": "Impact of the study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41421,
+          "text": "Applicability of the study",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41422,
+          "text": "Reliability of the study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41423,
+          "text": "Generalisability is unrelated to EBM",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41421,
+        "text": "Applicability of the study"
+      },
+      "explanation": "Applicability concerns usefulness in our clinical practice and whether subjects in the paper are similar to your patient. The age discrepancy directly affects whether findings from young adults apply to an elderly patient, making this an applicability issue rather than validity (internal truth) or impact (effect size).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": 8267,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A randomised controlled trial comparing two antipsychotics for schizophrenia would be classified as Grade A evidence if it meets which criterion?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41369,
+          "text": "It involves any randomised design",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41370,
+          "text": "It is at least one RCT as part of a body of literature of overall good quality and consistency",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41371,
+          "text": "It demonstrates statistical significance at p &lt; 0.05",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41372,
+          "text": "It has a sample size greater than 1000 participants",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41373,
+          "text": "It is published in a high-impact journal",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41370,
+        "text": "It is at least one RCT as part of a body of literature of overall good quality and consistency"
+      },
+      "explanation": "Grade A evidence requires at least one randomised controlled trial as part of a body of literature of overall good quality and consistency",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": 8280,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "During critical appraisal of a treatment study, a clinician identifies that the control group differed significantly from the intervention group in baseline severity of illness. This represents a threat to which aspect of appraisal?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41434,
+          "text": "Impact of the effect",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41435,
+          "text": "Applicability to patients",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41436,
+          "text": "Validity of the study",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41437,
+          "text": "Generalisability of findings",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41438,
+          "text": "Statistical power of the study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41436,
+        "text": "Validity of the study"
+      },
+      "explanation": "Baseline imbalance between groups is a methodological flaw affecting internal validity (closeness to truth). Validity concerns whether the study design and conduct allow valid causal inference, independent of impact (effect size) or applicability (relevance to your patient).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": 8306,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A psychiatrist is attempting to apply the PICO framework to a clinical problem but cannot formulate a searchable, precise question. Which component of the PICO framework is missing if no specific treatment or management strategy has been identified?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41564,
+          "text": "Patient specification",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41565,
+          "text": "Intervention specification",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41566,
+          "text": "Comparison specification",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41567,
+          "text": "Any of the above could be missing",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41568,
+          "text": "None—vague questions are acceptable in EBM",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41565,
+        "text": "Intervention specification"
+      },
+      "explanation": "In the PICO framework, the \\'I\\' stands for Intervention (or Exposure/Index test depending on the clinical question type), not \\'Indicator.\\' If the psychiatrist has identified a patient group and an outcome but has not specified a treatment or management strategy to evaluate, the Intervention component is missing, making a focused literature search impossible. The Comparison component (C) is not always required (e.g., in single-arm studies), but the Intervention must always be defined for a therapy question. Option E is incorrect because vague questions are explicitly incompatible with EBM principles, which require a structured, answerable question as the first step.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": 8326,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A cross-sectional study of antidepressant use in a community shows an unexpected association between medication use and suicide attempts. Why might this not indicate causality?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41664,
+          "text": "Because cross-sectional studies have no problems with loss to follow-up",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41665,
+          "text": "Because cross-sectional studies only identify associations at best, not causality",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41666,
+          "text": "Because cross-sectional studies always have very low response rates",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41667,
+          "text": "Because the sample cannot be representative of the population",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41668,
+          "text": "Because cross-sectional studies require randomisation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41665,
+        "text": "Because cross-sectional studies only identify associations at best, not causality"
+      },
+      "explanation": "The source explicitly lists this as a limitation of cross-sectional studies: Only identifies association at best",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": 8279,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Why is selection bias particularly problematic in case report and case series studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41429,
+          "text": "Selection bias is not actually a concern in case reports",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41430,
+          "text": "Cases are selected based on clinical observation and outcome, making findings non-generalisable and liable to bias",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41431,
+          "text": "Selection bias can be eliminated with larger sample sizes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41432,
+          "text": "Selection bias only affects quantitative studies",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41433,
+          "text": "Selection bias is addressed through randomisation in case series",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41430,
+        "text": "Cases are selected based on clinical observation and outcome, making findings non-generalisable and liable to bias"
+      },
+      "explanation": "The source identifies selection bias as a key limitation of case reports/series, arising because not generalisable cases tend to be selected for reporting. Cases with unusual or dramatic outcomes are overrepresented, creating bias that cannot be resolved through sample size or study design modifications alone.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": 8291,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In formulating a clinical question using the PICO framework, what does the I component represent?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41489,
+          "text": "Intervention or Exposure — the treatment or causal factor being evaluated",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 41490,
+          "text": "Indicator, which encompasses diagnosis, prognosis, treatment, or aetiology",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41491,
+          "text": "Incidence rates of the condition",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41492,
+          "text": "Individual patient demographics",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41493,
+          "text": "Intensity of the clinical presentation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 41489,
+        "text": "Intervention or Exposure — the treatment or causal factor being evaluated"
+      },
+      "explanation": "In the PICO framework, I stands for Intervention or Exposure  the treatment being evaluated or, in aetiological questions, the exposure of interest . This is the element against which a Comparison (C) is made to assess the Outcome (O) in the target Patient group (P). Option B is incorrect:(Indicator) is not a standard PICO component. Options C, D, and E (Incidence rates, Individual demographics, and Intensity) are not components of the PICO framework.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": 8347,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A qualitative researcher conducts in-depth interviews with patients to understand their lived experiences of depression and the personal meanings they attribute to their symptoms. Which philosophical approach best describes this study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41769,
+          "text": "Grounded theory",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41770,
+          "text": "Phenomenology",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41771,
+          "text": "Ethnography",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41772,
+          "text": "Action research",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41773,
+          "text": "Discourse analysis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41770,
+        "text": "Phenomenology"
+      },
+      "explanation": "Phenomenology explores lived experiences and meanings individuals attribute to phenomena.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": 7924,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the hierarchy of evidence, which study design(s) are most appropriate for answering questions about aetiology (causation)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 39654,
+          "text": "Randomised controlled trials only",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 39655,
+          "text": "Case-control, cohort, and cross-sectional studies",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 39656,
+          "text": "Case reports and clinical audits",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 39657,
+          "text": "Expert opinion and clinical experience",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 39658,
+          "text": "Ecological studies alone",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 39655,
+        "text": "Case-control, cohort, and cross-sectional studies"
+      },
+      "explanation": "According to the hierarchy of evidence , questions about causation (aetiology) are best answered by cohort or case-control studies. Cohort studies follow exposed and unexposed individuals forward in time to measure incidence of outcomes, while case-control studies work retrospectively from defined cases and controls to assess prior exposure. Cross-sectional studies can suggest associations but are weaker for establishing causality. RCTs are the gold standard for treatment efficacy and effectiveness, not aetiology; case reports, ecological studies, and expert opinion are lower in the hierarchy and insufficient to establish causal relationships.",
+      "image_url": "https://kdpsychacademy.com/wp-content/uploads/2026/09/ai-generated-1790365418-KzNVNd.jpg",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": 8323,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A patient presenting with a new psychiatric symptom has a clinician who must decide whether the evidence from a clinical trial is applicable. What factor must the clinician assess?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41649,
+          "text": "Only the statistical significance of the trial results",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41650,
+          "text": "Only the cost-effectiveness of the treatment",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41651,
+          "text": "The similarities and differences between trial subjects and the patient",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41652,
+          "text": "Only the opinion of the most senior psychiatrist",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41653,
+          "text": "Only whether the patient's family consents to treatment",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41651,
+        "text": "The similarities and differences between trial subjects and the patient"
+      },
+      "explanation": "Evidence shows in Step 4 (Application): you will need to decide whether it can be applied to your patient",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": 8312,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to EBM principles, which three components must be integrated when making decisions about individual patient care?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41594,
+          "text": "Clinical expertise, external evidence, and patient values",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 41595,
+          "text": "Clinical guidelines, research data, and cost-effectiveness",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41596,
+          "text": "Expert opinion, randomised trials, and diagnostic tests",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41597,
+          "text": "Literature review, case studies, and statistical analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41598,
+          "text": "Best practice standards, audit findings, and patient demographics",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 41594,
+        "text": "Clinical expertise, external evidence, and patient values"
+      },
+      "explanation": "The source explicitly defines EBM as requiring integration of individual clinical expertise, best available external clinical evidence from systematic research, and patient's unique values and circumstances. The other options omit either patient values or clinical expertise, or replace external evidence with components not mentioned in the definition.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": 8290,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following best defines evidence-based medicine?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41484,
+          "text": "Application of the latest published research without clinical judgment",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41485,
+          "text": "Conscientious, explicit and judicious use of current best evidence integrated with clinical expertise and patient values",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41486,
+          "text": "Exclusive reliance on randomised controlled trials for clinical decision-making",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41487,
+          "text": "Use of clinical experience alone to guide patient management",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41488,
+          "text": "Adherence to guidelines regardless of individual patient circumstances",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41485,
+        "text": "Conscientious, explicit and judicious use of current best evidence integrated with clinical expertise and patient values"
+      },
+      "explanation": "The source explicitly defines EBM as the conscientious",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": 8314,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is the common limitation in both case reports and qualitative studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41604,
+          "text": "Both are susceptible to selection and observer bias and have limited generalisability",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 41605,
+          "text": "Both require large sample sizes and long follow-up periods",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41606,
+          "text": "Both cannot identify new hypotheses for further research",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41607,
+          "text": "Both are expensive and difficult to conduct",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41608,
+          "text": "Both are only suitable for establishing causality",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 41604,
+        "text": "Both are susceptible to selection and observer bias and have limited generalisability"
+      },
+      "explanation": "Both case reports and qualitative studies use small, non-random samples, making their findings difficult to generalize to wider populations. Both are also susceptible to observer/selection bias, as the researcher\\'s judgement plays a large role in case selection and interpretation. They are not designed to establish causality (ruling out E), do not require large samples or long follow-up (ruling out B), and are among the less expensive and more hypothesis-generating study designs (ruling out C and D).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": 8305,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A grade B recommendation indicates which evidence level(s)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41559,
+          "text": "Level I only",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41560,
+          "text": "Level IV only",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41561,
+          "text": "Levels II or III, or extrapolated from level I evidence",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41562,
+          "text": "All levels combined",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41563,
+          "text": "No specific evidence level",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41561,
+        "text": "Levels II or III, or extrapolated from level I evidence"
+      },
+      "explanation": "Evidence shows: Grade B: Well-conducted clinical studies but no randomised clinical trials on the topic of recommendation (evidence levels II or III); or extrapolated from level I evidence. Options A and B represent different grades. Options D and E are incorrect.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": 8289,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A clinician identifies a potential bias in a study appraised for evidence but determines the overall methodology was strong, and the effect size was clinically meaningful. However, the study was conducted exclusively in a specialized tertiary referral centre for treatment-resistant depression. What does this finding primarily suggest?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41479,
+          "text": "The study should be discarded entirely",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41480,
+          "text": "The study has high validity and impact but applicability to primary care populations may be limited",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41481,
+          "text": "Tertiary centre settings improve validity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41482,
+          "text": "Clinical meaningfulness always indicates applicability",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41483,
+          "text": "This study is inappropriate for any clinical application",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41480,
+        "text": "The study has high validity and impact but applicability to primary care populations may be limited"
+      },
+      "explanation": "Strong methodology and effect size indicate good validity and impact. However, the specialized population (treatment-resistant depression at tertiary centres) differs from many clinical settings, limiting applicability to broader populations while maintaining the study's internal quality. Validity and applicability must be assessed independently.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": 8310,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which combination represents the three essential components that must be integrated in EBM decision-making?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41584,
+          "text": "Patient demographics, study design, and publication date",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41585,
+          "text": "Individual clinical expertise, best available external evidence, and patient's values and circumstances",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41586,
+          "text": "RCT evidence, expert opinion, and research funding",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41587,
+          "text": "Guideline recommendations, institutional policies, and clinician convenience",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41588,
+          "text": "Statistical significance, clinical significance, and cost-effectiveness",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41585,
+        "text": "Individual clinical expertise, best available external evidence, and patient's values and circumstances"
+      },
+      "explanation": "The source explicitly defines EBM as requiring integration of individual clinical expertise with the best available external clinical evidence from systematic research and our patient's unique values and circumstances. This is repeated as a core principle. Options A, C, D, and E contain elements that may be relevant but do not represent the three essential components of EBM.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": 8311,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A hospital audit reveals that psychiatric patients are being screened for metabolic syndrome according to established criteria in 95% of cases, but the quality of screening varies widely in implementation. Which limitation of clinical audit does this exemplify?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41589,
+          "text": "Audits are too expensive to conduct regularly",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41590,
+          "text": "Meeting criteria doesn't reliably tell us how well the standards were actually implemented or how effective the screening was",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41591,
+          "text": "Audits cannot identify areas needing quality improvement",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41592,
+          "text": "Audits introduce selection bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41593,
+          "text": "Audits require randomisation to be valid",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41590,
+        "text": "Meeting criteria doesn't reliably tell us how well the standards were actually implemented or how effective the screening was"
+      },
+      "explanation": "Evidence shows: Unreliable estimate of effectiveness. Because things have been done as per criteria",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": 8304,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "When appraising a study for impact (as distinct from validity), the examiner is evaluating which aspect?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41554,
+          "text": "Whether the study measured what it intended to measure",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41555,
+          "text": "The closeness of results to the biological truth",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41556,
+          "text": "The size of the clinical effect",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41557,
+          "text": "Whether results can be applied to specific patients",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41558,
+          "text": "The generalisability of findings to the population",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41556,
+        "text": "The size of the clinical effect"
+      },
+      "explanation": "The source explicitly defines impact as size of the effect during critical appraisal. Validity (options A and B) concerns closeness to truth. Applicability (option D) concerns usefulness in practice. Generalisability (option E) relates to external validity but is not impact per se.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": 8275,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In the context of critical appraisal, impact refers to which of the following attributes of evidence?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41409,
+          "text": "The journal's citation index",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41410,
+          "text": "The size of the effect observed",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41411,
+          "text": "The number of authors on the paper",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41412,
+          "text": "The applicability to your patient",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41413,
+          "text": "The cost-effectiveness of the intervention",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41410,
+        "text": "The size of the effect observed"
+      },
+      "explanation": "The source defines critical appraisal as assessing evidence for validity (closeness to the truth)",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": 8268,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following best describes the relationship between the validity and applicability of evidence in the critical appraisal process?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41374,
+          "text": "Validity and applicability are synonymous terms",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41375,
+          "text": "Valid evidence is always applicable to all clinical populations",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41376,
+          "text": "Evidence can be valid (close to truth) but may lack applicability (usefulness) to a specific patient",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41377,
+          "text": "Applicability must be established before validity can be assessed",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41378,
+          "text": "Evidence that lacks applicability is automatically invalid",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41376,
+        "text": "Evidence can be valid (close to truth) but may lack applicability (usefulness) to a specific patient"
+      },
+      "explanation": "Critical appraisal requires assessment of both validity (closeness to truth), impact (size of effect), and applicability (usefulness in clinical practice). A study may be methodologically sound (valid) but conducted in a population very different from your patient, making it less applicable. Validity and applicability are distinct concepts that must be evaluated separately.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": 8271,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to evidence-based medicine principles, clinical decision-making should integrate individual clinical expertise with which other two components?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41389,
+          "text": "Patient age and psychiatric diagnosis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41390,
+          "text": "Best available external evidence and patient's unique values and circumstances",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41391,
+          "text": "Research funding and publication status",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41392,
+          "text": "Clinical guidelines and hospital protocols",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41393,
+          "text": "Cost analysis and staff availability",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41390,
+        "text": "Best available external evidence and patient's unique values and circumstances"
+      },
+      "explanation": "The source defines evidence-based medicine as the integration of individual clinical expertise with the best available external clinical evidence from systematic research and our patient's unique values and circumstances. These three components—expertise, evidence, and patient values—form the core of EBM practice.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": 8288,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Why might an RCT examining antidepressant efficacy conducted in a highly selected population of depressed patients with no medical comorbidities have high internal validity but limited external applicability?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41474,
+          "text": "RCTs cannot have internal validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41475,
+          "text": "Internal validity and external applicability are unrelated concepts",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41476,
+          "text": "The selected population differs from typical clinical practice, limiting generalisability despite sound methodology",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41477,
+          "text": "Medical comorbidities improve external validity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41478,
+          "text": "External applicability is more important than internal validity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41476,
+        "text": "The selected population differs from typical clinical practice, limiting generalisability despite sound methodology"
+      },
+      "explanation": "Internal validity (closeness to truth, strong methodology) differs from external applicability (usefulness to your patient). Strict exclusion criteria create homogeneous samples with excellent internal validity but populations unrepresentative of real clinical practice, reducing applicability.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": 8313,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The hierarchy of evidence places which type of study design at the highest level?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41599,
+          "text": "Meta-analysis of randomised controlled trials",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 41600,
+          "text": "Single well-designed cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41601,
+          "text": "Multiple case-control studies",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41602,
+          "text": "Expert consensus opinion",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41603,
+          "text": "Descriptive case series",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 41599,
+        "text": "Meta-analysis of randomised controlled trials"
+      },
+      "explanation": "Level I evidence is defined as a single randomised controlled trial or a meta-analysis of randomised controlled trials",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": 8342,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A critical appraisal of a randomised controlled trial shows high validity and substantial clinical impact, but the trial enrolled only younger adults without comorbidities. For an older adult patient with multiple medical conditions, what is the most appropriate consideration?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41744,
+          "text": "The findings cannot be applied to any older patients",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41745,
+          "text": "Applicability may be limited due to differences between the trial population and this patient",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41746,
+          "text": "The trial is invalid because it did not include older patients",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41747,
+          "text": "Older patients should always receive the trial's recommended treatment",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41748,
+          "text": "The findings are automatically applicable because they are from an RCT",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41745,
+        "text": "Applicability may be limited due to differences between the trial population and this patient"
+      },
+      "explanation": "The source addresses this in Step 4 (Application): applicability depends on the similarities and differences between the subjects in the paper and your patient / patient groups. The trial's exclusion of older adults with comorbidities represents a significant difference that must be assessed before applying findings. Valid evidence may still have limited applicability to populations not represented in the study.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": 8329,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A case report describes an unusual presentation of bipolar disorder in an 8-year-old child. Which statement best reflects the value and limitation of this publication?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41679,
+          "text": "It provides conclusive evidence about childhood bipolar disorder epidemiology",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41680,
+          "text": "It derives from clinical practice and identifies areas for analytical research, but is not generalisable",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41681,
+          "text": "It definitively establishes the cause of early-onset bipolar disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41682,
+          "text": "It can be directly applied to all children presenting with similar symptoms",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41683,
+          "text": "It requires no further research because the case has been fully explained",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41680,
+        "text": "It derives from clinical practice and identifies areas for analytical research, but is not generalisable"
+      },
+      "explanation": "The source lists case reports' strengths as derives from clinical practice",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": 8321,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In appraising the validity of a psychiatric research paper, which concept refers to the closeness of findings to the truth?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41639,
+          "text": "Applicability",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41640,
+          "text": "Impact",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41641,
+          "text": "Reliability",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41642,
+          "text": "Validity",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 41643,
+          "text": "Generalisability",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 41642,
+        "text": "Validity"
+      },
+      "explanation": "The source explicitly defines the three appraisal criteria as validity (closeness to the truth)",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": 8283,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which feature of qualitative research makes it particularly valuable for generating new understanding of psychiatric phenomena that conventional quantitative theories have not adequately explained?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41449,
+          "text": "Qualitative studies eliminate observer bias completely",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41450,
+          "text": "Qualitative studies have test-retest reliability comparable to quantitative studies",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41451,
+          "text": "Qualitative studies can explore people's experiences and values when standard theories are inadequate",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41452,
+          "text": "Qualitative studies provide stronger statistical evidence than RCTs",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41453,
+          "text": "Qualitative studies are always generalisable to all populations",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41451,
+        "text": "Qualitative studies can explore people's experiences and values when standard theories are inadequate"
+      },
+      "explanation": "Evidence shows qualitative studies are useful when conventional theories are inadequate to explain and are designed to collect data on people's experiences",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": 8319,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A psychiatric team conducts an audit to measure current performance against established standards for antipsychotic monitoring. What is a key limitation of this approach?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41629,
+          "text": "It cannot identify areas that need improvement",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41630,
+          "text": "It can only measure processes of care, not patient-reported outcomes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41631,
+          "text": "It cannot establish causality between interventions and outcomes",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41632,
+          "text": "It cannot measure the incidence of adverse outcomes prospectively",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41633,
+          "text": "It is only suitable for rare psychiatric conditions",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41631,
+        "text": "It cannot establish causality between interventions and outcomes"
+      },
+      "explanation": "Clinical audit measures current practice against agreed standards and can identify gaps in care, but it is a non-experimental, descriptive method and therefore cannot establish a causal relationship between any change in practice and patient outcomes (option C). This distinguishes it from RCTs or cohort studies, which are designed for causal inference. Option A is wrong because identifying areas for improvement is the primary purpose of audit. Option B is wrong because audit provides a reliable snapshot of standard adherence — its limitation is not unreliability but lack of experimental rigour. Option D is wrong because audit typically uses existing data and requires no expensive equipment or long follow-up. Option E is wrong because audit is applicable across all clinical conditions.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": 8324,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which step of evidence-based medicine is concerned with evaluating the effectiveness and efficiency of the entire EBM process?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41654,
+          "text": "Step 1: Formulating a question",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41655,
+          "text": "Step 2: Searching for evidence",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41656,
+          "text": "Step 3: Critical appraisal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41657,
+          "text": "Step 4: Application",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41658,
+          "text": "Step 5: Evaluation",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 41658,
+        "text": "Step 5: Evaluation"
+      },
+      "explanation": "The source explicitly states Stage 5: Evaluation. This step is concerned with evaluating our effectiveness and efficiency in executing Steps 1-4 and seeking ways to improve them. This is the final meta-reflective step that assesses the entire EBM process.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": 8298,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Secondary research (such as systematic reviews and meta-analyses) provides which level of evidence?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41524,
+          "text": "The lowest level because they synthesise older studies",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41525,
+          "text": "The most reliable evidence for an intervention",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41526,
+          "text": "Evidence that cannot be used in clinical practice",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41527,
+          "text": "Evidence that is less valid than individual case reports",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41528,
+          "text": "Evidence that is only useful for hypothesis generation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41525,
+        "text": "The most reliable evidence for an intervention"
+      },
+      "explanation": "Evidence shows secondary research Tend to summarise/integrate results from different studies and Provide the most reliable evidence for an intervention. This reflects the hierarchical position of systematic reviews and meta-analyses as synthesising Level I evidence. Options A, C, D, and E contradict this characterisation.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": 8274,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following represents the correct sequence of steps in the practice of evidence-based medicine?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41404,
+          "text": "Critical appraisal, formulating question, searching, application, evaluation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41405,
+          "text": "Formulating question, searching, critical appraisal, application, evaluation",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41406,
+          "text": "Searching, formulating question, critical appraisal, evaluation, application",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41407,
+          "text": "Application, formulating question, searching, critical appraisal, evaluation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41408,
+          "text": "Evaluation, application, critical appraisal, searching, formulating question",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41405,
+        "text": "Formulating question, searching, critical appraisal, application, evaluation"
+      },
+      "explanation": "The source explicitly lists the steps in order: Step 1 is formulating a question, Step 2 is searching for evidence, Step 3 is critical appraisal, Step 4 is application, and Step 5 is evaluation. This logical sequence ensures a well-defined problem is identified before searching and that appraisal precedes application.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 44,
+      "question_id": 8286,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A patient receives antipsychotic treatment that meets clinical audit criteria, but experiences significant side effects affecting compliance. What does this scenario illustrate about the limitations of clinical audit?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41464,
+          "text": "Clinical audit measures are invalid",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41465,
+          "text": "Clinical audit confirms whether process criteria were met but does not assess whether this resulted in good patient outcomes",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41466,
+          "text": "All patients experience side effects regardless of audit compliance",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41467,
+          "text": "Side effects cannot be measured in audit processes",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41468,
+          "text": "Audit design is superior to outcome measurement",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41465,
+        "text": "Clinical audit confirms whether process criteria were met but does not assess whether this resulted in good patient outcomes"
+      },
+      "explanation": "This scenario illustrates a core limitation of clinical audit: meeting predefined process criteria does not guarantee good clinical outcomes for individual patients. As noted in the Oxford Textbook of Old Age Psychiatry (p.294), audit measures \\'the way in which things are being done assessed against agreed standards\\'  it evaluates process conformity, not patient experience or outcomes such as side effects and adherence.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 45,
+      "question_id": 8346,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study comparing cognitive-behavioural therapy to standard care in depression found statistically significant but clinically small improvements in the CBT group. In critical appraisal, this addresses which aspect of study evaluation?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41764,
+          "text": "Validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41765,
+          "text": "Impact",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41766,
+          "text": "Applicability",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41767,
+          "text": "Bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41768,
+          "text": "Generalisability",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41765,
+        "text": "Impact"
+      },
+      "explanation": "The source defines impact as (size of the effect) in the critical appraisal framework. A clinically small effect size, despite statistical significance, represents limited impact or clinical importance. This is distinct from validity (closeness to truth), applicability (usefulness in practice), bias (systematic error), and generalisability (breadth of population). The question directly addresses the magnitude of the treatment's effect.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 46,
+      "question_id": 8343,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Secondary research such as systematic reviews and meta-analyses provide superior evidence to individual randomised controlled trials primarily because they:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41749,
+          "text": "Use larger budgets and more expensive equipment",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41750,
+          "text": "Integrate and summarise results from multiple studies, providing the most reliable evidence for interventions",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41751,
+          "text": "Always include patients from diverse countries",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41752,
+          "text": "Require less rigorous methodology than individual trials",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41753,
+          "text": "Are always published in higher-impact journals",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41750,
+        "text": "Integrate and summarise results from multiple studies, providing the most reliable evidence for interventions"
+      },
+      "explanation": "The source defines secondary research as tending to summarise / integrate results from different studies and states these provide the most reliable evidence for an intervention. The integration of multiple studies reduces random error and provides broader evidence than any single trial. Publication venue, cost, and international representation are not key reasons for superiority; secondary research requires equal or greater methodological rigour.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 47,
+      "question_id": 22343,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The validity of a new instrument is compared with an external criterion. A conceptually related external criterion is identifi ed to occur sometime in the future. If the correlation between current scores obtained using the instrument and the future expected outcome is studied, this is called",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112022,
+          "text": "Concurrent validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 112023,
+          "text": "Incremental validity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 112024,
+          "text": "Predictive validity",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 112025,
+          "text": "Inter-rater reliability",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 112026,
+          "text": "Internal consistency 70–82 A recent study conducted in a palliative care unit assessed the use of a two-item questionnaire to screen for the presence of depression. Given below is the table which compares the result of the screen to the reference standard (DSM-IV) diagnosis. In relation to this table, answer questions 70–82 Overall screen Actual case of major depressive disorder (DSM-IV) Total (2 questions) Depressed Not depressed Yes 39 40 79 No 4 84 88 Total 43 124 167 Payne A, Barry S, Creedon B, et al. Sensitivity and specifi city of a two-question screening tool for depression in a specialist palliative care unit PalliatIve Medicine 2007; 21: 193.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 112024,
+        "text": "Predictive validity"
+      },
+      "explanation": "The term validity refers to the strength of our conclusions, or in the case of statistics, the strength of our inferences. It refers to applicability. The term reliability refers to the consistency of our measurements, or the reproducibility. An important subtype of validity is called criterion validity. If an instrument provides a result that withstands the test of an external criterion then the instrument is said to have high criterion validity. The external criterion may be a measurement that can be obtained more or less at the same time (concurrent validity) or it may be an outcome that is predicted to occur in the future (predictive validity). If a test offers something over and above what is offered by an existing instrument, then incremental validity can be established. Internal consistency of a test refers to looking at how consistent the results are for different items (measuring the same construct) within the instrument studied. This can be measured by undertaking item–item correlation, item–total score correlation or split half reliability (Cronbach’s alpha; see elsewhere in this chapter). Fitzner K. Reliability and validity: a quick review. Diabetes Educator 2007; 33: 775–780.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 48,
+      "question_id": 8341,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Why might volunteer bias affect the validity of findings in a cross-sectional study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41739,
+          "text": "Because volunteers always have the condition being studied",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41740,
+          "text": "Because response rates can be very low, and those responding may differ significantly from non-responders",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41741,
+          "text": "Because volunteers prevent randomisation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41742,
+          "text": "Because cross-sectional studies require large sample sizes",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41743,
+          "text": "Because volunteers always provide accurate information",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41740,
+        "text": "Because response rates can be very low, and those responding may differ significantly from non-responders"
+      },
+      "explanation": "The source lists Volunteer bias – as response rates can be very low as a limitation of cross-sectional studies. Low response rates mean the sample may not be representative if those who volunteer differ from those who decline, affecting generalisability and validity. The other options misrepresent how volunteer bias operates or contradict the source.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 49,
+      "question_id": 8327,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the evidence hierarchy, which type of study provides Level IIa evidence?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41669,
+          "text": "Meta-analysis of randomised controlled trials",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41670,
+          "text": "At least one well-designed controlled study without randomisation",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41671,
+          "text": "Evidence from expert opinion and clinical experience",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41672,
+          "text": "Simple case reports or case series",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41673,
+          "text": "Ecological correlation studies",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41670,
+        "text": "At least one well-designed controlled study without randomisation"
+      },
+      "explanation": "The source defines Level IIa evidence as Evidence obtained from at least one well-designed controlled study without randomisation. Level I requires RCTs or meta-analysis; Level IV is expert opinion; Level III includes descriptive studies and case reports. Well-designed non-randomised controlled studies constitute Level IIb evidence.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 50,
+      "question_id": 8303,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study examining medication side effects in a specific psychiatric population uses convenience sampling and reports findings as generalisable to all psychiatric patients. Which concept is most relevant to this methodological concern?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41549,
+          "text": "Validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41550,
+          "text": "Impact",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41551,
+          "text": "Applicability",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41552,
+          "text": "Reliability",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41553,
+          "text": "Internal consistency",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41551,
+        "text": "Applicability"
+      },
+      "explanation": "The source defines applicability as the usefulness in our clinical practice and notes in Step 4 that applicability depends on similarities and differences between the subjects in the paper and your patient/patient groups. A convenience sample may not be generalisable. Validity (option A) concerns closeness to truth. Impact (option B) concerns effect size. Options D and E refer to measurement properties.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 51,
+      "question_id": 22364,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among the options below, which one is correctly matched with the most suitable study method?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112127,
+          "text": "Diagnostic test: case–control study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 112128,
+          "text": "Prognosis: prospective cohort study",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 112129,
+          "text": "Therapy: cross-sectional survey",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 112130,
+          "text": "Aetiology: case–series study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 112131,
+          "text": "Epidemiology: RCT.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 112128,
+        "text": "Prognosis: prospective cohort study"
+      },
+      "explanation": "No single study design is suffi cient in itself to answer various clinical questions. For evaluation of a diagnostic test, a survey design that allows comparison with the gold standard is often used. For prognostic studies a prospective cohort design is useful. Therapeutic interventions are best evaluated using RCTs. Aetiological studies are often cohort or case–control studies; although the RCT is ideal it may not be always possible to conduct one. Epidemiological studies are often cross-sectional surveys. Knottnerus JA and Muris JW (2003) Assessment of the accuracy of diagnostic tests: the cross- sectional study. Journal of Clinical Epidemiology 56: 1118–1128.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 52,
+      "question_id": 8300,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the relationship between the type of clinical question formulated and subsequent steps in EBM?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41534,
+          "text": "The type of question has no impact on the research process",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41535,
+          "text": "The type of question determines the appropriate study design to search for",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41536,
+          "text": "All clinical questions should lead to the same type of study design",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41537,
+          "text": "The type of question is only important for hypothesis generation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41538,
+          "text": "The type of question becomes irrelevant after critical appraisal",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41535,
+        "text": "The type of question determines the appropriate study design to search for"
+      },
+      "explanation": "Evidence shows: The type of question determines the kind of study design that is most appropriate and leads us to search appropriately. A diagnostic question requires different evidence than a prognostic or aetiological question. Options A, C, D, and E contradict this fundamental principle of EBM methodology.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 53,
+      "question_id": 8299,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A patient's values and circumstances must be integrated with evidence and clinical expertise in EBM. This reflects which principle?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41529,
+          "text": "Only randomised controlled trial evidence should guide decisions",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41530,
+          "text": "Clinical expertise alone is sufficient for practice",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41531,
+          "text": "The three pillars of EBM: best evidence, clinical expertise, and patient preferences",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41532,
+          "text": "Published research must override patient autonomy",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41533,
+          "text": "Individual clinical judgment should replace evidence evaluation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41531,
+        "text": "The three pillars of EBM: best evidence, clinical expertise, and patient preferences"
+      },
+      "explanation": "The source defines EBM as requiring integration of individual clinical expertise with the best available external clinical evidence from systematic research and our patient's unique values and circumstances. This explicitly identifies the three components. Options A, B, D, and E represent violations of this integrative approach.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 54,
+      "question_id": 8339,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the evidence hierarchy, evidence from at least one other well-designed quasi-experimental study represents which level?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41729,
+          "text": "Level I",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41730,
+          "text": "Level IIa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41731,
+          "text": "Level IIb",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41732,
+          "text": "Level III",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41733,
+          "text": "Level IV",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41731,
+        "text": "Level IIb"
+      },
+      "explanation": "The source explicitly defines Level IIb evidence as Evidence obtained from at least one other well-designed quasi-experimental study. Level I is RCTs or meta-analysis; Level IIa is well-designed controlled studies without randomisation; Level III is non-experimental descriptive studies; Level IV is expert opinion.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 55,
+      "question_id": 8282,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A systematic review and meta-analysis of RCTs examining cognitive-behavioural therapy for anxiety disorders would be classified as which type of research?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41444,
+          "text": "Descriptive observational study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41445,
+          "text": "Analytical observational study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41446,
+          "text": "Experimental study",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41447,
+          "text": "Secondary research",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 41448,
+          "text": "Qualitative study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 41447,
+        "text": "Secondary research"
+      },
+      "explanation": "The source defines secondary research as tend to summarise/integrate results from different studies and lists systematic reviews &amp; metaanalysis as examples. Secondary research synthesizes findings from multiple primary studies rather than collecting original data.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 56,
+      "question_id": 8315,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the evidence hierarchy, recommendations based on well-conducted clinical studies but no randomised clinical trials receive which grade?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41609,
+          "text": "Grade A",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41610,
+          "text": "Grade B",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41611,
+          "text": "Grade C",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41612,
+          "text": "Grade D",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41613,
+          "text": "Grade E",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41610,
+        "text": "Grade B"
+      },
+      "explanation": "The source's grading scheme shows that Grade B evidence comes from Well-conducted clinical studies but no randomised clinical trials on the topic of recommendation (evidence levels II or III). Grade A requires at least one RCT; Grade C is expert opinion. Grades D and E do not exist in the scheme provided.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 57,
+      "question_id": 8302,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In the evaluation step of EBM (Step 5), what is the primary focus?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41544,
+          "text": "Formulating new clinical questions",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41545,
+          "text": "Conducting critical appraisal of individual studies",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41546,
+          "text": "Evaluating effectiveness and efficiency in executing Steps 1-4 and seeking improvements",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41547,
+          "text": "Searching additional databases",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41548,
+          "text": "Publishing research findings",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41546,
+        "text": "Evaluating effectiveness and efficiency in executing Steps 1-4 and seeking improvements"
+      },
+      "explanation": "The source explicitly states: This step is concerned with evaluating our effectiveness and efficiency in executing Steps 1-4 and seeking ways to improve them. This is a reflective, iterative step. Options A, B, D, and E describe other steps in the EBM process, not evaluation.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 58,
+      "question_id": 8337,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which component of evidence-based medicine is most dependent on the clinician's personal clinical experience and knowledge?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41719,
+          "text": "Searching databases for systematic reviews",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41720,
+          "text": "Individual clinical expertise integrated with external evidence",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41721,
+          "text": "Rigid application of clinical guidelines",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41722,
+          "text": "Statistical analysis of research data",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41723,
+          "text": "Peer-reviewed publication of findings",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41720,
+        "text": "Individual clinical expertise integrated with external evidence"
+      },
+      "explanation": "The source defines EBM as requiring integration of individual clinical expertise with the best available external clinical evidence from systematic research. Clinical expertise represents the physician's personal knowledge. The other options focus on external sources or processes rather than the clinician's individual experience and judgment.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 59,
+      "question_id": 8345,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A clinician encounters conflicting evidence: one systematic review suggests antipsychotic A is superior to antipsychotic B, while another systematic review reaches the opposite conclusion. According to EBM principles, what should guide the next step?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41759,
+          "text": "Always choose the study published most recently",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41760,
+          "text": "Select the review authored by the most senior researcher",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41761,
+          "text": "Conduct a critical appraisal of both reviews for validity, impact, and applicability",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41762,
+          "text": "Ignore both reviews and rely solely on expert opinion",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41763,
+          "text": "Automatically prescribe the drug recommended by the larger review",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41761,
+        "text": "Conduct a critical appraisal of both reviews for validity, impact, and applicability"
+      },
+      "explanation": "The source's Step 3 requires critically appraising that searched evidence for its validity (closeness to the truth)",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 60,
+      "question_id": 8295,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which step of EBM involves deciding whether appraised evidence can be applied to your specific patient?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41509,
+          "text": "Step 1: Formulating a question",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41510,
+          "text": "Step 2: Searching for evidence",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41511,
+          "text": "Step 3: Critical appraisal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41512,
+          "text": "Step 4: Application",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 41513,
+          "text": "Step 5: Evaluation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 41512,
+        "text": "Step 4: Application"
+      },
+      "explanation": "Evidence shows in Step 4 (Application): Once you have critically appraised a paper and found its results to be valid and clinical important",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 61,
+      "question_id": 7104,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Prospective birth cohort studies are attractive because they minimise which of the following biases compared to retrospective designs?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35554,
+          "text": "Attrition bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35555,
+          "text": "Selection bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35556,
+          "text": "Surveillance bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35557,
+          "text": "Lead-time bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35558,
+          "text": "Recall bias",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 35558,
+        "text": "Recall bias"
+      },
+      "explanation": "Prospective birth cohort studies collect exposure and covariate data before the outcome (disease) develops. This means participants cannot differentially recall exposures based on their subsequent disease status, thereby minimising recall bias the tendency for cases and controls to remember past exposures differently depending on their disease status ( Recall bias is a particular vulnerability of retrospective case-control studies. Attrition bias is actually a weakness of prospective cohort studies due to long follow-up. \\'Retrospective bias\\' is not a recognised standard epidemiological term.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 62,
+      "question_id": 8272,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A patient with treatment-resistant depression shows a significant improvement with augmentation therapy in an uncontrolled case series. What is the primary limitation of using this evidence to recommend the treatment to other patients?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41394,
+          "text": "Case series always show publication bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41395,
+          "text": "Case series lack a control group and are liable to selection, observation, and publication bias",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41396,
+          "text": "Case series cannot be published in peer-reviewed journals",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41397,
+          "text": "Case series are not based on clinical practice",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41398,
+          "text": "Case series require randomisation to be valid",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41395,
+        "text": "Case series lack a control group and are liable to selection, observation, and publication bias"
+      },
+      "explanation": "The source lists key limitations of case reports/series as not generalisable and liable for bias – selection",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 63,
+      "question_id": 8318,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Why are qualitative studies considered particularly valuable when conventional quantitative theories are inadequate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41624,
+          "text": "Because they use larger sample sizes than quantitative studies",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41625,
+          "text": "Because they are cheaper and faster than other research methods",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41626,
+          "text": "Because they generate hypotheses and ideas which can be tested by quantitative research",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41627,
+          "text": "Because they provide definitive answers about treatment efficacy",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41628,
+          "text": "Because they eliminate all forms of bias and measurement error",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41626,
+        "text": "Because they generate hypotheses and ideas which can be tested by quantitative research"
+      },
+      "explanation": "Evidence shows that qualitative studies are useful when conventional theories are inadequate to explain phenomena, and they generate hypothesis and ideas which can be tested by quantitative research. The other options are either false (they don't provide large samples, definitive treatment answers, or eliminate bias) or misrepresent why they are valuable.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 64,
+      "question_id": 8263,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In the hierarchy of evidence, Which of the following study designs would typically yield Level IIa evidence?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41349,
+          "text": "Case-control study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41350,
+          "text": "Cohort study",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41351,
+          "text": "Qualitative study",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41352,
+          "text": "Case series",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41353,
+          "text": "Randomised controlled trial",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41350,
+        "text": "Cohort study"
+      },
+      "explanation": "Level IIa evidence comes from at least one controlled study without randomisation; a cohort study with a parallel non-exposed control group is the classic example, as it involves deliberate comparison without random allocation. \r\nCase-control studies are explicitly listed under Level III (\\'non-experimental descriptive studies\\') in standard evidence hierarchies. Qualitative studies and case series fall outside or at the bottom of this hierarchy (Level III–IV). A randomised controlled trial yields Level Ib (or Ia if part of a systematic review), not IIa.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 65,
+      "question_id": 8281,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A patient presents with depressive symptoms. Before prescribing an SSRI, a clinician reviews evidence on SSRI efficacy in depression. The clinician then considers whether the patient has medical comorbidities that might affect SSRI choice. This scenario best exemplifies which step of evidence-based medicine?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41439,
+          "text": "Formulating a question",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41440,
+          "text": "Searching for evidence",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41441,
+          "text": "Critical appraisal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41442,
+          "text": "Application",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 41443,
+          "text": "Evaluation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 41442,
+        "text": "Application"
+      },
+      "explanation": "Application involves deciding whether evidence can be applied to your patient",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 66,
+      "question_id": 8285,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the evidence hierarchy, which type of evidence would support a Grade B recommendation?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41459,
+          "text": "Single case reports",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41460,
+          "text": "Well-conducted clinical studies without RCTs or extrapolated from Level I evidence",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41461,
+          "text": "Expert opinion without clinical studies",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41462,
+          "text": "Anecdotal reports from experienced clinicians",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41463,
+          "text": "Opinion-based consensus statements",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41460,
+        "text": "Well-conducted clinical studies without RCTs or extrapolated from Level I evidence"
+      },
+      "explanation": "Grade B is explicitly defined as well-conducted clinical studies but no randomised clinical trials on the topic of recommendation (evidence levels II or III); or extrapolated from level I evidence. Grade A requires Level I evidence, and Grade C involves expert opinion only.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 67,
+      "question_id": 8322,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A clinician identifies a clinical question about the aetiology of depression in a specific patient population. According to the evidence hierarchy, which study designs are listed as appropriate to answer this type of question?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41644,
+          "text": "RCT only",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41645,
+          "text": "RCT, cohort study, or case-control study",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41646,
+          "text": "Cohort study or case-control study",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41647,
+          "text": "Case report or clinical audit",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41648,
+          "text": "Qualitative study or ecological study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41645,
+        "text": "RCT, cohort study, or case-control study"
+      },
+      "explanation": "Aetiological questions ask \\'What has caused this disorder?\\' According to the New Oxford Textbook of Psychiatry (p.133), this type of question may be addressed by RCTs, case-control studies, or cohort studies. Cohort and case-control designs as primary choices for causation, with RCTs also technically applicable when ethically feasible. Options D and E (case reports, audits, qualitative, or ecological studies) are not appropriate for establishing causal relationships in this context.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 68,
+      "question_id": 8269,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A clinician reviews a meta-analysis of RCTs showing the efficacy of lithium in bipolar disorder. According to the hierarchy of evidence, this meta-analysis would be classified as which level?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41379,
+          "text": "Level IIa",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41380,
+          "text": "Level IIb",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41381,
+          "text": "Level I",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41382,
+          "text": "Level III",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41383,
+          "text": "Level IV",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41381,
+        "text": "Level I"
+      },
+      "explanation": "Level I evidence includes a meta-analysis of randomised controlled trials addressing the specific recommendation without extrapolation. A meta-analysis of RCTs is the highest level of evidence and is explicitly named in the Level I definition.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 69,
+      "question_id": 22350,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher designs a prospective cohort study to investigate whether heavy alcohol consumption is associated with the development of liver cirrhosis. The researcher identifies a cohort of heavy drinkers (exposed group) and a comparison group of non-drinkers at baseline, then plans to follow both groups over 20 years. What is the most significant methodological challenge in conducting this study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112057,
+          "text": "Statistical analysis of the results",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 112058,
+          "text": "Randomization of the cohorts",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 112059,
+          "text": "Identifying those who develop the outcome",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 112060,
+          "text": "Attrition rate",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 112061,
+          "text": "Concealment of cohort allocation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 112060,
+        "text": "Attrition rate"
+      },
+      "explanation": "In cohort studies, participants are followed over time from exposure to outcome. The most prominent methodological challenge is attrition  ensuring that those who develop the outcome of interest are identified and not lost to follow-up over what can be decades of observation . Randomisation (B) and allocation concealment (E) are RCT concepts, not applicable to observational cohort studies. Statistical analysis (A) is a generic challenge not specific to cohort design. Identifying a suitable comparison group (D) is more prominently a challenge in case-control studies, where control selection is explicitly flagged as difficult.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 70,
+      "question_id": 8344,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A psychiatric researcher notes that patients in a study lost to follow-up had more severe baseline symptoms than those retained. This phenomenon is most problematic for which type of study design?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41754,
+          "text": "Cross-sectional studies",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41755,
+          "text": "Case reports",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41756,
+          "text": "Cohort studies",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41757,
+          "text": "Ecological studies",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41758,
+          "text": "Qualitative studies",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41756,
+        "text": "Cohort studies"
+      },
+      "explanation": "Evidence notess that cross-sectional studies have no problems with loss to follow-up or recall bias",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 71,
+      "question_id": 8297,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A psychiatrist appraises a study and finds it has good validity and clinical importance. Before applying the results to their patient, which additional consideration is most critical?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41519,
+          "text": "The cost of the intervention",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41520,
+          "text": "The publication date of the study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41521,
+          "text": "The similarities and differences between study subjects and their specific patient",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41522,
+          "text": "The number of authors on the paper",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41523,
+          "text": "The journal's impact factor",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41521,
+        "text": "The similarities and differences between study subjects and their specific patient"
+      },
+      "explanation": "Evidence shows in Step 4: you will need to decide whether it can be applied to your patient",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 72,
+      "question_id": 8293,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A Grade A recommendation in the evidence hierarchy corresponds to which evidence level?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41499,
+          "text": "Level I only",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 41500,
+          "text": "Level II only",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41501,
+          "text": "Level III only",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41502,
+          "text": "Level IV only",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41503,
+          "text": "Levels II and III combined",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 41499,
+        "text": "Level I only"
+      },
+      "explanation": "Evidence shows that Grade A evidence includes At least one randomised controlled trial as part of a body of literature of overall good quality and consistency (evidence level I). Grade B corresponds to levels II-III, and Grade C to level IV. Options B, C, D, and E are associated with different grades or represent lower evidence levels.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 73,
+      "question_id": 8333,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A clinician finds a well-conducted case-control study showing an association between childhood trauma and adult depression. How should this finding be interpreted regarding causality?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41699,
+          "text": "This definitively proves that trauma causes depression",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41700,
+          "text": "This only establishes association at best, as case-control studies are suitable for hypothesis testing in aetiology but do not definitively prove causality",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41701,
+          "text": "This proves that depression causes childhood trauma",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41702,
+          "text": "This demonstrates no relationship between trauma and depression",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41703,
+          "text": "This is inconclusive and requires expert opinion to determine causality",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41700,
+        "text": "This only establishes association at best, as case-control studies are suitable for hypothesis testing in aetiology but do not definitively prove causality"
+      },
+      "explanation": "While Evidence indicates case-control studies are suitable for hypothesis testing of aetiological questions, it also states that analytical observational studies (including case-control) are not ideal for establishing causality. The source reserves RCTs as ideal to assess causality / effect. Association and causality are distinct; case-control studies are better than descriptive studies but cannot definitively prove causation.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 74,
+      "question_id": 8284,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A clinician appraises a study comparing two antipsychotics and finds the methodology sound but notes the study population was 95% male with early-onset schizophrenia. The clinician has a 65-year-old female patient with late-onset psychosis. This assessment primarily affects which element of the appraisal framework?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41454,
+          "text": "The study's validity is compromised",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41455,
+          "text": "The study's applicability to this clinician's patient is limited",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41456,
+          "text": "The study's impact (effect size) is reduced",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41457,
+          "text": "The study's statistical significance is affected",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41458,
+          "text": "The study should not be appraised at all",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41455,
+        "text": "The study's applicability to this clinician's patient is limited"
+      },
+      "explanation": "Validity refers to methodological soundness (which is fine here), while applicability concerns usefulness in our clinical practice and similarity between study subjects and your patient. The significant demographic differences (sex, age, symptom onset) affect applicability, not validity of the study itself.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 75,
+      "question_id": 8266,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In the PICO framework for formulating clinical questions, the I component stands for which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41364,
+          "text": "Intervention",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 41365,
+          "text": "Indicator",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41366,
+          "text": "Investigation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41367,
+          "text": "Inclusion",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41368,
+          "text": "Interaction",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 41364,
+        "text": "Intervention"
+      },
+      "explanation": "In the PICO framework used in evidence-based medicine, I stands for Intervention — the treatment, exposure, diagnostic test, or management strategy being evaluated. The other components are Population (P), Comparison (C), and Outcome (O). \\'Indicator\\', \\'Investigation\\', \\'Inclusion\\', and \\'Interaction\\' are not recognised components of the PICO framework.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 76,
+      "question_id": 22371,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The cost-effectiveness acceptability curve (CEAC) below is drawn using data from a hypothetical study on treatment of depression. The x-axis shows willingness to pay (£) per depression-free day and the y-axis shows the probability of cost-effectiveness. Based on the curve, what is the probability of cost-effectiveness if society is willing to pay £150 per depression-free day?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112162,
+          "text": ">90%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 112163,
+          "text": "75%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 112164,
+          "text": "50%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 112165,
+          "text": "25%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 112166,
+          "text": "&lt;10% 92–96. A new 12-point scale with scores from 1 to 12 (1 being not depressed and 12 being the highest degree of depression) was developed to screen for depression in a population of individuals with dementia. The scale was tested against the reference standard of DSM-IV in a small study. The neurologists using the test wanted a score that would identify a depressed person from a non-depressed based on this instrument. A statistician involved in the development of this instrument mailed the following graph to the neurologists. Answer Questions 96–99 based on the graph below. 1.0 6/7 1/2 5/6 4/5 3/4 2/3 0.8 7/8 0.6 8/9 9/10 0.4 10/11 0.2 11/12 0.0 0.0 0.2 0.4 0.6 0.8 1.0 1-specificity ytivitisnes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 112162,
+        "text": ">90%"
+      },
+      "explanation": "On a CEAC, as willingness to pay (λ) increases, the probability that the intervention is cost-effective generally rises and eventually plateaus. At λ=£150 (beyond the displayed x-axis maximum of £100), the curve has reached its ceiling, which in this graph exceeds 90%. Therefore the probability of cost-effectiveness exceeds 90% (option A). \r\nOptions B–D represent intermediate probability readings at lower λ values on the curve, and option E (&lt;10%) would correspond to very low λ where the intervention is unlikely to be deemed cost-effective.",
+      "image_url": "https://kdpsychacademy.com/wp-content/uploads/2026/08/Critical-Appraisal4-Q300778.jpg",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 77,
+      "question_id": 8273,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following best explains why searching multiple databases is preferable to relying on Medline/PubMed alone when conducting a systematic literature search?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41399,
+          "text": "No single database, including Medline, comprehensively indexes unpublished trials, conference abstracts, or dissertations",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41400,
+          "text": "Medline covers all published articles in psychiatry",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41401,
+          "text": "A typical database search covers only 60–70% of the scientific literature, so relying on Medline alone risks missing up to 30–40% of relevant studies",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41402,
+          "text": "Different databases index different language and grey literature sources, so searching only Medline may introduce language bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41403,
+          "text": "All of the above",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41401,
+        "text": "A typical database search covers only 60–70% of the scientific literature, so relying on Medline alone risks missing up to 30–40% of relevant studies"
+      },
+      "explanation": "Only 60-70% of scientific literature can be covered in a typical search,\\' meaning that relying on a single database such as Medline/PubMed risks missing up to 30-40% of relevant studies. A proper literature search should use multiple databases — including EMBASE, PsycLIT, CINAHL, and the Cochrane Library — cross-check reference lists, and hand-search journals to maximise coverage (SPMM p.524). Option A is incorrect because databases do overlap in coverage. Option B is incorrect because Medline does not cover all published articles. Options D and E are irrelevant to this rationale.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 78,
+      "question_id": 8294,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In the critical appraisal step of EBM, validity refers to which characteristic of evidence?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41504,
+          "text": "The size of the clinical effect",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41505,
+          "text": "The closeness to the truth",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41506,
+          "text": "The usefulness in clinical practice",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41507,
+          "text": "The cost-effectiveness of the intervention",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41508,
+          "text": "The statistical significance of the findings",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41505,
+        "text": "The closeness to the truth"
+      },
+      "explanation": "The source explicitly states that critical appraisal examines evidence for its validity (closeness to the truth). Option A refers to impact. Option C refers to applicability. Options D and E are additional considerations but not the definition of validity in this context.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 79,
+      "question_id": 8301,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A systematic review that synthesises results from multiple high-quality RCTs would receive which grade of recommendation?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41539,
+          "text": "Grade C",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41540,
+          "text": "Grade B",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41541,
+          "text": "Grade A",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41542,
+          "text": "No grade assigned",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41543,
+          "text": "Grade D (below Grade C)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41541,
+        "text": "Grade A"
+      },
+      "explanation": "Evidence shows Grade A is At least one randomised controlled trial as part of a body of literature of overall good quality and consistency (evidence level I). A systematic review of high-quality RCTs represents this highest level. Grades B and C are for lower evidence levels. Options D and E are incorrect.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 80,
+      "question_id": 8307,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Evidence from expert committee reports or clinical experiences of respected authorities without directly applicable clinical studies of good quality corresponds to which grade?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41569,
+          "text": "Grade A",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41570,
+          "text": "Grade B",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41571,
+          "text": "Grade C",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41572,
+          "text": "Grade D",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41573,
+          "text": "No grade assigned",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41571,
+        "text": "Grade C"
+      },
+      "explanation": "Evidence shows: Grade C: Expert committee reports or opinions and/or clinical experiences of respected authorities (evidence level IV). This grading indicates that directly applicable clinical studies of good quality are absent or not readily available. Options A and B represent higher grades with stronger evidence bases. Options D and E are incorrect.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 81,
+      "question_id": 8278,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the source, which of the following correctly pairs a clinical question type with its most appropriate study design?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41424,
+          "text": "Therapy — case report",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41425,
+          "text": "Prognosis — RCT",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41426,
+          "text": "Diagnosis — cross-sectional study",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41427,
+          "text": "Aetiology — RCT only",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41428,
+          "text": "Harm — case-control study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41426,
+        "text": "Diagnosis — cross-sectional study"
+      },
+      "explanation": "The source table shows diagnosis can be addressed by RCT, cohort, or case-control studies. Cross-sectional studies are most appropriate for diagnostic accuracy and screening value. Prognosis uses cohort studies (not RCTs), aetiology uses RCT, cohort, or case-control (not only RCT), and harm uses RCT and cohort (not case-control primarily).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 82,
+      "question_id": 8292,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the evidence hierarchy provided, which type of evidence represents the highest level of quality?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41494,
+          "text": "Evidence from expert committee reports",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41495,
+          "text": "Evidence from well-designed non-experimental descriptive studies",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41496,
+          "text": "Evidence from randomised controlled trials or meta-analyses of RCTs",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41497,
+          "text": "Evidence from well-designed controlled studies without randomisation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41498,
+          "text": "Evidence from case-control studies",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41496,
+        "text": "Evidence from randomised controlled trials or meta-analyses of RCTs"
+      },
+      "explanation": "The source clearly identifies Level I evidence as the highest—Evidence obtained from a single randomised controlled trial or a meta-analysis of randomised controlled trials. This corresponds to Grade A recommendations. Options A, B, D, and E represent lower evidence levels (IV, III, IIa, and IIb/III respectively).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 83,
+      "question_id": 8336,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "When appraising research evidence for applicability to clinical practice, which factor must be assessed?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41714,
+          "text": "Only the statistical significance level",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41715,
+          "text": "Only the cost of the treatment",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41716,
+          "text": "The usefulness of the findings in the clinician's specific practice setting",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41717,
+          "text": "Only the number of subjects in the study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41718,
+          "text": "Only the author's professional credentials",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41716,
+        "text": "The usefulness of the findings in the clinician's specific practice setting"
+      },
+      "explanation": "The source defines applicability as (usefulness in our clinical practice) and states in Step 4 that applicability depends on similarities and differences between the subjects in the paper and your patient / patient groups. Usefulness in clinical practice directly captures applicability. Statistical significance, cost, sample size, and author credentials are separate considerations not defining applicability.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 84,
+      "question_id": 8320,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which type of secondary research provides the most reliable evidence for psychiatric interventions?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41634,
+          "text": "Single randomised controlled trials",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41635,
+          "text": "Systematic reviews and meta-analysis",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41636,
+          "text": "Case-control studies",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41637,
+          "text": "Cohort studies with short follow-up",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41638,
+          "text": "Expert committee reports",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41635,
+        "text": "Systematic reviews and meta-analysis"
+      },
+      "explanation": "The source defines secondary research as tending to summarise / integrate results from different studies and states these provide the most reliable evidence for an intervention. Systematic reviews and meta-analysis are specifically listed as examples of secondary research, making them superior to individual primary studies in the evidence hierarchy.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 85,
+      "question_id": 8264,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A psychiatrist implements a new antipsychotic medication protocol based on a clinical trial with level I evidence (meta-analysis of RCTs). However, six months later, evaluation of the implementation reveals poor patient adherence and more side effect complaints than expected from the trial results. What does this finding primarily illustrate about the EBM process?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41354,
+          "text": "Level I evidence is actually unreliable",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41355,
+          "text": "Meta-analyses are not applicable to clinical practice",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41356,
+          "text": "The evaluation step identified a gap between trial efficacy and real-world effectiveness",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41357,
+          "text": "The protocol should be immediately discontinued",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41358,
+          "text": "Patient populations are fundamentally different from trial participants",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41356,
+        "text": "The evaluation step identified a gap between trial efficacy and real-world effectiveness"
+      },
+      "explanation": "The evaluation step (Step 5) of EBM involves assessing the effectiveness and efficiency of executing Steps 1-4 and seeking ways to improve them. The poor adherence and unexpected side effects represent a disconnect between trial results and implementation outcomes, prompting evaluation and refinement of the protocol for improved real-world effectiveness. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 86,
+      "question_id": 8309,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A student critically appraises a high-quality RCT on antipsychotic efficacy but observes significant differences between study subjects and their patient population. What should the student conclude about applying this evidence?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41579,
+          "text": "The study's high quality guarantees applicability to all patients",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41580,
+          "text": "The results should be applied despite population differences because validity is established",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41581,
+          "text": "Applicability depends on the specific similarities and differences between study subjects and the patient, requiring individual assessment",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41582,
+          "text": "The study is not useful and should be discarded",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41583,
+          "text": "Population differences are irrelevant to clinical application",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41581,
+        "text": "Applicability depends on the specific similarities and differences between study subjects and the patient, requiring individual assessment"
+      },
+      "explanation": "Evidence shows in Step 4: you will need to decide whether it can be applied to your patient",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 87,
+      "question_id": 8276,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which characteristic of qualitative studies best explains their utility in psychiatric research?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41414,
+          "text": "They provide the strongest evidence for treatment efficacy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41415,
+          "text": "They are useful when conventional theories are inadequate to explain complex phenomena",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 41416,
+          "text": "They eliminate all forms of measurement bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 41417,
+          "text": "They require fewer resources than quantitative studies but are equally rigorous",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41418,
+          "text": "They establish causality through detailed narrative analysis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 41415,
+        "text": "They are useful when conventional theories are inadequate to explain complex phenomena"
+      },
+      "explanation": "Evidence shows qualitative studies are useful when conventional theories are inadequate to explain",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 88,
+      "question_id": 8338,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A qualitative study exploring antipsychotic side effects in a patient population reveals that appearance-related concerns significantly affect medication adherence. What is the primary value of this finding?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 41724,
+          "text": "It definitively proves that appearance concerns cause non-adherence in all patients",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 41725,
+          "text": "It provides specific numbers about the prevalence of appearance concerns",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 41726,
+          "text": "It generates a hypothesis about appearance concerns that can be tested in quantitative research",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 41727,
+          "text": "It allows immediate generalisation to other psychiatric populations",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 41728,
+          "text": "It eliminates the need for further research on this topic",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 41726,
+        "text": "It generates a hypothesis about appearance concerns that can be tested in quantitative research"
+      },
+      "explanation": "Evidence shows qualitative studies generate hypothesis and ideas which can be tested by quantitative research. The source also notes that qualitative findings are not generalisable and are prone to bias",
+      "image_url": null,
+      "explanation_image_url": null
+    }
+  ]
+}

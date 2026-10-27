@@ -1,0 +1,3251 @@
+{
+  "chapter_id": 94,
+  "chapter_name": "Basic Epidemiology_2",
+  "subject_name": "Basic Epidemiology",
+  "total_questions": 69,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 7173,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Following a negative test result, what describes the likelihood of NOT having the disease?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35899,
+          "text": "Negative predictive value",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 35900,
+          "text": "Sensitivity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35901,
+          "text": "Specificity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35902,
+          "text": "Likelihood ratio",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35903,
+          "text": "Positive predictive value",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 35899,
+        "text": "Negative predictive value"
+      },
+      "explanation": "The negative predictive value (NPV) is the probability that a person with a negative test result truly does not have the disease.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": 7225,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the relative mortality risk (RR) associated with longstanding or recurrent depression?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36159,
+          "text": "RR = 0.5",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36160,
+          "text": "RR = 1.0",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36161,
+          "text": "RR = 1.5",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36162,
+          "text": "RR = 2.5",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36163,
+          "text": "RR = 5.0",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36161,
+        "text": "RR = 1.5"
+      },
+      "explanation": "The source explicitly states that longstanding or recurrent depression is a significant predictor of mortality with RR=1.5 (95% CI: 1.06-2.20). This risk may come down in those who were once depressed but recovered. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": 7188,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Approximately 90% of child sexual abusers are which gender?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35974,
+          "text": "Female",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35975,
+          "text": "Male",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35976,
+          "text": "Equally distributed between male and female",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35977,
+          "text": "Transgender individuals",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35978,
+          "text": "Data insufficient to determine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35975,
+        "text": "Male"
+      },
+      "explanation": "90% abusers are male. This is an explicit factual statement. Option A contradicts this, C suggests equal distribution, and D and E are not supported by the source.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": 7165,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In the Plan-Do-Study-Act (PDSA) cycle used for quality improvement, what does the A (Act) stage specifically involve?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35859,
+          "text": "Implement change permanently across entire organization",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35860,
+          "text": "Take action based on learning—adopt, adapt, or abandon the change",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35861,
+          "text": "Approve intervention for next testing cycle",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35862,
+          "text": "Adjust intervention based on statistical analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35863,
+          "text": "Apply lessons to future projects",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35860,
+        "text": "Take action based on learning—adopt, adapt, or abandon the change"
+      },
+      "explanation": "Act means decide to adopt, adapt, or abandon based on learning from the cycle.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": 7171,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A question about the Holmes and Rahe Life Event Scale indicates that divorce has a life change unit value of:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35889,
+          "text": "45",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35890,
+          "text": "50",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35891,
+          "text": "65",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35892,
+          "text": "73",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35893,
+          "text": "100",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35892,
+        "text": "73"
+      },
+      "explanation": "According to the Holmes and Rahe Life Event Scale provided, divorce is assigned a life change unit value of 73, making it the second most stressful life event after death of spouse (100).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": 7153,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Participants in a study change their behavior because they know they're being observed. What is this phenomenon called?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35799,
+          "text": "Placebo effect",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35800,
+          "text": "Nocebo effect",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35801,
+          "text": "Hawthorne effect",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35802,
+          "text": "Pygmalion effect",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35803,
+          "text": "Halo effect",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35801,
+        "text": "Hawthorne effect"
+      },
+      "explanation": "The Hawthorne effect describes behavior modification that results from awareness of being observed, independent of the intervention itself.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": 7177,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Multiple childhood adversities (mean 2 or more) appear in what proportion of respondents WITH any childhood adversities in the WHO survey?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35919,
+          "text": "One-third",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35920,
+          "text": "Nearly one-half",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35921,
+          "text": "Nearly two-thirds",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35922,
+          "text": "Three-quarters",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35923,
+          "text": "Nearly 100%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35921,
+        "text": "Nearly two-thirds"
+      },
+      "explanation": "The source explicitly states Multiple childhood adversities (mean = 2 or more in nearly 2/3rd) were common among respondents with any childhood adversities.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": 7184,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Multiple childhood adversities present in nearly what proportion of respondents reporting childhood adversities in the WHO survey?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35954,
+          "text": "1/3 (33%)",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35955,
+          "text": "1/2 (50%)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35956,
+          "text": "2/3 (67%)",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35957,
+          "text": "3/4 (75%)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35958,
+          "text": "4/5 (80%)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35956,
+        "text": "2/3 (67%)"
+      },
+      "explanation": "That multiple childhood adversities (mean = 2 or more) were common among respondents with any childhood adversities in nearly 2/3rd of cases.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": 7190,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among reported cases of child maltreatment, approximately what percentage are for physical abuse?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35984,
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35985,
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35986,
+          "text": "20%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35987,
+          "text": "35%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35988,
+          "text": "60%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35986,
+        "text": "20%"
+      },
+      "explanation": "Approximately 60% are for neglect, 20% for physical abuse, 10% for sexual abuse, and 10% for other forms. Option C correctly identifies 20% for physical abuse. The other percentages either represent different maltreatment types or are incorrect.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": 7220,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In approximately what percentage of patients does the initial diagnosis of depressive disorder change during follow-up?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36134,
+          "text": "36%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36135,
+          "text": "44%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36136,
+          "text": "52%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36137,
+          "text": "56%",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 36138,
+          "text": "64%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 36137,
+        "text": "56%"
+      },
+      "explanation": "The source explicitly states that in approximately 56% of patients, the initial diagnosis of depressive disorder eventually changes during follow-up, mainly to schizophrenic spectrum (16%), personality disorders (9%), neurotic/stress-related disorders (8%), and bipolar disorder (8%). ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": 7166,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An epidemiological study calculates the number of new cases of schizophrenia per 100,000 population per year. Which measure is being calculated?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35864,
+          "text": "Prevalence",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35865,
+          "text": "Incidence rate",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35866,
+          "text": "Point prevalence",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35867,
+          "text": "Period prevalence",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35868,
+          "text": "Cumulative incidence",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35865,
+        "text": "Incidence rate"
+      },
+      "explanation": "Incidence rate: number of new cases per population per time period.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": 7206,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following represents the correct hierarchical ranking of OCD as a psychiatric disorder in epidemiological studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36064,
+          "text": "Most common psychiatric disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36065,
+          "text": "Second most common after phobias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36066,
+          "text": "Fourth most common after phobias, alcohol use, and depression",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36067,
+          "text": "Less common than depression but more common than anxiety",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36068,
+          "text": "Rarer than specific phobias but common in clinical settings",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36066,
+        "text": "Fourth most common after phobias, alcohol use, and depression"
+      },
+      "explanation": "It is the fourth most commonly prevalent psychiatric disorder in epidemiological studies (after phobias, alcohol use, and depression). This provides the explicit ranking of OCD's prevalence relative to other disorders. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": 7185,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In the WHO World Mental Health Survey Initiative across 21 countries, which childhood adversity was reported as the most common?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35959,
+          "text": "Physical abuse",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35960,
+          "text": "Family violence",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35961,
+          "text": "Parental death",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35962,
+          "text": "Parental mental illness",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35963,
+          "text": "Sexual abuse",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35961,
+        "text": "Parental death"
+      },
+      "explanation": "Parental death is the most common childhood adversity (11.0–14.8%). Physical abuse (5.3–10.8%), family violence (4.2–7.8%), and parental mental illness (5.3–6.7%) all have lower prevalence rates. Sexual abuse is not listed with prevalence data.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": 7208,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following anxiety disorders has the earliest mean age of onset?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36074,
+          "text": "Generalized anxiety disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36075,
+          "text": "Panic disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36076,
+          "text": "Separation anxiety disorder",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36077,
+          "text": "Situational phobia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36078,
+          "text": "Social phobia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36076,
+        "text": "Separation anxiety disorder"
+      },
+      "explanation": "Separation Anxiety Disorder (Option C): Usually develops in early childhood, typically around 7 years of age.\r\n\r\nSocial Phobia / Social Anxiety Disorder (Option E): Usually begins in early to mid-adolescence, typically around 13 to 15 years of age.\r\n\r\nPanic Disorder (Option B): Generally has an onset in late adolescence to early adulthood, around 20 to 24 years of age.\r\n\r\nSituational Phobia (Option D): A subtype of specific phobia (like fear of flying, elevators, or enclosed spaces) that typically has a bimodal onset, often peaking in childhood and then again in the mid-20s.\r\n\r\nGeneralized Anxiety Disorder (Option A): Often has a more variable onset, but the mean age is generally in early adulthood, around 30 years of age.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": 7196,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the WHO World Mental Health Survey Initiative (Kessler et al., 2010) conducted across 21 countries, which of the following childhood adversities had the lowest reported upper-bound prevalence across countries?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36014,
+          "text": "Parental death",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36015,
+          "text": "Physical abuse",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36016,
+          "text": "Parental mental illness",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36017,
+          "text": "Family violence",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36018,
+          "text": "Sexual abuse",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36016,
+        "text": "Parental mental illness"
+      },
+      "explanation": "In the WHO World Mental Health Survey (Kessler et al., 2010), prevalence ranges across 21 countries were: parental death 11.0–14.8%, physical abuse 5.3–10.8%, family violence 4.2–7.8%, and parental mental illness 5.3–6.7%. Parental mental illness had the lowest upper-bound prevalence (6.7%), making it the adversity least prevalent at its highest point across countries. Parental death (A) had the highest prevalence overall, physical abuse (B) reached up to 10.8%, and family violence (D), while having a lower floor (4.2%), reached 7.8% at the upper end. Multiple adversities (E) describes co-occurrence rather than a discrete adversity type with a comparable single-category prevalence.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": 7170,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In the CATIE study, what was the prevalence of metabolic syndrome at baseline in the group using antipsychotics?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35884,
+          "text": "30-40%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35885,
+          "text": "40-50%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35886,
+          "text": "50-55%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35887,
+          "text": "55-60%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35888,
+          "text": "60-70%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35885,
+        "text": "40-50%"
+      },
+      "explanation": "The CATIE study reported metabolic syndrome prevalence at baseline of 40.9% overall (41% and 43% using different diagnostic criteria), with 51.6% in females and 36% in males.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": 7187,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In cases of child sexual abuse, girls are victimised compared to boys at approximately which ratio?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35969,
+          "text": "1:1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35970,
+          "text": "2:1",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35971,
+          "text": "3:1",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35972,
+          "text": "4:1",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35973,
+          "text": "5:1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35971,
+        "text": "3:1"
+      },
+      "explanation": "Girls are sexually abused approximately three times more often than boys, giving a ratio of 3:1 (option C). This is a well-established epidemiological finding in child safeguarding literature.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": 7209,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following mental disorders shows a notable exception to the rule that anxiety and related disorders are more common in women than men, being equally common in adult men and women?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36079,
+          "text": "Panic disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36080,
+          "text": "Generalized anxiety disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36081,
+          "text": "Blood-injection-injury phobia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36082,
+          "text": "Obsessive compulsive disorder",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 36083,
+          "text": "Specific phobia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 36082,
+        "text": "Obsessive compulsive disorder"
+      },
+      "explanation": "OCD is explicitly noted as a \\'notable exception\\' to the general rule that psychiatric disorders are more common in women: it is more common in boys than girls but equally common in adult men and women (SPMM Paper B, p.335). However, in DSM-5, OCD is classified under \\'Obsessive-Compulsive and Related Disorders\\' rather than anxiety disorders. Within the anxiety disorders proper, blood-injection-injury phobia (a subtype of specific phobia) is the main exception, with a near-equal sex ratio between men and women (DSM-5-TR p.365; Kaplan & Sadock p.882). All other listed options — panic disorder, generalised anxiety disorder, and specific phobia — are substantially more common in women. If the question is framed around DSM-IV or ICD-10 classification (where OCD was an anxiety disorder), D is correct; under DSM-5/ICD-11, C is the stronger answer within the anxiety disorders category.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": 7164,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 40-year-old woman who is pregnant asks about the risk of Down syndrome at her age. What is the approximate risk at age 40?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35854,
+          "text": "1:1500",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35855,
+          "text": "1:500",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35856,
+          "text": "1:100",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35857,
+          "text": "1:50",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35858,
+          "text": "1:20",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35856,
+        "text": "1:100"
+      },
+      "explanation": "Risk of Down syndrome at maternal age 40 is approximately 1:100.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": 7205,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The female-to-male gender ratio for OCD in community populations is approximately:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36059,
+          "text": "1:2 (more males)",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36060,
+          "text": "1:1 (equal)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36061,
+          "text": "1.5:1 (more females)",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36062,
+          "text": "2:1 (more females)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36063,
+          "text": "3:1 (more females)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36061,
+        "text": "1.5:1 (more females)"
+      },
+      "explanation": "Females predominate in community populations (~1.5:1), this may be because men have more severe psychopathology. The specific ratio of 1.5:1 (female to male) is provided in the OCD epidemiology section. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": 7186,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to epidemiological data, adversities associated with maladaptive family functioning elevate the risk of adult psychiatric disorders with an odds ratio of:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35964,
+          "text": "0.8–1.1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35965,
+          "text": "1.3–2.4",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35966,
+          "text": "2.5–3.8",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35967,
+          "text": "3.9–5.2",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35968,
+          "text": "Greater than 6.0",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35965,
+        "text": "1.3–2.4"
+      },
+      "explanation": "The source explicitly states Adversities associated with maladaptive family functioning elevate the risk of adult psychiatric disorders (all major DSM-IV disorders) with an odds ratio of 1.3–2.4. All other ranges are incorrect and not supported by the source.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": 7158,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a trial, all participants receive both treatments in sequence with a washout period between. What type of trial design is this?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35824,
+          "text": "Parallel group",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35825,
+          "text": "Factorial",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35826,
+          "text": "Crossover",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35827,
+          "text": "Adaptive",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35828,
+          "text": "Platform trial",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35826,
+        "text": "Crossover"
+      },
+      "explanation": "In a crossover trial design, each participant serves as their own control and receives all treatments in sequence. Washout periods are necessary between treatments.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": 7211,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the Epidemiological Catchment Area (ECA) study, OCD was found to be the most common psychiatric in which rank (in terms of lifetime prevalence)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36089,
+          "text": "First",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36090,
+          "text": "Second",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36091,
+          "text": "Third",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36092,
+          "text": "Fourth",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36093,
+          "text": "Fifth",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36091,
+        "text": "Third"
+      },
+      "explanation": "In the Epidemiological Catchment Area (ECA) study, OCD was identified as the third most common psychiatric disorder in the general population, with a lifetime prevalence of approximately 2–3%, surpassed only by phobias and alcohol abuse/dependence. \r\nThis ranking is a classic MRCPsych teaching point. Options A (First) and B (Second) are incorrect as MDD and substance/phobic disorders rank higher. Option D (Fourth) and E (Fifth) would place OCD below disorders with lower epidemiological prevalence, which is not supported by ECA or NCS data.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": 7172,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The ethical guidelines for human research established at the Nuremberg Trials are known as:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35894,
+          "text": "Helsinki Declaration",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35895,
+          "text": "Nuremberg Code",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35896,
+          "text": "Belmont Report",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35897,
+          "text": "Declaration of Geneva",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35898,
+          "text": "Oxford Principles",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35895,
+        "text": "Nuremberg Code"
+      },
+      "explanation": "The Nuremberg Code was established following the Nuremberg Trials to establish ethical guidelines for human research.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": 7207,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Considering epidemiological trends in anxiety disorder presentation, which pattern is documented across successive generations?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36069,
+          "text": "Anxiety disorders are being diagnosed at progressively older ages",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36070,
+          "text": "Anxiety disorders are being diagnosed at progressively younger ages than previous cohorts",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36071,
+          "text": "Age of onset has remained stable across generations",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36072,
+          "text": "Female predominance is decreasing with each generation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36073,
+          "text": "Male-to-female ratios are equalizing across all anxiety disorders",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36070,
+        "text": "Anxiety disorders are being diagnosed at progressively younger ages than previous cohorts"
+      },
+      "explanation": "The source explicitly states It is noted that with each generation, anxiety disorders are diagnosed at a younger age than the previous cohort. This documents a secular trend toward earlier diagnosis/onset over time, likely reflecting both earlier recognition and possible aetiological shifts in successive birth cohorts. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": 7215,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The observation that men with OCD show earlier onset and more tics compared to women suggests:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36109,
+          "text": "OCD in males represents a fundamentally different disorder than in females",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36110,
+          "text": "Males are more accurately diagnosed due to greater symptom severity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36111,
+          "text": "A possible neurobiological subtype of OCD with earlier onset and tic-related features may be more prevalent in males",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36112,
+          "text": "Females have naturally protective factors against all OCD symptom dimensions",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36113,
+          "text": "Gender differences in OCD are purely psychosocial rather than neurobiological",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36111,
+        "text": "A possible neurobiological subtype of OCD with earlier onset and tic-related features may be more prevalent in males"
+      },
+      "explanation": "Males with OCD showed an earlier onset and a trend toward more tics and poorer outcome than females. This pattern suggests potential biological heterogeneity, with a possible male-predominant OCD subtype characterized by earlier onset, greater tic association, and potentially distinct neurobiological mechanisms involving both serotonergic and dopaminergic systems. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": 7193,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The odds ratio for psychiatric disorder risk in adults who experienced childhood adversities associated with maladaptive family functioning is:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35999,
+          "text": "0.8–1.2",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36000,
+          "text": "1.0–1.5",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36001,
+          "text": "1.3–2.4",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36002,
+          "text": "2.5–3.5",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36003,
+          "text": "3.5–4.5",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36001,
+        "text": "1.3–2.4"
+      },
+      "explanation": "The source explicitly states that adversities associated with maladaptive family functioning elevate the risk of adult psychiatric disorders (all major DSM-IV disorders) with an odds ratio of 1.3–2.4.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": 7203,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following anxiety disorders shows a notable exception to the general pattern of being more common in women than men?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36049,
+          "text": "Generalized Anxiety Disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36050,
+          "text": "Panic Disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36051,
+          "text": "Obsessive-Compulsive Disorder",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36052,
+          "text": "Specific Phobia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36053,
+          "text": "Agoraphobia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36051,
+        "text": "Obsessive-Compulsive Disorder"
+      },
+      "explanation": "All anxiety disorders are common in women than men. Notable exceptions are OCD, which is more in boys than girls, but equally common in adult men and women. OCD is explicitly identified as an exception to the female predominance pattern. Other disorders listed follow the typical female predominance. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": 7149,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A drug causes a side effect in 10% of treated patients versus 5% on placebo. What is the number needed to harm (NNH)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35779,
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35780,
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35781,
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35782,
+          "text": "20",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35783,
+          "text": "50",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35782,
+        "text": "20"
+      },
+      "explanation": "Absolute Risk Increase (ARI) = 10% − 5% = 5% = 0.05. NNH = 1/ARI = 1/0.05 = 20.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": 7156,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a forest plot, a diamond is shown at the bottom. What does the diamond represent?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35814,
+          "text": "Largest study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35815,
+          "text": "Pooled/overall effect estimate",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35816,
+          "text": "Heterogeneity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35817,
+          "text": "Publication bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35818,
+          "text": "Reference study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35815,
+        "text": "Pooled/overall effect estimate"
+      },
+      "explanation": "The diamond represents the pooled or summary effect estimate from all studies combined in a meta-analysis. Its width represents the confidence interval.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": 7200,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Regarding the sex distribution in anxiety disorders, which statement is MOST accurate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36034,
+          "text": "All anxiety disorders are equally common in men and women",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36035,
+          "text": "Men predominantly experience all anxiety disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36036,
+          "text": "Women predominantly experience most anxiety disorders, with OCD being equally common",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36037,
+          "text": "Women experience only phobic disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36038,
+          "text": "Men have higher rates of all anxiety disorders in clinical settings",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36036,
+        "text": "Women predominantly experience most anxiety disorders, with OCD being equally common"
+      },
+      "explanation": "All anxiety disorders are common in women than men. Notable exceptions are OCD, which is more in boys than girls, but equally common in adult men and women, making option C the most comprehensive and accurate representation.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": 7182,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "ًhich of the following best describes the proportion of child sexual abusers who are male?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35944,
+          "text": "Less than 70%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35945,
+          "text": "70–79%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35946,
+          "text": "80–84%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35947,
+          "text": "85–95%",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35948,
+          "text": "Greater than 95%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35947,
+        "text": "85–95%"
+      },
+      "explanation": "The Shorter Oxford Textbook of Psychiatry (8th edition, 2026, p.450) states that the majority of child sexual abusers are male, giving a figure of 85–95%. \r\nThe correct option should therefore be \\'85–95%\\'. Options A (70%) and B (80%) fall below the lower bound of the stated range; option E (98%) exceeds the upper bound.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": 7157,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study randomizes entire GP practices rather than individual patients to receive an intervention. What type of randomization is this?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35819,
+          "text": "Simple randomization",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35820,
+          "text": "Stratified randomization",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35821,
+          "text": "Block randomization",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35822,
+          "text": "Cluster randomization",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35823,
+          "text": "Adaptive randomization",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35822,
+        "text": "Cluster randomization"
+      },
+      "explanation": "Cluster randomization randomizes groups or clusters (such as practices, schools, or wards) rather than individuals, which helps reduce contamination between groups.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": 7219,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to NESARC data, what is the mean age of onset for major depressive disorder?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36129,
+          "text": "19 years",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36130,
+          "text": "25 years",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36131,
+          "text": "30 years",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36132,
+          "text": "35 years",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36133,
+          "text": "40 years",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36131,
+        "text": "30 years"
+      },
+      "explanation": "NESARC explicitly states the mean age of onset of depression is 30 years. While the highest risk was found in the age group greater than 30, the mean age of onset specifically is 30 years. The earlier age groups (19-29) were the previous finding before NESARC data updated this understanding. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": 7152,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a case-control study, cases may remember exposures more accurately than controls. What type of bias is this?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35794,
+          "text": "Selection bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35795,
+          "text": "Information bias / Recall bias",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35796,
+          "text": "Confounding",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35797,
+          "text": "Lead-time bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35798,
+          "text": "Performance bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35795,
+        "text": "Information bias / Recall bias"
+      },
+      "explanation": "Recall bias occurs when cases remember past exposures differently (often more thoroughly) than controls because they are actively seeking explanations for their illness.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": 7151,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study recruits only patients from tertiary referral centers. What type of bias might this introduce?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35789,
+          "text": "Information bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35790,
+          "text": "Selection bias / Referral bias",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35791,
+          "text": "Recall bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35792,
+          "text": "Performance bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35793,
+          "text": "Detection bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35790,
+        "text": "Selection bias / Referral bias"
+      },
+      "explanation": "Selection bias or referral bias occurs when recruitment from tertiary centers leads to inclusion of more severe or complex cases, which are not representative of all patients with the condition.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": 7162,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A community survey examines psychiatric comorbidity in adults with intellectual disability. According to epidemiological surveys, approximately what proportion of people with intellectual disability have a comorbid psychiatric disorder?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35844,
+          "text": "10-20%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35845,
+          "text": "30-40%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35846,
+          "text": "10 %",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35847,
+          "text": "60-70%",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35848,
+          "text": "70-80%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35847,
+        "text": "60-70%"
+      },
+      "explanation": "Epidemiological surveys indicate that up to two thirds (~67%) of children and adults with intellectual disability have comorbid psychiatric disorders, a rate several times higher than in community samples without intellectual disability (Kaplan and Sadock\\'s Synopsis of Psychiatry 15, p.2393). This figure best corresponds to Option D (60-70%).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": 7217,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The median age of onset for blood-injection-injury phobia is approximately:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36119,
+          "text": "2-3 years",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36120,
+          "text": "5-6 years",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36121,
+          "text": "10-12 years",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36122,
+          "text": "15-16 years",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36123,
+          "text": "20-21 years",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36120,
+        "text": "5-6 years"
+      },
+      "explanation": "Directly: The median age of onset is around 5 to 6 years. This specific factual recall is straightforward. The source distinguishes this from other phobia types (environmental phobias starting around 5-9 years, situational phobias starting around 20 years).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": 7160,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Following the identification of patients on both fluoxetine and tamoxifen, the GP practice wishes to evaluate the long-term impact of the drug interaction on breast cancer recurrence. Which statistical measure would be most appropriate to estimate the outcome over time?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35834,
+          "text": "Odds ratio",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35835,
+          "text": "Risk ratio",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35836,
+          "text": "Hazard ratio",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35837,
+          "text": "Number needed to treat",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35838,
+          "text": "Absolute risk reduction",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35836,
+        "text": "Hazard ratio"
+      },
+      "explanation": "Hazard ratio best for time-to-event outcomes accounting for censoring.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": 7191,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to UK child protection statistics, approximately what percentage of reported child maltreatment cases involve sexual abuse?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35989,
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35990,
+          "text": "10%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35991,
+          "text": "20%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35992,
+          "text": "35%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35993,
+          "text": "60%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35990,
+        "text": "10%"
+      },
+      "explanation": "In published child protection statistics, sexual abuse accounts for approximately 8–10% of reported child maltreatment cases, making B (10%) the best answer among the options provided. Physical abuse and neglect account for the largest proportions, and sexual abuse represents a minority of registered cases. Option A (5%) underestimates the figureز",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": 7194,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What proportion of children with any childhood adversities experience multiple adversities (2 or more)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36004,
+          "text": "Approximately 1/3",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36005,
+          "text": "Approximately 1/2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36006,
+          "text": "Approximately 2/3",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36007,
+          "text": "Approximately 3/4",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36008,
+          "text": "Approximately 4/5",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36006,
+        "text": "Approximately 2/3"
+      },
+      "explanation": "That multiple childhood adversities (mean = 2 or more in nearly 2/3rd) were common among respondents with any childhood adversities.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": 7181,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which sex ratio best describes the prevalence of sexual abuse victimization in children?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35939,
+          "text": "1:1 (male to female)",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35940,
+          "text": "2:1 (male to female)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35941,
+          "text": "4:1 (female to male)",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35942,
+          "text": "6:1 (female to male)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35943,
+          "text": "8:1 (female to male)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35941,
+        "text": "4:1 (female to male)"
+      },
+      "explanation": "That girls are more often the victims at a 4:1 ratio, meaning girls represent four times more victims than boys.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": 7216,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the National Psychiatric Morbidity Survey (1995), which anxiety disorder was identified as the most common in the UK population?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36114,
+          "text": "Generalized anxiety disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36115,
+          "text": "Mixed anxiety-depression",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36116,
+          "text": "Panic disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36117,
+          "text": "Social phobia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36118,
+          "text": "Specific phobia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36115,
+        "text": "Mixed anxiety-depression"
+      },
+      "explanation": "The source explicitly states that in the NPMS, the most common anxiety disorder was mixed anxiety-depression followed by GAD. This differs from other epidemiological studies (ECA and NCS) where phobic disorder was most common. GAD is the second most common in NPMS, not first. Panic disorder and social phobia have lower prevalence rates than mixed anxiety-depression.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 44,
+      "question_id": 7228,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the 1-year prevalence of depression in the general population according to epidemiological studies cited?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36174,
+          "text": "3.3%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36175,
+          "text": "5.3%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36176,
+          "text": "7%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36177,
+          "text": "13%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36178,
+          "text": "21%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36175,
+        "text": "5.3%"
+      },
+      "explanation": "The source explicitly states The 1-year prevalence of depression in the general population was 5.3% while lifetime prevalence was 13%. The 3.3% figure refers to point prevalence in 1992, and 7% is the 2002 figure showing the point prevalence nearly doubled. 21% relates to treatment-seeking rates, not prevalence. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 45,
+      "question_id": 7204,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The point prevalence of OCD in adults (community samples) is:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36054,
+          "text": "0.5–1%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36055,
+          "text": "1–3%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36056,
+          "text": "3–5%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36057,
+          "text": "5–7%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36058,
+          "text": "8–10%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36055,
+        "text": "1–3%"
+      },
+      "explanation": "The point prevalence of OCD is as high as 1-3% of adults and 1-2% of children and adolescents (community samples). This is direct epidemiological data from the OCD section. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 46,
+      "question_id": 7179,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which childhood adversity is most commonly reported in the WHO World Mental Health Survey Initiative across 21 countries?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35929,
+          "text": "Family violence",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35930,
+          "text": "Parental death",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35931,
+          "text": "Parental mental illness",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35932,
+          "text": "Physical abuse",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35933,
+          "text": "Sexual abuse",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35930,
+        "text": "Parental death"
+      },
+      "explanation": "Parental death is the most common childhood adversity at 11.0–14.8%, substantially higher than physical abuse (5.3–10.8%), family violence (4.2–7.8%), and parental mental illness (5.3–6.7%).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 47,
+      "question_id": 7174,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A genetic study examines psychiatric outcomes in individuals with 22q11.2 deletion syndrome (DiGeorge syndrome). What percentage develop schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35904,
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35905,
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35906,
+          "text": "25%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35907,
+          "text": "40%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35908,
+          "text": "50%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35906,
+        "text": "25%"
+      },
+      "explanation": "Approximately 25% of individuals with 22q11.2 deletion develop schizophrenia.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 48,
+      "question_id": 7202,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The lifetime prevalence of blood-injection-injury phobia is approximately:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36044,
+          "text": "1–2%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36045,
+          "text": "2–3%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36046,
+          "text": "3.5%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36047,
+          "text": "5–6%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36048,
+          "text": "8–10%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36046,
+        "text": "3.5%"
+      },
+      "explanation": "The source explicitly states The estimated lifetime prevalence of blood-injection-injury phobia is around 3.5%. This is direct factual recall from the epidemiological section. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 49,
+      "question_id": 7176,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the source, what percentage of reported child maltreatment cases involve forms other than neglect, physical abuse, or sexual abuse?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35914,
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35915,
+          "text": "10%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35916,
+          "text": "15%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35917,
+          "text": "20%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35918,
+          "text": "25%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35915,
+        "text": "10%"
+      },
+      "explanation": "Approximately 60% for neglect, 20% for physical abuse, 10% for sexual abuse, and 10% for other forms (psychological abuse, abandonment, etc.). Ten percent are other maltreatment types.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 50,
+      "question_id": 7155,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which is NOT one of the Bradford Hill criteria for causation?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35809,
+          "text": "Strength of association",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35810,
+          "text": "Temporal relationship",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35811,
+          "text": "Biological plausibility",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35812,
+          "text": "Randomization",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35813,
+          "text": "Consistency",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35812,
+        "text": "Randomization"
+      },
+      "explanation": "The Bradford Hill criteria include strength, consistency, specificity, temporality, biological gradient, plausibility, coherence, experiment, and analogy. Randomization is not one of these criteria.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 51,
+      "question_id": 7154,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study finds that countries with higher chocolate consumption have higher Nobel Prize rates and concludes chocolate makes individuals smarter. What fallacy is being committed?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35804,
+          "text": "Confirmation bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35805,
+          "text": "Ecological fallacy",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35806,
+          "text": "Base rate fallacy",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35807,
+          "text": "Availability heuristic",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35808,
+          "text": "Anchoring bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35805,
+        "text": "Ecological fallacy"
+      },
+      "explanation": "Ecological fallacy occurs when individual-level relationships are inferred from group-level data. Country-level correlations do not prove individual causation.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 52,
+      "question_id": 7224,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In the DEPRES study, what was the proportion of depression sufferers who failed to seek treatment for their depressive symptoms?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36154,
+          "text": "21%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36155,
+          "text": "31%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36156,
+          "text": "43%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36157,
+          "text": "50%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36158,
+          "text": "56%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36156,
+        "text": "43%"
+      },
+      "explanation": "The DEPRES (Depression Research in European Society) study found that a significant proportion of sufferers from depression (43%) failed to seek treatment for their depressive symptoms, representing a major treatment gap in the community. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 53,
+      "question_id": 7192,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to CDC epidemiological data on child maltreatment, what is the approximate percentage of maltreated children who are victims of physical abuse?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35994,
+          "text": "10%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 35995,
+          "text": "15%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35996,
+          "text": "20%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35997,
+          "text": "25%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35998,
+          "text": "30%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 35994,
+        "text": "10%"
+      },
+      "explanation": "According to the CDC data cited in Kaplan and Sadock\\'s Synopsis of Psychiatry 15 (p.2879), approximately 9% of maltreated children were victims of physical abuse و best approximated by 10% (Option A). Sexual abuse accounted for 1%, neglect for 4%, and emotional abuse for 12%. The 20% and 30% figures do not correspond to child physical abuse in any indexed source; the 30% figure refers to physical abuse among vulnerable adults in the SPMM Course Notes.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 54,
+      "question_id": 7201,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the National Psychiatric Morbidity Survey (1995), what percentage of UK adults have broadly defined neurosis at any time?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36039,
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36040,
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36041,
+          "text": "15%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36042,
+          "text": "20%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36043,
+          "text": "25%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36041,
+        "text": "15%"
+      },
+      "explanation": "The source directly states 15% of adults in the UK at any time have broadly defined neurosis according to National Psychiatric Morbidity Survey (1995). All other percentages are distractors not supported by the epidemiological data provided. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 55,
+      "question_id": 7210,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The point prevalence of OCD in adult community samples is approximately:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36084,
+          "text": "0.5-1%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36085,
+          "text": "1-3%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36086,
+          "text": "3-5%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36087,
+          "text": "5-7%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36088,
+          "text": "7-10%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36085,
+        "text": "1-3%"
+      },
+      "explanation": "The source explicitly states that the point prevalence of OCD is as high as 1-3% of adults in community samples. This is direct epidemiological data requiring simple recall. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 56,
+      "question_id": 7195,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In child abuse epidemiology, physical abuse and neglect are most commonly reported in which age group?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36009,
+          "text": "Infancy (0–2 years)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 36010,
+          "text": "Early childhood (3–5 years)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36011,
+          "text": "Middle childhood (6–8 years)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36012,
+          "text": "Middle-to-late childhood (6–11 years)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36013,
+          "text": "Adolescence (12–17 years)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 36009,
+        "text": "Infancy (0–2 years)"
+      },
+      "explanation": "The majority of child physical abuse and neglect occurs in infancy and early childhood, as explicitly stated in Kaplan & Sadock\\'s Synopsis of Psychiatry 15 (p.2879): \\'A majority of child neglect and abuse occurs in infancy and early childhood, negatively impacting overall brain development.\\' Infants (0–2 years) are at greatest risk because of their complete physical dependency, inability to report abuse, and vulnerability to injury.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 57,
+      "question_id": 7161,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A qualitative researcher conducts in-depth interviews with patients to understand their lived experiences of depression and the personal meanings they attribute to their symptoms. Which philosophical approach best describes this study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35839,
+          "text": "Grounded theory",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35840,
+          "text": "Phenomenology",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35841,
+          "text": "Ethnography",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35842,
+          "text": "Action research",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35843,
+          "text": "Discourse analysis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35840,
+        "text": "Phenomenology"
+      },
+      "explanation": "Phenomenology explores lived experiences and meanings individuals attribute to phenomena.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 58,
+      "question_id": 7168,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study compares observed deaths in a psychiatric population to expected deaths based on general population rates. Which measure is being calculated?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35874,
+          "text": "Case fatality rate",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35875,
+          "text": "Proportional mortality ratio",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35876,
+          "text": "Standardized mortality ratio",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35877,
+          "text": "Years of life lost",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35878,
+          "text": "Attributable risk",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35876,
+        "text": "Standardized mortality ratio"
+      },
+      "explanation": "SMR: ratio of observed to expected deaths in population.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 59,
+      "question_id": 7183,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The average age of children when sexual abuse occurs is approximately:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35949,
+          "text": "5–7 years",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35950,
+          "text": "7–9 years",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35951,
+          "text": "9–11 years",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35952,
+          "text": "12–14 years",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35953,
+          "text": "15–17 years",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35951,
+        "text": "9–11 years"
+      },
+      "explanation": "That the average age is 9–11 years, depending on the study.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 60,
+      "question_id": 7226,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to research evidence, patients with a history of myocardial infarction (MI) and comorbid major depressive disorder are up to how many times more likely to die within 6 months of hospital discharge compared to non-depressed patients following MI?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36164,
+          "text": "Two-fold increased risk",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36165,
+          "text": "Three-fold increased risk",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36166,
+          "text": "Five-fold increased risk",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36167,
+          "text": "Seven-fold increased risk",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36168,
+          "text": "Ten-fold increased risk",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36166,
+        "text": "Five-fold increased risk"
+      },
+      "explanation": "According to the New Oxford Textbook of Psychiatry (p.1139), patients with a history of myocardial infarction and comorbid major depressive disorder are \\'up to three to five times more likely to die within 6 months of discharge than non-depressed patients following infarction.\\' The correct answer (C, five-fold) represents the upper bound of this stated range. Options A (two-fold) and B (one-fold) fall below this documented range, while options D (seven-fold) and E (ten-fold) exceed it and are not supported by this source.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 61,
+      "question_id": 7197,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the WHO World Mental Health Survey, what is the most common childhood adversity reported?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36019,
+          "text": "Family violence",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36020,
+          "text": "Parental death",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36021,
+          "text": "Parental mental illness",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36022,
+          "text": "Physical abuse",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36023,
+          "text": "Sexual abuse",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36020,
+        "text": "Parental death"
+      },
+      "explanation": "Parental death is the most common childhood adversity (11.0–14.8%). Physical abuse occurs in 5.3–10.8%, family violence in 4.2–7.8%, and parental mental illness in 5.3–6.7%, all lower than parental death.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 62,
+      "question_id": 7180,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the source, which type of child maltreatment comprises approximately 60% of reported cases?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35934,
+          "text": "Emotional abuse",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35935,
+          "text": "Neglect",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35936,
+          "text": "Physical abuse",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35937,
+          "text": "Sexual abuse",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35938,
+          "text": "Abandonment",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35935,
+        "text": "Neglect"
+      },
+      "explanation": "The source explicitly states that of reported cases, approximately 60% are for neglect, 20% for physical abuse, 10% for sexual abuse, and 10% for other forms.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 63,
+      "question_id": 7227,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Suicide rates in patients with bipolar disorder are estimated to be approximately how many times higher than in the general population?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36169,
+          "text": "5 times",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36170,
+          "text": "10 times",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36171,
+          "text": "15 times",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36172,
+          "text": "20 times",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36173,
+          "text": "25 times",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36171,
+        "text": "15 times"
+      },
+      "explanation": "Suicide rates in bipolar disorder are approximately 15 times higher than in the general population ( New Oxford Textbook of Psychiatry p.697 reports an SMR for suicide of 15.0 in bipolar males). This is substantially higher than 5× or 10×, which are too low.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 64,
+      "question_id": 7163,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A meta-analysis examines long-term outcomes in borderline personality disorder. According to current evidence, what percentage of individuals with BPD die by suicide?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35849,
+          "text": "Less than 1%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35850,
+          "text": "1–2%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35851,
+          "text": "2–5%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35852,
+          "text": "5–10%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35853,
+          "text": "Greater than 10%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35851,
+        "text": "2–5%"
+      },
+      "explanation": "The Maudsley Prescribing Guidelines 2025 (p.810) states that more than 75% of people with BPD attempt suicide, and 2–5% of patients die from suicide. This is the most current and authoritative figure for BPD suicide completion rates. None of the options as written correctly captures this range; the question requires a new option of \\'2–5%\\' to be factually accurate. The stated key of 10% is approximately double the evidence-based figure and is incorrect.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 65,
+      "question_id": 7223,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to EseMED (European data), what percentage of depressed patients received antidepressants in a year?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36149,
+          "text": "15%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36150,
+          "text": "21%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36151,
+          "text": "31%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36152,
+          "text": "43%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36153,
+          "text": "56%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36150,
+        "text": "21%"
+      },
+      "explanation": "EseMED data explicitly states that only 21% of depressed patients received antidepressants in a year. This is notably low and reflects significant undertreatment in the community setting. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 66,
+      "question_id": 7169,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What percentage get metabolic syndrome in CATIE trial",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35879,
+          "text": "40-45%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 35880,
+          "text": "30-35%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35881,
+          "text": "50-55%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35882,
+          "text": "20-25%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35883,
+          "text": "60-65%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 35879,
+        "text": "40-45%"
+      },
+      "explanation": "The CATIE trial found metabolic syndrome prevalence of 40.9%, with 36% in men and 51.6% in women using second-generation antipsychotics.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 67,
+      "question_id": 7218,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following anxiety disorders shows a relatively equal gender distribution in adults?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36124,
+          "text": "Generalized anxiety disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36125,
+          "text": "Panic disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36126,
+          "text": "Obsessive-compulsive disorder",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36127,
+          "text": "Social phobia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36128,
+          "text": "Specific phobia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36126,
+        "text": "Obsessive-compulsive disorder"
+      },
+      "explanation": "Evidence shows: OCD, which is more in boys than girls, but equally common in adult men and women and notes this as a notable exception to the general rule that all anxiety disorders are more common in women. All other listed disorders show female predominance. Men outnumber women for social phobia in healthcare settings, indicating female predominance in community prevalence.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 68,
+      "question_id": 7214,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Why might the point prevalence estimates for OCD vary between 1-3% depending on methodological factors?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36104,
+          "text": "OCD does not truly exist across different populations",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36105,
+          "text": "Diagnostic criteria have remained completely static across all studies",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36106,
+          "text": "Differences in sampling methodology, diagnostic thresholds, and functional impairment criteria affect prevalence estimates",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36107,
+          "text": "Only pure community samples can accurately measure OCD prevalence",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36108,
+          "text": "Clinical samples always inflate prevalence compared to community samples",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36106,
+        "text": "Differences in sampling methodology, diagnostic thresholds, and functional impairment criteria affect prevalence estimates"
+      },
+      "explanation": "Epidemiological variation (1-3%) typically reflects differences in how studies define cases, assess symptoms, apply functional impairment thresholds, and sample populations. Evidence notess that both clinical and community samples show different gender distributions, highlighting how methodological approaches influence prevalence findings. The lifetime prevalence of 2-3% is noted as fairly constant, suggesting the point prevalence range reflects measurement variation. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 69,
+      "question_id": 7167,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A survey identifies all current cases of depression in a community on a single day. Which epidemiological measure is this?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35869,
+          "text": "Incidence",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35870,
+          "text": "Period prevalence",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35871,
+          "text": "Point prevalence",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35872,
+          "text": "Lifetime prevalence",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35873,
+          "text": "Cumulative incidence",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35871,
+        "text": "Point prevalence"
+      },
+      "explanation": "Point prevalence: proportion with condition at specific point in time.",
+      "image_url": null,
+      "explanation_image_url": null
+    }
+  ]
+}

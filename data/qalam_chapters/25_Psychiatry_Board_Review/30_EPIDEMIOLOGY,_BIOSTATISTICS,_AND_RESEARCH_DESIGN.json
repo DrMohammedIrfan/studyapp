@@ -1,0 +1,1171 @@
+{
+  "chapter_id": "20f0f971-b9a1-4c14-afd0-0756640b675d",
+  "chapter_name": "EPIDEMIOLOGY, BIOSTATISTICS, AND RESEARCH DESIGN",
+  "chapter_title": "EPIDEMIOLOGY, BIOSTATISTICS, AND RESEARCH DESIGN",
+  "resource_id": "03980Tc2-2598-493f-ad2f-11236c68bcb8",
+  "resource_title": "Psychiatry Board Review",
+  "subject_name": "Psychiatry Board Review",
+  "chapter_number": 30,
+  "total_questions": 20,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "16ae6746-68d8-45de-82a4-08a636ac8c08",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following correctly describes the interpretation of a p value?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "966b869a-50e3-4408-b709-8e127a38833d",
+          "text": "The p value measures whether an observed result can be attributed to chance.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "be6e41f8-de27-4162-82a3-3792d8b46611",
+          "text": "A p value of less .01 proves that the alternative hypothesis is false.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ed155f86-76c6-4457-8dc5-692dd5961241",
+          "text": "Higher p values indicate greater likelihood that the hypothesis is true.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "07d1949f-14a7-4556-bd60-517c3f36c0e5",
+          "text": "A p value of .01 indicates a 1% chance the result is false.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "8821f06f-11fe-476f-9b76-65b3cfd5f4e5",
+          "text": "Lower p values indicate greater practical relevance of results.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "966b869a-50e3-4408-b709-8e127a38833d",
+        "text": "The p value measures whether an observed result can be attributed to chance."
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "966b869a-50e3-4408-b709-8e127a38833d",
+          "text": "The p value measures whether an observed result can be attributed to chance.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A p value measures whether an observed result can be attributed to chance[cite: 5].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": "3020f7af-f369-4c1e-8793-81f1aca70dc6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "An observational cohort study of community-dwelling elders identifies an association between sleeping pills and rate of falls over 12 months. Researchers discover that sleeping pills were prescribed preferentially to those with major neurocognitive disorder. The majority of falls occurred in the same group. Which of the following factors describes the association of sleeping pills with both major neurocognitive disorder and falls?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0c208aec-0fc9-461e-8f56-6ef64b0c27e4",
+          "text": "Mediation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "0e565906-157f-43f8-bf16-c85d8f8d1422",
+          "text": "Correlation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "87ce4100-3dcb-4c8d-a652-db47ecfa188c",
+          "text": "Collinearity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7544e9b6-3c5e-4e7c-809a-88c674f80bb3",
+          "text": "Confounding",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "dd60f698-29e6-4567-8bb0-39159bd78a0c",
+          "text": "Effect modification",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "7544e9b6-3c5e-4e7c-809a-88c674f80bb3",
+        "text": "Confounding"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "7544e9b6-3c5e-4e7c-809a-88c674f80bb3",
+          "text": "Confounding",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Confounding occurs when a third variable is associated with both the exposure variable and the outcome of interest[cite: 5]. This dual association can distort the \"true\" relationship between the exposure and outcome in either direction—either strengthening or weakening the statistical association or effect size[cite: 5]. One can adjust for confounding using stratification and regression analyses[cite: 5]. A mediator variable is a third (often unmeasured) variable that represents the actual mechanism whereby the first variable influences the outcome of interest[cite: 5]. Correlation describes an association between two continuous variables[cite: 5]. Collinearity (or multicollinearity) is similar to correlation in that two variables are so similar that knowledge of one predicts the other[cite: 5]. Effect modification occurs when a third variable alters how the dependent and independent variables are related (e.g., delirium predicts long-term mortality among patients with hip fracture but only among those with baseline dementia)[cite: 5].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "dd874862-e239-4f0c-a7e4-efc79e6b0e39",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Randomization does which of the following?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "cf2b9d90-3b24-4291-812c-c540c0a2a8a5",
+          "text": "Improves generalizability of results",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f0fd4a72-036f-48bc-8a25-6d5ddb49a1ce",
+          "text": "Ensures that each group is equivalent",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b86a5179-ae75-4bca-a424-c5f81211da44",
+          "text": "Allows for more sensitive statistical comparisons",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f712e66c-8656-4d92-a7c1-255177dfd037",
+          "text": "Enhances the effect size of the studied treatment",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "8af9937f-474f-453d-9309-d91eb8cae0a7",
+          "text": "Attempts to distribute unmeasured variables equally",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "8af9937f-474f-453d-9309-d91eb8cae0a7",
+        "text": "Attempts to distribute unmeasured variables equally"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "8af9937f-474f-453d-9309-d91eb8cae0a7",
+          "text": "Attempts to distribute unmeasured variables equally",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The unique value of randomization is to allocate unmeasured variables as equally as possible[cite: 5]. Measured variables can be accounted for using statistical analysis (such as a multivariable regression analysis), but unmeasured variables by definition cannot be controlled[cite: 5]. Randomization clarifies the unique effect between the exposure and outcome[cite: 5]. Generalizability hinges on sampling, not randomization[cite: 5]. Although randomization attempts to distribute baseline characteristics equally among groups, randomization can fail[cite: 5]. This tends to occur among smaller studies[cite: 5]. Effect size is not influenced by randomization[cite: 5].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": "3ef10e75-2d77-41e6-a948-21f274e7e95a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A clinician wants to know whether a new medication improves cognitive symptoms in schizophrenia, and only 10% of those eligible for the study are willing to participate. The fact that so few of the eligible subjects agree to participate in this study compromises which of the following in this study?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f0b92d03-d653-4a78-a388-9444f9603b89",
+          "text": "Test- retest reliability",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a67d093d-6b56-4e77-8450-dc01cfbd1ede",
+          "text": "Interrater reliability",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "46cb5740-ff04-446d-a70b-7647e2c4faae",
+          "text": "Internal validity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "264cb7ce-3db5-496b-8f66-29c572b13685",
+          "text": "External validity",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "c15b6350-02f7-4062-8869-e7d397ea2964",
+          "text": "Utility",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "264cb7ce-3db5-496b-8f66-29c572b13685",
+        "text": "External validity"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "264cb7ce-3db5-496b-8f66-29c572b13685",
+          "text": "External validity",
+          "is_correct": true
+        }
+      ],
+      "explanation": "External validity describes how well a study generalizes to a broader population, which is compromised if only a small portion of potentially eligible persons agree to participate[cite: 5]. Internal validity describes the degree to which each element of a test (such as a self-report scale) accurately represents the construct of interest (i.e., do all the questions accurately depict elements of a major depressive episode?)[cite: 5]. Reliability speaks to the consistency of a test such as from one test administration to another (test-retest) or between different people administering the test (interrater)[cite: 5]. Utility is a less-discussed metric but is no less important: it describes the usefulness of a particular test, screening tool, and so forth[cite: 5]. A questionnaire that takes 30 minutes to screen for substance abuse would not be useful in a busy primary care clinic[cite: 5].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": "d5cd1227-c4a9-454f-89a1-24996fcd4197",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What is the point prevalence of major depression in this sample?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0c375aba-ca74-4bfa-92c3-4ba0382f1246",
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e6d1af3c-f133-4d55-8cd1-7532d227712a",
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "910d5934-71a3-4de9-b5c6-0a984e2c3078",
+          "text": "15%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "76c34a43-3823-4e9a-9bac-aad765a0d6b9",
+          "text": "20%",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "dc400e82-a845-4a9d-8a1c-447e016928f8",
+          "text": "25%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "76c34a43-3823-4e9a-9bac-aad765a0d6b9",
+        "text": "20%"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "76c34a43-3823-4e9a-9bac-aad765a0d6b9",
+          "text": "20%",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The prevalence, defined as the number of cases divided by sample size, is 20% (10/50)[cite: 5].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": "be318d4b-338a-4b9a-a240-97bb5832faef",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Does this test have a higher specificity or sensitivity in detecting major depression in this sample?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a17c4e9a-b410-4f1f-afc3-da592b6ff53f",
+          "text": "It is more specific (35/ 40) than sensitive (8/ 10).",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "eae6d192-823f-4dc0-9b61-428a3aaccd35",
+          "text": "It is more specific (35/ 37) than sensitive (8/ 13).",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "330c641b-1338-4c08-9457-4ed418ed5b9e",
+          "text": "It is more sensitive (35/ 40) than specific (8/ 10).",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ba24b161-b948-4999-971b-e1995f34a4c9",
+          "text": "It is more sensitive (35/ 37) than specific (8/ 13).",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "76fc287a-74d7-4624-b212-9524badf85ac",
+          "text": "Insufficient information is provided to calculate sensitivity and specificity.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "a17c4e9a-b410-4f1f-afc3-da592b6ff53f",
+        "text": "It is more specific (35/ 40) than sensitive (8/ 10)."
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "a17c4e9a-b410-4f1f-afc3-da592b6ff53f",
+          "text": "It is more specific (35/ 40) than sensitive (8/ 10).",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The test has a sensitivity of 80% (8/10) and specificity of 88% (35/40)[cite: 5]. Sensitivity is the number of true positives (8) over the total number of those with the condition of interest (10), which means that the test was 80% sensitive in detecting major depression[cite: 5]. Specificity is the number of true negatives (35 = total without depression [40] minus nondepressed patients who screened positive [5]) divided by the number of total without the condition (40) (Table 30.1)[cite: 5].",
+      "explanation_images": [
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/Psychiatry%20Board%20Review/30.%20EPIDEMIOLOGY,%20BIOSTATISTICS,%20AND%20RESEARCH%20DESIGN/6/explanation_image-be318d4b-338a-4b9a-a240-97bb5832faef-1786403592611.jpeg"
+      ],
+      "explanation_image_url": "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/Psychiatry%20Board%20Review/30.%20EPIDEMIOLOGY,%20BIOSTATISTICS,%20AND%20RESEARCH%20DESIGN/6/explanation_image-be318d4b-338a-4b9a-a240-97bb5832faef-1786403592611.jpeg"
+    },
+    {
+      "question_number": 7,
+      "question_id": "4ed7249e-73ec-4fde-824d-ecc043b4466b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Based on the test performance in this sample, would this test be more meaningful as a screening instrument or a confirmatory test?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e4f5db25-cede-4be1-8fd4-aa1de35b23c1",
+          "text": "Screening instrument",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "e229d38a-b76b-446c-8ee1-c048e2293374",
+          "text": "Confirmatory test",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7089e8bd-d157-4f7b-a1b4-f353c3654cf4",
+          "text": "Both",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "4702fc03-c165-47f9-b39b-73ead695c20d",
+          "text": "Neither",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "e4f5db25-cede-4be1-8fd4-aa1de35b23c1",
+        "text": "Screening instrument"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "e4f5db25-cede-4be1-8fd4-aa1de35b23c1",
+          "text": "Screening instrument",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Screening or confirmatory instruments are meaningful based on how predictive they are in a particular population[cite: 5]. To answer this question, positive and negative predictive values should be considered because, unlike sensitivity and specificity, they incorporate prevalence rates and describe the likelihood of disease[cite: 5]. This test has a particularly high negative predictive value (35/37 = 95%), which means that the likelihood of a person having major depression is 5% if negative[cite: 5]. Very few depressed patients would be \"missed,\" thus making it good for screening[cite: 5]. On the other hand, it has a fairly low positive predictive value (8/13 = 62%)[cite: 5]. Screening positive on this test means that a patient in this sample has about a two-thirds chance of actually having major depression[cite: 5]. This test would yield far too many false positives to be used as a confirmatory test[cite: 5].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": "2124535a-30bc-44dc-b75f-08b2a7886690",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What are the odds that a person screening positive on this test has major depression?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "640d027b-ad7b-4b63-abf9-b2b149d0ec10",
+          "text": "8:5",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "4cedab1c-6e0d-4460-9d9c-53d39a30fc25",
+          "text": "62%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3af5c0d6-3930-45d8-b26f-8f3fa29174cc",
+          "text": "8:2",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "135c4449-0193-4715-92bd-cd6957e60e57",
+          "text": "80%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "0915cbec-97e1-457d-b5f9-216ccc9032e5",
+          "text": "8:50",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "640d027b-ad7b-4b63-abf9-b2b149d0ec10",
+        "text": "8:5"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "640d027b-ad7b-4b63-abf9-b2b149d0ec10",
+          "text": "8:5",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Probability (or risk) is reported as a percent and represents the number of a particular outcome divided by the total sample[cite: 5]. The probability that a person screening positive on this test has major depression is 8/13 (true positives divided by total positives)[cite: 5]. However, odds are calculated differently[cite: 5]. Odds are calculated as the ratio of number of events to nonevents[cite: 5]. This question defines the sample in question as those persons screening positive[cite: 5]. Among these, then, events are those with major depression (true positives); nonevents are those without major depression (false positives)[cite: 5]. Here, the odds are 8 to 5[cite: 5].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": "f9d4ffd8-3421-4a1e-9cef-7d89a7b8e9d3",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Provided the screening questionnaire yields a continuous value from 0 to 10, which of the following could be used to depict the trade-off between sensitivity and specificity at different cutoff values?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "67a3d2ed-38cd-46d8-a883-f6b9ddf2536b",
+          "text": "Normal distribution",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "39e0d006-5bdf-47b7-8245-6ba359f96104",
+          "text": "Gaussian distribution",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "94c75c5e-7ee6-4b3a-8ef6-93e2b9056ddc",
+          "text": "A nomogram of likelihood ratios",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "9d721070-136c-4758-98e9-94b2f3fa53b1",
+          "text": "Receiver operating characteristic",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "80a1fcd2-da1d-4350-bfe6-f1d2dcbd22f0",
+          "text": "Positive predictive value plotted against negative predictive value",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "9d721070-136c-4758-98e9-94b2f3fa53b1",
+        "text": "Receiver operating characteristic"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "9d721070-136c-4758-98e9-94b2f3fa53b1",
+          "text": "Receiver operating characteristic",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The receiver operating characteristic (ROC) is a graphical plot of true positive rate (sensitivity) versus false positive rate (1 - specificity) that is often used to determine discrimination thresholds of screening tests[cite: 5]. It is a visual representation of how well a particular test predicts a condition of interest at each cutoff value[cite: 5]. An ROC may be depicted as a graph, or the area under the ROC may be reported numerically[cite: 5]. An area under the ROC of 50% means that a test has no predictive value (i.e., a positive or negative value remains a 50-50 toss-up) with higher values being more robust tools for predicting the condition of interest[cite: 5]. Normal distribution and Gaussian distribution refer to the same probability distribution often depicted as a bell curve, which presumes a random distribution of variables[cite: 5]. A nomogram may be used to predict post-test probability[cite: 5]. Positive and negative predictive values are not synonymous with sensitivity and specificity[cite: 5].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": "93a62023-390b-490a-a2cf-3b0d2981a3d3",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Suppose that this questionnaire has the same sensitivity and specificity in a second sample of patients, and that sample has twice the rate of major depression as the first (in the initial vignette). How does this influence positive and negative predictive values in this second sample?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c6a5a258-9f89-484d-8584-3a9b4a130036",
+          "text": "Positive predictive value increases, negative predictive value decreases.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "e50bae9e-d38e-494c-8ae7-f4001b0d4bb3",
+          "text": "Positive predictive value increases, negative predictive value increases.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c6fa8693-998f-48e6-badb-7ff0cdf80c0f",
+          "text": "Positive predictive value decreases, negative predictive value decreases.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "61092a6b-9cf4-4af7-b057-7bc5153f0e9e",
+          "text": "Positive predictive value decreases, negative predictive value increases.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "0f6579d8-2db0-428f-8230-746f1187be70",
+          "text": "Positive and negative predictive values remain the same.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "c6a5a258-9f89-484d-8584-3a9b4a130036",
+        "text": "Positive predictive value increases, negative predictive value decreases."
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "c6a5a258-9f89-484d-8584-3a9b4a130036",
+          "text": "Positive predictive value increases, negative predictive value decreases.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Positive and negative predictive values are affected by prevalence, whereas sensitivity and specificity are unique to the test and independent of prevalence[cite: 5]. Broadly speaking, with greater prevalence, the likelihood that any patient would be positive is greater[cite: 5]. As a result, the positive predictive value of a positive test increases, whereas the negative predictive value decreases[cite: 5]. Compare Table 30.1 with Table 30.2[cite: 5]. Both screening instruments have 80% sensitivity and 87.5% specificity; however, the prevalence of depression differs in these two samples[cite: 5]. The prevalence in the initial sample (in Table 30.1) is 20% (10/50) but 40% (80/200) in the second (Table 30.2)[cite: 5]. Positive and negative predictive values differ markedly as a result: in the first they are 62% and 95%, respectively, but in the second are 81% and 87%[cite: 5].",
+      "explanation_images": [
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/Psychiatry%20Board%20Review/30.%20EPIDEMIOLOGY,%20BIOSTATISTICS,%20AND%20RESEARCH%20DESIGN/10/explanation_image-93a62023-390b-490a-a2cf-3b0d2981a3d3-1786403601418.jpeg",
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/Psychiatry%20Board%20Review/30.%20EPIDEMIOLOGY,%20BIOSTATISTICS,%20AND%20RESEARCH%20DESIGN/10/explanation_image2-93a62023-390b-490a-a2cf-3b0d2981a3d3-1786403606421.jpeg"
+      ],
+      "explanation_image_url": "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/Psychiatry%20Board%20Review/30.%20EPIDEMIOLOGY,%20BIOSTATISTICS,%20AND%20RESEARCH%20DESIGN/10/explanation_image-93a62023-390b-490a-a2cf-3b0d2981a3d3-1786403601418.jpeg"
+    },
+    {
+      "question_number": 11,
+      "question_id": "6790bfa0-9f44-4ef5-ad26-d0432f648d94",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statistics would calculate whether the proportion of responders in the rTMS group was statistically superior relative to those who received sham rTMS?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "100776eb-2a76-4c5e-864f-855eafe036c0",
+          "text": "Chi- square",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "e7df0007-1832-4fdb-a13e-d218f51fe631",
+          "text": "Pearson’s r",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "77e8aae9-71d9-483d-a487-60b64384df1a",
+          "text": "Paired t- test",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "4eac23ae-875f-4969-9650-2ca7f4eba4cc",
+          "text": "Hazard ratio",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "7a82738b-4169-4785-9e6d-47aeb4eb978e",
+          "text": "Relative risk",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "100776eb-2a76-4c5e-864f-855eafe036c0",
+        "text": "Chi- square"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "100776eb-2a76-4c5e-864f-855eafe036c0",
+          "text": "Chi- square",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Chi-square tests can be used to compare the statistical differences in proportions (presented here) between two or more groups[cite: 5]. Pearson's r calculates correlations between two continuous variables[cite: 5]. A t-test can determine whether there is a statistical difference between two sets of continuous variables[cite: 5]. Hazards are the expected number of events over a given time period, so a hazard ratio compares the hazards of two independent groups[cite: 5]. Relative risk is the comparison of one rate with another but does not describe a statistical test of hypothesis testing[cite: 5].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": "9f8492d5-b6fb-473b-9cce-530e95a8db45",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What bias is most likely to confound these results?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d5d17dde-b1c8-423f-861a-d4dcacab430e",
+          "text": "Berkson bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "045f1574-ddc9-4997-90b4-5b47e89fe93e",
+          "text": "Sampling bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "68fe8394-6b5d-4273-9d35-e62708c7cc59",
+          "text": "Selection bias",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "cbc609ac-be6a-4e5b-8e91-25906b144c34",
+          "text": "Response bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d962ff8e-0c4f-4085-9c84-b56bef3108c3",
+          "text": "Reporting bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "68fe8394-6b5d-4273-9d35-e62708c7cc59",
+        "text": "Selection bias"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "68fe8394-6b5d-4273-9d35-e62708c7cc59",
+          "text": "Selection bias",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Only 20% of those eligible for study inclusion agreed to participate, introducing a type of selection bias (self-selection)[cite: 5]. This limits the generalizability of this study to the broader population of those with auditory hallucinations[cite: 5]. Berkson bias is a form of selection bias among inpatient studies predicated on the factors that lead patients to being hospitalized[cite: 5]. Sampling bias refers to how the study subjects were chosen from a larger community[cite: 5]. Response bias occurs when only a portion of those sampled respond to a request or element of a study (such as responding to a questionnaire survey)[cite: 5]. Reporting bias is selective revelation by participants[cite: 5].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": "6ddd3d9e-e2a5-417d-8d84-ef1f3746a1fc",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Based on these results, how many subjects would need to be given rTMS before one patient received a “true” response (number needed to treat)?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2bcbfd01-00e0-4d49-b6bf-d1438d49a789",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "de907ad1-df5a-4a05-9757-1f8bfd5bc72c",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "59d99e3b-57c7-4c88-8ba7-842c1113fdf4",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b58a3fad-f488-4f0c-85a9-8205da24cbb8",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "981747c3-d189-4e5f-b277-79a48bbf2618",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "de907ad1-df5a-4a05-9757-1f8bfd5bc72c",
+        "text": "4"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "de907ad1-df5a-4a05-9757-1f8bfd5bc72c",
+          "text": "4",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Number needed to treat is calculated by the inverse of absolute risk reduction (50% minus 20%)[cite: 5]. The absolute risk reduction is 30%, so the number needed to treat is 3.3[cite: 5]. Because people are generally indivisible, the number is rounded up by convention: 4 people needed to treat[cite: 5].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": "6a88499c-a0bc-4cff-81c4-436b3c9ee065",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What type of study provides information about prevalence of disease in a population at a specific point in time?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a6c8d1ae-5f33-481e-ac57-d7e1bb5e6fc2",
+          "text": "Cohort",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "20469f7d-d518-45ad-b41d-ff538fa8eb74",
+          "text": "Cross- sectional",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "9f168852-5250-4ffa-85dc-4a95c0c9d5b3",
+          "text": "Retrospective",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "23008ad0-f7a7-4b7c-92e0-a3a8b7cacfbe",
+          "text": "Prospective",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "88e50404-cac5-4fd5-8048-fd6074c49e14",
+          "text": "Crossover",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "20469f7d-d518-45ad-b41d-ff538fa8eb74",
+        "text": "Cross- sectional"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "20469f7d-d518-45ad-b41d-ff538fa8eb74",
+          "text": "Cross- sectional",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A cross-sectional study provides information about prevalence of disease in a population at a specific point in time[cite: 5]. Cohort studies are longitudinal studies following a group from a well-defined population[cite: 5]. Retrospective studies are based on past data, whereas prospective studies observe events as they occur longitudinally[cite: 5]. Crossover studies are double-blind studies in which the treatment group becomes the placebo group, and vice versa, such that each group controls for the other[cite: 5].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": "2b95520a-667f-4c09-9ffb-4eaf4cd377fa",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A researcher wants to determine which factors predict delirium diagnosis (as a dichotomous outcome). What type of regression would be appropriate?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "008d53eb-96f1-4089-9782-06d39e51ab26",
+          "text": "Cox regression",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e11cff67-8d95-4763-899e-dc9a6e240431",
+          "text": "Single linear regression",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7bb6a945-711e-4002-a914-41c05868489b",
+          "text": "Multiple linear regression",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "35175047-0e9b-42e8-8bb5-d20f1b3bb78c",
+          "text": "Bayesian regression",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a7deaa9d-b067-4fb7-8e5b-8d8c32bb8f87",
+          "text": "Logistic regression",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "a7deaa9d-b067-4fb7-8e5b-8d8c32bb8f87",
+        "text": "Logistic regression"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "a7deaa9d-b067-4fb7-8e5b-8d8c32bb8f87",
+          "text": "Logistic regression",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Logistic regression involves dichotomous outcomes and can incorporate one (single logistic) or several (multiple logistic) independent variables (predictors) for the dependent, dichotomous outcome of interest[cite: 5]. Linear regression can also be single or multiple but differs from logistic regression in that the outcome variable is continuous[cite: 5]. Cox regression often involves hazard ratios or Meier-Kaplan survival curves and evaluates whether a particular outcome happens more rapidly in one sample relative to another[cite: 5]. Bayesian regression is not a formal regression model[cite: 5].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": "54b7d01e-6586-4e6d-8d97-4e9f4e9b214b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The number of new cases occurring during a specified period of time, usually 1 year, is called:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c5744844-3f30-4a19-b6c6-ccc1e69003a3",
+          "text": "Prevalence",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "76b34ee8-7211-4bbd-b439-665e21c3023e",
+          "text": "Incidence",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "9eed0985-5c9d-4fea-ab70-d6daa3585d03",
+          "text": "Distribution",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "daa2dc78-bb0d-4a9a-8919-68dabfe68678",
+          "text": "Sample",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c4f9af7e-3e42-4fcc-a595-8c12daa41577",
+          "text": "Lifetime expectancy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "76b34ee8-7211-4bbd-b439-665e21c3023e",
+        "text": "Incidence"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "76b34ee8-7211-4bbd-b439-665e21c3023e",
+          "text": "Incidence",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Incidence is the number of new cases occurring over a specified time[cite: 5]. It is often confused with prevalence, which is the number of existing cases of a disorder[cite: 5]. Point prevalence refers to prevalence at a specific point in time, whereas period prevalence refers to prevalence during a specified duration[cite: 5].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": "649b8568-5cb9-4604-8a4a-09610e007e81",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A p value of .03 means that there is a 3% chance of which of the following?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c7bb83d1-97ad-450a-a0e8-f12b5cedcd6b",
+          "text": "The effect is “real.”",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "1ab06f5d-24f3-4834-9fae-fb07ae013e88",
+          "text": "The result is a false positive.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4544ff38-49e8-46fb-9169-adab1681f23e",
+          "text": "The null hypothesis is true.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "00afd3b9-d4a4-4dc9-a3df-afe8ee33d04f",
+          "text": "The alternative hypothesis is true.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "8d08c1ee-98f7-4144-a5de-630d1d8619dd",
+          "text": "The results occurred by chance if the null is true.",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "8d08c1ee-98f7-4144-a5de-630d1d8619dd",
+        "text": "The results occurred by chance if the null is true."
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "8d08c1ee-98f7-4144-a5de-630d1d8619dd",
+          "text": "The results occurred by chance if the null is true.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A null hypothesis assumes there is no significant relationship between studied groups[cite: 5]. In hypothesis testing, a p value is the likelihood of obtaining a particular result presuming the null hypothesis is true[cite: 5].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": "75682a68-b05b-4405-85bc-866f98c87dc7",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What study design is most commonly used to evaluate factors associated with very rare outcomes such as teratogenicity of lithium?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "edf582e4-967c-4b30-888e-6dc91d62df8c",
+          "text": "Randomized trial",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3935be05-a750-44bd-b65a-e4297ad68df9",
+          "text": "Prospective cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "689f7a59-bda0-4fec-8e62-54d058c2742a",
+          "text": "Case control study",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "dc2cd16d-0c6b-4ffd-b3c0-2698cfcee03d",
+          "text": "Case series",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "5faa0686-1be5-43a4-af15-390ca4acfef4",
+          "text": "Case reports",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "689f7a59-bda0-4fec-8e62-54d058c2742a",
+        "text": "Case control study"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "689f7a59-bda0-4fec-8e62-54d058c2742a",
+          "text": "Case control study",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Subjects in case control studies are enrolled based on outcomes, so this would be the most appropriate study design[cite: 5]. In cohort studies, subjects are enrolled based on exposure[cite: 5]. More recently retrospective cohort studies have been used, but these typically involve the use of national registries in order to obtain sufficient power to detect even a few cases of the outcome of interest[cite: 5]. Randomized clinical trials are not feasible because one might have to enroll thousands of subjects to obtain a sufficient number of the outcome of interest[cite: 5]. Case series and case reports are descriptive, rather than assessing a hypothesis of cause and effect[cite: 5].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": "9f3061aa-354c-4446-afa2-38770960214c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The proportion of all positive results that are “true positive” is known as:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "880074a3-4df6-44e7-872d-981d30fbcb57",
+          "text": "Positive predictive value",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "f0932d92-2aec-4d7e-9601-24ae7c0ad739",
+          "text": "Negative predictive value",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "0ff01a5b-6f7d-430c-a8c6-721e2526d61b",
+          "text": "Sensitivity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "cce30450-bb75-499f-8667-d3315728df25",
+          "text": "Specificity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "47a74e54-98ec-4dd9-9a7a-ef2743c845e2",
+          "text": "Efficiency",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "880074a3-4df6-44e7-872d-981d30fbcb57",
+        "text": "Positive predictive value"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "880074a3-4df6-44e7-872d-981d30fbcb57",
+          "text": "Positive predictive value",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The positive predictive value is \"true positives\" divided by \"all positives.\"[cite: 5] The negative predictive value is the proportion of all negative test results that are true negatives[cite: 5]. Sensitivity is the true positive rate[cite: 5]. Specificity is the true negative rate[cite: 5]. Efficiency is the percentage of all results that are true results (positive or negative)[cite: 5].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": "b16ef1e0-ed14-4e4a-8b26-aaae8a4b8ff3",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The Hamilton Depression Rating Scale is administered to 100 patients in two separate clinics. Which statistical test would be appropriate to determine whether patients at one of these clinics has higher average scores than the other?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "513e9d00-e5a9-43d0-9a2e-279a7b231721",
+          "text": "Chi- square",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "817dce50-e9e4-4670-9384-e25657633c0b",
+          "text": "Fisher’s exact test",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d70b835f-a003-4b57-beba-1b39de81cf64",
+          "text": "Student’s t- test",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "f78f4875-1388-4c02-a006-cd008dd8a60e",
+          "text": "Hazard ratio",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "334c8e4d-2d5b-491c-8274-30ee804e3464",
+          "text": "Odds ratio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "d70b835f-a003-4b57-beba-1b39de81cf64",
+        "text": "Student’s t- test"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "d70b835f-a003-4b57-beba-1b39de81cf64",
+          "text": "Student’s t- test",
+          "is_correct": true
+        }
+      ],
+      "explanation": "An independent samples t-test compares the values of a continuous variable between two groups[cite: 5]. Chi-square and Fisher's exact test compare categorical values (including proportions)[cite: 5]. Hazard ratios describe the ratio of two hazard rates (as calculated in survival analyses), and an odds ratio is the ratio of two odds (as calculated in cohort studies)[cite: 5].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

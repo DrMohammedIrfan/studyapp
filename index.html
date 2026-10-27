@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="theme-color" content="#4f46e5">
+  <link rel="manifest" href="manifest.json">
+  <title>KDPsych Study Platform — Question Bank</title>
+  <link rel="stylesheet" href="styles.css">
+  <!-- KaTeX for medical math/formulas rendering if present -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+</head>
+<body class="theme-light">
+  <div id="app" class="app-layout">
+    
+    <!-- Collapsible Sidebar -->
+    <aside id="sidebar" class="sidebar">
+      <div class="sidebar-header">
+        <div class="logo">
+          <span class="logo-icon">🧠</span>
+          <span class="logo-text">KDPsych Bank</span>
+        </div>
+        <button id="sidebar-close-btn" class="icon-btn" title="Close sidebar" aria-label="Close sidebar">✕</button>
+      </div>
+
+      <div class="sidebar-search">
+        <input type="text" id="chapter-search" placeholder="Search chapters or subjects..." aria-label="Search chapters">
+      </div>
+
+      <!-- Mode Selector Tabs -->
+      <div class="sidebar-tabs" role="tablist">
+        <button id="tab-qalam" class="sidebar-tab active" role="tab" aria-selected="true">
+          <span>📖 Qalam (504)</span>
+        </button>
+        <button id="tab-chapters" class="sidebar-tab" role="tab" aria-selected="false">
+          <span>🧠 KDPsych (58)</span>
+        </button>
+        <button id="tab-mocks" class="sidebar-tab" role="tab" aria-selected="false">
+          <span>🎯 Mocks (8)</span>
+        </button>
+      </div>
+
+      <!-- Book / Subject Filter Dropdown -->
+      <div class="sidebar-filter-row" id="subject-filter-container">
+        <select id="subject-filter" class="subject-select" aria-label="Filter by Book / Subject">
+          <option value="ALL">All Books & Subjects</option>
+        </select>
+      </div>
+
+      <div class="sidebar-stats-card">
+        <div class="stat-row">
+          <span id="progress-scope-label">Overall Progress:</span>
+          <strong id="global-progress-pct">0%</strong>
+        </div>
+        <div class="progress-track">
+          <div id="global-progress-bar" class="progress-fill" style="width: 0%;"></div>
+        </div>
+        <div class="stat-subtext">
+          <span id="global-answered-count">0</span> / <span id="global-total-count">5,823</span> questions answered
+        </div>
+      </div>
+
+      <nav class="chapter-nav">
+        <div class="nav-title" id="nav-section-title">CHAPTERS & SUBJECTS</div>
+        <div id="chapter-list" class="chapter-list">
+          <!-- Dynamically populated -->
+        </div>
+      </nav>
+
+      <div class="sidebar-footer">
+        <button id="import-btn" class="btn btn-secondary w-full">
+          <span>📥 Import JSON Bank</span>
+        </button>
+        <button id="reset-chapter-btn" class="btn btn-outline text-danger w-full mt-2">
+          <span>↺ Reset Current Chapter</span>
+        </button>
+      </div>
+    </aside>
+
+    <!-- Sidebar Backdrop for Mobile -->
+    <div id="sidebar-backdrop" class="sidebar-backdrop"></div>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+      <!-- Top Navbar -->
+      <header class="top-nav">
+        <div class="nav-left">
+          <button id="sidebar-toggle-btn" class="icon-btn" title="Toggle Sidebar" aria-label="Toggle Sidebar">
+            ☰
+          </button>
+          <div class="chapter-info">
+            <span id="current-subject" class="subject-badge">Subject</span>
+            <h1 id="current-chapter-title" class="chapter-title">Loading Chapter...</h1>
+          </div>
+        </div>
+
+        <div class="nav-right">
+          <!-- Cross-device Sync Indicator -->
+          <div id="sync-indicator" class="sync-badge" title="Live Sync Active">
+            <span class="sync-dot"></span>
+            <span id="sync-text">Live Sync</span>
+          </div>
+
+          <!-- Theme Toggle -->
+          <button id="theme-toggle-btn" class="icon-btn" title="Toggle Dark/Light Mode" aria-label="Toggle Theme">
+            🌙
+          </button>
+        </div>
+      </header>
+
+      <!-- Subheader Filter & Mode Bar -->
+      <div class="sub-filter-bar">
+        <div class="filter-group" role="group" aria-label="Question filters">
+          <button class="filter-btn active" data-filter="all">All</button>
+          <button class="filter-btn" data-filter="unanswered">Unanswered</button>
+          <button class="filter-btn" data-filter="incorrect">Incorrect ❌</button>
+          <button class="filter-btn" data-filter="flagged">Flagged 🚩</button>
+        </div>
+      </div>
+
+      <!-- Question Counter & Breadcrumb Bar -->
+      <section class="question-header-bar">
+        <div class="qh-left">
+          <span class="question-pill" id="question-index-label">Question 1 of 100</span>
+          <span class="difficulty-pill" id="question-difficulty">Medium</span>
+          <span class="type-pill" id="question-type">MCQ</span>
+        </div>
+        <div class="qh-right">
+          <button id="flag-btn" class="flag-action-btn" title="Flag Question (Keyboard: F)" aria-label="Flag question">
+            <span class="flag-icon">🚩</span>
+            <span id="flag-btn-text">Flag for Review</span>
+          </button>
+        </div>
+      </section>
+
+      <!-- Active Question Card -->
+      <div class="content-scrollable">
+        <article class="question-card" id="question-card">
+          <!-- Question Stem -->
+          <div class="question-stem" id="question-stem">
+            Loading question...
+          </div>
+
+          <!-- Optional Clinical Investigation Table -->
+          <div id="question-table-container" class="question-table-container hidden"></div>
+
+          <!-- Optional Question Image -->
+          <div id="question-image-container" class="question-image-container hidden">
+            <img id="question-image" src="" alt="Question Diagram" loading="lazy">
+          </div>
+
+          <!-- Options Container -->
+          <div class="options-container" id="options-container">
+            <!-- Options injected dynamically -->
+          </div>
+
+          <!-- Explanation Panel (Revealed upon submit) -->
+          <section id="explanation-panel" class="explanation-panel hidden" aria-live="polite">
+            <div class="explanation-header" id="explanation-status-header">
+              <span class="status-icon" id="explanation-status-icon">✓</span>
+              <span class="status-text" id="explanation-status-text">Correct!</span>
+            </div>
+            <div class="explanation-body">
+              <h4 class="explanation-title">Explanation & Clinical Rationale:</h4>
+              <div id="explanation-text" class="explanation-content">
+                <!-- Injected text -->
+              </div>
+              <div id="explanation-image-container" class="explanation-image-container hidden">
+                <img id="explanation-image" src="" alt="Explanation Diagram" loading="lazy">
+              </div>
+            </div>
+          </section>
+        </article>
+      </div>
+
+      <!-- Action Footer -->
+      <footer class="action-footer">
+        <button id="prev-btn" class="btn btn-outline footer-nav-btn" title="Previous Question (< or Left Arrow)">
+          <span>&lt; Prev</span>
+        </button>
+
+        <button id="submit-btn" class="btn btn-primary footer-submit-btn" title="Submit Answer (Enter)">
+          <span id="submit-btn-text">Submit Answer [Enter]</span>
+        </button>
+
+        <button id="next-btn" class="btn btn-secondary footer-nav-btn" title="Next Question (> or Right Arrow)">
+          <span>Next &gt;</span>
+        </button>
+
+        <div class="hotkey-legend">
+          <span class="kbd-hint"><kbd>1</kbd>-<kbd>5</kbd> Select</span>
+          <span class="kbd-hint"><kbd>Enter</kbd> Submit/Next</span>
+          <span class="kbd-hint"><kbd>&lt;</kbd> <kbd>&gt;</kbd> Prev/Next</span>
+          <span class="kbd-hint"><kbd>F</kbd> Flag</span>
+        </div>
+      </footer>
+    </main>
+
+    <!-- Import Modal -->
+    <div id="import-modal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <div class="modal-box">
+        <div class="modal-header">
+          <h2 id="modal-title">Import Question Bank (JSON)</h2>
+          <button id="modal-close-btn" class="icon-btn" aria-label="Close dialog">✕</button>
+        </div>
+        <div class="modal-body">
+          <p>Drop a chapter JSON file or click below to import new questions into your study bank.</p>
+          <div id="drop-zone" class="drop-zone">
+            <span class="drop-icon">📁</span>
+            <p>Drag and drop a <code>.json</code> file here, or click to browse</p>
+            <input type="file" id="file-input" accept=".json" class="hidden">
+          </div>
+          <div id="import-status" class="import-status hidden"></div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

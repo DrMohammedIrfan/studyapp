@@ -1,0 +1,1172 @@
+{
+  "chapter_id": "1bb6102b-4442-4b8b-bd11-f49613121328",
+  "chapter_name": "EPIDEMIOLOGY AND PUBLIC POLICY",
+  "chapter_title": "EPIDEMIOLOGY AND PUBLIC POLICY",
+  "resource_id": "03980Tc2-2598-493f-ad2f-11236c68bcb8",
+  "resource_title": "Psychiatry Board Review",
+  "subject_name": "Psychiatry Board Review",
+  "chapter_number": 3,
+  "total_questions": 20,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "d6b6a2e3-0fee-4f26-ad59-d2e0fcbdc183",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following describes positive predictive value?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "fa6c57cd-71a3-4c4a-94c6-add647355550",
+          "text": "The probability of having the disease when screening negative",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "76c83d80-b834-4007-815d-8e06b7b3cdbe",
+          "text": "The probability of having the disease when screening positive",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "fa0b75bc-1e3b-48a3-a0e6-309f3973dd08",
+          "text": "The probability of not having the disease when screening positive",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f941dc19-509b-4aa4-8db9-2131d9de541f",
+          "text": "The probability of screening positive when not having the disease",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fa4e264e-a2a1-4aff-8177-e4a25be11185",
+          "text": "",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "76c83d80-b834-4007-815d-8e06b7b3cdbe",
+        "text": "The probability of having the disease when screening positive"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "76c83d80-b834-4007-815d-8e06b7b3cdbe",
+          "text": "The probability of having the disease when screening positive",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: B Positive predictive value is the probability that someone with a positive screening test truly has the disease. Positive predictive value is the proportion of positive tests that are true positives. Unlike sensitivity and specificity, positive (and negative) predictive value is dependent on disease prevalence. Where disease prevalence is very low, even tests with relatively high specificity will have modest positive predictive value at best.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": "5b036c03-6218-4dc4-b497-901c2d8306da",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of these describes the mistake of missing a true difference between groups?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4f9ab21b-1a13-472b-b0f9-8d26635c3659",
+          "text": "Type 1 error",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ed0a7bc7-e3fc-41cb-a996-21151dc062b7",
+          "text": "Type 2 error",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "73a35fa8-694b-42ff-a69d-48d2e5a42004",
+          "text": "The alternative hypothesis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "517cec97-acf9-445c-9584-402eacbc55d5",
+          "text": "The null hypothesis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "31feb2f1-8f21-464b-a451-e54d254b1370",
+          "text": "Selection bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "ed0a7bc7-e3fc-41cb-a996-21151dc062b7",
+        "text": "Type 2 error"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "ed0a7bc7-e3fc-41cb-a996-21151dc062b7",
+          "text": "Type 2 error",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: B Type 2 error (or a 'false negative') is failing to reject the null hypothesis when the null should, in fact, be rejected. Type 1 error (or a 'false positive') is mistakenly rejecting the null hypothesis.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "805bf844-4e39-4ce0-898f-3a521d69bef1",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In a clinical trial, one group of patients diagnosed with depression receives an experimental SSRI, and another group receives a zplacebo. Six weeks later, both groups are scored using the Beck Depression Inventory. Which of the following tests is the most appropriate for comparing the mean of the scores of these two groups?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "ce40ca2a-7464-4d1c-ae8a-2831dec6610b",
+          "text": "ANOVA",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2d93e2b9-3eff-489d-8db7-9a6725aa86b5",
+          "text": "Chi- square",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ee2b1f0b-c587-40fe-a5a5-14ea3e3d4a7b",
+          "text": "t- test",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "f3ec118b-84c2-4442-a840-5be7be5d6d2f",
+          "text": "Pearson correlation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "9665ba61-5887-4bc2-9725-95e72c786e4c",
+          "text": "z score",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "ee2b1f0b-c587-40fe-a5a5-14ea3e3d4a7b",
+        "text": "t- test"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "ee2b1f0b-c587-40fe-a5a5-14ea3e3d4a7b",
+          "text": "t- test",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: C A t-test is used to assess for differences between continuous variable outcomes between two groups. A chi-square test is used when comparing percentages (also known as proportions) across two or more groups. ANOVA assesses the variance across in means across two or more groups. Pearson correlation evaluates for a linear association between two continuous variables.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": "28fc7ba1-7ecc-49ec-91dc-78d9f203f3ef",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following categories of disorder has the highest 12- month prevalence among US adults?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b65a7b4f-21cb-4e21-9f96-a70cd46baa7b",
+          "text": "Mood disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e0e9a1c9-b518-4b4e-968e-48a90e3a517c",
+          "text": "Anxiety disorders",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "c7f3bfe3-d616-4919-a6c1-ca7a47e7cc7f",
+          "text": "Psychotic disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a7457eb7-0c25-4175-a01d-2b13a2fb3ef6",
+          "text": "Substance use disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "72fbd20d-f567-4398-826a-c32cdc4da3f0",
+          "text": "Impulse control disorders",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "e0e9a1c9-b518-4b4e-968e-48a90e3a517c",
+        "text": "Anxiety disorders"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "e0e9a1c9-b518-4b4e-968e-48a90e3a517c",
+          "text": "Anxiety disorders",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: B Anxiety disorders are the most prevalent type of psychiatric disorder in US adults. As a result, patients who present for psychiatric evaluation should be systematically screened for the presence of anxiety disorders.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": "c3a202ce-314b-4963-aab6-0509a0a2d6c9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following prevents or delays major neurocognitive disorder?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3f970f3f-8252-4cd8-a728-810ba678fe40",
+          "text": "Genetic counseling",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c37ea314-1451-41b7-b497-f519a32ac5cd",
+          "text": "Pharmacological protective measures",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "156d3296-56a1-42f5-a97f-806a161fc812",
+          "text": "Reducing exposure to environmental neurotoxins",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d02bf1ad-4d68-40c0-97a7-cc77182c0bf5",
+          "text": "Reducing risk in vulnerable groups showing prodromal signs of dementing process",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "5c386d98-1262-4fce-9292-98a60f89798a",
+          "text": "Prevention of craniocerebral traumas earlier in life and control of vascular disease",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "5c386d98-1262-4fce-9292-98a60f89798a",
+        "text": "Prevention of craniocerebral traumas earlier in life and control of vascular disease"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "5c386d98-1262-4fce-9292-98a60f89798a",
+          "text": "Prevention of craniocerebral traumas earlier in life and control of vascular disease",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: E The prevention of craniocerebral traumas earlier in life through highway speed limits, use of crash helmets and seatbelts, and drink-drive and vehicle licensing laws, prevents or delays onset of dementia. In addition, vascular disease is an evidence-based risk factor for dementia, and studies have suggested that controlling it by using antihypertensive medications or reducing cholesterol may prevent or delay the onset of dementia by more than 50%. Reducing exposure to neurotoxins (e.g., aluminum), pharmacological protective measures (e.g., estrogen replacement), antioxidants, vitamin E, and genetic counseling have all shown some promise, but evidence remains inconclusive.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": "52dcdf6c-7fab-4ee0-bb1b-1c4427530011",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following methods for suicide prevention has demonstrated the strongest effect?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0fb42867-30ef-49c2-bbe3-3b04e6fd4861",
+          "text": "Reducing access to the means to commit suicide",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "57e7d44f-4a58-4c0a-a692-f7b988d6e13b",
+          "text": "Hotlines",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "12469428-efd9-4428-b024-bd7f75772977",
+          "text": "Crisis centers",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c96425d7-df0c-4865-99b4-396015cf7793",
+          "text": "School- based programs",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f6068cf8-6ec0-42ff-b571-8002ad78488d",
+          "text": "",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "0fb42867-30ef-49c2-bbe3-3b04e6fd4861",
+        "text": "Reducing access to the means to commit suicide"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "0fb42867-30ef-49c2-bbe3-3b04e6fd4861",
+          "text": "Reducing access to the means to commit suicide",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: A Reducing access to the means of committing suicide prevents suicide. These strategies include safety measures on high buildings and bridges, restricted access to pesticides, detoxification of domestic gas and car exhaust, and control of availability of sedatives and analgesics. Hotlines, suicide education in school settings, and crisis centers have not been shown to have a similar effect on suicide prevention.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": "260af1c0-a08c-401d-8777-4f8ab8511eb6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is/ are TRUE concerning Assertive Community Treatment (ACT) services?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "33cda466-28b2-48d3-93bf-cf2b3d83d5ce",
+          "text": "Offer social support in the community",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c3f8e373-e791-4153-b003-019d217544b4",
+          "text": "Offer rehabilitation activities",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9103fae6-0390-4d47-ba9d-033361b48a3c",
+          "text": "Offer nursing care to patients",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "896427ec-5c4b-4ec1-99db-8e4581ffbf65",
+          "text": "Decrease rates of rehospitalization",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "079355ad-b307-42d3-93db-18ddc88d4b99",
+          "text": "All of the above",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "079355ad-b307-42d3-93db-18ddc88d4b99",
+        "text": "All of the above"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "079355ad-b307-42d3-93db-18ddc88d4b99",
+          "text": "All of the above",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: E The Assertive Community Treatment (ACT) program was developed by researchers in Madison, Wisconsin, in the 1970s for the delivery of services for persons with chronic mental illness. ACT programs consist of multidisciplinary teams with psychiatrists, nurses, social workers, and psychologists and assume the care of a designated number of adults with serious and persistent mental illness. ACT team members deliver services when and where needed by the patient in the community. The activities provided by this system include home delivery of medications, social skills training, monitoring of mental and physical health, and frequent contact with family members. The approach has a high staff-to-patient ratio (1:12) and reduces the risk of rehospitalization, particularly in persons with schizophrenia.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": "2861b24f-86b6-4da5-b010-d89f4d9bca94",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements regarding military psychiatry is true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "18ad1e8e-adca-4ece-a83d-84dd0c281a58",
+          "text": "Confidentiality does not exist under the military code of conduct.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "b6f0ff7a-7c71-476a-ab0a-e89000dffcef",
+          "text": "The principle “do no harm” may be superseded in military psychiatry settings.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5f9a59a3-a68e-4c97-be2b-8be1f10408b3",
+          "text": "Psychiatrists working for the military do not enter the military theater.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "9e6bd66d-9573-4632-8eed-91b8eff5a43b",
+          "text": "All of the above.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b75d5e8a-47d5-4669-8253-bb11580edf09",
+          "text": "None of the above.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "18ad1e8e-adca-4ece-a83d-84dd0c281a58",
+        "text": "Confidentiality does not exist under the military code of conduct."
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "18ad1e8e-adca-4ece-a83d-84dd0c281a58",
+          "text": "Confidentiality does not exist under the military code of conduct.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: A Confidentiality does not exist under the military code of conduct; hence, military psychiatrists face unique ethical problems. Mental health care providers must strike a balance between privacy that encourages persons to seek care with a responsibility of reporting to higher command regarding situations that pose various dangers. Psychiatrists are often deployed to war zones to provide immediate care to military personnel. The ethical principle of nonmaleficence applies.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": "aece6bfd-c03d-4ac6-bb4c-aae0337fb0d7",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following correctly describes principles of the wraparound approach?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "948fa4b8-72d5-4c27-bd59-65be1133733d",
+          "text": "Each child deserves individualized services.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "cc7fad0e-93eb-43de-b31f-4563bd5b3b81",
+          "text": "Flexible funding allows for delivery of nontraditional services.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "00fa6402-3d4c-462d-b0c6-b55ba66d18b6",
+          "text": "Interventions delivered for at- risk children are child and family centered.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0038b6aa-e374-4465-bf7f-05ea85a28636",
+          "text": "The principal goal is to prevent hospitalization or residential placement.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "dae4740a-3bbd-4005-9a49-95f0670b45a9",
+          "text": "All of the above.",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "dae4740a-3bbd-4005-9a49-95f0670b45a9",
+        "text": "All of the above."
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "dae4740a-3bbd-4005-9a49-95f0670b45a9",
+          "text": "All of the above.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: E The wraparound services approach is founded on the principle of individualization of services and proposes that an individualized service plan be wrapped around the child, including clinical, support, and nontraditional interventions. It is facilitated by the use of noncategorical and flexible funding of services and by these could enable a case manager and family to purchase whatever services the child and family needs. This level of service is distinct from inpatient or residential settings in that it supports a child at home.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": "161b0ca2-fa07-4e0c-811b-3a4e3aa93e7e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following terms describes the ability to generalize results of one study to other settings and/ or populations?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "07a3e49a-b9aa-42fc-8965-c86198dfe7c5",
+          "text": "Internal validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "be668270-e078-4344-94b6-0e5f49f4f696",
+          "text": "External validity",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "29708ac5-41ba-4786-8c82-aca217850f4f",
+          "text": "Efficacy",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "2e2fc196-bff4-4a3a-ad69-522310b10da0",
+          "text": "Effectiveness",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ef8314b5-d522-47ad-b55e-bae4a6d90ed6",
+          "text": "Fidelity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "be668270-e078-4344-94b6-0e5f49f4f696",
+        "text": "External validity"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "be668270-e078-4344-94b6-0e5f49f4f696",
+          "text": "External validity",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: B External validity refers to the ability to generalize the results of one study to other settings and/or populations beyond those included in the study. This is also called generalizability, relevance, or transferability. Internal validity is the degree to which research results are likely to be accurate and free of bias. Fidelity refers to the degree to which an intervention was administered as intended. Efficacy is whether a treatment works under ideal circumstances (e.g., randomized clinical trial) whereas effectiveness describes whether a treatment works in real-world practice.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": "0fa3720c-150a-4c4b-b16d-3d675a31ce06",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following study designs determines an individual’s case status and risk factor exposure(s) at the same time?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "8a288162-c824-47ae-b7fd-36f3b968235e",
+          "text": "Descriptive studies",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "36a1fe79-827c-4d49-bef7-1e777e4e5538",
+          "text": "Ecological studies",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8b199a6f-ebeb-4d27-9a10-a817652023cb",
+          "text": "Cross- sectional studies",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "4a7b9382-40e4-4e70-8b93-27b1e320f402",
+          "text": "Case- control studies",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "4fbe4c55-4255-4f09-921b-bd7ea853aae7",
+          "text": "Cohort studies",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "8b199a6f-ebeb-4d27-9a10-a817652023cb",
+        "text": "Cross- sectional studies"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "8b199a6f-ebeb-4d27-9a10-a817652023cb",
+          "text": "Cross- sectional studies",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: C Cross-sectional studies examine individuals and determine their case status and risk factor exposures at the same time. Outcome rates between those with exposure can then be compared to those without. Descriptive studies describe the health status of a population or of a number of subjects. They can be useful for monitoring patients with rare conditions and in generating hypotheses for future study. In ecological studies, groups of individuals are studied as a whole, and the overall occurrence of disease is correlated with the aggregate level of exposure to a risk factor. In case-control studies, subjects are selected based on whether they have the outcome (case) or not (control), and their exposures are then determined by looking backward in time. In a cohort study, a group of healthy individuals is identified and followed over time to see who develops the outcomes of interest and who does not.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": "34c2061c-56d0-41f7-846c-0f2ad52b8b06",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is true about case- control studies?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "efe269da-4261-414a-a4bc-1ab17f62c709",
+          "text": "Exposure status is determined at study enrollment.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "82929024-668c-4b54-b6f8-f699812c8d2d",
+          "text": "They are not suitable for rare diseases.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "04c0daba-899e-44f5-be0f-c4620dc542f3",
+          "text": "They are not useful for distant and multiple exposures.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "2eb72748-086f-4aca-9d65-f8f10d0bf220",
+          "text": "They are susceptible to selection bias.",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "c1eb29fd-ed0f-40dc-947d-7dca6fd37fdc",
+          "text": "None of the above.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "2eb72748-086f-4aca-9d65-f8f10d0bf220",
+        "text": "They are susceptible to selection bias."
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "2eb72748-086f-4aca-9d65-f8f10d0bf220",
+          "text": "They are susceptible to selection bias.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: D Case-control studies are particularly susceptible to selection bias. These studies are population based, and participants should be representative of their respective populations. Case-control studies often recruit as part of a convenience sample, such as hospitalized patients who are solicited for study enrollment. These 'cases' may then be compared with a similar convenience control of 'willing volunteers.' Disease status is determined before exposure status. Case-control studies, however, are suitable for rare disease or those for which the time between exposure and disease onset is relatively long.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": "92a77209-1398-4885-b494-fd4eb8cec6e2",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following accurately describes Medicare?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "def9dcf5-bfb1-4c63-ac7f-663f95fee74d",
+          "text": "Part A covers inpatient hospital stays, care in a skilled nursing facility, hospice care, and some health care.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c3169e76-c780-4a6f-bba2-4380edaf26a2",
+          "text": "Part B covers certain doctors’ services, outpatient care, medical supplies, and preventive services.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2ea4bfd3-8371-4b07-8952-a6b204746ec3",
+          "text": "Part C is a type of Medicare health plan offered by a private company that contracts with Medicare to provide you with all your Part A and Part B benefits.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "af9cba9b-0f5c-40a1-b4d0-d5e1503f4357",
+          "text": "Part D adds prescription drug coverage to Original Medicare, some Medicare Cost Plans, some Medicare Private- Fee- for- Service Plans, and Medicare Medical Savings Account Plans.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c4c001ee-620b-4c22-8b5a-c75c9dd1ac85",
+          "text": "All of the above.",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "c4c001ee-620b-4c22-8b5a-c75c9dd1ac85",
+        "text": "All of the above."
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "c4c001ee-620b-4c22-8b5a-c75c9dd1ac85",
+          "text": "All of the above.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: E Medicare Part A (Hospital Insurance) covers inpatient hospital stays, care in a skilled nursing facility, hospice care, and some home health care. Medicare Part B (Medical Insurance) covers certain doctors' services, outpatient care, medical supplies, and preventive services. Medicare Part C (Medicare Advantage Plans) is a type of Medicare health plan offered by a private company that contracts with Medicare to provide you with all your Part A and Part B benefits. Medicare Advantage Plans include Health Maintenance Organizations, Preferred Provider Organizations, Private Fee-for-Service Plans, Special Needs Plans, and Medicare Medical Savings Account Plans. Medicare Part D (prescription drug coverage) adds prescription drug coverage to Original Medicare, some Medicare Cost Plans, some Medicare Private-Fee-for-Service Plans, and Medicare Medical Savings Account Plans.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": "fcad6a39-4129-40ca-b042-b33ed47fec38",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The federal insurance program for persons of all ages whose income and resources are insufficient to pay for health care is known as which of the following?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "eed4c818-bf5c-4464-ba93-eaf934ef0ca9",
+          "text": "Medicare",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "14ef46f1-2540-475a-b0f1-6e2a2b3544ea",
+          "text": "Medicaid",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "1e99781f-0b73-43be-aa1c-e54fb69c8e79",
+          "text": "Veterans Health Administration",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "1d984bae-50dd-4283-bb05-d540641058e5",
+          "text": "Patient Protection and Affordable Care Act",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "4793ff5a-1cce-453a-b674-a865a30f3ca9",
+          "text": "Federal Employees Health Benefits Program",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "14ef46f1-2540-475a-b0f1-6e2a2b3544ea",
+        "text": "Medicaid"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "14ef46f1-2540-475a-b0f1-6e2a2b3544ea",
+          "text": "Medicaid",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: B The Health Insurance Association of America describes Medicaid as a 'government insurance program for persons of all ages whose income and resources are insufficient to pay for health care.' The Patient Protection and Affordable Care Act, also known as Obamacare, is an expansion of Medicaid's eligibility that started in 2014 in which people with income up to 133% of the poverty line would qualify for coverage. The Veterans Health Administration and the Federal Employees Health Benefit Program are programs that provide medical assistance and health benefits to veterans and government employees, respectively.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": "762b3043-d798-45af-8f97-4449e823ada5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Patients of which of the following ethnicities are more likely to be misdiagnosed as having Schizophrenia when their symptoms are more consistent with Bipolar Disorder or Major Depression with Psychotic Features?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9a30ed25-4a81-4344-9958-8a6a07cf90e8",
+          "text": "German American",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "cd357737-ae3b-4efb-a426-434e5c3e16e9",
+          "text": "Caucasian",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9c11f8df-bb0c-4364-a045-c93f8976c578",
+          "text": "Native American",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "4b37222f-2364-4cf6-8eb2-57d9f68e4c28",
+          "text": "Italian American",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "3f8fdc0f-5288-475f-97c6-a6399ea4d7b5",
+          "text": "African American",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "3f8fdc0f-5288-475f-97c6-a6399ea4d7b5",
+        "text": "African American"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "3f8fdc0f-5288-475f-97c6-a6399ea4d7b5",
+          "text": "African American",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: E African American patients are frequently misdiagnosed as having Schizophrenia when instead they have Bipolar Disorder or Depression with Psychotic Features. They are also more likely to receive higher doses of antipsychotics, have higher rates of involuntary psychiatric hospitalizations, and have higher rates of seclusion and restraints.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": "9c1f6766-63d7-47ba-8b67-74dffb68f2a1",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is correct regarding stigma related to mental illness?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a6281748-eba5-44a4-b784-f6fa2c757bcf",
+          "text": "Persons with chronic mental illness are viewed with fear.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "897974af-9d32-4bae-bc7d-6b264f688b4a",
+          "text": "Stigma has little effect on self- esteem.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "bd1c0c80-0f81-4ed8-ad6b-80f686d7cbf3",
+          "text": "Stigma affects individuals rather than their families.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "80da0f29-1af8-4a5f-a4b0-a5eac5556874",
+          "text": "Employment is unaffected by mental illness.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "996c47e1-021c-4400-967d-dc245010a322",
+          "text": "Patients with mental illness have an equivalent quality of life.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "a6281748-eba5-44a4-b784-f6fa2c757bcf",
+        "text": "Persons with chronic mental illness are viewed with fear."
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "a6281748-eba5-44a4-b784-f6fa2c757bcf",
+          "text": "Persons with chronic mental illness are viewed with fear.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: A Persons with chronic mental illness are often viewed with fear, which can manifest as anger or worse. Views on those with mental illness lead to discrimination by others resulting in loss of self worth and confidence and unwillingness and thus a reluctance to participate in activities that may facilitate recovery.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": "d7732f41-8b0a-4a0f-acf6-a3fc6f3241c4",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is correct regarding antipsychiatry movements?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "db33bd50-fa2d-43ef-bf13-dd7c3505d4ac",
+          "text": "The development of diagnostic criteria was fueled in part by antipsychiatry advocates.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "9b0c9c9c-a696-49bd-b125-6e26c1b5b5d0",
+          "text": "The Rosenhan experiment challenged objective validity in psychiatric diagnosis.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4f8105f0-f5a3-4d6a-97ac-25b9cb136c4e",
+          "text": "International differences in the rate of schizophrenia called diagnostic validity into question.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "14a11272-0159-48dc-80a7-02dceace3657",
+          "text": "They led to limits on involuntary commitment and forcible treatment of patients.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "811252a9-08c0-4d9b-9982-4c0171ae0351",
+          "text": "All of the above are correct.",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "811252a9-08c0-4d9b-9982-4c0171ae0351",
+        "text": "All of the above are correct."
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "811252a9-08c0-4d9b-9982-4c0171ae0351",
+          "text": "All of the above are correct.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: E The development of diagnostic criteria started in the 1970s, partly in response to the challenge posed by antipsychiatry movements. The Rosenhan experiment, in which normal volunteers were diagnosed as having schizophrenia, created a furor and seemed to confirm the idea that psychiatric diagnosis had no objective validity. International research at this time also highlighted discrepancies in rates of diagnosis of schizophrenia between countries. Antipsychiatry ideas also influenced legislation. In England and Wales, the Mental Health Act of 1959 had given doctors more powers than any previous piece of legislation. This act was drafted and passed in an atmosphere of great optimism about the potential of psychiatry to solve all the problems posed by mental illness. However, antipsychiatry ideas suggested this optimism was misplaced and gave fuel to the civil rights movement's arguments that there should, at the very least, be more restrictions on the powers of doctors to admit and forcibly treat mental patients. The Mental Health Act of 1983 reflected these concerns. By narrowing definitions of certain categories of mental disorder, shortening periods of maximum detention, and placing restrictions on circumstances in which compulsory treatment can and cannot be given, it limited medical power and increased patients' rights.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": "878cbaf2-643c-46fb-a58c-2609a11f6f21",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a criminal issue that involves input from psychiatrists?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "25026377-8333-4ec7-aecb-d0cf56588fe7",
+          "text": "Involuntary hospitalization",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "868e9c4a-6f1b-42ec-afb6-b0370d6924bc",
+          "text": "Confidentiality",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "db2bb06d-728f-4851-a4c3-c4befab21eae",
+          "text": "Competency to stand trial",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "6144e7b4-c8ba-4599-b826-8420342172c9",
+          "text": "Informed consent",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "005817a7-7254-4b43-aaf0-bd4a910eaf41",
+          "text": "Malpractice",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "db2bb06d-728f-4851-a4c3-c4befab21eae",
+        "text": "Competency to stand trial"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "db2bb06d-728f-4851-a4c3-c4befab21eae",
+          "text": "Competency to stand trial",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: C Legal issues related to mental illness can be separated into two groups: civil and criminal. Civil law pertains to relationships between citizens, whereas criminal law centers on the individual's relationship to the state in the maintenance of social order. Civil issues relevant to psychiatry include confidentiality, informed consent, and involuntary treatment. Criminal issues that might involve input from psychiatrists include competence to stand a trial and criminal responsibility.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": "29b19f7f-78bb-4ef8-8a1d-6378c9c045dd",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following rulings pertains to individuals who are not guilty by reason of insanity due to their mental illness making them unaware of the nature, the quality, and the consequences of their acts or if they were incapable of realizing that their acts were wrong?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0c16e093-2799-4d69-86fb-d0737d8d073f",
+          "text": "Competency to stand trial",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c615f98d-308a-4cb7-b023-f423379361c4",
+          "text": "M’Naghten rule",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "05207b53-5fa3-4a08-b438-30819bbeeedf",
+          "text": "Tarasoff I",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f278d249-3589-4162-a873-c07e228f49a7",
+          "text": "Tarasoff II",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d27b29b6-aac4-47d6-863a-d8d2701df1a2",
+          "text": "Ted Bundy rule",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "c615f98d-308a-4cb7-b023-f423379361c4",
+        "text": "M’Naghten rule"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "c615f98d-308a-4cb7-b023-f423379361c4",
+          "text": "M’Naghten rule",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: B This rule was named after Daniel M'Naghten, who for many years suffered from delusions, believing that he was persecuted by the Tory Party and its leader, Sir Robert Peel, the prime minister of Britain. In 1843 M'Naughten shot and killed Edward Drummond, who was Peel's private secretary. He was found not guilty on grounds of insanity. Competency to stand trial refers to a person's ability to understand the nature of the proceedings and to assist council regardless of the presence of mental illness. Tarasoff pertains to psychiatrists' legal responsibility to protect a third party and to break confidentiality by notifying the threatened person and the police. There is no eponymous legal rule named after the serial killer Ted Bundy.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": "d39faf63-de44-45c5-b11a-4d09ea05f3d9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Confidential information from a patient could be shared with which of the following without his or her permission?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "75d4ceef-4a5e-4490-8fd7-95d3c4ba879d",
+          "text": "Patient’s insurance company",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d4e81c40-3c22-448d-806f-516ebe6c10f0",
+          "text": "Patient’s spouse",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "479ae2db-4c28-428d-a71b-57ab87f07407",
+          "text": "Patient’s lawyer",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "38975bb9-097a-4745-a254-71cbaaaecfe7",
+          "text": "Patient’s supervisor",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "1a2e0a8c-f7ad-4c70-bba4-09f45eb8a885",
+          "text": "None of the above",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "1a2e0a8c-f7ad-4c70-bba4-09f45eb8a885",
+        "text": "None of the above"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "1a2e0a8c-f7ad-4c70-bba4-09f45eb8a885",
+          "text": "None of the above",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ANSWER: E Confidentiality is the ethical principle to hold secret all information given by patients. Confidentiality can be breached only to share information with other staff who may be treating the patient such as clinical supervisors and consultants.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

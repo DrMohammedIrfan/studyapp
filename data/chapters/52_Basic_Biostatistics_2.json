@@ -1,0 +1,4285 @@
+{
+  "chapter_id": 92,
+  "chapter_name": "Basic Biostatistics_2",
+  "subject_name": "Statistics and Critical appraisal",
+  "total_questions": 91,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 7039,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher asks why odds ratio is preferred over relative risk in case-control studies. What is the correct explanation?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35229,
+          "text": "Odds ratio is always more accurate",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35230,
+          "text": "Risk of exposure cannot be directly calculated in case-control design",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35231,
+          "text": "Odds ratio is easier to calculate",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35232,
+          "text": "Relative risk requires larger sample sizes",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35233,
+          "text": "Odds ratio has narrower confidence intervals",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35230,
+        "text": "Risk of exposure cannot be directly calculated in case-control design"
+      },
+      "explanation": "Case-control studies select by outcome; cannot directly calculate incidence, so use odds ratio.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": 7010,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The CAGE questionnaire cut-off is increased from 2 to 3 positive responses to indicate alcohol problems. What effect will this have?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35084,
+          "text": "Sensitivity increases, specificity decreases",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35085,
+          "text": "Sensitivity decreases, specificity increases",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35086,
+          "text": "Both increase",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35087,
+          "text": "Both decrease",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35088,
+          "text": "No change",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35085,
+        "text": "Sensitivity decreases, specificity increases"
+      },
+      "explanation": "Increasing the cut-off makes the test more stringent: fewer positives (lower sensitivity) but fewer false positives (higher specificity).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": 7016,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher wants to test if there is an association between gender (male/female) and diagnosis (depression/anxiety). Which test is most appropriate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35114,
+          "text": "t-test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35115,
+          "text": "Chi-square test",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35116,
+          "text": "ANOVA",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35117,
+          "text": "Pearson correlation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35118,
+          "text": "Regression",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35115,
+        "text": "Chi-square test"
+      },
+      "explanation": "Chi-square tests association between two categorical variables (gender and diagnosis are both categorical).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": 22301,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a randomised controlled trial examining sertraline for depression, dyspepsia occurred in 18.6% of the sertraline group and 10.0% of the placebo group. What percentage of dyspepsia cases would be eliminated if sertraline were not administered (i.e., the attributable risk percentage)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111812,
+          "text": "13.60%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111813,
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111814,
+          "text": "46.2 %",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111815,
+          "text": "63.20%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111816,
+          "text": "90.20%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111814,
+        "text": "46.2 %"
+      },
+      "explanation": "Attributable risk percentage (AR%) represents the proportion of the outcome in the exposed (treatment) group that is attributable to the exposure (sertraline).\r\nIt is calculated as \r\n\r\nAR% = ((EER − CER) / EER) × 100\r\n\r\nwhere EER is the event rate in the sertraline group and CER is the event rate in the placebo/control group. Without the underlying event rates from the source trial, none of the listed options can be confirmed.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": 22310,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The Hawthorne effect in research methodology refers to a phenomenon where...",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111857,
+          "text": "Participants alter their behavior solely because they are aware they are being observed",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111858,
+          "text": "Participants drop out of a longitudinal study, skewing the results",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111859,
+          "text": "Researchers unconsciously influence the outcome of an experiment",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111860,
+          "text": "Severe outliers regress toward the mean on subsequent testing",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111861,
+          "text": "The control group inadvertently receives the active intervention",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111857,
+        "text": "Participants alter their behavior solely because they are aware they are being observed"
+      },
+      "explanation": "The Hawthorne effect occurs when individuals modify an aspect of their behavior in response to their awareness of being observed (e.g., healthcare workers washing hands more frequently when watched).",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": 7035,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A trial description states: Primary care clinics will be randomized to intervention or control, with all patients at each clinic receiving the allocated treatment. What type of trial design is this?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35209,
+          "text": "Parallel-group trial",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35210,
+          "text": "Crossover trial",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35211,
+          "text": "Cluster randomized trial",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35212,
+          "text": "Factorial trial",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35213,
+          "text": "Adaptive trial",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35211,
+        "text": "Cluster randomized trial"
+      },
+      "explanation": "Cluster randomization: groups (clinics) rather than individuals are randomized.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": 22304,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In descriptive statistics, which of the following is the most widely used measure of dispersion of a frequency distribution?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111827,
+          "text": "Range",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111828,
+          "text": "Median",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111829,
+          "text": "Standard deviation",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111830,
+          "text": "Variance",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111831,
+          "text": "p Value",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111829,
+        "text": "Standard deviation"
+      },
+      "explanation": "Standard deviation is a widely used measure of dispersion of data in descriptive statistics. Other measures include range, interquartile range (usually accompanies median values), and variance. Standard deviation is obtained by the root mean square of differences between individual observations and the mean value. Note that standard error is often preferred as the measure of dispersion while making inferences from a sample of the population. Standard error is a measure of precision of sample estimate in comparison with the population value. Johnstone EC, et al., eds. Companion to Psychiatric Studies, 7th edn. Churchill Livingstone, 2004, p. 190.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": 22332,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which statement most accurately characterizes the prevalence of major depressive disorder in the United States?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111967,
+          "text": "The 12-month prevalence is 8-10%.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111968,
+          "text": "Males have consistently higher prevalence than females across all age groups.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111969,
+          "text": "Males have increased prevalence only after age 50.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111970,
+          "text": "The prevalence in 18- to 29-year-olds is three times higher than that in 60-year-olds.",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 111971,
+          "text": "The prevalence in 60-year-olds is five times higher than in 18- to 29-year-olds.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 111970,
+        "text": "The prevalence in 18- to 29-year-olds is three times higher than that in 60-year-olds."
+      },
+      "explanation": "The 12-month prevalence of major depressive disorder in the United States is 7%, with marked differences by age group such that the prevalence in 18- to 29-year-old individuals is threefold higher than the prevalence in individuals age 60 years or older. Females experience 1.5- to 3-fold higher rates than males beginning in early adolescence.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": 7028,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A clinical trial reports a mean depression score of 20, standard deviation of 5, and sample size of 100. What is the approximate 95% confidence interval for the mean?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35174,
+          "text": "19.0-21.0",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 35175,
+          "text": "19.5-20.5",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35176,
+          "text": "18.0-22.0",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35177,
+          "text": "19.8-20.2",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35178,
+          "text": "18.5-21.5",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 35174,
+        "text": "19.0-21.0"
+      },
+      "explanation": "95% CI = Mean ± 2×SE = 20 ± 2(0.5) = 20 ± 1 = 19-21.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": 7006,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher wants to measure correlation between two variables that are not normally distributed. Which correlation coefficient should be used?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35064,
+          "text": "Pearson's r",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35065,
+          "text": "Kendall's tau or Spearman's rho",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35066,
+          "text": "Point-biserial",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35067,
+          "text": "Phi coefficient",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35068,
+          "text": "Intraclass correlation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35065,
+        "text": "Kendall's tau or Spearman's rho"
+      },
+      "explanation": "Kendall's tau and Spearman's rho are non-parametric correlation coefficients suitable for non-normally distributed data.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": 22336,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In an RCT comparing the effect of exposure treatment versus cognitive restructuring, follow-up was carried out at 6, 11, 24, and 36 weeks. At weeks 6 and 11, after rating the individual, the outcome assessors tried to guess the treatment condition. Correctness of guesses did not differ signifi cantly from that expected by chance. This was an attempt to demonstrate which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111987,
+          "text": "Adequacy of randomization",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111988,
+          "text": "Concealment of allocation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111989,
+          "text": "Blindness of assessor",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111990,
+          "text": "Blindness of patient",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111991,
+          "text": "Matching of two groups",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111989,
+        "text": "Blindness of assessor"
+      },
+      "explanation": "Adequacy of blinding can be tested during or after completing a trial by asking the blinded parties to guess the allocation. Guess rates that are signifi cantly higher than expected by chance indicate failure of blinding. Testing for ‘blindness’ may not generate valid answers all the time. This is because as participants begin to experience treatment response or outcomes of interest, they begin to generate ‘hunches’ about the effi cacy of the treatments being tested. Hence tests for blinding can show spurious failure of blinding while in fact they test the ‘effi cacy hunches’ that develop late in the process of a trial. Sackett DL. Measuring the success of blinding in RCTs: don’t, must, can’t or needn’t? International Journal of Epidemiology 2007; 36: 664–665.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": 7069,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A new brief depression screening tool is administered to patients alongside the established PHQ-9 on the same day. The correlation between scores is examined. Which type of validity is being assessed?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35379,
+          "text": "Face validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35380,
+          "text": "Content validity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35381,
+          "text": "Criterion validity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35382,
+          "text": "Concurrent validity",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35383,
+          "text": "Predictive validity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35382,
+        "text": "Concurrent validity"
+      },
+      "explanation": "Concurrent validity: how well test correlates with established measure administered simultaneously.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": 7067,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The forced swim test is used to study which condition?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35369,
+          "text": "OCD",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35370,
+          "text": "Anxiety disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35371,
+          "text": "Depression",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35372,
+          "text": "PTSD",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35373,
+          "text": "Schizophrenia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35371,
+        "text": "Depression"
+      },
+      "explanation": "The forced swim test is related to learned helplessness and is used as an animal model for studying depression.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": 7018,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher compares outcomes in 3 treatment groups for anorexia while adjusting for baseline age. Which statistical test is most appropriate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35124,
+          "text": "One-way ANOVA",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35125,
+          "text": "ANCOVA",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35126,
+          "text": "Chi-square",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35127,
+          "text": "Multiple regression",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35128,
+          "text": "Kruskal-Wallis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35125,
+        "text": "ANCOVA"
+      },
+      "explanation": "ANCOVA (Analysis of Covariance) compares group means while statistically controlling for a covariate, such as baseline age.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": 7017,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Depression scores are measured before and after treatment in the same group of patients. Which test compares these scores?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35119,
+          "text": "Independent t-test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35120,
+          "text": "Paired t-test",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35121,
+          "text": "Chi-square",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35122,
+          "text": "ANOVA",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35123,
+          "text": "Mann-Whitney U",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35120,
+        "text": "Paired t-test"
+      },
+      "explanation": "Paired t-test compares means from the same subjects at two time points (before and after).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": 7063,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A randomized controlled trial examining antipsychotic efficacy in negative symptoms has a baseline imbalance: the experimental group has higher baseline negative symptom scores than the control group. How should this be handled in analysis?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35349,
+          "text": "The study should be discarded as invalid",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35350,
+          "text": "The analysis should adjust for baseline scores using ANCOVA",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35351,
+          "text": "The baseline imbalance proves randomization failed",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35352,
+          "text": "Subgroup analysis should be conducted",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35353,
+          "text": "Only participants with matched baseline scores should be analyzed",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35350,
+        "text": "The analysis should adjust for baseline scores using ANCOVA"
+      },
+      "explanation": "Baseline imbalances, while rare with proper randomization, can occur by chance. ANCOVA (analysis of covariance) adjusting for baseline scores is the standard approach to handle this, improving the precision of estimates and reducing the impact of the chance imbalance on results. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": 7009,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher checks that the variance of residuals is constant across all levels of the predictor variable. What assumption is being tested?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35079,
+          "text": "Normality",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35080,
+          "text": "Linearity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35081,
+          "text": "Homoscedasticity",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35082,
+          "text": "Independence",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35083,
+          "text": "Multicollinearity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35081,
+        "text": "Homoscedasticity"
+      },
+      "explanation": "Homoscedasticity means equal variance of residuals across predictor levels - an assumption for regression analysis.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": 7034,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A clinical trial aims to ensure equal numbers of participants in treatment and control groups throughout the study. Which randomization method achieves this?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35204,
+          "text": "Simple randomization",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35205,
+          "text": "Block randomization",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35206,
+          "text": "Stratified randomization",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35207,
+          "text": "Cluster randomization",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35208,
+          "text": "Adaptive randomization",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35205,
+        "text": "Block randomization"
+      },
+      "explanation": "Block randomization ensures equal group sizes by randomizing in fixed blocks.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": 7064,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher is planning an RCT to test a new drug for neuroleptic-induced akathisia. Which ONE of the following changes to the study design would REDUCE its statistical power?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35354,
+          "text": "Reducing drop-out rates by monitoring adherence",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35355,
+          "text": "Selecting more homogenous clinical sample",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35356,
+          "text": "Enrolling more patients in the study",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35357,
+          "text": "Requiring a significantly high difference in proportion of responders between placebo and active arms",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35358,
+          "text": "Using a continuous outcome measure (e.g. Barnes Akathisia Rating Scale score) rather than a binary responder/non-responder outcome",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35357,
+        "text": "Requiring a significantly high difference in proportion of responders between placebo and active arms"
+      },
+      "explanation": "Statistical power depends on sample size, effect size, variability, and significance threshold. Requiring a very large between-group difference as the success criterion (option D) means the study is only powered to detect implausibly large effects; for a fixed sample size and a true moderate effect, this reduces the probability of detecting a real difference, i.e. it reduces power. Options A, B, C all clearly increase power: reducing dropout preserves effective sample size, homogeneous samples reduce variance, and larger enrolment directly increases power. Option E (subgroup analysis) also reduces power by shrinking the analysed sample, making it a second plausible \\'exception\\' that undermines the question\\'s discriminatory validity.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": 7012,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A suicide risk assessment tool accurately predicts which patients will attempt self-harm in the following 6 months. What type of validity does this demonstrate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35094,
+          "text": "Content validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35095,
+          "text": "Face validity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35096,
+          "text": "Predictive validity",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35097,
+          "text": "Concurrent validity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35098,
+          "text": "Construct validity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35096,
+        "text": "Predictive validity"
+      },
+      "explanation": "Predictive validity demonstrates that a test can predict future outcomes or behaviors.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": 7015,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A regression analysis of loneliness predicting depression shows β = 0.38 (p = 0.04). How should this be interpreted?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35109,
+          "text": "Every 1-point increase in loneliness leads to 0.38 increase in depression",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 35110,
+          "text": "Every 1-point increase in depression leads to 0.38 increase in loneliness",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35111,
+          "text": "Every 1-point increase in loneliness leads to 0.38 decrease in depression",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35112,
+          "text": "The correlation between the two is 0.38",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35113,
+          "text": "38% of depression is explained by loneliness",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 35109,
+        "text": "Every 1-point increase in loneliness leads to 0.38 increase in depression"
+      },
+      "explanation": "The regression coefficient (β = 0.38) means for every 1-unit increase in the predictor (loneliness), the outcome (depression) increases by 0.38 units.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": 7060,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to a meta-analysis cited in the source, what was the odds ratio favoring SSRIs over placebo in PMS treatment?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35334,
+          "text": "2.5 (1.8 to 3.2)",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35335,
+          "text": "4.1 (2.3 to 5.9)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35336,
+          "text": "6.91 (3.90 to 12.2)",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35337,
+          "text": "8.5 (5.2 to 11.8)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35338,
+          "text": "10.2 (7.1 to 13.5)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35336,
+        "text": "6.91 (3.90 to 12.2)"
+      },
+      "explanation": "The source explicitly cites the Dimmock (2000) meta-analysis reporting an odds ratio of 6.91 (3.90 to 12.2) in favour of SSRIs compared with placebo. The other values are not supported by the provided evidence. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": 7032,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher wants to compare medication adherence scores across three different treatment groups. The data are ordinal and do not follow a normal distribution. Which statistical test should be used?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35194,
+          "text": "One-way ANOVA",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35195,
+          "text": "Kruskal-Wallis test",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35196,
+          "text": "Repeated measures ANOVA",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35197,
+          "text": "Friedman test",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35198,
+          "text": "Chi-square test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35195,
+        "text": "Kruskal-Wallis test"
+      },
+      "explanation": "Kruskal-Wallis tests differences across three or more groups for non-parametric data.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": 7004,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A treatment has an event rate of 30% in the control group and 80% response rate in the treatment group. What is the NNT?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35054,
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 35055,
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35056,
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35057,
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35058,
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 35054,
+        "text": "2"
+      },
+      "explanation": "ARR = 80% - 30% = 50% = 0.5. NNT = 1/ARR = 1/0.5 = 2. Two patients need treatment for one additional response.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": 7929,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A cross-sectional study measuring the prevalence of depression in a community sample is most likely to have its generalisability compromised by which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 39679,
+          "text": "Inability to calculate incidence rates",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 39680,
+          "text": "Non-representative sampling (e.g. volunteer bias) reducing generalisability of findings",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 39681,
+          "text": "Loss to follow-up over time",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 39682,
+          "text": "Difficulty in identifying temporal relationships",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 39683,
+          "text": "Observer bias arising from unblinded assessors",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 39680,
+        "text": "Non-representative sampling (e.g. volunteer bias) reducing generalisability of findings"
+      },
+      "explanation": "The key limitation affecting generalisability in a cross-sectional prevalence study is whether the sample is truly representative of the target population. non-random or biased sampling (e.g. volunteer bias, low response rates) means the prevalence estimate may not reflect the true community prevalence, directly undermining generalisability. Loss to follow-up (C) is a limitation of longitudinal cohort studies, not cross-sectional designs. Difficulty establishing temporal relationships (D) is a recognised limitation of cross-sectional studies but affects causal inference rather than generalisability. Cross-sectional studies can calculate odds ratios (A is factually inaccurate as an absolute statement), and blinded assessors reduce rather than produce observer bias (E is self-contradictory).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": 7030,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher wants to test whether the variance of a continuous variable is equal across different groups before conducting further analyses. Which test is most appropriate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35184,
+          "text": "Student's t-test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35185,
+          "text": "Levene's test",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35186,
+          "text": "Chi-square test",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35187,
+          "text": "Mann-Whitney U test",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35188,
+          "text": "Fisher's exact test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35185,
+        "text": "Levene's test"
+      },
+      "explanation": "Levene's test assesses homogeneity of variance (homoscedasticity) across groups.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": 7040,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A statistics lecturer explains different types of data to students during a research methods class. Which statement about data types is correct?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35234,
+          "text": "Continuous data can only take integer values",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35235,
+          "text": "Ordinal data includes nominal data",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35236,
+          "text": "Continuous data can take any value within a range, whereas discrete data is limited to specific (usually integer) values",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35237,
+          "text": "Nominal data can be averaged",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35238,
+          "text": "Continuous data can follow a skewed or non-normal distribution",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35236,
+        "text": "Continuous data can take any value within a range, whereas discrete data is limited to specific (usually integer) values"
+      },
+      "explanation": "Continuous data can take any value within a range (e.g., cholesterol levels), while discrete data is limited to specific integer values (e.g., number of fingers)   these are two distinct subtypes of quantitative data, not a hierarchical relationship. Nominal data consists of named categories with no numerical relationship and cannot be averaged (only mode/frequency apply). Ordinal data has ordered categories but nominal and ordinal remain separate data types. Continuous data can follow many distributions (normal, skewed, bimodal) and is not restricted to a normal distribution.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": 7000,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher plans to use one-way ANOVA to compare depression scores across three treatment groups. Which is an assumption of ANOVA?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35034,
+          "text": "The data must be ordinal",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35035,
+          "text": "The variances must be equal across groups (homogeneity)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35036,
+          "text": "The means must be equal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35037,
+          "text": "The data must be non-parametric",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35038,
+          "text": "Sample sizes must be equal",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35035,
+        "text": "The variances must be equal across groups (homogeneity)"
+      },
+      "explanation": "ANOVA assumes homogeneity of variance (equal variances across groups), normally distributed data, and independence of observations.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": 7054,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which psychological consequence is associated with childhood adversities and specifically mediated by maladaptive family functioning?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35304,
+          "text": "Elevated risk of all major DSM-IV disorders with odds ratio 1.3–2.4",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 35305,
+          "text": "Intellectual disability",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35306,
+          "text": "Language delay",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35307,
+          "text": "Motor developmental delay",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35308,
+          "text": "Selective mutism only",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 35304,
+        "text": "Elevated risk of all major DSM-IV disorders with odds ratio 1.3–2.4"
+      },
+      "explanation": "Adversities associated with maladaptive family functioning elevate the risk of adult psychiatric disorders (all major DSM-IV disorders) with an odds ratio of 1.3–2.4; the risk was lower and often insignificant for other types of childhood adversities.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": 7020,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher sets alpha at 0.05. What does an alpha of 0.05 represent?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35134,
+          "text": "5% probability of Type II error",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35135,
+          "text": "5% probability of falsely rejecting the null hypothesis (Type I error)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35136,
+          "text": "95% power",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35137,
+          "text": "5% effect size",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35138,
+          "text": "95% confidence level",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35135,
+        "text": "5% probability of falsely rejecting the null hypothesis (Type I error)"
+      },
+      "explanation": "Alpha (significance level) is the probability of Type I error—falsely rejecting a true null hypothesis. An alpha of 0.05 indicates a 5% chance of a false positive.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": 7058,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the meta-analytic odds ratio favoring SSRIs over placebo in PMS treatment?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35324,
+          "text": "2.5 (95% CI 1.8–3.2)",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35325,
+          "text": "4.2 (95% CI 2.1–6.3)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35326,
+          "text": "6.91 (95% CI 3.90–12.2)",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35327,
+          "text": "8.5 (95% CI 6.0–10.5)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35328,
+          "text": "10.0 (95% CI 8.0–12.0)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35326,
+        "text": "6.91 (95% CI 3.90–12.2)"
+      },
+      "explanation": "The source cites A meta-analysis (Dimmock, 2000) reported an odds ratio of 6·91 (3·90 to 12·2) in favour of SSRIs compared with placebo. This is a specific research finding requiring factual recall.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": 22352,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among the following, which is an agreed method of assessing the quality of conducting and reporting systematic reviews and meta-analyses?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112067,
+          "text": "ASSERT",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 112068,
+          "text": "CONSORT",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 112069,
+          "text": "QUOROM",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 112070,
+          "text": "SIGN",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 112071,
+          "text": "NICE",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 112069,
+        "text": "QUOROM"
+      },
+      "explanation": "Despite the increasing importance and abundance of systematic reviews and meta- analyses in the scientifi c literature, the reporting quality of systematic reviews varies widely. To address the issue of suboptimal reporting of meta-analyses, an international group in 1996 developed a guidance called the QUOROM Statement (QUality Of Reporting Of Meta- analyses). QUOROM focused on the standards of reporting meta-analyses of RCTs. A revision of these guidelines renamed as PRISMA (Preferred Reporting Items for Systematic reviews and Meta-Analyses) includes several conceptual advances in the methodology of systematic reviews. Moher D, Cook DJ, Eastwood S, et al. Improving the quality of reporting of meta–analysis of randomized controlled trials: The QUOROM statement. Lancet 1994; 354: 1896–1900. David Moher et al., ‘Preferred Reporting Items for Systematic Reviews and Meta–Analyses: The PRISMA Statement,’ PLoS Med 6: e1000097.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": 7036,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A diagnostic test has a sensitivity of 80% and specificity of 60%. The pre-test odds of disease are 1:8. What are the post-test odds following a positive test?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35214,
+          "text": "1:8",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35215,
+          "text": "1:4",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35216,
+          "text": "1:2",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35217,
+          "text": "2:1",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35218,
+          "text": "4:1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35215,
+        "text": "1:4"
+      },
+      "explanation": "Positive likelihood ratio = sensitivity/(1-specificity) = 0.80/0.40 = 2. Post-test odds = pre-test odds × LR = (1/8) × 2 = 2/8 = 1/4.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": 7038,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A medication safety review analyzed data from a large cohort study. In the treatment group (n=7189), 500 patients experienced serious adverse events. In the control group (n=7189), 450 patients experienced serious adverse events. What is the Number Needed to Harm (NNH)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35224,
+          "text": "50",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35225,
+          "text": "140",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35226,
+          "text": "144",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35227,
+          "text": "141",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35228,
+          "text": "250",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35226,
+        "text": "144"
+      },
+      "explanation": "Risk in treatment group = 500/7189 = 0.06954. Risk in control group = 450/7189 = 0.06259. Absolute Risk Difference = 0.06954 - 0.06259 = 0.00695. NNH = 1/0.00695 = 143.88 ≈ 144.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": 7033,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher investigates the relationship between two continuous variables that do not follow a normal distribution. Which correlation coefficient should be used?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35199,
+          "text": "Pearson's r",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35200,
+          "text": "Spearman's rho",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35201,
+          "text": "Kendall's tau",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35202,
+          "text": "Point-biserial",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35203,
+          "text": "Phi coefficient",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35200,
+        "text": "Spearman's rho"
+      },
+      "explanation": "Spearman's rho measures correlation for non-parametric or ordinal data.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": 7008,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A statistician explains that their approach incorporates prior knowledge and updates probability as new data arrives. Which approach is being described?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35074,
+          "text": "Frequentist",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35075,
+          "text": "Bayesian",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35076,
+          "text": "Parametric",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35077,
+          "text": "Non-parametric",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35078,
+          "text": "Bootstrap",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35075,
+        "text": "Bayesian"
+      },
+      "explanation": "Bayesian statistics incorporates prior probability and updates beliefs as new evidence emerges (posterior probability).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": 7045,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which rat behavioral test evaluates spatial working memory?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35259,
+          "text": "Novel object recognition",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35260,
+          "text": "Elevated plus maze",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35261,
+          "text": "Y-maze test",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35262,
+          "text": "Morris water maze",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35263,
+          "text": "Passive avoidance test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35261,
+        "text": "Y-maze test"
+      },
+      "explanation": "The Y-maze test evaluates spatial working memory by having rats freely explore a Y-shaped maze with three arms, with alternation between arms indicating intact spatial working memory.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": 7013,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A new PTSD scale is compared to an established gold-standard PTSD measure and shows high correlation. What type of validity does this demonstrate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35099,
+          "text": "Predictive validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35100,
+          "text": "Concurrent validity",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35101,
+          "text": "Face validity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35102,
+          "text": "Content validity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35103,
+          "text": "Divergent validity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35100,
+        "text": "Concurrent validity"
+      },
+      "explanation": "Concurrent validity shows correlation between a new measure and an established criterion measured at the same time.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": 7066,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What proportion of patients on antipsychotics in the CATIE trial developed metabolic syndrome?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35364,
+          "text": "20.50%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35365,
+          "text": "30.40%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35366,
+          "text": "40.90%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35367,
+          "text": "50.80%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35368,
+          "text": "60.20%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35366,
+        "text": "40.90%"
+      },
+      "explanation": "The CATIE trial found that 40.9% of patients on antipsychotics developed metabolic syndrome, with higher rates in females (51.6%).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": 7007,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Two radiologists independently score MRI scans using a continuous numerical scale to assess the degree of brain atrophy. The researchers want to assess the level of agreement between them. Which statistical measure is most appropriate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35069,
+          "text": "Cronbach\\'s alpha",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35070,
+          "text": "Intraclass correlation coefficient (ICC)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35071,
+          "text": "Pearson correlation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35072,
+          "text": "Chi-square",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35073,
+          "text": "t-test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35070,
+        "text": "Intraclass correlation coefficient (ICC)"
+      },
+      "explanation": "For continuous inter-rater data (e.g., a numerical brain atrophy score), the intraclass correlation coefficient (ICC) is the appropriate measure of agreement, as it quantifies the proportion of total variance attributable to true between-subject variability. Pearson correlation measures association rather than agreement and is therefore not appropriate. Cronbach\\'s alpha assesses internal consistency of a scale, not inter-rater agreement. Chi-square and t-test compare group distributions or means respectively and do not assess agreement between raters.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": 22340,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study evaluates the effect of various psychological interventions on bulimia. This study could be termed as a factorial design if",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112007,
+          "text": "Halfway through the treatment phase, the subjects from two arms interchange randomly",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 112008,
+          "text": "Each subject receives both clinical measure and control with a washout period in between",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 112009,
+          "text": "Controls from one trial are shared with another trial where a totally different psychotherapy is evaluated simultaneously",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 112010,
+          "text": "The trial permits assessment of the effect of more than one psychotherapy, both separately and combined, on the clinical outcome.",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 112011,
+          "text": "None of the listed alternatives",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 112010,
+        "text": "The trial permits assessment of the effect of more than one psychotherapy, both separately and combined, on the clinical outcome."
+      },
+      "explanation": "If one wishes to compare the effect of more than one intervention against placebo either a multi-arm RCT or a factorial design can be chosen. A multi-arm RCT is a simple extension of the usual RCTs where an extra arm of subjects is generated through randomization to allocate the second intervention in addition to placebo and the fi rst intervention groups. A factorial RCT evaluates the effect of more than one intervention, independently and also in combination. In the above example the effect of two different psychotherapies independently and in combination could be studied using a factorial design. Greenhalgh T. How to Read a Paper: The Basics of Evidence Based Medicine, 3rd edn. British Medical Journal, 2006, p. 45.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": 7053,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to epidemiological data, children experiencing multiple adversities represent approximately what proportion of those with any childhood adversities?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35299,
+          "text": "One-third",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35300,
+          "text": "One-half",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35301,
+          "text": "Two-thirds",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35302,
+          "text": "Three-quarters",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35303,
+          "text": "Nine-tenths",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35301,
+        "text": "Two-thirds"
+      },
+      "explanation": "Multiple childhood adversities (mean = 2 or more in nearly 2/3rd) were common among respondents with any childhood adversities.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": 7044,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which rat behavioral test measures associative learning and memory?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35254,
+          "text": "Morris water maze",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35255,
+          "text": "Passive avoidance test",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35256,
+          "text": "Y-maze test",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35257,
+          "text": "Elevated plus maze",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35258,
+          "text": "Social interaction test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35255,
+        "text": "Passive avoidance test"
+      },
+      "explanation": "The passive avoidance test measures associative learning and memory, where rats learn to avoid a chamber in which they previously received an aversive stimulus.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 44,
+      "question_id": 7052,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In the Plan-Do-Study-Act (PDSA) cycle used for quality improvement, what does the A (Act) stage specifically involve?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35294,
+          "text": "Implement change permanently across entire organization",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35295,
+          "text": "Take action based on learning—adopt, adapt, or abandon the change",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35296,
+          "text": "Approve intervention for next testing cycle",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35297,
+          "text": "Adjust intervention based on statistical analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35298,
+          "text": "Apply lessons to future projects",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35295,
+        "text": "Take action based on learning—adopt, adapt, or abandon the change"
+      },
+      "explanation": "Act means decide to adopt, adapt, or abandon based on learning from the cycle.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 45,
+      "question_id": 7011,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An ASD screening questionnaire correctly identifies ASD symptoms but shows no correlation with ADHD symptoms. What type of validity does this demonstrate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35089,
+          "text": "Convergent validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35090,
+          "text": "Divergent (discriminant) validity",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35091,
+          "text": "Face validity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35092,
+          "text": "Content validity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35093,
+          "text": "Criterion validity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35090,
+        "text": "Divergent (discriminant) validity"
+      },
+      "explanation": "Divergent validity shows a measure does NOT correlate with measures of different constructs - ASD scale shouldn't correlate with ADHD.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 46,
+      "question_id": 7059,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A meta-analysis found that the placebo response rate in PMS treatment was substantial. This finding suggests which clinical implication?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35329,
+          "text": "SSRIs are ineffective for PMDD",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35330,
+          "text": "Placebos should replace SSRI therapy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35331,
+          "text": "While placebo effect is significant, the absolute difference between SSRIs (60–90%) and placebo (30–40%) remains clinically meaningful",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35332,
+          "text": "Expectancy accounts for all SSRI benefit in PMDD",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35333,
+          "text": "Psychological factors alone cause PMDD",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35331,
+        "text": "While placebo effect is significant, the absolute difference between SSRIs (60–90%) and placebo (30–40%) remains clinically meaningful"
+      },
+      "explanation": "The placebo effect was large too but provides the specific response rates: 60–90% for SSRIs versus 30–40% for placebo. This 3-step reasoning requires synthesizing the acknowledgment of substantial placebo effect while recognizing the meaningful absolute treatment difference, representing a nuanced clinical interpretation.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 47,
+      "question_id": 6996,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a randomised controlled trial, the event rate in the control group is CER and the event rate in the treatment group is EER. How is the absolute risk reduction (ARR) calculated?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35014,
+          "text": "Event rate in treatment / Event rate in control",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35015,
+          "text": "Event rate in control - Event rate in treatment",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35016,
+          "text": "Event rate in treatment - Event rate in control",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35017,
+          "text": "1 / (Event rate in control - Event rate in treatment)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35018,
+          "text": "Event rate in treatment × Event rate in control",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35015,
+        "text": "Event rate in control - Event rate in treatment"
+      },
+      "explanation": "ARR = Control Event Rate - Experimental Event Rate. It represents the absolute difference in event rates between groups.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 48,
+      "question_id": 22359,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In which of the following situations is sensitivity analysis especially recommended while conducting a meta-analysis?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112102,
+          "text": "Presence of a high degree of homogeneity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 112103,
+          "text": "Any meta-analysis of continuous data",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 112104,
+          "text": "Any meta-analysis of economic data",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 112105,
+          "text": "Presence of signifi cant publication bias",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 112106,
+          "text": "Pooled outcome showing a large effect of clinical measure This page intentionally left blank",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 112105,
+        "text": "Presence of signifi cant publication bias"
+      },
+      "explanation": "A systematic exploration of the uncertainty in the data is known as sensitivity analysis. It is carried out to measure the effects of varying study variables such as individual sample size, number of positive trials, number of negative trials, etc., on expected summary outcome measure of a study (often a meta-analysis or economic study). Sensitivity analysis can be undertaken to answer the question, ‘Is the conclusion generated by a meta-analysis affected by the uncertainties in the methods used?’ One such uncertainty is publication bias. So, we can use sensitivity analyses to fi nd out the impact of having missed unpublished studies. Egger M, Davey Smith G, and Phillips A. Meta–analysis: principles and procedures. British Medical Journal 1997; 315: 1533–1537. This page intentionally left blank",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 49,
+      "question_id": 7029,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher investigates the relationship between two continuous variables and calculates a Pearson correlation coefficient of 0.9. Which type of graph would best display this relationship?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35179,
+          "text": "Bar chart",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35180,
+          "text": "Histogram",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35181,
+          "text": "Scatter plot",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35182,
+          "text": "Box plot",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35183,
+          "text": "Forest plot",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35181,
+        "text": "Scatter plot"
+      },
+      "explanation": "Scatter plots display relationships between two continuous variables; correlation coefficient measures association strength.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 50,
+      "question_id": 6998,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A meta-analysis of antidepressants shows venlafaxine with an odds ratio of 1.0 compared to the reference drug. What does an OR of 1.0 indicate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35024,
+          "text": "Venlafaxine is twice as effective",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35025,
+          "text": "Venlafaxine is half as effective",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35026,
+          "text": "No difference between venlafaxine and comparator",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35027,
+          "text": "Venlafaxine is the least effective",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35028,
+          "text": "Cannot be determined",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35026,
+        "text": "No difference between venlafaxine and comparator"
+      },
+      "explanation": "An odds ratio of 1.0 indicates no difference between the intervention and comparator - they have equal odds of the outcome.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 51,
+      "question_id": 22319,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a community survey of 1,000 adults, 50 individuals were found to have a current (point) diagnosis of major depression at the time of interview. What is the point prevalence rate of major depression in this sample?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111902,
+          "text": "5%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111903,
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111904,
+          "text": "15%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111905,
+          "text": "20%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111906,
+          "text": "25%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111902,
+        "text": "5%"
+      },
+      "explanation": "Without a defined sample, this question cannot be answered. If the sample is a general community survey with 50 cases per 1,000 individuals, the point prevalence would be 5% (option A)",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 52,
+      "question_id": 22307,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "While adapting the results of an RCT into clinical practice, a clinician wants to calculate the new NNT values for his own clinical population using the results of the RCT. Apart from the reported RCT which of the following is needed to carry out the calculation of the new NNT?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111842,
+          "text": "The expected rate of spontaneous resolution of the treated condition in the clinical population",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111843,
+          "text": "The size of the clinical population",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111844,
+          "text": "The case fatality rate for the treated condition in the clinical population",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111845,
+          "text": "Lifetime prevalence of the disease in the clinical population",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111846,
+          "text": "All of the listed alternatives",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111842,
+        "text": "The expected rate of spontaneous resolution of the treated condition in the clinical population"
+      },
+      "explanation": "Published RCTs may quote impressive outcomes in terms of NNT. Applying principles of evidence-based medicine, one must check for the internal validity of a study and the degree of generalizability before adapting the results to clinical practice. One must also be aware of the fact that though clinically more meaningful, NNTs quoted in RCTs may not translate to the same extent in actual clinical practice. One way of appreciating the usefulness of a newly introduced drug is to calculate the NNT for one’s own clinical population (target population). To enable this one may estimate the patient expected event rate (PEER), which is given by the expected spontaneous resolution rate or the response rate for an existing standard treatment. This can be obtained from the local audit data or clinical experience. The product of PEER and relative benefi t increase from the published RCT gives the new absolute benefi t increase (ABI new) value for the target population. The inverse of the new ABI gives the new NNT for the target population. The disease prevalence rate or absolute size of the target population has no effect on the new NNT. Lawrie SM, McIntosh AM, Rao S. Critical Appraisal for Psychiatry. Churchill Livingstone, 2000, p. 117.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 53,
+      "question_id": 7057,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The NNT (number needed to treat) for SSRIs versus placebo in OCD varies between:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35319,
+          "text": "2 and 4",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35320,
+          "text": "4 and 8",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35321,
+          "text": "6 and 12",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35322,
+          "text": "12 and 18",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35323,
+          "text": "18 and 24",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35321,
+        "text": "6 and 12"
+      },
+      "explanation": "NNT for SSRIs (vs. placebo) varies between 6 and 12. This is the specific numerical range provided for SSRI efficacy in OCD. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 54,
+      "question_id": 7005,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An ANOVA output shows F = 4.35. What does the F-statistic represent?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35059,
+          "text": "Adjusted effect size",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35060,
+          "text": "Unadjusted effect size",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35061,
+          "text": "Ratio of between-group variance to within-group variance",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35062,
+          "text": "Standard error",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35063,
+          "text": "Mean difference",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35061,
+        "text": "Ratio of between-group variance to within-group variance"
+      },
+      "explanation": "The F-statistic is the ratio of variance between groups to variance within groups. A larger F suggests group means differ more than expected by chance.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 55,
+      "question_id": 7046,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The Flynn effect describes:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35264,
+          "text": "Decline in intelligence with age",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35265,
+          "text": "Increase in intelligence across successive generations",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35266,
+          "text": "Ethnic differences in intelligence",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35267,
+          "text": "Sex differences in cognition",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35268,
+          "text": "Practice effects on testing",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35265,
+        "text": "Increase in intelligence across successive generations"
+      },
+      "explanation": "The Flynn effect describes the observation that intelligence increases with successive generations, likely due to improved education, nutrition, and environmental factors.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 56,
+      "question_id": 22345,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A multi-centre RCT was conducted with strict inclusion diagnostic requirements. Which one of the following properties of the study is most likely to be affected by the stringent inclusion diagnostic requirements?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112032,
+          "text": "Generalizability of results",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 112033,
+          "text": "Precision of results",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 112034,
+          "text": "Accuracy of the results",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 112035,
+          "text": "Statistical signifi cance of the results",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 112036,
+          "text": "All of the listed alternatives",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 112032,
+        "text": "Generalizability of results"
+      },
+      "explanation": "A major disadvantage with RCTs is the poor generalizability of experimental fi ndings to a clinical setting. Having strict inclusion and exclusion criteria may help chose a highly homogeneous population, increasing the internal validity of the study but at the expense of generalizability. Persaud, N. and Mamdani, M.M. External validity: the neglected dimension in evidence ranking. Journal of Evaluation in Clinical Practice 2006:12(4); 450– 453.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 57,
+      "question_id": 22313,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What type of study provides information about occurrence rate of disease in a population at a specific point in time?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111872,
+          "text": "A diagnosis of cohort",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111873,
+          "text": "A diagnosis of crosssectional",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111874,
+          "text": "A diagnosis of retrospective",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111875,
+          "text": "A diagnosis of prospective",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111876,
+          "text": "A diagnosis of crossover",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111873,
+        "text": "A diagnosis of crosssectional"
+      },
+      "explanation": "A crosssectional study provides information about prevalence of disease in a population at a specific point in time. Cohort studies are longitudinal studies following a group from a welldefined population. Retrospective studies are based on past data, whereas prospective studies observe events as they occur longitudinally. Crossover studies are doubleblind studies in which the treatment group becomes the placebo group, and vice versa, such that each group controls for the other.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 58,
+      "question_id": 7002,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A dementia screening test has a sensitivity of 59%. You want to identify 250 patients with dementia. Approximately how many patients need to be screened?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35044,
+          "text": "250",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35045,
+          "text": "424",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35046,
+          "text": "148",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35047,
+          "text": "500",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35048,
+          "text": "350",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35045,
+        "text": "424"
+      },
+      "explanation": "With 59% sensitivity, you detect 59% of true cases. To identify 250: 250/0.59 ≈ 424 patients need to be screened.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 59,
+      "question_id": 22325,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "While conducting a systematic review, publication bias could be determined using which of the following methods?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111932,
+          "text": "Funnel plot",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111933,
+          "text": "Galbraith plot",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111934,
+          "text": "Failsafe N",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111935,
+          "text": "Soliciting and comparing published vs. unpublished data",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111936,
+          "text": "All of the listed alternatives",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 111936,
+        "text": "All of the listed alternatives"
+      },
+      "explanation": "Publication bias refers to the tendency of journals to accept and publish certain types of studies more often than the others. In general, studies with results that are impressively signifi cant or of higher quality by virtue of larger sample size are more successful in getting published. Publication bias can be considered as a form of selection bias when one attempts a systematic review or meta-analysis. Publication bias can be detected using a funnel plot – visual inspection of a graph drawn by plotting a measure of precision (often sample size) against treatment effect will reveal asymmetry of the two arms of the funnel-shaped graph if publication bias is present. Galbraith plot refers to a graph obtained by plotting a measure of precision such as (1/standard error) against standard normal deviate (log of odds ratio/standard error). The coordinates obtained from such a plot can be used to determine the extent of publication bias using linear regression. Failsafe N is another way of estimating publication bias. Consider a meta-analysis yielding a statistically signifi cant difference in outcome between two interventions, despite suspected publication bias. Then failsafe N answers the question ‘How many missing studies are needed to reduce the effect to statistical non-signifi cance?’ The higher the failsafe N, the lower the publication bias. If one could solicit and compare all unpublished data with published data, then publication bias would become obvious. Lawrie SM, McIntosh AM, and Rao S. Critical Appraisal for Psychiatry. Churchill Livingstone, 2000, p. 146.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 60,
+      "question_id": 7001,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher wants to test the association between blood pressure and height while controlling for weight. Which statistical test is most appropriate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35039,
+          "text": "Chi-square",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35040,
+          "text": "Multiple regression / ANCOVA",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35041,
+          "text": "Paired t-test",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35042,
+          "text": "Spearman correlation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35043,
+          "text": "Mann-Whitney U",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35040,
+        "text": "Multiple regression / ANCOVA"
+      },
+      "explanation": "Multiple regression or ANCOVA allows testing the relationship between variables while controlling for (adjusting for) other covariates like weight.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 61,
+      "question_id": 7037,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study reports variance of 36 in a sample of 25 patients. What is the standard error?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35219,
+          "text": "0.6",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35220,
+          "text": "1.2",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35221,
+          "text": "1.8",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35222,
+          "text": "6.0",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35223,
+          "text": "7.2",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35220,
+        "text": "1.2"
+      },
+      "explanation": "SE = SD/√n = √36/√25 = 6/5 = 1.2.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 62,
+      "question_id": 7043,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which rat behavioral model assesses anxiety-like behavior?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35249,
+          "text": "Passive avoidance test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35250,
+          "text": "Novel object recognition test",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35251,
+          "text": "Y-maze test",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35252,
+          "text": "Elevated plus maze",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35253,
+          "text": "Social interaction test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35252,
+        "text": "Elevated plus maze"
+      },
+      "explanation": "The elevated plus maze evaluates anxiety-like behavior, with time spent in open arms reflecting anxiety levels, as rats naturally avoid open, exposed areas.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 63,
+      "question_id": 6997,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A clinical trial started with 101 patients. By the end of stage 1, 59 patients had discontinued. The trial used intention-to-treat analysis. What was the attrition rate by end of stage 1?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35019,
+          "text": "42%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35020,
+          "text": "58%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35021,
+          "text": "59%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35022,
+          "text": "41%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35023,
+          "text": "50%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35020,
+        "text": "58%"
+      },
+      "explanation": "Attrition rate = 59/101 = 58.4% (approximately 58%). This represents the proportion who discontinued.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 64,
+      "question_id": 7041,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Q Sort methodology is used to measure which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35239,
+          "text": "Executive functioning",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35240,
+          "text": "Subjective opinion and viewpoint",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35241,
+          "text": "Attention span",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35242,
+          "text": "Distractibility",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35243,
+          "text": "Cognitive bias alone",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35240,
+        "text": "Subjective opinion and viewpoint"
+      },
+      "explanation": "Q methodology is a research method used to study people's subjective viewpoints and opinions about a topic by examining how individuals order statements in order of personal relevance.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 65,
+      "question_id": 7024,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A lithium versus quetiapine study for treatment-resistant depression shows a 95% confidence interval that crosses 1.0 (0.47-1.09). Which of the following conclusions is most appropriate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35154,
+          "text": "Lithium is significantly more effective than quetiapine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35155,
+          "text": "Quetiapine is significantly more effective than lithium",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35156,
+          "text": "There is no statistically significant difference between lithium and quetiapine",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35157,
+          "text": "The trial demonstrates superiority of quetiapine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35158,
+          "text": "The hazard ratio indicates lithium is protective",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35156,
+        "text": "There is no statistically significant difference between lithium and quetiapine"
+      },
+      "explanation": "The 95% confidence interval crosses 1.0 (0.47-1.09); no statistically significant difference between treatments.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 66,
+      "question_id": 22292,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What does 1 – specificity represent?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111767,
+          "text": "False-positive rate",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111768,
+          "text": "False-negative rate",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111769,
+          "text": "True-positive rate",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111770,
+          "text": "True-negative rate",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111771,
+          "text": "None of the listed alternatives",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111767,
+        "text": "False-positive rate"
+      },
+      "explanation": "1-specificity (False positive) \r\nStreiner DL and Cairney J. What’s under the ROC? An introduction to receiver operating characteristics curves. Canadian Journal of Psychiatry 2007; 52: 121–8.",
+      "image_url": "https://kdpsychacademy.com/wp-content/uploads/2026/08/Basic-Biostatistics_2.jpg",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 67,
+      "question_id": 22316,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher conducts a hospital-based case-control study comparing rates of smoking in patients with dementia (cases) versus patients admitted for other medical conditions (controls). Which specific type of bias is most likely to reduce the observed association between smoking and dementia in this study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111887,
+          "text": "Berkson bias",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111888,
+          "text": "Sampling bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111889,
+          "text": "Attrition bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111890,
+          "text": "Response bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111891,
+          "text": "Reporting bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111887,
+        "text": "Berkson bias"
+      },
+      "explanation": "Selection bias occurs when the groups selected for a study differ in important factors other than the study variable, such that the study population does not represent the target population. In a hospital-based case-control study (as in the suggested stem), controls drawn from hospital admissions over-represent people with smoking-related illnesses, weakening the apparent association between smoking and the outcome this specific mechanism is also called Berkson bias, a subtype of selection bias.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 68,
+      "question_id": 22322,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among the following options, which study designs determines an individual’s case status and predisposing factor exposure(s) at the same time?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111917,
+          "text": "A diagnosis of descriptive studies",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111918,
+          "text": "A diagnosis of ecological studies",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111919,
+          "text": "A diagnosis of crosssectional studies",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111920,
+          "text": "A diagnosis of casecontrol studies",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111921,
+          "text": "A diagnosis of cohort studies",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111919,
+        "text": "A diagnosis of crosssectional studies"
+      },
+      "explanation": "Crosssectional studies examine individuals and determine their case status and risk factor exposures at the same time. Outcome rates between those with exposure can then be compared to those without. Descriptive studies describe the health status of a population or of a number of subjects. They can be useful for monitoring patients with rare conditions and in generating hypotheses for future study. In ecological studies, groups of individuals are studied as a whole, and the overall occurrence of disease is correlated with the aggregate level of exposure to a risk factor. In casecontrol studies, subjects are selected based on whether they have the outcome (case) or not (control), and their exposures are then determined by looking backward in time. In a cohort study, a group of healthy individuals is identified and followed over time to see who develops the outcomes of interest and who does not.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 69,
+      "question_id": 6999,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A regression analysis examines predictors of treatment response. Variables include age, type of depression, duration at 6 months, and family history of substance misuse. Which statistical method tests whether individual predictors are significant?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35029,
+          "text": "Chi-square test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35030,
+          "text": "t-test for regression coefficients",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35031,
+          "text": "ANOVA",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35032,
+          "text": "Correlation coefficient",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35033,
+          "text": "Mann-Whitney U",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35030,
+        "text": "t-test for regression coefficients"
+      },
+      "explanation": "In regression analysis, t-tests are used to determine if individual predictor coefficients are significantly different from zero.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 70,
+      "question_id": 7014,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A meta-analyst wants to test for heterogeneity between included studies. Which statistic is used to quantify heterogeneity?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35104,
+          "text": "Chi-square",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35105,
+          "text": "I² statistic",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35106,
+          "text": "Odds ratio",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35107,
+          "text": "Effect size",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35108,
+          "text": "p-value",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35105,
+        "text": "I² statistic"
+      },
+      "explanation": "I² statistic quantifies the percentage of variability due to heterogeneity rather than chance. Cochrane Q tests significance.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 71,
+      "question_id": 6995,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A scatter plot shows the relationship between loneliness scores and depression scores with a correlation coefficient of r = 0.38. How would you describe this correlation?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35009,
+          "text": "Strong positive",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35010,
+          "text": "Moderate positive",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35011,
+          "text": "Weak positive",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35012,
+          "text": "No correlation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35013,
+          "text": "Weak negative",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35010,
+        "text": "Moderate positive"
+      },
+      "explanation": "Under Cohen\\'s (1988) convention  r values of 0.10–0.29 are weak, 0.30–0.49 are moderate, and ≥ 0.50 are strong. An r of 0.38 therefore falls in the moderate positive range (B). The sign is positive (both variables increase together), ruling out option E. Options A (strong) and D (no correlation) are clearly incorrect. Option C (weak) would only be correct under alternative classification schemes that place the weak/moderate boundary at r = 0.40. To avoid ambiguity, questions should specify the classification convention being used.",
+      "image_url": "https://kdpsychacademy.com/wp-content/uploads/2026/07/Gemini_Generated_Image_4cksqr4cksqr4cks.jpg",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 72,
+      "question_id": 7022,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Two psychiatrists independently diagnose patients and a kappa of 0.75 is calculated. What level of agreement does this indicate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35144,
+          "text": "Poor",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35145,
+          "text": "Fair",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35146,
+          "text": "Moderate",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35147,
+          "text": "Substantial/Good",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35148,
+          "text": "Almost perfect",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35147,
+        "text": "Substantial/Good"
+      },
+      "explanation": "Kappa interpretation: 0.80 almost perfect. A kappa of 0.75 indicates substantial agreement.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 73,
+      "question_id": 7003,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Several dementia tests sensitivities are compared: Mini-Cog (76% sensitivity), Clock test (59%), MMSE 23/24 (various), MMSE 24/25 (79%). Which test would have the LEAST false negatives?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35049,
+          "text": "Clock test (59%)",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35050,
+          "text": "Mini-Cog (76%)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35051,
+          "text": "MMSE 24/25 (79%)",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35052,
+          "text": "MMSE 23/24 (71%)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35053,
+          "text": "All equal",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35051,
+        "text": "MMSE 24/25 (79%)"
+      },
+      "explanation": "Higher sensitivity = fewer false negatives. MMSE 24/25 at 79% has the highest sensitivity listed, so fewest false negatives.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 74,
+      "question_id": 7050,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A qualitative researcher conducts in-depth interviews with patients to understand their lived experiences of depression and the personal meanings they attribute to their symptoms. Which philosophical approach best describes this study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35284,
+          "text": "Grounded theory",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35285,
+          "text": "Phenomenology",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35286,
+          "text": "Ethnography",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35287,
+          "text": "Action research",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35288,
+          "text": "Discourse analysis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35285,
+        "text": "Phenomenology"
+      },
+      "explanation": "Phenomenology explores lived experiences and meanings individuals attribute to phenomena.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 75,
+      "question_id": 7019,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A meta-analysis reports Cohen's d = 0.8 for a treatment effect. How is this effect size interpreted?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35129,
+          "text": "Negligible",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35130,
+          "text": "Small",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35131,
+          "text": "Medium",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35132,
+          "text": "Large",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35133,
+          "text": "Very large",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35132,
+        "text": "Large"
+      },
+      "explanation": "Cohen's d interpretation: 0.2 = small, 0.5 = medium, 0.8 = large. An effect size of 0.8 indicates a large effect.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 76,
+      "question_id": 7023,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The Semantic Differential Scale measures:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35149,
+          "text": "Likert-type responses",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35150,
+          "text": "Subjective meaning and attitude toward concepts",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35151,
+          "text": "Numerical ratings",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35152,
+          "text": "Yes/no responses",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35153,
+          "text": "Multiple choice selections",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35150,
+        "text": "Subjective meaning and attitude toward concepts"
+      },
+      "explanation": "The Semantic Differential Scale measures subjective meaning and attitudes toward concepts using bipolar adjective pairs.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 77,
+      "question_id": 7049,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which test is used to evaluate learned helplessness and antidepressant efficacy in animal models?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35279,
+          "text": "Morris water maze",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35280,
+          "text": "Forced swim test",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35281,
+          "text": "Elevated plus maze",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35282,
+          "text": "Open field test",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35283,
+          "text": "Tail suspension test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35280,
+        "text": "Forced swim test"
+      },
+      "explanation": "The forced swim test is a standard rodent behavioral test in which mice are placed in an inescapable tank of water; their escape-related mobility is measured to evaluate depressive-like states and antidepressant efficacy.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 78,
+      "question_id": 22328,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A landmark epidemiological study in child psychiatry is the Isle of Wight \\\"Isle of Wight revisited: twenty-five years of child psychiatric epidemiology\\\" study in the UK. What was the nature of age the original sample first studied?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111947,
+          "text": "A sub-sample of all children aged 5–13",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111948,
+          "text": "Every other child aged 5–17",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111949,
+          "text": "A sub-sample of all children aged 9–15",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111950,
+          "text": "All children aged 9 - 11",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 111951,
+          "text": "Every other child aged 9–12",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 111950,
+        "text": "All children aged 9 - 11"
+      },
+      "explanation": "Key Characteristics of the Original Sample\r\n- Age Range: The sample consisted of all children aged 9 to 11 years old.\r\n- Geographic Scope: It included the entire population of children in that specific age bracket living on the Isle of Wight, UK.\r\n- Sample Demographics: The Isle of Wight was selected because its population reflected a socioeconomic profile and national database baseline (housing, environment, and education) that was largely comparable to the UK as a whole at the time.\r\n- Multi-Dimensional Assessment: Because it was a true community baseline, researchers screened the children across multiple domains simultaneously specifically focusing on physical health, psychiatric/psychological well-being, and educational attainment (such as reading disabilities).",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 79,
+      "question_id": 7062,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An RCT demonstrates that mindfulness-based cognitive therapy (MBCT) reduces depressive relapse rates from 60% to 40% over 12 months. The 95% confidence interval is 8-32%. What does this confidence interval indicate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35344,
+          "text": "There is a 95% probability that the true effect lies between 8-32%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 35345,
+          "text": "The study is likely to have high bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35346,
+          "text": "The effect size is too small to be clinically significant",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35347,
+          "text": "The study has inadequate sample size",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35348,
+          "text": "The results are not statistically significant",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 35344,
+        "text": "There is a 95% probability that the true effect lies between 8-32%"
+      },
+      "explanation": "A 95% confidence interval of 8-32% indicates that if the study were repeated 100 times, the true effect would fall within this range approximately 95 times. This represents the precision of the effect estimate, with a wider interval suggesting more uncertainty. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 80,
+      "question_id": 7042,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which rat behavioral model is used to assess spatial learning and memory?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35244,
+          "text": "Prepulse inhibition test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35245,
+          "text": "Passive avoidance test",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35246,
+          "text": "Morris water maze",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35247,
+          "text": "Social interaction test",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35248,
+          "text": "Elevated plus maze",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35246,
+        "text": "Morris water maze"
+      },
+      "explanation": "The Morris water maze assesses spatial learning and memory by having rats navigate a water pool using spatial cues to find a hidden platform.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 81,
+      "question_id": 7056,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the source, which socioeconomic factor is most significantly associated with physical abuse?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35314,
+          "text": "Educational level of parents",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35315,
+          "text": "Employment status alone",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35316,
+          "text": "Poverty and psychosocial stress, especially financial stress",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35317,
+          "text": "Parental intelligence",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35318,
+          "text": "Urbanisation vs. rural location",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35316,
+        "text": "Poverty and psychosocial stress, especially financial stress"
+      },
+      "explanation": "Although child abuse occurs at all socio-economic levels, it is highly associated with poverty and psychosocial stress, especially financial stress.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 82,
+      "question_id": 6994,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A screening test produces 150 true negatives and 30 false negatives. What is the formula for negative predictive value (NPV)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35004,
+          "text": "True Negative / (True Negative + False Positive) [Specificity]",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35005,
+          "text": "True Negative / (True Negative + False Negative)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35006,
+          "text": "True Positive / (True Positive + False Negative)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35007,
+          "text": "True Positive / (True Positive + False Positive)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35008,
+          "text": "(True Negative + True Positive) / Total",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35005,
+        "text": "True Negative / (True Negative + False Negative)"
+      },
+      "explanation": "NPV is defined as the probability that a person with a negative test result truly does not have the disease. It is calculated as True Negative / (True Negative + False Negative), i.e. Option B. Option A describes Specificity [TN/(TN+FP)]; Option C describes Sensitivity [TP/(TP+FN)]; Option D describes Positive Predictive Value [TP/(TP+FP)]; Option E describes overall Accuracy [(TP+TN)/Total].",
+      "image_url": null,
+      "explanation_image_url": "https://kdpsychacademy.com/wp-content/uploads/2026/07/ensitivity-Specificity-PPV-NPV-1024x782-1.png"
+    },
+    {
+      "question_number": 83,
+      "question_id": 7026,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study examined depression prevalence in HIV-positive versus HIV-negative women. The odds ratio for depression in HIV-positive women was 1.85 (95% CI: 1.02-3.36, p=0.05). For HIV-negative women, the OR was 1.45 (95% CI: 0.98-2.15, p=0.08). Which statement is most accurate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35164,
+          "text": "Both groups show statistically significant associations with depression",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35165,
+          "text": "Neither group shows statistically significant associations with depression",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35166,
+          "text": "There is a statistically significant association between HIV status and depression in HIV-positive women but not in HIV-negative women",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35167,
+          "text": "The confidence intervals are too wide to draw any conclusions",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35168,
+          "text": "The study is underpowered",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35166,
+        "text": "There is a statistically significant association between HIV status and depression in HIV-positive women but not in HIV-negative women"
+      },
+      "explanation": "HIV-positive: CI excludes 1.0, p=0.05 (significant); HIV-negative: CI includes 1.0 (non-significant).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 84,
+      "question_id": 22295,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A new diagnostic test detects 60 out of 100 schizophrenia individuals correctly. It does not wrongly diagnose anyone in a sample of 100 controls. How sensitive is this test in detecting schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111782,
+          "text": "60%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111783,
+          "text": "40%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111784,
+          "text": "100%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111785,
+          "text": "90%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111786,
+          "text": "0%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111782,
+        "text": "60%"
+      },
+      "explanation": "Using the table from question 14 Schizophrenia Controls Total Test positive 60 (true positive) 0 60 Test negative 40 100 (true negative) 140 Total 100 100 200 Sensitivity = true positive/total diseased (schizophrenia subjects) = 60/100 = 60% Guyatt G and Rennie D, eds. Users’ Guides to the Medical Literature. A Manual for Evidence-based Clinical Practice. AMA Press, 2002, p. 661.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 85,
+      "question_id": 7065,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which animal behavioral test is used to evaluate learned helplessness and antidepressant drug efficacy?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35359,
+          "text": "Morris water maze",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35360,
+          "text": "Open field test",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35361,
+          "text": "Forced swim test",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35362,
+          "text": "Elevated plus maze",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35363,
+          "text": "Fear conditioning test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35361,
+        "text": "Forced swim test"
+      },
+      "explanation": "The forced swim test is a rodent behavioral test used to evaluate antidepressant efficacy. Mice placed in inescapable water show reduced escape-related mobility (learned helplessness) that is reversed by antidepressants.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 86,
+      "question_id": 22298,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A psychiatrist evaluates a two-stage screening programme for depression in a general practice population. In a sample of 200 patients, the gold-standard interview identifies 40 patients with depression. The combined screen correctly identifies 32 of these (true positives), misses 8 (false negatives), correctly excludes 107 of the 160 non-depressed patients (true negatives), and incorrectly flags 53 non-depressed patients as positive (false positives). What is the specificity of the overall screen?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111797,
+          "text": "67%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111798,
+          "text": "95%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111799,
+          "text": "38%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111800,
+          "text": "25%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111801,
+          "text": "91%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111797,
+        "text": "67%"
+      },
+      "explanation": "Specificity is defined as true negatives divided by total non-diseased subjects (D / [B+D]), per SPMM Course Notes p.611. Once the missing 2×2 data are restored to the stem, the correct option is whichever value equals D/(B+D) for those data. If the intended answer is 67%, the underlying table must show approximately 107 true negatives and 53 false positives among 160 non-diseased participants (107/160 ≈ 0.67). The other options (95%, 38%, 25%, 91%) would each correspond to a different ratio and cannot be correct if the data yield 0.67. The question must be reconstructed before any key is formally assigned.",
+      "image_url": "https://kdpsychacademy.com/wp-content/uploads/2026/08/Q010186-Basic-Biostatistic-1.jpg",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 87,
+      "question_id": 7031,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher wants to compare depression scores between two independent groups. The data are skewed and do not follow a normal distribution. The total sample size is 9. Which statistical test is most appropriate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35189,
+          "text": "Independent t-test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35190,
+          "text": "Paired t-test",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35191,
+          "text": "Fisher's exact test",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35192,
+          "text": "Mann-Whitney U test",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35193,
+          "text": "Pearson's chi-square",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35192,
+        "text": "Mann-Whitney U test"
+      },
+      "explanation": "Mann-Whitney U test is a non-parametric test used to compare differences between two independent groups when data are skewed or not normally distributed.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 88,
+      "question_id": 7047,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following statements is true about purines?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35269,
+          "text": "They are obtained primarily from diet and not synthesized in the body",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35270,
+          "text": "They are made up of cytosine and thymine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35271,
+          "text": "They are only present in eukaryotic cells",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35272,
+          "text": "They consist of a six-membered ring fused to a five-membered ring",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35273,
+          "text": "They are not metabolized in humans",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35272,
+        "text": "They consist of a six-membered ring fused to a five-membered ring"
+      },
+      "explanation": "Purines consist of a six-membered pyrimidine ring fused to a five-membered imidazole ring; they are synthesized endogenously and obtained from diet, and are present in all cells.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 89,
+      "question_id": 7068,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Purine properties",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35374,
+          "text": "Contain one carbon-nitrogen ring",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35375,
+          "text": "Are non-aromatic",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35376,
+          "text": "Include thymine and cytosine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35377,
+          "text": "Are aromatic and include adenine and guanine",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35378,
+          "text": "Degrade into beta-alanine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35377,
+        "text": "Are aromatic and include adenine and guanine"
+      },
+      "explanation": "Purines are aromatic heterocycles composed of carbon and nitrogen. They contain two carbon-nitrogen rings and include adenine and guanine, which participate in DNA and RNA formation. Purines degrade into uric acid in humans.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 90,
+      "question_id": 22373,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A health commissioner is willing to pay £1500 per additional depression-free week. An intervention for depression costs £500 more than the control and produces 2 additional depression-free weeks compared to control. What is the incremental net benefit (INB) of the intervention?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112172,
+          "text": "£500",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 112173,
+          "text": "£1000",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 112174,
+          "text": "£2500",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 112175,
+          "text": "£3000",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 112176,
+          "text": "£2000",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 112174,
+        "text": "£2500"
+      },
+      "explanation": "INB = (λ × ΔEffect) − ΔCost = (£1500 × 2 weeks) − £500 = £3000 − £500 = £2500. The intervention produces 2 additional depression-free weeks at an incremental cost of £500; with a ceiling WTP of £1500/week, the net monetary benefit is £2500 (option C). Options A (£500) and B (£1000) arise from arithmetic errors (e.g. applying WTP to only one week, or failing to subtract the cost correctly). Options D and E are in units of time, not money, and are therefore structurally incorrect as INB answers.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 91,
+      "question_id": 7021,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study is designed with 80% power. What is the probability of Type II error?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35139,
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35140,
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35141,
+          "text": "20%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35142,
+          "text": "80%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35143,
+          "text": "95%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35141,
+        "text": "20%"
+      },
+      "explanation": "Power = 1 − β (Type II error rate). If power is 80%, Type II error (β) is 20%—the probability of failing to reject a false null hypothesis.",
+      "image_url": null,
+      "explanation_image_url": null
+    }
+  ]
+}

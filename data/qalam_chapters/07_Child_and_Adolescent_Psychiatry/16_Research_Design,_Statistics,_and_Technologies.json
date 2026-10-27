@@ -1,0 +1,1462 @@
+{
+  "chapter_id": "f34cb429-1630-45e3-aa51-9e28b38c1cc4",
+  "chapter_name": "Research Design, Statistics, and Technologies",
+  "chapter_title": "Research Design, Statistics, and Technologies",
+  "resource_id": "e06657a8-ff6a-4489-aadd-c22bc2250db3",
+  "resource_title": "Child and Adolescent Psychiatry",
+  "subject_name": "Child and Adolescent Psychiatry",
+  "chapter_number": 16,
+  "total_questions": 25,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "ec31346b-cee6-4e6c-8f66-0581824ad74a",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "All of the following statements regarding reliability and validity are accurate except:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6e2766f3-9df1-48fe-9963-2f0160123b23",
+          "text": "Test-retest reliability is a strenuous test of interrater reliability.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "71396820-7708-41ed-beb5-d538a284e570",
+          "text": "Validity ensures reliability.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "b704e872-8cc4-41a9-b8fb-8f97c332461b",
+          "text": "The validity of an instrument refers to the extent to which it measures what it was intended to measure.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b933e706-919e-478b-ba39-614d5dec349d",
+          "text": "Validity includes predictive validity, factorial validity, and construct validity.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "bab9946a-16b2-4a8f-a3c2-3959c2764629",
+          "text": "Reliability refers to the extent to which results obtained with an instrument can be reproduced.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "71396820-7708-41ed-beb5-d538a284e570",
+        "text": "Validity ensures reliability."
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "71396820-7708-41ed-beb5-d538a284e570",
+          "text": "Validity ensures reliability.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Validity does not guarantee reliability, just as reliability cannot ensure validity. Validity may include predictive validity, factorial validity, and construct validity, whereas reliability may include test-retest reliability and interrater reliability. Inter-item consistency is also used to estimate reliability. (Ref. 3, pp. 107-108)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": "d4be5cce-0678-4acd-b9ee-f4cbfd1bab33",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Randomized experimental research designs are usually preferred over quasi-experimental designs because they:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "47620b4e-601c-4e6e-a3bf-856f60a12655",
+          "text": "Have one active independent variable",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4a23c9f7-0362-49a3-bbac-3ad1fc7d174e",
+          "text": "Eliminate bias",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "89fcfdf8-be4c-4f43-a83e-1540416f079c",
+          "text": "Require little training to perform",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "db3cc7b6-9fb7-495e-8f46-079d7093ece7",
+          "text": "Are easier to execute",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "de2873eb-8446-4e8a-a2cb-f139479e032c",
+          "text": "Are less expensive to carry out",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "4a23c9f7-0362-49a3-bbac-3ad1fc7d174e",
+        "text": "Eliminate bias"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "4a23c9f7-0362-49a3-bbac-3ad1fc7d174e",
+          "text": "Eliminate bias",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In contrast to the quasi experimental studies, subjects in randomized studies are assigned randomly to groups (experimental or control), with an advantage of eliminating bias. Single and double blinding further reduces the possibility of bias. This leads to more convincing evidence that the independent variable rather than the dependent or control variable caused the difference. Both and experimental designs require an active variable. (G.A. Morgan, J.A. Gliner, and R. J. Harmon: Randomized Experimental Designs. JAACAP, 39: 1062-1063, 2000)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "4e9afd8e-ec8e-4163-a734-09216e2ca014",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Variable refers to a characteristic of the participants or situations that has different values in the study. The predictors, antecedents, or presumed causes under investigation in the study should be considered as which of the following variables?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0439072b-cfdb-47cd-8c64-14083e129fa8",
+          "text": "Demographic variable",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3effe15a-7b6c-47e3-8f91-e26316bed4f5",
+          "text": "Dependent variable",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "43d49693-b086-40e7-8f62-0020bb370a28",
+          "text": "Operational variable",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "94450428-76fe-4e5b-91b2-a5a52a05513e",
+          "text": "Independent variable",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "cbaaffa6-cd8f-4d5c-af31-c1ec0c6c22ad",
+          "text": "Extraneous variable",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "94450428-76fe-4e5b-91b2-a5a52a05513e",
+        "text": "Independent variable"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "94450428-76fe-4e5b-91b2-a5a52a05513e",
+          "text": "Independent variable",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The independent variable can be defined broadly including any predictors, antecedents, or presumed causes or influence under investigation in the study, which can be subtyped into: active independent variables (interventions or therapies that are prescribed to the experimental group, but not to the control group) and attributed to independent variables (gender, age, or ethnic group-cannot be manipulated). (Ref. 3, p. 105)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": "244482bc-eb9b-431d-b809-ef466e2c89dc",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "On a normal curve measuring the IQs of a large group of youth, how many of them will fall within the one standard deviation range from either side of the mean?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3c391ec1-157d-43c6-87d8-09d0189dad76",
+          "text": "78%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a498f178-2a96-4963-9246-3a96e81173e1",
+          "text": "88%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b2fe916a-af07-4f19-8eae-a5da7e34ab84",
+          "text": "99%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b4779adc-49d2-4cf6-8507-e1b941b26f9d",
+          "text": "68%",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "b5ac0322-43dc-49c6-aaed-d07e540933cb",
+          "text": "95%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "b4779adc-49d2-4cf6-8507-e1b941b26f9d",
+        "text": "68%"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "b4779adc-49d2-4cf6-8507-e1b941b26f9d",
+          "text": "68%",
+          "is_correct": true
+        }
+      ],
+      "explanation": "If the variable is normally distributed, 68% of the youth who participate in the IQ testing will fall within one standard deviation from either side of the mean (100). Ninety-five percent of them will fall within two standard deviations, and 99% will fall within three standard deviations. One standard deviation equals 15. Thus, 68% of the youth will have an IQ between 85 and 115. Only 5% of them will have IQ either lower than 70 or higher than 130. (Ref. 3. p. 106)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": "3bd26ea4-0d60-4337-92a0-e481306aca6e",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "All of the following are broad types of evidence that support validity except:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "13d7ab11-d235-4812-a470-81828119915f",
+          "text": "The consequence of testing",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "70f0f342-47af-48eb-b20c-c765d7cc5f8e",
+          "text": "Content",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "98fb934e-02a3-4515-aa8d-ceb499690b8c",
+          "text": "Relations to other variables",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ae53e781-fb55-42ef-9795-f039a00f4070",
+          "text": "Responses",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d3046a36-5371-4f4b-9ee7-16ac6aef4f2f",
+          "text": "External structure",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "d3046a36-5371-4f4b-9ee7-16ac6aef4f2f",
+        "text": "External structure"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "d3046a36-5371-4f4b-9ee7-16ac6aef4f2f",
+          "text": "External structure",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Internal structure (not external) is one of five broad types of evidence that can support the validity of a test or measure. They cannot be used alone, and the validation should integrate all the pertinent information gathered from these five types of evidence. (Ref. 3. p. 108)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": "6cf8935f-61c2-4984-8423-466642bea52d",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Effect size can be measured by the strength of the relationship in applied behavioral sciences, using the r value. Which of the following r values implies an acceptable level of support?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0ae7668b-8d75-4195-aeac-7af6652ec7ca",
+          "text": "r ≥0.3",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "403876e6-c573-4612-a434-522c30caa579",
+          "text": "r ≥0.5",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c0882c94-5d2d-452e-8846-dce6ef31b7d3",
+          "text": "r ≥0.1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "cd991d1e-12d1-41ab-adf0-37531dbe5506",
+          "text": "r ≥0.2",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ebecff4b-2f75-4183-a36d-6c5cade19f21",
+          "text": "r ≥0.8",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "0ae7668b-8d75-4195-aeac-7af6652ec7ca",
+        "text": "r ≥0.3"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "0ae7668b-8d75-4195-aeac-7af6652ec7ca",
+          "text": "r ≥0.3",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In applied behavioral sciences r ≥0.3 represents an acceptable level of support for measurement validation. An r ≥0.5 represents strong support, whereas r ≥0.1 represents weak support even if it is statistically significant. (Ref. 3, p. 108)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": "88d19bd3-97c0-43da-8b30-c9af22c0459b",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In the ex post facto research method there are usually a few levels or categories for the independent variable, and betweengroup comparisons are made. Which of the research approaches does this method belong to?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "79886c54-beb7-47b3-ae7d-3a20e947c4ea",
+          "text": "Comparative research approach",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "8df08309-7bce-4d6d-9079-8a7e24e0c5fb",
+          "text": "Quasi-experimental research approach",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "a4b512fb-9b3b-4ba4-9d63-e20c95a12629",
+          "text": "Associational research approach",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e9940a83-ef77-4334-a499-307df7206c81",
+          "text": "Randomized experimental research approach",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fe9ebf4e-c752-4a67-9554-86c55d83edaf",
+          "text": "Description research approach",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "79886c54-beb7-47b3-ae7d-3a20e947c4ea",
+        "text": "Comparative research approach"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "79886c54-beb7-47b3-ae7d-3a20e947c4ea",
+          "text": "Comparative research approach",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The comparative research approach is also called causal-comparative or ex post facto (generally a nonexperimental approach). It compares independent variable differences between groups. Among all these approaches, the randomized experimental approach provides the best evidence about cause and effect. The descriptive approach is distinguishable from the other four approaches because only one variable is used and only descriptive statistics are provided, without determination of comparisons or associations. (Ref. 3, pp. 108-109)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": "e331d8de-9448-4474-aee2-0d08fce02a43",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements regarding associational research designs and data analysis is incorrect?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "00ad67d8-d869-469e-a66d-328ac258b0bb",
+          "text": "Variables are both independent and dependent.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "67b6bd45-5879-4d0d-a57c-9db3fe64d718",
+          "text": "The r can be expressed with degrees of freedom and significance level.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7ead2917-15a4-4fe3-95d6-44c1ac567ebe",
+          "text": "Coefficient r expresses the Pearson product moment correlation.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "acdd5284-cbdb-416b-9559-4a3488845a30",
+          "text": "They are designed to examine the relationship between two continuous variables.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f0b40670-f25a-4f56-b4b4-9f0bb980da52",
+          "text": "A strong positive relationship is found if",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "00ad67d8-d869-469e-a66d-328ac258b0bb",
+        "text": "Variables are both independent and dependent."
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "00ad67d8-d869-469e-a66d-328ac258b0bb",
+          "text": "Variables are both independent and dependent.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In associational research designs, the two variables are either independent or dependent. The Pearson product moment correlation is used to estimate the strength of association between the two variables and expresses as coefficient  ranging from 1 to +1, with value > 0.5, indicating a strong positive association. (J.A. Gliner, G. A. Morgan, and R. J. Harmon: Basic Associational Designs: Analysis and Interpretation. JAACAP, 41: 1256-1258, 2002)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": "8e973a0b-6f10-4ee9-a806-16f578b653fe",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is used to measure statistical significance?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "01311b3a-c7c4-4e53-96e8-d662f5d6b8fa",
+          "text": "The d score",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "73a5ffc2-9330-418e-b7a8-aa1eb6b6f440",
+          "text": "The p value",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "7b0f5fa5-cb4d-47c9-87a1-5a60998dc690",
+          "text": "The  value",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "95e9f7d2-2ed7-4eda-a61a-8deca9a925bb",
+          "text": "The x2 value",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f0e3dbe2-5ddb-4650-a63b-5c76b80bbdb5",
+          "text": "The value",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "73a5ffc2-9330-418e-b7a8-aa1eb6b6f440",
+        "text": "The p value"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "73a5ffc2-9330-418e-b7a8-aa1eb6b6f440",
+          "text": "The p value",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The p value represents the strength of the correlation between two variables, indicating the probability an outcome could occur if the null hypothesis were true. Statistical significance should not be interpreted as clinical significance or approval of the null hypothesis. The κ value represents the correlation coefficient of reliability. The x2 represents the chi-square value. The r family, d family, and the measures of risk potency are proposed mea- sures of sample size. (H. C. Kraemer, et al: Measures of clinical significance. JAACAP, 42:1524–1529, 2003)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": "52d7e2c7-845d-41e4-87fc-bdfec579165d",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "All of the following statements regarding logistic regression analysis and discriminant analysis are correct except:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "21e0923f-7edc-4c1f-877b-bd47b2d5ab0e",
+          "text": "Logistic regression estimates the probability an event will occur.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "49acc25f-dce6-4c12-b679-78353475c8b1",
+          "text": "Logistic regression requires fewer assumptions than discriminant analysis, and performs better.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5db85be7-e93c-4adf-8cad-a30dac9ddf9c",
+          "text": "An odds ratio (the ratio of two odds, OR) is essential to logistic regression.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c7a23f3a-7804-4729-8097-18b837a4b2da",
+          "text": "The coefficient is expressed as an odds score in logistic regression.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f836a96f-1077-4a08-a06f-225170cddf08",
+          "text": "OR = 0",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "f836a96f-1077-4a08-a06f-225170cddf08",
+        "text": "OR = 0"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "f836a96f-1077-4a08-a06f-225170cddf08",
+          "text": "OR = 0",
+          "is_correct": true
+        }
+      ],
+      "explanation": "An OR = 0 indicates a random association. Discriminant analysis requires more assumptions than logistic regression analysis does to make an optimal prediction. The odds are used to express the probability an event will occur in logistic regression, and the odds ratio increases with an increase of a positive association and decreases with a negative association. (G.A. Morgan, J.J. Vaske, J.A. Gliner, and R. J. Harmon: Logistic Regression and Discriminant Analysis: Use and Interpretation. JAACAP, 42: 994-997, 2003)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": "add00fdd-516c-47c9-ad34-d38a2b73f50e",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following neuroimaging techniques is best suited to study developmental brain abnormalities in children?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "183972ae-3cda-494b-b971-6e34cd3040d1",
+          "text": "Magnetoencephalography (MEG)",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "307fdc9d-211a-43b3-a969-669d9da43082",
+          "text": "Magnetic resonance imaging (MRI)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "4fc71b9a-3a5a-494a-937a-dae97d517ae0",
+          "text": "Computed tomography (CT)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "57b44c67-8d08-4082-9cd6-42888645450b",
+          "text": "Single-photon emission computed tomography (SPECT)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ecc287db-8bbc-4d49-bb77-2e92f31febce",
+          "text": "Positron emission tomography (PET)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "307fdc9d-211a-43b3-a969-669d9da43082",
+        "text": "Magnetic resonance imaging (MRI)"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "307fdc9d-211a-43b3-a969-669d9da43082",
+          "text": "Magnetic resonance imaging (MRI)",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Both MRI and MEG are ideally suited to study structural, physiologic, and developmental brain abnormalities in children and to perform repeated measures because they involve no ionizing radiation or radioactive isotopes and have been shown to have an absence of biologic hazards at currently used field strengths. However, MRI is more extensively developed and studied than MEG is. The use of CT exposes the child to x-rays, and PET exposes the child to radiation. Although SPECT provides for functional neuroimaging, it involves small amounts of radioisotopes. (Ref. 3, pp. 216-228)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": "6c8daef8-c876-46bc-b9a7-ae992e62d660",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Magnetic resonance spectroscopy (MRS) can be used to measure all of the following except:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "8c428200-2041-41eb-ba22-af094401abf8",
+          "text": "Neurotransmitters",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a952b276-c4e2-4688-91b6-ecad7c29c800",
+          "text": "Energy metabolism",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ad4a1480-40ea-401b-9b0b-bbd3b32c0123",
+          "text": "Cerebral blood flow",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "f7b8526e-49ec-4990-bce1-c8173d918b61",
+          "text": "Cell membrane stability",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fb4b8088-b7db-4301-bdea-1eb5d2b26789",
+          "text": "Amino acids",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "ad4a1480-40ea-401b-9b0b-bbd3b32c0123",
+        "text": "Cerebral blood flow"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "ad4a1480-40ea-401b-9b0b-bbd3b32c0123",
+          "text": "Cerebral blood flow",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The MRS technique has been used to measure amino acids, neurotransmitters, metabolites related to energy production, and metabolism of lipids and carbohydrates. It has not been used to measure cerebral blood flow that can be measured by fMRI. (Ref. 3, pp. 221-223, 225-227)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": "b67f9499-3052-4bbf-82ea-cec9091a3cf2",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "All of the following statements regarding SPECT are accurate except:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "10258f9c-02d4-49cb-86b3-892f3074d3c5",
+          "text": "It is relatively inexpensive compared to PET.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "8d2f0755-fc02-49bd-9293-dea7bd908d49",
+          "text": "It provides clear spatial resolution of white matter changes.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "b6b287c0-b6b9-4c90-95aa-243184e7ef1b",
+          "text": "It is capable of monitoring brain activity.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c8ce2777-11a6-413b-aa12-775f9b1da578",
+          "text": "Radiation exposure is a potential limitation.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "cbb1838f-d514-44d2-9554-73ab12c6ea95",
+          "text": "It is capable of measuring neurotransmitter activity.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "8d2f0755-fc02-49bd-9293-dea7bd908d49",
+        "text": "It provides clear spatial resolution of white matter changes."
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "8d2f0755-fc02-49bd-9293-dea7bd908d49",
+          "text": "It provides clear spatial resolution of white matter changes.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The SPECT technique provides a three-dimensional image of brain function. It measures cerebral blood flow and metabolic activity with minimal radiation exposure. Using long-lived isotopes, SPECT is cheaper than PET. The major disadvantages are the limited clinical experience with it and its inferior spatial resolution compared to that of PET. (Ref. 3, pp. 217-219)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": "f05c12c0-db18-4ebb-9db3-d60dd245c62f",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements regarding the type II error is correct?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "042c2a49-ceb8-41c5-8c3c-807bb933de34",
+          "text": "Null hypothesis is not rejected when it is false.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "0fd7072a-e315-47fa-987e-1b93b008c8dd",
+          "text": "Null hypothesis is rejected when it is true.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "a0ec2f3a-ecc8-46b6-bb03-b8ca3706a54f",
+          "text": "Null hypothesis is rejected when it is false.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b21c93c3-215b-41c2-8cda-b9cfc35d3357",
+          "text": "The alternative hypothesis is rejected when it is false.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b83a4d35-6df9-4e16-89f2-c6bbb9e30f2a",
+          "text": "Null hypothesis is not rejected when it is true.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "042c2a49-ceb8-41c5-8c3c-807bb933de34",
+        "text": "Null hypothesis is not rejected when it is false."
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "042c2a49-ceb8-41c5-8c3c-807bb933de34",
+          "text": "Null hypothesis is not rejected when it is false.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A type II error refers to incorrectly deciding no difference exists when there really is a difference (the null hypothesis is not rejected when is false). A type I error refers to deciding a difference exists when there is really no difference (null hypothesis is rejected when it is true). (J. A. Gliner, G. A. Morgan, and R. J. Harmon: Instruction to Inferential Statistics and Hypothesis Testing. JAACAP, 39: 1568-1570, 2000)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": "5b102809-b62d-40db-918b-4140458e1c85",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements regarding sensitivity and specificity is incorrect?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d5a28b51-b64f-4dae-8717-2133ac2b0720",
+          "text": "Sensitivity is the percentage of positive results among individuals who have the disease for which they are being tested.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "dbe44816-f4aa-44b4-9a93-43e72c05c8d9",
+          "text": "Specificity is the percentage of negative test results in patients who actually do not have the disease.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ea66a53c-57f1-4818-91b1-20617de1c141",
+          "text": "Sensitivity is the percentage of negative results among individuals who do not have the disease for which they are being tested.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "eeb3af9b-b1fa-4d58-9511-386139cf646b",
+          "text": "Specificity is important in trying to include only true cases.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "eef77579-1286-4bf4-80df-b4bfb8c38855",
+          "text": "Sensitivity is important when trying to identify as many cases as possible.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "ea66a53c-57f1-4818-91b1-20617de1c141",
+        "text": "Sensitivity is the percentage of negative results among individuals who do not have the disease for which they are being tested."
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "ea66a53c-57f1-4818-91b1-20617de1c141",
+          "text": "Sensitivity is the percentage of negative results among individuals who do not have the disease for which they are being tested.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Sensitivity is the proportion of true cases that the test selects. Specificity is the proportion of subjects who do not have the disease in the group that the test identifies as negative. (Ref. 1, p. 82)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": "883d10a8-4702-4c40-8808-6a6907a662dd",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "All of the following statements regarding functional magnetic resonance imaging (fMRI) are accurate except:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3d7bf262-67df-481d-a1be-832c2d9c9130",
+          "text": "It is relatively safe in children.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5e6b3268-6b9a-4690-921f-ba826afe4bc5",
+          "text": "The image intensity changes result from the variable oxygenation levels in the regions of interest.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "88393439-e309-486f-87d3-c6ca19b22c95",
+          "text": "Its spatial and temporal resolutions are superior to that of conventional PET and SPECT.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b519afd8-f3a3-4bdb-a289-8183edbe3cbc",
+          "text": "Its temporal resolution is superior to that of electroencephalography (EEG).",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "fe2a8d81-da81-4a72-94fb-1047d2987148",
+          "text": "It identifies brain activity while the subject performs a cognitive task.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "b519afd8-f3a3-4bdb-a289-8183edbe3cbc",
+        "text": "Its temporal resolution is superior to that of electroencephalography (EEG)."
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "b519afd8-f3a3-4bdb-a289-8183edbe3cbc",
+          "text": "Its temporal resolution is superior to that of electroencephalography (EEG).",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Compared to fMRI, EEG has a much better temporal resolution than fMRI. However, fMRI has better resolution than PET and SPECT. fMRI can test subjects undertaking cognitive tasks by identifying changes in oxygenation levels of identified regions of interest. (Ref. 3, pp. 221-223)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": "67bce406-30fc-4d0f-bbcb-f2be9a86c801",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "All of the following statements regarding diffusion tensor imaging (DTI) are correct except:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "16ae31aa-887c-48ec-99f2-5d66dfa1a06c",
+          "text": "Specifying loss of benefits because of refusal to participate",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "43d02525-78aa-4a68-a8f9-614f2a121307",
+          "text": "It is based on T1 and T2 relaxation times to produce the images.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "80095668-c15f-403a-af9c-dd202dc5e963",
+          "text": "It has a unique strength in providing information about the orientation and integrity of gray matter tracts.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "9fddb7e5-cb3d-46ba-b13f-ccebb5596138",
+          "text": "It is an application of MRI technology.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ac40042f-52e3-426f-afcb-ac5922dc39db",
+          "text": "There are potential uses for studying brain connectivity.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "80095668-c15f-403a-af9c-dd202dc5e963",
+        "text": "It has a unique strength in providing information about the orientation and integrity of gray matter tracts."
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "80095668-c15f-403a-af9c-dd202dc5e963",
+          "text": "It has a unique strength in providing information about the orientation and integrity of gray matter tracts.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "DTI specifically focuses on the white matter and evaluates the orientation and integrity of the white matter tracts. DTI images are based on T1 and T2 relaxation times, providing information regarding neuronal connectivity. Clinically, it was first used to diagnose stroke, and then to show the white matter loss in multiple sclerosis, schizophrenia, dyslexia, and preterm birth. (Ref. 3, pp. 223-225; Ref. 5, pp. 258-260)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": "72b215c4-204c-4948-80c7-eeee4e6e5d7f",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "All of the following are essential elements of information that should be transmitted to research subjects during the informed consent process except:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "67ccc0a7-ce9d-4a33-aac7-a18370029603",
+          "text": "Specifying loss of benefits because of refusal to participate",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "92baf95f-3665-4ac7-b217-9d69d90e3fc9",
+          "text": "Confidentiality of records",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9451bb51-636c-41ea-8ffb-b341feed76bd",
+          "text": "Purpose and duration of the research",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "abab9539-cc5f-4eb8-a035-fc74c1c5b863",
+          "text": "Foreseeable risks and benefits",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c9029264-3f62-4835-8c28-f708f347017f",
+          "text": "Contact information in case of questions",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "67ccc0a7-ce9d-4a33-aac7-a18370029603",
+        "text": "Specifying loss of benefits because of refusal to participate"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "67ccc0a7-ce9d-4a33-aac7-a18370029603",
+          "text": "Specifying loss of benefits because of refusal to participate",
+          "is_correct": true
+        }
+      ],
+      "explanation": "According to federal regulations, certain key elements of information must be transmitted to the research subjects during the informed consent process. Participation is on a voluntary basis, and no loss of benefits should result from refusal to par- ticipate in research. (Ref. 3, pp. 141-142)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": "128534ee-6946-47dd-90cd-78abf846ed51",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is most essential to be obtained from child subjects before they participate in clinical research?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "471734c4-0951-4123-8343-452b8151e700",
+          "text": "Authorization",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a582e130-be62-4e53-b511-ba2d553e78ff",
+          "text": "Permission",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c6dc0732-6a13-4758-adc5-bd3c5c313983",
+          "text": "Assent",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "d88de195-44ee-40c1-a0d9-3395ab25531a",
+          "text": "Consent",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f0f72cb8-b9cd-4e2e-b47f-a02025043903",
+          "text": "Acceptance",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "c6dc0732-6a13-4758-adc5-bd3c5c313983",
+        "text": "Assent"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "c6dc0732-6a13-4758-adc5-bd3c5c313983",
+          "text": "Assent",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Assent is the term that describes children's agreement to participate in a research project. Informed consent is usually given by parents or legal guardians who have ultimate rights to authorize or refuse participation. Permission refers to the collective decision and judgment of the family in deciding to allow the child to participate. (Ref. 3, p. 144).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": "8a0bad25-a988-43e6-adce-9563638cc7a7",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following EEG waves represents a deeper stage of sleep?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6c001a47-74b9-46bd-be1d-ad2c7225cd09",
+          "text": "Delta",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "8cd3338d-225d-4b1b-b1fb-2e3a978a3628",
+          "text": "Beta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "cef6a30e-b1cf-44f0-82d8-a1b313a927f5",
+          "text": "Alpha",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d52af8c6-834e-497f-9288-e9420096f3a8",
+          "text": "Theta",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d5cad0d5-51ed-430c-a4d4-7cbad3955f95",
+          "text": "Gamma",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "6c001a47-74b9-46bd-be1d-ad2c7225cd09",
+        "text": "Delta"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "6c001a47-74b9-46bd-be1d-ad2c7225cd09",
+          "text": "Delta",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Delta waves are not seen in individuals who are awake. The frequency is ≤ 3.5 Hz, and it represents a deeper stage of sleep. Alpha activity is seen in awake individuals with their eyes closed, and the high rhythmic waves have a frequency between 8-13 Hz. Faster than alpha waves, beta waves (>13 Hz) are commonly seen in normal adult awake EEGs, especially over frontal regions. Gamma waves have very high frequency (>30 Hz) and reflect the mechanism of cortical integration, and are also being investigated in neurobehavioral disorders. Theta waves, with a frequency of 4.0 Hz to 7.5 Hz, are present in small amounts, in a sporadic, arrhythmic, and isolated fashion in normal awake EEGs. However, excessive theta waves may indicate a focal pathological process. (Ref. 5, p. 222)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": "833661e3-d616-4853-a0a4-c6e3fc61e236",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Intoxication or withdrawal from which of the following substances appears to have the least effect on EEG?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0229612e-e0c1-494b-99b8-4acbf61417f9",
+          "text": "Alcohol",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "73166715-bb3e-43b5-a470-c1c8e9010c5e",
+          "text": "LSD",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "948a2b64-3035-4ac6-9c1f-80c81edb360e",
+          "text": "Caffeine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "bfafaae0-4f40-4c86-90ec-33f86c346b8c",
+          "text": "Marijuana",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f5f7184d-034f-4d9c-9d26-95e3134d6d07",
+          "text": "Tobacco",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "73166715-bb3e-43b5-a470-c1c8e9010c5e",
+        "text": "LSD"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "73166715-bb3e-43b5-a470-c1c8e9010c5e",
+          "text": "LSD",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Hallucinogens such as LSD and mescaline do not appear to have any major effects on the visualized EEG and do not produce any clinically relevant EEG changes. However, use of or withdrawal from all other listed substances, including others (e.g., barbiturates, cocaine, and inhalants), may produce signif- icant noticeable changes in the EEG. (Ref. 5, pp. 226-227)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": "fcf2ebda-4b1c-4ec7-afb1-14c9f2c32cfd",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements regarding magnetoenceph- alography (MEG) is most accurate?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "393aa268-51dc-4e92-8171-f1f4baffc841",
+          "text": "It detects signals representing a direct index of neuronal activity.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "791757e5-1fdd-4719-a6c7-3dea8d0bdd5f",
+          "text": "It is relatively simple and inexpensive.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b597171c-86c9-44a6-9194-e66790438c6b",
+          "text": "It measures not only cerebral blood flow but also blood oxygenation.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d2a978ce-5945-480a-94c3-460dae21679a",
+          "text": "The clinical yield in child psychiatry has been impressive.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e85a1283-8af6-4618-b0d3-12fa73bbd740",
+          "text": "It has been widely utilized in studying adults.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "393aa268-51dc-4e92-8171-f1f4baffc841",
+        "text": "It detects signals representing a direct index of neuronal activity."
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "393aa268-51dc-4e92-8171-f1f4baffc841",
+          "text": "It detects signals representing a direct index of neuronal activity.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Magnetoencephalography (MEG) is a technique combining both magnetic field and EEG techniques, detecting signals that represent direct index of neuronal activities. In contrast, most other neuroimaging methods (for example, fMRI) detect indi- rect indices of neuronal activities by measuring cerebral blood flow and oxygenation. (Ref. 3, p. 229; Ref. 5, pp. 439-440)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": "1629f1dd-6a9b-446e-a556-71db39ec5bdf",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following medications should be definitely avoided during electroconvulsive therapy (ECT)?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "20531bac-bb28-4804-b489-49bd5617aaf4",
+          "text": "Lithium",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "333097cc-888e-4a56-ad1c-429df9c9bd21",
+          "text": "Nortriptyline",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "34cd2e61-7065-422a-85a3-2e333e77dff7",
+          "text": "Venlafaxine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "bfc92027-42d5-4c4b-96d3-226cf9d5607d",
+          "text": "Haloperidol",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c9daaded-33b1-42fe-9438-813a7ed7abcd",
+          "text": "Aripiprazole",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "20531bac-bb28-4804-b489-49bd5617aaf4",
+        "text": "Lithium"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "20531bac-bb28-4804-b489-49bd5617aaf4",
+          "text": "Lithium",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The combination of lithium and ECT can cause prolonged and/or focal seizures, and can also lead to confusion and serotonin syndrome. Haloperidol and fluphenazine have little effect on seizures induced by ECT, but reserpine should not be combined with ECT. Second-generation antipsychotics are generally considered safe combined with ECT. Antidepres- sants (except for MAOIs) are commonly used along with ECT. TCAs seem to be safe in patients without significant cardiac comorbidities. Both venlafaxine and nortiptyline are found to increase the response to ECT. (Ref. 5, pp. 3297-3298)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": "b12f449a-8320-4d4b-bfd2-6eb11df33bed",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following tools or devices applies magnetic stim- ulation to the brain?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "96d38086-3a22-4aad-97bc-9652a0ae5c7e",
+          "text": "ECT",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ac83bae4-cb4c-4763-9121-4cc660dc67ee",
+          "text": "Transcranial magnetic stimulation (TMS)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "ca1914ee-2872-4f34-a9ee-c53b4ab41ded",
+          "text": "Implanted cortical stimulation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f018cfaa-8969-437e-be43-98002a2c0448",
+          "text": "Transcranial direct current stimulation (tDCS)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f3a7266b-67fb-448c-8450-62ae146c93b4",
+          "text": "Vagus nerve stimulation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "ac83bae4-cb4c-4763-9121-4cc660dc67ee",
+        "text": "Transcranial magnetic stimulation (TMS)"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "ac83bae4-cb4c-4763-9121-4cc660dc67ee",
+          "text": "Transcranial magnetic stimulation (TMS)",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Among all the listed devices or tools only transcranial mag- netic stimulation (TMS) applies a rapidly changing magnetic field to the superficial layers of the cerebral cortex, and induces small electric currents locally. Normally, it does not induce a seizure, in contrast to ECT. Repetitive transcranial magnetic stimulation (rTMS) may induce a seizure, and that is one of the potential severe side effects of the treatment. All other listed devices or tools use electrical currents. (Ref. 5, pp. 3306-3315)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": "b13e6e93-b1d1-47c5-9035-d016efb01280",
+      "question_type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which type of the following study designs can obtain data regarding incidence rates and incidence rate ratios?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3cdbdabf-abc9-41fc-b732-63159c0acb7e",
+          "text": "Cohort study",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "8defba2a-f89b-4fae-8c07-0574925f6e82",
+          "text": "None of the above",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9573cb24-e918-490b-aa6d-8b1dae98228b",
+          "text": "Ecological study",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d2cf9cf7-74d5-443d-9ee0-4334e295e155",
+          "text": "Cross-sectional study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f61df3a5-959d-4aa5-b5c8-8169bd061ed5",
+          "text": "Case-control study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "3cdbdabf-abc9-41fc-b732-63159c0acb7e",
+        "text": "Cohort study"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "3cdbdabf-abc9-41fc-b732-63159c0acb7e",
+          "text": "Cohort study",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The cohort study uses a longitudinal prospective or retro- spective design to collect data to compare the group that was or will be exposed to a particular agent(s) or risk factor(s) to the group without such an exposure(s). The incidence rates and incidence rate ratios can be calculated. The cohort study is also called an incidence study. (Ref. 3, pp. 152-153)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

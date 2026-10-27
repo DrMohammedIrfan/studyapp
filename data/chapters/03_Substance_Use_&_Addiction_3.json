@@ -1,0 +1,290 @@
+{
+  "chapter_id": 246,
+  "chapter_name": "Substance Use & Addiction 3",
+  "subject_name": "Addiction & SUD",
+  "total_questions": 6,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 25524,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Nalmefene (Selincro) is approved in the EU for alcohol use disorder using a 'targeted' dosing strategy. How does its mechanism differ from naltrexone?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 127814,
+          "text": "Nalmefene is a pure opioid antagonist; naltrexone is a partial agonist",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 127815,
+          "text": "Nalmefene is a mixed opioid antagonist/partial kappa agonist; naltrexone is a pure antagonist at all opioid receptors",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 127816,
+          "text": "Nalmefene acts on dopamine D3 receptors; naltrexone acts on mu receptors only",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 127817,
+          "text": "They have identical mechanisms but different routes of administration",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 127818,
+          "text": "Nalmefene blocks serotonin 5-HT3 receptors; naltrexone blocks opioid receptors",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 127815,
+        "text": "Nalmefene is a mixed opioid antagonist/partial kappa agonist; naltrexone is a pure antagonist at all opioid receptors"
+      },
+      "explanation": "Nalmefene is a mixed opioid receptor modulator: mu (μ) and delta (δ) antagonism, plus kappa (κ) partial agonism. Naltrexone is a non-selective pure antagonist at μ, δ, and κ opioid receptors. Nalmefene's kappa partial agonism may modulate the dysphoric/stress response component of cravings (KOR signalling mediates stress-induced relapse), providing additional anti-craving benefit beyond pure mu antagonism. Both agents reduce alcohol consumption by blocking opioid-mediated reward in the mesolimbic pathway. Nalmefene is approved in the EU for 'as-needed' targeted use — taken 1-2 hours before anticipated drinking occasions, allowing flexible use without daily dosing. This is distinct from naltrexone (daily oral or monthly depot IM) and acamprosate (daily oral). The ESENSE trials demonstrated significant reduction in heavy drinking days. NICE recommends nalmefene as an adjunct to psychosocial support in AUD patients who have high drinking risk levels and do not require immediate detoxification.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": 25525,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Buprenorphine is widely used for opioid use disorder maintenance treatment. Its 'ceiling effect' on respiratory depression (at high doses) is explained by which pharmacological property?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 127819,
+          "text": "High plasma protein binding preventing free drug accumulation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 127820,
+          "text": "Partial agonism at mu-opioid receptors — plateau effect at high doses",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 127821,
+          "text": "Rapid CYP3A4 metabolism limiting plasma levels",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 127822,
+          "text": "Antagonism at delta-opioid receptors opposing respiratory effects",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 127823,
+          "text": "CNS P-glycoprotein efflux limiting brain penetration",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 127820,
+        "text": "Partial agonism at mu-opioid receptors — plateau effect at high doses"
+      },
+      "explanation": "Buprenorphine is a high-affinity partial agonist at mu-opioid receptors (MOR). As a partial agonist, its dose-response curve plateaus at submaximal efficacy — even at very high doses, it does not produce the same degree of respiratory depression as full agonists (heroin, morphine, oxycodone). This ceiling effect on respiratory depression is the key safety advantage over full opioid agonists for maintenance therapy. However, the ceiling effect applies only when pure buprenorphine is used; combining it with benzodiazepines or alcohol can overcome this protection (full respiratory depression possible). Buprenorphine also has: high receptor affinity (displacing full agonists — precipitating withdrawal if given before adequate washout); long half-life (~24-60h); slow receptor dissociation (blocking street opioid effects even if misused — 'blockade'). Naloxone is combined in Suboxone (4:1 buprenorphine:naloxone) to deter injection misuse (naloxone has poor oral bioavailability but blocks opioid effects if injected).",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": 25526,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Sodium oxybate (gamma-hydroxybutyrate, GHB) is approved for narcolepsy with cataplexy. Its mechanism relevant to both cataplexy treatment and its abuse potential involves:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 127824,
+          "text": "Selective histamine H1 receptor antagonism",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 127825,
+          "text": "GHB/GABA-B receptor agonism producing deep sleep architecture consolidation",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 127826,
+          "text": "Hypocretin/orexin receptor 2 (OX2R) agonism",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 127827,
+          "text": "Adenosine A2A receptor blockade in the basal ganglia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 127828,
+          "text": "Dopamine transporter blockade in the mesolimbic pathway",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 127825,
+        "text": "GHB/GABA-B receptor agonism producing deep sleep architecture consolidation"
+      },
+      "explanation": "Sodium oxybate (GHB) acts primarily as a GHB receptor agonist (at GHB-specific receptors, distinct from GABA receptors) and, at higher concentrations, as a GABA-B receptor agonist. Its therapeutic benefit in narcolepsy with cataplexy stems from: improving nocturnal sleep architecture (increasing slow-wave sleep, reducing fragmentation, and consolidating right-time sleep) → reducing daytime sleepiness and cataplexy attacks. The mechanism of anti-cataplexy action likely involves normalising REM sleep regulation and reducing the REM intrusions into wakefulness that characterise narcolepsy. Abuse potential: GHB is a CNS depressant with euphoric effects at recreational doses; rapid onset (15-30 min) and amnestic properties also make it a drug-of-misuse. It was banned in many countries before re-emerging as a controlled prescription drug. New low-sodium oxybate (Lumryz) formulations reduce sodium load risk. Pitolisant (H3 inverse agonist) is a newer alternative for narcolepsy with a different mechanism.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": 25527,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "MDMA (3,4-methylenedioxymethamphetamine)-assisted therapy is in Phase 3 trials for PTSD. MDMA's primary pharmacological mechanism involves:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 127829,
+          "text": "Competitive SERT blockade",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 127830,
+          "text": "Monoamine transporter reversal/release",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 127831,
+          "text": "Direct 5-HT2A agonism",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 127832,
+          "text": "Selective dopamine reuptake inhibition",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 127833,
+          "text": "NMDA receptor antagonism",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 127830,
+        "text": "Monoamine transporter reversal/release"
+      },
+      "explanation": "MDMA is a substrate for the serotonin (SERT), dopamine (DAT), and noradrenaline (NET) reuptake transporters. Rather than blocking these transporters competitively, MDMA enters the presynaptic terminal and reverses transporter direction, causing non-vesicular, calcium-independent release of monoamines into the synapse. Serotonin release dominates (approximately 3:1 ratio over dopamine), producing the characteristic prosocial, empathogenic, and anxiolytic effects that underpin its therapeutic utility in PTSD therapy. MDMA also releases oxytocin from the hypothalamus, inhibits amygdala reactivity to threat, and enhances extinction learning — which may be the therapeutic mechanism in PTSD; enhanced fear extinction during therapy sessions combined with increased trust and therapeutic alliance. The MAPS Phase 3 trials showed clinically and statistically significant PTSD symptom reduction with MDMA-AT vs placebo+therapy. MDMA is not a classic psychedelic (it lacks significant 5-HT2A agonism) and does not typically cause hallucinations.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": 11305,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to NESARC, what percentage of patients with alcohol dependence satisfy criteria for 1-year prevalence of clinical depression?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 56555,
+          "text": "15%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 56556,
+          "text": "20%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 56557,
+          "text": "30%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 56558,
+          "text": "75%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 56559,
+          "text": "90%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 56557,
+        "text": "30%"
+      },
+      "explanation": "According to NESARC (Grant et al., 2004), around 29% of individuals meeting criteria for alcohol dependence also satisfy DSM-IV criteria for major depressive disorder in the past 12 months, making C the correct answer. The other options (15%, 21%, 35%, 40%) do not correspond to the NESARC-derived 1-year prevalence figure for this comorbidity. This high rate of co-occurrence underscores the bidirectional relationship between alcohol dependence and clinical depression. Note: 15% is sometimes cited as the lifetime suicide rate in alcohol dependence, and 21% appears in EseMED data on antidepressant receipt — neither relates to this specific NESARC comorbidity statistic.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": 20505,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 58-year-old man with tobacco use disorder has recently been diagnosed with peripheral vascular disease by his primary care physician. He now wishes to stop smoking. Which of the following licensed smoking cessation treatments is best avoided in this individual?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 102903,
+          "text": "Varenicline",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 102904,
+          "text": "Nicotine inhaler",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 102905,
+          "text": "Nicotine nasal spray",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 102906,
+          "text": "Bupropion",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 102907,
+          "text": "Nicotine transdermal patch",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 102905,
+        "text": "Nicotine nasal spray"
+      },
+      "explanation": "Nicotine nasal spray delivers nicotine most rapidly of all NRT formulations, with venous nicotine peaking 5–10 minutes after administration, producing the highest peak plasma concentrations and therefore the greatest sympathomimetic/vasoconstrictive effect making it the least suitable option in significant peripheral vascular disease (slower-release products such as patches are preferred). Varenicline (a selective α4β2 nicotinic partial agonist) and bupropion contain no nicotine and are not contraindicated in vascular disease; varenicline is in fact effective and well tolerated in patients with cardiovascular disease. The nicotine inhaler delivers nicotine more slowly via oral/pharyngeal mucosa (peak ~20 minutes) and is less problematic than the nasal spray.",
+      "image_url": "",
+      "explanation_image_url": null
+    }
+  ]
+}

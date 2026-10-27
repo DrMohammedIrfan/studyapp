@@ -1,0 +1,3674 @@
+{
+  "chapter_id": 93,
+  "chapter_name": "Basic Epidemiology_1",
+  "subject_name": "Basic Epidemiology",
+  "total_questions": 78,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 7144,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A psychiatrist reviews epidemiological data on anxiety disorders. Which disorder has approximately equal prevalence in males and females?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35754,
+          "text": "Specific phobia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35755,
+          "text": "Panic disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35756,
+          "text": "OCD",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35757,
+          "text": "GAD",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35758,
+          "text": "PTSD",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35756,
+        "text": "OCD"
+      },
+      "explanation": "OCD has relatively equal gender distribution (slight male preponderance in childhood). Most other anxiety disorders are more common in females.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": 7135,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a study, the ratio between deaths during a study period and those who were alive at the BEGINNING of the time period at risk defines which measure?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35709,
+          "text": "Specific mortality rate",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35710,
+          "text": "Crude mortality rate",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35711,
+          "text": "Standardized mortality ratio",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35712,
+          "text": "Case fatality rate",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35713,
+          "text": "Proportional mortality ratio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35710,
+        "text": "Crude mortality rate"
+      },
+      "explanation": "The crude mortality rate is calculated as the total number of deaths in a population during a specified time period divided by the number of people at risk at the beginning of that period.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": 7093,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following statements about the Kaiser Permanente CDC Adverse Childhood Experiences (ACE) Study (Felitti et al., 1998) is TRUE regarding its methodology?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35499,
+          "text": "Parental divorce was included as an adverse childhood experience",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 35500,
+          "text": "The ACE Study was conducted exclusively among low-income, uninsured households",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35501,
+          "text": "The study utilized a questionnaire mailed to households in the UK",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35502,
+          "text": "Exposure to childhood abuse showed no relationship to leading causes of adult deaths",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35503,
+          "text": "There was no significant relationship between number of abuse categories and depression",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 35499,
+        "text": "Parental divorce was included as an adverse childhood experience"
+      },
+      "explanation": "The correct answer is A: parental separation or divorce was explicitly included as one of the 10 original ACE categories in the Felitti et al. (1998) ACE Study. Option C is false because the study was conducted in the USA (Kaiser Permanente Health Appraisal Clinic, San Diego), not the UK. Option D is false because the study demonstrated a strong graded relationship between ACE exposure and leading causes of adult death, including ischaemic heart disease, cancer, and chronic lung disease. Option E is false because the study found a clear dose-response relationship between the number of ACE categories and the likelihood of depression and other adverse outcomes.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": 7106,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The AESOP study investigated psychosis in the UK. Which of the following factors was observed to be associated with a 9-fold increase in the risk of schizophrenia amongst immigrants?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35564,
+          "text": "Lack of employment",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35565,
+          "text": "Emigrating from the Caribbean",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35566,
+          "text": "Emigrating from India",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35567,
+          "text": "Separation from parent during childhood",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35568,
+          "text": "Social isolation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35565,
+        "text": "Emigrating from the Caribbean"
+      },
+      "explanation": "The AESOP study identified that immigrants of Afro-Caribbean origin were 9 times more likely to develop schizophrenia than the general population, making emigrating from the Caribbean the specific ethnic factor associated with this increased risk.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": 7108,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the incidence of schizophrenia in African-Caribbean migrants compared to the general population?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35574,
+          "text": "2-3 times more",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35575,
+          "text": "5-7 times more",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35576,
+          "text": "9 times more",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35577,
+          "text": "15-20 times more",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35578,
+          "text": "30+ times more",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35576,
+        "text": "9 times more"
+      },
+      "explanation": "African-Caribbean migrants show approximately 9 times higher incidence of schizophrenia compared to the general population, suggesting the role of environmental stressors and social factors.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": 7086,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is a key disadvantage of cross-sectional studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35464,
+          "text": "High cost",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35465,
+          "text": "Long follow-up period required",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35466,
+          "text": "Cannot infer causality",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35467,
+          "text": "Excessive participant burden",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35468,
+          "text": "Complex statistical analysis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35466,
+        "text": "Cannot infer causality"
+      },
+      "explanation": "Cross-sectional studies cannot establish causality due to their snapshot nature without temporal sequencing.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": 7092,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher studies depression prevalence in a population at a single point in time. What type of study design is this?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35494,
+          "text": "Cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35495,
+          "text": "Case-control study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35496,
+          "text": "Cross-sectional study",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35497,
+          "text": "Longitudinal study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35498,
+          "text": "Randomized controlled trial",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35496,
+        "text": "Cross-sectional study"
+      },
+      "explanation": "A cross-sectional study examines the prevalence of a condition in a population at a specific point in time, providing a snapshot of the population.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": 7114,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Healthcare workers wash hands more when they are being observed. What explains this?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35604,
+          "text": "Hawthorne effect",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 35605,
+          "text": "Observer bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35606,
+          "text": "Social desirability",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35607,
+          "text": "Demand characteristics",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35608,
+          "text": "Halo effect",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 35604,
+        "text": "Hawthorne effect"
+      },
+      "explanation": "The Hawthorne effect describes how behavior changes when individuals are aware they are being observed. Healthcare workers engaging in better hand hygiene when observed is a classic example of this phenomenon.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": 7125,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which rat behavioral test evaluates spatial working memory?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35659,
+          "text": "Novel object recognition",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35660,
+          "text": "Elevated plus maze",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35661,
+          "text": "Y-maze test",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35662,
+          "text": "Morris water maze",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35663,
+          "text": "Passive avoidance test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35661,
+        "text": "Y-maze test"
+      },
+      "explanation": "The Y-maze test evaluates spatial working memory by having rats freely explore a Y-shaped maze with three arms, with alternation between arms indicating intact spatial working memory.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": 7091,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following was NOT included in the Holmes and Rahe Life Stress Scale?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35489,
+          "text": "Divorce",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35490,
+          "text": "Friendship breakdown",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35491,
+          "text": "Death of a spouse",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35492,
+          "text": "Child leaving home",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35493,
+          "text": "Pregnancy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35490,
+        "text": "Friendship breakdown"
+      },
+      "explanation": "The Holmes and Rahe Life Stress Scale included 43 life events with specific weightings. Among the first 10 events listed were death of spouse (100), divorce (73), death of a close family member (63), marriage (50), and retirement (45). Friendship breakdown was not included in the original scale.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": 7082,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Clinical audit is a central part of modern medical practice. Which of the following best describes the primary purpose of a clinical audit?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35444,
+          "text": "To check a service is performing at a given standard",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 35445,
+          "text": "Clinical governance",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35446,
+          "text": "To determine if an intervention works",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35447,
+          "text": "To improve services",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35448,
+          "text": "To identify areas requiring further training",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 35444,
+        "text": "To check a service is performing at a given standard"
+      },
+      "explanation": "Clinical audit is defined as a tool to measure the way in which clinical practice is being carried out, assessed against agreed standards, leading to a cycle of change and re-audit (Oxford Textbook of Old Age Psychiatry, p.294). Its primary purpose is therefore to check whether a service is performing at a given standard  option A. Improving services (D) is more precisely the goal of Quality Improvement",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": 7136,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a self-controlled case series design, what is a necessary assumption?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35714,
+          "text": "The observation period must end when an event occurs",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35715,
+          "text": "The presence of an event does not change the probability of exposure",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35716,
+          "text": "The study population must be randomly selected",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35717,
+          "text": "Confounding variables must be eliminated",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35718,
+          "text": "All participants must complete follow-up",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35715,
+        "text": "The presence of an event does not change the probability of exposure"
+      },
+      "explanation": "A key assumption in self-controlled case series is that the occurrence of the event being studied does not alter the probability of exposure (temporal stability of exposure).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": 7122,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which rat behavioral model is used to assess spatial learning and memory?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35644,
+          "text": "Prepulse inhibition test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35645,
+          "text": "Passive avoidance test",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35646,
+          "text": "Morris water maze",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35647,
+          "text": "Social interaction test",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35648,
+          "text": "Elevated plus maze",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35646,
+        "text": "Morris water maze"
+      },
+      "explanation": "The Morris water maze assesses spatial learning and memory by having rats navigate a water pool using spatial cues to find a hidden platform.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": 7071,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which study design is most appropriate to examine the association between depression and lithium levels?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35389,
+          "text": "Case Control",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35390,
+          "text": "Cohort",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35391,
+          "text": "Ecological",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35392,
+          "text": "Cross-sectional",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35393,
+          "text": "RCT",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35392,
+        "text": "Cross-sectional"
+      },
+      "explanation": "A cross-sectional study can examine the association between depression outcomes and lithium levels at a single point in time, making it appropriate for investigating this relationship.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": 7142,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study only recruits patients with clear-cut, severe presentations of a disorder from specialist clinics. How can diagnostic purity bias be reduced?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35744,
+          "text": "Recruit only from hospitals",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35745,
+          "text": "Include non-severe and atypical cases",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35746,
+          "text": "Include only severe cases",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35747,
+          "text": "Use stricter diagnostic criteria",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35748,
+          "text": "Exclude comorbidities",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35745,
+        "text": "Include non-severe and atypical cases"
+      },
+      "explanation": "Including non-severe and atypical cases increases generalizability and reduces spectrum/diagnostic purity bias.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": 7083,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In the CATIE study, what was the prevalence of metabolic syndrome in patients with schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35449,
+          "text": "20-30%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35450,
+          "text": "36-51.6%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35451,
+          "text": "60-70%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35452,
+          "text": "80-90%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35453,
+          "text": "Greater than 90%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35450,
+        "text": "36-51.6%"
+      },
+      "explanation": "In the CATIE study, the metabolic syndrome prevalence was found to be 51.6% for females and 36.0% for males with schizophrenia.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": 7073,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Block randomization is used primarily for which purpose?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35399,
+          "text": "Ensuring equal numbers of participants in each arm",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 35400,
+          "text": "Controlling for confounders",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35401,
+          "text": "Reducing selection bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35402,
+          "text": "Increasing statistical power",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35403,
+          "text": "Matching participants",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 35399,
+        "text": "Ensuring equal numbers of participants in each arm"
+      },
+      "explanation": "Block randomization ensures that groups remain balanced in size throughout the trial by randomizing participants in predetermined blocks.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": 7070,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which study design would be most appropriate to detect side effects of a new drug in initial evaluation?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35384,
+          "text": "Case Series",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 35385,
+          "text": "Case Control",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35386,
+          "text": "N of 1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35387,
+          "text": "Cohort",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35388,
+          "text": "RCT",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 35384,
+        "text": "Case Series"
+      },
+      "explanation": "A case series is ideal for identifying and describing adverse effects of new drugs in the initial phases before larger controlled studies are conducted.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": 7117,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is an advantage of prospective cohort studies compared to retrospective studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35619,
+          "text": "Faster completion time",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35620,
+          "text": "Lower cost",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35621,
+          "text": "Minimization of recall bias",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35622,
+          "text": "Smaller sample size requirements",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35623,
+          "text": "Easier participant recruitment",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35621,
+        "text": "Minimization of recall bias"
+      },
+      "explanation": "Prospective studies collect data on exposures before disease outcome occurs, which minimizes recall bias. Data is recorded prospectively as events happen, reducing reliance on memory.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": 7081,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study relies on a single psychiatrist to establish the diagnosis of all the participants. Which of the following types of bias would potentially result from this methodology?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35439,
+          "text": "Confounding bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35440,
+          "text": "Information bias",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35441,
+          "text": "Berkson's bias (hospital admission bias)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35442,
+          "text": "Neyman bias (incidence prevalence bias)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35443,
+          "text": "Healthy worker effect",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35440,
+        "text": "Information bias"
+      },
+      "explanation": "Information bias occurs when gathered information about exposure, outcome or both is not correct and there was an error in measurement. A single psychiatrist conducting all diagnostic interviews introduces the risk of consistent measurement error or bias in how diagnoses are established.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": 7109,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which is an advantage of prospective studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35579,
+          "text": "Low cost and quick results",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35580,
+          "text": "Recall bias is minimized",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35581,
+          "text": "Suitable for rare diseases",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35582,
+          "text": "Results available immediately",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35583,
+          "text": "No need for follow-up",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35580,
+        "text": "Recall bias is minimized"
+      },
+      "explanation": "Prospective studies minimize recall bias because data is collected prospectively as events occur, rather than relying on participants' memory of past events as in retrospective studies.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": 7076,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A patient with mild cognitive impairment wants to know how to reduce dementia risk. Which intervention is most evidence-supported?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35414,
+          "text": "Smoking Cessation",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 35415,
+          "text": "Aspirin (in those with comorbidities)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35416,
+          "text": "Omega-3 Supplementation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35417,
+          "text": "Vitamin B Supplementation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35418,
+          "text": "Zinc Supplementation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 35414,
+        "text": "Smoking Cessation"
+      },
+      "explanation": "Smoking cessation is a modifiable risk factor with strong evidence for reducing dementia risk; aspirin use has limited evidence and is comorbidity-dependent.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": 7074,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a case-control study examining the association between cannabis use and psychosis, the 2x2 table shows: cannabis users with psychosis = 123, cannabis users without psychosis = 410, controls with psychosis = 41, controls without psychosis = 310. What is the odds ratio for psychosis in cannabis users compared to controls?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35404,
+          "text": "2.27",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 35405,
+          "text": "3.4",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35406,
+          "text": "0.3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35407,
+          "text": "1.8",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35408,
+          "text": "2.8",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 35404,
+        "text": "2.27"
+      },
+      "explanation": "The odds ratio is calculated as OR = AD/BC per standard case-control methodology. Here A = 123 (cannabis users with psychosis), B = 410 (cannabis users without psychosis), C = 41 (controls with psychosis), D = 310 (controls without psychosis). \r\nOR = (123 x 310) / (410 x 41) = 38,130 / 16,810 = 2.27. This value is not among the listed options and the stated key of 3.4 is arithmetically incorrect. The question requires revision of either the numerical values in the stem or the answer options.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": 7141,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study compares MET (Motivational Enhancement Therapy) versus regular care for alcohol abstinence. Outcomes are time to first drink and severity of harmful drinking. Which confounder is most important to adjust for?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35739,
+          "text": "Visits to A&E",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35740,
+          "text": "Key worker's view about MET",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35741,
+          "text": "Co-substance misuse",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35742,
+          "text": "Age at first drink",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35743,
+          "text": "Employment status",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35741,
+        "text": "Co-substance misuse"
+      },
+      "explanation": "Co-substance misuse (e.g., other drugs) would significantly affect both treatment adherence and drinking outcomes, making it an important confounder.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": 7096,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is an advantage of using a cross-sectional method in researching children?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35514,
+          "text": "Reliability of measurements",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35515,
+          "text": "Validity of findings",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35516,
+          "text": "Easily accessible data and quick data collection",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35517,
+          "text": "Establishes temporal causality",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35518,
+          "text": "Reduces attrition rates",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35516,
+        "text": "Easily accessible data and quick data collection"
+      },
+      "explanation": "An advantage of using a cross-sectional method is that it allows for quick data collection from participants of different age groups at a single point in time. This provides easily accessible data and is efficient for obtaining a snapshot of developmental trends across different age cohorts, though it does not provide longitudinal insights or establish causality.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": 7118,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the Holmes and Rahe Life Events Scale, what is the life change value for divorce?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35624,
+          "text": "45",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35625,
+          "text": "50",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35626,
+          "text": "63",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35627,
+          "text": "73",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35628,
+          "text": "100",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35627,
+        "text": "73"
+      },
+      "explanation": "On the Holmes and Rahe Life Events Scale, divorce has a life change value of 73, making it the second most stressful life event after the death of a spouse (100).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": 7078,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Life expectancy increases while total dementia cases increase but new (incident) cases are slowly reducing. What is happening to prevalence?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35424,
+          "text": "Prevalence is going down",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35425,
+          "text": "Incidence is reducing but prevalence remains high or increasing",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35426,
+          "text": "Both prevalence and incidence are reducing",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35427,
+          "text": "Prevalence cannot be determined",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35428,
+          "text": "Prevalence is increasing",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35425,
+        "text": "Incidence is reducing but prevalence remains high or increasing"
+      },
+      "explanation": "Increasing prevalence with decreasing incidence reflects longer survival with disease; more people are living longer with dementia despite fewer new cases.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": 7098,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is the least likely cause of delayed speech and language development?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35524,
+          "text": "Family history",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35525,
+          "text": "Male gender",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35526,
+          "text": "Immigration",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35527,
+          "text": "Low socioeconomic status",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35528,
+          "text": "Smoking in pregnancy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35526,
+        "text": "Immigration"
+      },
+      "explanation": "Immigration is not recognized as a risk factor for delayed speech and language development, unlike family history, male gender, low socioeconomic status, and maternal smoking.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": 7112,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Prospective birth studies are attractive because it minimises?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35594,
+          "text": "Attrition",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35595,
+          "text": "Flexibility",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35596,
+          "text": "Self-reported bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35597,
+          "text": "Retrospective bias",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35598,
+          "text": "Hindsight bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35597,
+        "text": "Retrospective bias"
+      },
+      "explanation": "Prospective studies minimize retrospective bias because data is collected as events occur rather than relying on recall of past events. This prospective design reduces memory distortions and inaccuracies inherent in retrospective reporting, making the data more reliable and valid.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": 7111,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In the CATIE study, what was the prevalence of metabolic syndrome in the female cohort?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35589,
+          "text": "36.0-36.6%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35590,
+          "text": "40.9-42.7%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35591,
+          "text": "41-51%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35592,
+          "text": "51.6-54.2%",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35593,
+          "text": "60-70%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35592,
+        "text": "51.6-54.2%"
+      },
+      "explanation": "The CATIE study found that the prevalence of metabolic syndrome in females was 51.6% and 54.2% using NCEP and AHA criteria respectively, significantly higher than the 36.0% and 36.6% found in males.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": 7097,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the reported increased incidence of schizophrenia in African Caribbean migrants compared to native populations?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35519,
+          "text": "2 times increased",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35520,
+          "text": "5 times increased",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35521,
+          "text": "9 times increased",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35522,
+          "text": "15 times increased",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35523,
+          "text": "20 times increased",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35521,
+        "text": "9 times increased"
+      },
+      "explanation": "African Caribbean migrants have a 9 times increased incidence of schizophrenia compared to the general population.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": 7131,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is the LEAST likely to cause delayed speech and language development?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35689,
+          "text": "Family history of language delay",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35690,
+          "text": "Male gender",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35691,
+          "text": "Being a twin",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35692,
+          "text": "Lower maternal education",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35693,
+          "text": "Immigration",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 35693,
+        "text": "Immigration"
+      },
+      "explanation": "Immigration is not listed among the established risk factors for delayed speech and language development. Established risk factors include family history, male gender, twin status, lower maternal education, childhood illness, late birth order, young maternal age, and low socioeconomic status.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": 7085,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is a key advantage of cross-sectional studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35459,
+          "text": "Ability to determine causality",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35460,
+          "text": "Minimizes recall bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35461,
+          "text": "Quick and accessible data collection",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35462,
+          "text": "Follows participants over time",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35463,
+          "text": "Randomized allocation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35461,
+        "text": "Quick and accessible data collection"
+      },
+      "explanation": "Cross-sectional studies have the advantage of being quick and allowing accessible data collection at a single time point.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": 7094,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In the CATIE (Clinical Antipsychotic Trials of Intervention Effectiveness) schizophrenia trial, what was the overall prevalence of metabolic syndrome at baseline, and how did this differ by sex?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35504,
+          "text": "31-40%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35505,
+          "text": "40.90%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35506,
+          "text": "50%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35507,
+          "text": "Overall 40.9%; 51.6% in females and 36.0% in males",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35508,
+          "text": "Overall 36.0%; 51.6% in females and 40.9% in males",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 35508,
+        "text": "Overall 36.0%; 51.6% in females and 40.9% in males"
+      },
+      "explanation": "In the CATIE trial (n=689 patients with chronic schizophrenia), the overall prevalence of metabolic syndrome at baseline was 40.9% using NCEP-ATP III criteria. This broke down as 51.6% in female patients and 36.0% in male patients, demonstrating that females with schizophrenia face a disproportionately higher cardiometabolic burden. Option A is incorrect as 40.9% falls just above the 31–40% range. Option C (50%) approximates only the female rate and is not the overall figure.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": 7090,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is hindsight bias?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35484,
+          "text": "The tendency to assume that one's current knowledge predicts past events",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 35485,
+          "text": "Lack of insight into one's own behavior",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35486,
+          "text": "Absence of selection bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35487,
+          "text": "Arrogance about one's decisions",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35488,
+          "text": "Inability to predict future events",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 35484,
+        "text": "The tendency to assume that one's current knowledge predicts past events"
+      },
+      "explanation": "Hindsight bias is the tendency to perceive events as more predictable after they have occurred, including the tendency to assume knowing the outcome of an event after it has already been determined.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": 7148,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a cohort study, the exposed group has 20 events out of 100 and the unexposed group has 10 events out of 100. What is the relative risk?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35774,
+          "text": "0.5",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35775,
+          "text": "1.0",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35776,
+          "text": "2.0",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35777,
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35778,
+          "text": "20",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35776,
+        "text": "2.0"
+      },
+      "explanation": "Relative risk = Risk in exposed / Risk in unexposed = (20/100) / (10/100) = 0.2 / 0.1 = 2.0, meaning the exposed group has twice the risk.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": 7087,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What proportion of patients on antipsychotics in the CATIE trial developed metabolic syndrome?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35469,
+          "text": "20.50%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35470,
+          "text": "30.40%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35471,
+          "text": "40.90%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35472,
+          "text": "50.80%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35473,
+          "text": "60.20%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35471,
+        "text": "40.90%"
+      },
+      "explanation": "The CATIE trial found that 40.9% of patients on antipsychotics developed metabolic syndrome, with higher rates in females (51.6%).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": 7080,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Likelihood ratio for a negative test when sensitivity is 60% and specificity is 80%.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35434,
+          "text": "1.3",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35435,
+          "text": "0.48",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35436,
+          "text": "0.5",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35437,
+          "text": "-0.2",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35438,
+          "text": "0.3",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35436,
+        "text": "0.5"
+      },
+      "explanation": "LR- = (1 - sensitivity) / specificity = (1 - 0.6) / 0.8 = 0.4 / 0.8 = 0.5. This means the probability of a negative test in those with disease is half that of those without disease.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": 7140,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study examines the relationship between antidepressants and cardiac events. The analysis is adjusted for age and sex. Several other variables are listed. Which of the following would be LEAST likely to be a confounder if already adjusted for age and sex?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35734,
+          "text": "Alcohol use",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35735,
+          "text": "Smoking",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35736,
+          "text": "Cholesterol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35737,
+          "text": "Severity of depression",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35738,
+          "text": "Age",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 35738,
+        "text": "Age"
+      },
+      "explanation": "Age is already adjusted for in the analysis, so it cannot be a residual confounder. The other variables could still confound the relationship.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": 7119,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Prospective birth studies are attractive because they minimize which type of bias?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35629,
+          "text": "Attrition",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35630,
+          "text": "Flexibility",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35631,
+          "text": "Self-reported bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35632,
+          "text": "Retrospective bias",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35633,
+          "text": "Selection bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35632,
+        "text": "Retrospective bias"
+      },
+      "explanation": "Prospective birth studies are attractive because they minimize retrospective bias by collecting data as events unfold in real time rather than relying on participants' memory of past events. This direct observation prevents distortion from hindsight bias and memory reconstruction.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": 7130,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The AESOP study identified which ethnic group as having a 9-fold increased risk of psychosis?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35684,
+          "text": "South Asian immigrants",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35685,
+          "text": "Afro-Caribbean immigrants",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35686,
+          "text": "East Asian immigrants",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35687,
+          "text": "Eastern European immigrants",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35688,
+          "text": "Middle Eastern immigrants",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35685,
+        "text": "Afro-Caribbean immigrants"
+      },
+      "explanation": "The AESOP study, conducted in London, Bristol, and Nottingham, identified that Afro-Caribbean immigrants had a 9-fold increase in the incidence rate of psychosis compared to the general population.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": 7095,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is an advantage of using a cross-sectional method to study developmental phenomena in children?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35509,
+          "text": "High response rates",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35510,
+          "text": "Ability to infer causality",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35511,
+          "text": "Avoids the confounding effect of age",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35512,
+          "text": "Quick data collection",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35513,
+          "text": "Longitudinal insights",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35512,
+        "text": "Quick data collection"
+      },
+      "explanation": "One advantage of using a cross-sectional method in studying developmental phenomena in children is that it allows for quick data collection from participants of different age groups at a single point in time, providing a snapshot of developmental trends across different age cohorts.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": 7123,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which rat behavioral model assesses anxiety-like behavior?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35649,
+          "text": "Passive avoidance test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35650,
+          "text": "Novel object recognition test",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35651,
+          "text": "Y-maze test",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35652,
+          "text": "Elevated plus maze",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35653,
+          "text": "Social interaction test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35652,
+        "text": "Elevated plus maze"
+      },
+      "explanation": "The elevated plus maze evaluates anxiety-like behavior, with time spent in open arms reflecting anxiety levels, as rats naturally avoid open, exposed areas.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 44,
+      "question_id": 7146,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the main purpose of case series?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35764,
+          "text": "To establish causation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35765,
+          "text": "To calculate incidence",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35766,
+          "text": "To report rare events or generate hypotheses",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35767,
+          "text": "To compare treatments",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35768,
+          "text": "To measure prevalence",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35766,
+        "text": "To report rare events or generate hypotheses"
+      },
+      "explanation": "Case series describe unusual presentations or rare events and generate hypotheses for further research. They cannot establish causation.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 45,
+      "question_id": 7138,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A graph shows age-standardized suicide rates for males and females from 1990 to 2021. The error bars for females are consistently wider than for males. What does this indicate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35724,
+          "text": "Higher mean rates in females",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35725,
+          "text": "Greater variance for age-standardized rates in females",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35726,
+          "text": "Lower sample size for males",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35727,
+          "text": "More precise estimates for females",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35728,
+          "text": "Systematic bias in female data",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35725,
+        "text": "Greater variance for age-standardized rates in females"
+      },
+      "explanation": "Wider error bars indicate greater variance/uncertainty in the estimates. This suggests more variability in female age-standardized rates.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 46,
+      "question_id": 7110,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the AESOP study and associated literature, which of the following proposed explanations for the increased incidence of schizophrenia in African-Caribbean people in the UK has been REFUTED by the finding that UK-born second-generation individuals have higher rates than first-generation migrants?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35584,
+          "text": "Genetic predisposition",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35585,
+          "text": "Migration stress or immigration",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35586,
+          "text": "Socioeconomic factors",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35587,
+          "text": "Substance use",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35588,
+          "text": "Nutritional deficiency",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35585,
+        "text": "Migration stress or immigration"
+      },
+      "explanation": "The AESOP study and associated literature have established that migration stress does not account for the increased risk, because UK-born second-generation African-Caribbean individuals have even higher rates than first-generation migrants, directly refuting immigration as the explanation. \r\nGenetic predisposition is similarly unsupported, as the generational pattern favours an environmental effect. Nutritional deficiency is explicitly contradicted  African-Caribbean patients show less neurodevelopmental insult than white counterparts. Social disadvantage has the most evidential support among the listed options as a contributory factor, though no single cause has been definitively established by AESOP.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 47,
+      "question_id": 7107,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is an advantage of using a cross-sectional method in studying developmental phenomena in children?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35569,
+          "text": "Longitudinal insights into individual development",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35570,
+          "text": "Establishment of temporal causality",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35571,
+          "text": "Easily accessible data and quick collection from different age groups",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35572,
+          "text": "Reduced attrition rates",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35573,
+          "text": "Long-term follow-up information",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35571,
+        "text": "Easily accessible data and quick collection from different age groups"
+      },
+      "explanation": "One advantage of the cross-sectional method is that it allows for quick data collection from participants of different age groups at a single point in time, providing easily accessible data and efficient snapshots of developmental trends.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 48,
+      "question_id": 7115,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Advantage of research in children using a Cross-sectional method",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35609,
+          "text": "Reliability",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35610,
+          "text": "Validity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35611,
+          "text": "Easily accessible data",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35612,
+          "text": "Improved response rates",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35613,
+          "text": "Longitudinal insights into individual development",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35611,
+        "text": "Easily accessible data"
+      },
+      "explanation": "Cross-sectional studies allow for quick data collection from participants of different age groups at a single point in time, providing easily accessible data. However, this method does not provide longitudinal insights, establish temporal causality, or inherently improve response rates or attrition rates.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 49,
+      "question_id": 7120,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the The AESOP (Aetiology and Ethnicity in Schizophrenia and Other Psychoses)  study, by approximately how many times was the incidence of psychosis increased in Afro-Caribbean people compared to the white population in the UK?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35634,
+          "text": "3-fold",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35635,
+          "text": "6-fold",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35636,
+          "text": "9-fold",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35637,
+          "text": "12-fold",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35638,
+          "text": "15-fold",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35636,
+        "text": "9-fold"
+      },
+      "explanation": "The AESOP (Aetiology and Ethnicity in Schizophrenia and Other Psychoses) study, conducted in London, Bristol and Nottingham, found a 9-fold increase in the rate of psychosis among Afro-Caribbean people compared to the white population. This is among the most striking and replicated findings in the epidemiology of schizophrenia. The study also found a 6-fold increase among those of African origin.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 50,
+      "question_id": 7124,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which rat behavioral test measures associative learning and memory?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35654,
+          "text": "Morris water maze",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35655,
+          "text": "Passive avoidance test",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35656,
+          "text": "Y-maze test",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35657,
+          "text": "Elevated plus maze",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35658,
+          "text": "Social interaction test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35655,
+        "text": "Passive avoidance test"
+      },
+      "explanation": "The passive avoidance test measures associative learning and memory, where rats learn to avoid a chamber in which they previously received an aversive stimulus.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 51,
+      "question_id": 7128,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following statements about the CATIE study is correct?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35674,
+          "text": "Risk of metabolic syndrome is 20-30%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35675,
+          "text": "Risk of metabolic syndrome is 41-50%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35676,
+          "text": "Risk of type 2 diabetes mellitus is 5-10%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35677,
+          "text": "Risk of type 2 diabetes mellitus is 50-60%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35678,
+          "text": "Females had lower risk than males",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35675,
+        "text": "Risk of metabolic syndrome is 41-50%"
+      },
+      "explanation": "The CATIE study found a risk of metabolic syndrome of 41-50% (51.6% for females and 36% for males) and risk of type 2 diabetes mellitus of 19-30%.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 52,
+      "question_id": 7102,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In the Holmes and Rahe Life Events Scale, which life event has a value of 73?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35544,
+          "text": "Death of spouse",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35545,
+          "text": "Divorce",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35546,
+          "text": "Marital separation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35547,
+          "text": "Jail term",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35548,
+          "text": "Death of a close family member",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35545,
+        "text": "Divorce"
+      },
+      "explanation": "In the Holmes and Rahe Life Events Scale, divorce has a life-changing unit value of 73. Death of spouse has the highest value at 100.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 53,
+      "question_id": 7126,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Q Methodology is best described as which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35664,
+          "text": "Quantitative statistical analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35665,
+          "text": "A systematic study of participant viewpoints and subjectivity",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35666,
+          "text": "Neuropsychological testing",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35667,
+          "text": "Randomized controlled trial design",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35668,
+          "text": "Case-control study methodology",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35665,
+        "text": "A systematic study of participant viewpoints and subjectivity"
+      },
+      "explanation": "Q Methodology is a research method developed by William Stephenson used in psychology and social sciences to systematically study people's subjectivity—their viewpoints and perspectives on a topic.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 54,
+      "question_id": 7121,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In rat behavioral testing models, which test measures sensorimotor gating?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35639,
+          "text": "Morris water maze",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35640,
+          "text": "Elevated plus maze",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35641,
+          "text": "Prepulse inhibition test",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35642,
+          "text": "Y-maze test",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35643,
+          "text": "Novel object recognition test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35641,
+        "text": "Prepulse inhibition test"
+      },
+      "explanation": "The prepulse inhibition test measures sensorimotor gating by assessing the reduction in startle response due to a preceding weak pre-pulse stimulus.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 55,
+      "question_id": 7145,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher reviews twin studies on the heritability of various psychiatric disorders. Which disorder has the highest heritability?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35759,
+          "text": "Major depressive disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35760,
+          "text": "GAD",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35761,
+          "text": "Schizophrenia",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35762,
+          "text": "Panic disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35763,
+          "text": "PTSD",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35761,
+        "text": "Schizophrenia"
+      },
+      "explanation": "Schizophrenia has the highest heritability (~80%). Bipolar disorder is similar. MDD and anxiety disorders have lower heritability (~30-40%).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 56,
+      "question_id": 7100,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is an advantage of prospective cohort studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35534,
+          "text": "Low cost",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35535,
+          "text": "Short duration",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35536,
+          "text": "Recall bias is minimized",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35537,
+          "text": "Quick results",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35538,
+          "text": "Easy to conduct",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35536,
+        "text": "Recall bias is minimized"
+      },
+      "explanation": "A key advantage of prospective studies is that recall bias is minimized since data are collected prospectively rather than relying on retrospective recall.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 57,
+      "question_id": 7099,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The Hawthorne effect is best described as which type of bias?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35529,
+          "text": "Selection bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35530,
+          "text": "Observer effect - people tend to perform better when being observed",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35531,
+          "text": "Confirmation bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35532,
+          "text": "Halo effect",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35533,
+          "text": "Recall bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35530,
+        "text": "Observer effect - people tend to perform better when being observed"
+      },
+      "explanation": "The Hawthorne effect, also known as observer effect, describes the tendency for people to modify their behavior when they know they are being observed.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 58,
+      "question_id": 7129,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "How many stages of clinical trials must a medication pass through before general use approval?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35679,
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35680,
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35681,
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35682,
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35683,
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35681,
+        "text": "5"
+      },
+      "explanation": "There are 5 stages of clinical trials: Preclinical (animal/in vitro studies), Phase 0 (small human sample at low dose), Phase 1 (larger healthy volunteer sample with dose escalation), Phase 2 (patient groups for efficacy), Phase 3 (larger patient groups for efficacy and safety), and Phase 4 (post-marketing monitoring).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 59,
+      "question_id": 7084,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which study demonstrated a 9-fold increased risk of schizophrenia in African-Caribbean migrants to the UK?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35454,
+          "text": "CATIE trial",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35455,
+          "text": "ÆSOP study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35456,
+          "text": "EPIDAPT study",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35457,
+          "text": "AESOP study",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35458,
+          "text": "BALANCE trial",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35457,
+        "text": "AESOP study"
+      },
+      "explanation": "The ÆSOP study found a 9-fold increased risk of schizophrenia in African-Caribbean migrants in the UK, attributed to migration and institutional racism.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 60,
+      "question_id": 7113,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is true of the Kaiser CDC Adverse Childhood Experiences Study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35599,
+          "text": "Parental divorce was included as an adverse childhood experience",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35600,
+          "text": "Psychological abuse was not included in the original study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35601,
+          "text": "The study utilized a questionnaire mailed to households in the UK",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35602,
+          "text": "Exposure to childhood abuse and household dysfunction showed no relationship to leading causes of adult deaths",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35603,
+          "text": "There was a significant relationship between the number of childhood abuse categories and depression as an adult",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 35603,
+        "text": "There was a significant relationship between the number of childhood abuse categories and depression as an adult"
+      },
+      "explanation": "The CDC-Kaiser Permanente ACE study found a strong graded relationship between the breadth of exposure to abuse or household dysfunction during childhood and multiple risk factors for leading causes of death in adults. Persons with four or more categories of adverse childhood experiences had 4 to 12-fold increased health risks for depression and other conditions. The original study included seven categories: psychological, physical, or sexual abuse; violence against mother; and living with household members who were substance abusers, mentally ill, suicidal, or imprisoned. The questionnaire was mailed to over 13,000 adults in California, USA.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 61,
+      "question_id": 7147,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A screening test is used in a population with low disease prevalence. How does low prevalence affect positive predictive value (PPV)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35769,
+          "text": "PPV increases",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35770,
+          "text": "PPV decreases",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35771,
+          "text": "PPV unchanged",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35772,
+          "text": "Sensitivity increases",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35773,
+          "text": "Specificity decreases",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35770,
+        "text": "PPV decreases"
+      },
+      "explanation": "PPV decreases when prevalence is low because there are more false positives relative to true positives. NPV increases with low prevalence.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 62,
+      "question_id": 7103,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which ethical code is the standard guideline for human research?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35549,
+          "text": "Nuremberg Code",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35550,
+          "text": "Belmont Report",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35551,
+          "text": "Declaration of Helsinki",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35552,
+          "text": "ICH-GCP guidelines",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35553,
+          "text": "Good Clinical Practice guidelines",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35551,
+        "text": "Declaration of Helsinki"
+      },
+      "explanation": "The Declaration of Helsinki is the primary ethical guideline for human research, building upon the earlier Nuremberg Code and establishing standards for informed consent and research ethics.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 63,
+      "question_id": 7089,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is an advantage of birth prospective cohort studies compared to retrospective studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35479,
+          "text": "Hindsight bias is minimized",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35480,
+          "text": "Attrition bias is minimized",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35481,
+          "text": "Recall bias is minimized",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35482,
+          "text": "Selection bias is minimized",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35483,
+          "text": "Observer bias is minimized",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35481,
+        "text": "Recall bias is minimized"
+      },
+      "explanation": "Birth prospective cohort studies collect data from the beginning of the child's life, minimizing recall bias compared to retrospective studies that rely on memory of past events.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 64,
+      "question_id": 7077,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study examines the prevalence of depression across European countries at different socioeconomic levels. Which study design is most appropriate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35419,
+          "text": "Ecological",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35420,
+          "text": "Cross-sectional",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35421,
+          "text": "Longitudinal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35422,
+          "text": "Case Control",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35423,
+          "text": "Cohort",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35420,
+        "text": "Cross-sectional"
+      },
+      "explanation": "Cross-sectional design is ideal for measuring prevalence and associations between variables (depression and socioeconomic status) at a single point in time.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 65,
+      "question_id": 7088,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What relationship does the ACE (Adverse Childhood Experiences) study demonstrate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35474,
+          "text": "Linear relationship between ACE and mental health",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35475,
+          "text": "Graded relationship between number of ACEs and depression/health risks",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35476,
+          "text": "No significant relationship with adult outcomes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35477,
+          "text": "ACEs only affect externalizing behaviors",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35478,
+          "text": "Effects are limited to childhood",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35475,
+        "text": "Graded relationship between number of ACEs and depression/health risks"
+      },
+      "explanation": "The ACE study demonstrated a graded relationship between the number of adverse childhood experiences and risk for adult depression and health problems.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 66,
+      "question_id": 7143,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The Susser criteria for causation include several elements. A researcher argues about which is most essential. Which criterion is considered most essential for establishing causation?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35749,
+          "text": "Strength of association",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35750,
+          "text": "Consistency",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35751,
+          "text": "Specificity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35752,
+          "text": "Time order (temporality)",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 35753,
+          "text": "Biological gradient",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 35752,
+        "text": "Time order (temporality)"
+      },
+      "explanation": "Temporality (time order) - the cause must precede the effect - is the only absolutely essential criterion for causation.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 67,
+      "question_id": 7139,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A graph shows variation in planned spending by clinical commissioning groups on child and youth mental health according to the index of multiple deprivation. One CCG shows very low spending despite high deprivation. Which phenomenon does this demonstrate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35729,
+          "text": "Ecological fallacy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35730,
+          "text": "Selection bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35731,
+          "text": "Postcode lottery",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35732,
+          "text": "Confounding",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35733,
+          "text": "Regression to the mean",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35731,
+        "text": "Postcode lottery"
+      },
+      "explanation": "Postcode lottery refers to inequitable variation in healthcare access/spending based on geographical location rather than need.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 68,
+      "question_id": 7105,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Human research ethical declaration for identifiable human data",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35559,
+          "text": "Nuremberg Code",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35560,
+          "text": "Declaration of Helsinki",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35561,
+          "text": "Declaration of Geneva",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35562,
+          "text": "Declaration of Tokyo",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35563,
+          "text": "Declaration of Lisbon",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35560,
+        "text": "Declaration of Helsinki"
+      },
+      "explanation": "The Declaration of Helsinki addresses research involving identifiable human data and is the primary ethical guideline for human research.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 69,
+      "question_id": 7101,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What was the prevalence of metabolic syndrome at baseline in the CATIE trial using NCEP criteria?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35539,
+          "text": "30-40%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35540,
+          "text": "40-43%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35541,
+          "text": "50-55%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35542,
+          "text": "60-70%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35543,
+          "text": "70-80%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35540,
+        "text": "40-43%"
+      },
+      "explanation": "The CATIE trial found metabolic syndrome prevalence of approximately 41% using NCEP criteria at baseline assessment.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 70,
+      "question_id": 7116,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the prevalence of autosomal dominant early-onset familial Alzheimer's disease (EOFAD)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35614,
+          "text": "Less than 1%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35615,
+          "text": "1-6%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35616,
+          "text": "6-15%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35617,
+          "text": "15-25%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35618,
+          "text": "Greater than 25%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35615,
+        "text": "1-6%"
+      },
+      "explanation": "Autosomal dominant early-onset familial Alzheimer's disease accounts for approximately 1-6% of all Alzheimer's disease cases.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 71,
+      "question_id": 7079,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "For individuals identified as having an at-risk mental state for psychosis, a prevention strategy is implemented offering Cognitive Behavioural Therapy (CBT) (choose TWO)",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35429,
+          "text": "Universal Prevention",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35430,
+          "text": "Selective Prevention",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35431,
+          "text": "Indicated Prevention",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35432,
+          "text": "Primary Prevention",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35433,
+          "text": "Secondary Prevention",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35431,
+        "text": "Indicated Prevention"
+      },
+      "explanation": "Individuals with at-risk mental state for psychosis represent a high-risk group with detectable signs or symptoms foreshadowing a disorder but not meeting diagnostic criteria. This falls under Indicated Prevention (targeting high-risk individuals with minimal but detectable signs). It is also part of Primary Prevention since the intervention occurs before the initial onset of the disorder.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 72,
+      "question_id": 7137,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which criteria framework is used for assessing causality in ecological studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35719,
+          "text": "Bradford Hill criteria",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 35720,
+          "text": "Roth postulates",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35721,
+          "text": "Susser criteria",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35722,
+          "text": "Koch postulates",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35723,
+          "text": "Henkel criteria",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 35719,
+        "text": "Bradford Hill criteria"
+      },
+      "explanation": "The Bradford Hill criteria provide a framework for assessing causality in epidemiological studies, including ecological studies, examining aspects like temporality, dose-response, and plausibility.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 73,
+      "question_id": 24881,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is a scoring system developed to measure the level of social deprivation in a community, using census data on factors such as the proportion of old people living alone, single-parent families, unskilled and unemployed persons, and ethnic minorities?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 124613,
+          "text": "Barthel index",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 124614,
+          "text": "Jarman index",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 124615,
+          "text": "Brian Index",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 124616,
+          "text": "Jasper Index",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 124617,
+          "text": "Haschinski index",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 124614,
+        "text": "Jarman index"
+      },
+      "explanation": "The Jarman Index (option B) is a scoring system developed by the British general practitioner Brian Jarman to measure the level of social deprivation in a community. It uses census data on percentages of old people living alone, single-parent families, children younger than 5 years, unskilled and unemployed persons, ethnic minorities, overcrowded dwellings, and recent changes of address. Although a valid indicator of social deprivation, it is not generally accepted outside the United Kingdom. The Barthel Index measures functional independence in activities of daily living; the Hachinski Ischaemic Score differentiates vascular from degenerative dementia; \\'Brian Index\\' and \\'Jasper Index\\' are not recognised scoring systems.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 74,
+      "question_id": 24883,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "You are about to go to A&amp;E to assess a patient who is feeling suicidal. Which demographic description has got the strongest association with completed suicide?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 124623,
+          "text": "Middle-aged male",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 124624,
+          "text": "Young female",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 124625,
+          "text": "Widow",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 124626,
+          "text": "Elderly female",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 124627,
+          "text": "Elderly male",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 124623,
+        "text": "Middle-aged male"
+      },
+      "explanation": "Rates of suicide in men is nearly four times higher than that of women, with middle-aged men at highest risk, with a suicide rate in the UK of 26.5 per 100,000.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 75,
+      "question_id": 23896,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Flynn effect refers to which of the following phenomenon?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 119733,
+          "text": "Increasing IQ with successive generations",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 119734,
+          "text": "Changes of IQ with cultural variations",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 119735,
+          "text": "If an IQ test is repeated on the same individual the score increases",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 119736,
+          "text": "Changes of IQ with language",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 119737,
+          "text": "If IQ of parents is high, then the IQ of the child is high.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 119733,
+        "text": "Increasing IQ with successive generations"
+      },
+      "explanation": "Flynn effect refers to the generational increase in IQ scores. Flynn suggested that IQ tests do not measure intelligence but rather correlate with a weak causal link to intelligence (Flynn, 1987). Based on the presence of the effect on nonverbal tests such as the Raven's Matrices, Flynn believed that the generational IQ increase is due an improved problem-solving capacity rather than actual gain in intelligence.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 76,
+      "question_id": 23897,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Choose one best option regarding the distribution of schizophrenia",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 119738,
+          "text": "The incidence of schizophrenia is higher in developing countries",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 119739,
+          "text": "Schizophrenia is more common among women than men",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 119740,
+          "text": "Fathers of patients with schizophrenia belong to a higher social class than the patients",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 119741,
+          "text": "2% of population has schizophrenia at any given time",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 119742,
+          "text": "The prevalence of schizophrenia is higher in developing countries",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 119740,
+        "text": "Fathers of patients with schizophrenia belong to a higher social class than the patients"
+      },
+      "explanation": "Social drift is associated with a diagnosis of schizophrenia.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 77,
+      "question_id": 24884,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which type of genetic study uses cases and controls or families with internal controls?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 124628,
+          "text": "Segregation studies",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 124629,
+          "text": "Family studies",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 124630,
+          "text": "Association studies",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 124631,
+          "text": "Linkage analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 124632,
+          "text": "Twin studies",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 124630,
+        "text": "Association studies"
+      },
+      "explanation": "The simplest scenario of genetic association analysis is to study the genotype frequency of a polymorphism in a group of independent patients (cases) and a group of normal individuals (controls). They might be designed as simple case-control studies, or even better if they make use of family-based internal controls.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 78,
+      "question_id": 24885,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Marked out of 1.00 An autosomal recessive disorder shows Hardy-Weinberg equilibrium. It has an incidence of 1 in 4900. The frequency of carriers of the disease is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 124633,
+          "text": "1 in 30",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 124634,
+          "text": "1 in 70",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 124635,
+          "text": "1 in 35",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 124636,
+          "text": "1 in 10",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 124637,
+          "text": "1 in 40",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 124635,
+        "text": "1 in 35"
+      },
+      "explanation": "According to Hardy-Weinberg principle, the carrier frequency is twice the square root of the frequency of a disease.",
+      "image_url": "",
+      "explanation_image_url": null
+    }
+  ]
+}

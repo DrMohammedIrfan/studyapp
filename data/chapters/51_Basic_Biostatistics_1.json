@@ -1,0 +1,4749 @@
+{
+  "chapter_id": 91,
+  "chapter_name": "Basic Biostatistics_1",
+  "subject_name": "Statistics and Critical appraisal",
+  "total_questions": 101,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 6922,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A new test for suicide risk shows that those with higher scores are more likely to commit suicide. Which type of validity does this demonstrate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34644,
+          "text": "Concurrent Validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34645,
+          "text": "Content Validity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34646,
+          "text": "Predictive Validity",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 34647,
+          "text": "Inter-rater Validity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34648,
+          "text": "Construct Validity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 34646,
+        "text": "Predictive Validity"
+      },
+      "explanation": "Predictive validity refers to the ability of a test to predict future outcomes; higher test scores predicting future suicide attempts demonstrates predictive validity.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": 6939,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In Bayesian theory, what is the term for an existing belief before encountering new data?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34729,
+          "text": "Likelihood",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34730,
+          "text": "Posterior",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34731,
+          "text": "Prior",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 34732,
+          "text": "Prediction error",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34733,
+          "text": "Confidence interval",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 34731,
+        "text": "Prior"
+      },
+      "explanation": "In Bayesian theory, the prior represents the existing belief before encountering new data; updated by likelihood to produce posterior probability.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": 6975,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is hindsight bias?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34909,
+          "text": "The tendency to assume that one's current knowledge predicts past events",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 34910,
+          "text": "Lack of insight into one's own behavior",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34911,
+          "text": "Absence of selection bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34912,
+          "text": "Arrogance about one's decisions",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34913,
+          "text": "Inability to predict future events",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 34909,
+        "text": "The tendency to assume that one's current knowledge predicts past events"
+      },
+      "explanation": "Hindsight bias is the tendency to perceive events as more predictable after they have occurred, including the tendency to assume knowing the outcome of an event after it has already been determined.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": 6992,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A diagnostic test has sensitivity of 90% and specificity of 80%. How is the negative likelihood ratio (LR-) calculated?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34994,
+          "text": "Sensitivity / Specificity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34995,
+          "text": "(1 - Sensitivity) / Specificity",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34996,
+          "text": "Specificity / Sensitivity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34997,
+          "text": "Sensitivity / (1 - Specificity)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34998,
+          "text": "(1 - Specificity) / Sensitivity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34995,
+        "text": "(1 - Sensitivity) / Specificity"
+      },
+      "explanation": "LR- = (1 - Sensitivity) / Specificity. A low LR- indicates the test is good at ruling out disease when negative.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": 6961,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What bias is most likely to occur when individuals are asked to complete a self-questionnaire about their personality traits?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34839,
+          "text": "Confirmation bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34840,
+          "text": "Social desirability bias",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34841,
+          "text": "Anchoring bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34842,
+          "text": "Recall bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34843,
+          "text": "Observer bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34840,
+        "text": "Social desirability bias"
+      },
+      "explanation": "Social desirability bias is the tendency to underreport socially undesirable attitudes and behaviors and to over-report more desirable attributes. This is particularly common in self-report questionnaires where individuals may consciously or unconsciously modify their responses to appear more favorable.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": 6926,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A histogram is used to display data. Which characteristic can be observed from it?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34664,
+          "text": "Categorical relationships",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34665,
+          "text": "Correlation between variables",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34666,
+          "text": "Skewness of distribution",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 34667,
+          "text": "Sample size",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34668,
+          "text": "Statistical significance",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 34666,
+        "text": "Skewness of distribution"
+      },
+      "explanation": "Histograms with connected bars display continuous data distribution and allow visual assessment of skewness and shape of the distribution.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": 6938,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A primary care depression screening tool is evaluated by testing whether those diagnosed as 'depressed' using this scale are also found to be 'depressed' using Beck's depression inventory, Hamilton's depression scale and clinician assessment. Which of the following is measured here?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34724,
+          "text": "Internal consistency",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34725,
+          "text": "Divergent validity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34726,
+          "text": "Convergent validity",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 34727,
+          "text": "Predictive validity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34728,
+          "text": "Inter-rater reliability",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 34726,
+        "text": "Convergent validity"
+      },
+      "explanation": "Convergent validity tests whether two measures of the same construct correlate with each other. Here, multiple different instruments (Beck's inventory, Hamilton's scale, clinician assessment) are used to measure the same construct (depression), demonstrating convergent validity.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": 24871,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following refers to the extent to which performance on a test fits with theoretical schema about the test attributes?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 124564,
+          "text": "Criterion validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 124565,
+          "text": "Convergent validity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 124566,
+          "text": "Construct validity",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 124567,
+          "text": "Face validity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 124568,
+          "text": "Concurrent validity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 124566,
+        "text": "Construct validity"
+      },
+      "explanation": "Construct validity refers to the degree to which inferences can legitimately be made from the operationalizations in a study to the theoretical constructs on which those operationalizations were based.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": 22324,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Both odds ratios and relative risk are often used as outcome measures in published studies. Which of the following statement is true regarding these measures?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111927,
+          "text": "The odds ratio cannot be calculated in cohort studies",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111928,
+          "text": "Incidence rate is required to calculate the odds ratio",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111929,
+          "text": "Relative risk cannot be calculated for case–control studies",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111930,
+          "text": "If the outcome of interest is very commonly, the odds ratio approximates relative risk",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111931,
+          "text": "The odds ratio cannot be used to study dichotomous outcomes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111929,
+        "text": "Relative risk cannot be calculated for case–control studies"
+      },
+      "explanation": "Odds are the probability of an event occurring divided by the probability of the event not occurring. An odds ratio is the odds of the event in one group (e.g. intervention group) divided by the odds in another group (e.g. control group). Odds ratios tend to exaggerate the true relative risk to some degree. But this exaggeration is kept minimal and even negligible if the probability of the studied outcome is low (empirically, less than 10%); in such cases the odds ratio approximates the true relative risk. As the event becomes more common the odds ratio no longer remains a useful proxy for the relative risk. It is suggested that the use of odds ratios should probably be limited to case-control studies and logistic regression examining dichotomous variables. As risk refers to the probability of an event occurring at a time point, in other words it is the same as the incidence rate. The inherent cross-sectional nature of a case–control study (where ‘existing cases’ are recruited) does not allow one to study ‘new’ incidences. Hence we cannot measure risk, and so relative risk, from case–control designs. Katz KA. The (relative) risks of using odds ratios. Archives of Dermatology 2006; 142: 761–764.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": 6929,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher wants to ensure that the size of control and two intervention groups are more or less equal. Which method of randomisation could ensure this?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34679,
+          "text": "Block randomisation",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 34680,
+          "text": "Stratification",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34681,
+          "text": "Cluster randomisation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34682,
+          "text": "Quasi-randomisation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34683,
+          "text": "Simple randomisation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 34679,
+        "text": "Block randomisation"
+      },
+      "explanation": "Block randomization involves randomization occurring in specified block sizes (e.g., blocks of 6) to ensure equal number distribution between intervention arms. This guarantees roughly equal group sizes, unlike simple randomization which can result in unequal allocation.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": 24872,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A tool designed to test cognitive functions has subtests that measure cognitive abilities well. This test can be said to have",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 124569,
+          "text": "Good concurrent validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 124570,
+          "text": "Good construct validity",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 124571,
+          "text": "Good predictive validity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 124572,
+          "text": "Good face validity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 124573,
+          "text": "Good incremental validity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 124570,
+        "text": "Good construct validity"
+      },
+      "explanation": "Construct validity seeks agreement between a theoretical concept and a specific measuring device or procedure.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": 6941,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which pain scale measures pain from no pain at all to excruciating pain?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34739,
+          "text": "Likert scale",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34740,
+          "text": "Semantic differential scale",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34741,
+          "text": "Nominal scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34742,
+          "text": "Visual analogue scale",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 34743,
+          "text": "Thurstone scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 34742,
+        "text": "Visual analogue scale"
+      },
+      "explanation": "The Visual Analogue Scale (VAS) is a continuous 10-cm line labeled from no pain at all to excruciating pain and measures subjective pain intensity.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": 6960,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The forced swim test is used to assess which condition?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34834,
+          "text": "Obsessive-compulsive disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34835,
+          "text": "Anxiety disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34836,
+          "text": "Depression",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 34837,
+          "text": "Phobic disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34838,
+          "text": "Panic disorder",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 34836,
+        "text": "Depression"
+      },
+      "explanation": "The forced swim test is an animal model used to assess learned helplessness and is related to depression, as it measures despair-like behavior in response to inescapable stress.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": 6985,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which statistical test is used for categorical data comparing expected versus observed frequencies in two or more groups?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34959,
+          "text": "T-test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34960,
+          "text": "Chi-square test",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34961,
+          "text": "ANOVA",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34962,
+          "text": "Pearson correlation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34963,
+          "text": "Mann-Whitney U test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34960,
+        "text": "Chi-square test"
+      },
+      "explanation": "The chi-square test is specifically designed to compare observed frequencies with expected frequencies in categorical data across multiple groups.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": 6967,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of these is true about Likert scale?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34869,
+          "text": "Free from bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34870,
+          "text": "Similar to visual analogue scale",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34871,
+          "text": "Differential scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34872,
+          "text": "Measures continuous variables",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34873,
+          "text": "Provides ranked responses",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 34873,
+        "text": "Provides ranked responses"
+      },
+      "explanation": "The Likert scale is constructed by the method of \\'summated ratings\\', in which respondents choose from ordered response categories (e.g., strongly disagree, disagree, neutral, agree, strongly agree) for each item ,making E (\\'provides ranked responses\\') correct, as the responses are ordered/ordinal in nature. A \\'differential scale\\' refers to Thurstone\\'s method of equal-appearing intervals, not the Likert scale. Likert scales are not free from bias, are distinct from visual analogue scales, and formally produce ordinal rather than continuous data.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": 6973,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is a key advantage of cross-sectional studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34899,
+          "text": "Ability to determine causality",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34900,
+          "text": "Minimizes recall bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34901,
+          "text": "Quick and accessible data collection",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 34902,
+          "text": "Follows participants over time",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34903,
+          "text": "Randomized allocation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 34901,
+        "text": "Quick and accessible data collection"
+      },
+      "explanation": "Cross-sectional studies have the advantage of being quick and allowing accessible data collection at a single time point.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": 6947,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following statements is true about the Likert scale?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34769,
+          "text": "It is free from bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34770,
+          "text": "It is similar to a visual analogue scale",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34771,
+          "text": "It measures responses on an ordinal scale from strongly disagree to strongly agree",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 34772,
+          "text": "It measures only nominal data",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34773,
+          "text": "It cannot assess subjective experiences",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 34771,
+        "text": "It measures responses on an ordinal scale from strongly disagree to strongly agree"
+      },
+      "explanation": "The Likert scale is an ordinal scale that measures agreement or disagreement on a continuum, typically ranging from strongly disagree to strongly agree.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": 6936,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one among the following is a measure of internal consistency of a test?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34714,
+          "text": "Content validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34715,
+          "text": "Test-retest reliability",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34716,
+          "text": "Inter-rater reliability",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34717,
+          "text": "Face validity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34718,
+          "text": "Split half reliability",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 34718,
+        "text": "Split half reliability"
+      },
+      "explanation": "Split-half reliability is a measure of internal consistency reliability. The items on the scale are divided into 2 halves and the resulting half scores are correlated. High correlations between the halves indicate consistency in reliability.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": 24873,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In psychometry internal consistency refers to",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 124574,
+          "text": "Degree of correlation between one test item with other items",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 124575,
+          "text": "Degree of agreement between two raters",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 124576,
+          "text": "Degree of agreement between results obtained in two different occasions",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 124577,
+          "text": "Degree of correlation between two different versions of the scale",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 124578,
+          "text": "Degree of agreement between two similar scales",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 124574,
+        "text": "Degree of correlation between one test item with other items"
+      },
+      "explanation": "In internal consistency, which is a type of reliability estimation, we measure how well the items that reflect the same construct yield similar results. This can be done using average Inter-item correlation, split half reliability, average item-total correlations or as it is often the case, using Cronbach's alpha.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": 6940,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which Likert scale characteristic is accurate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34734,
+          "text": "Provides ratio-level data",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34735,
+          "text": "Presents a series of statements with degree of agreement options",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34736,
+          "text": "Free from all bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34737,
+          "text": "Requires single-word responses",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34738,
+          "text": "Measures only positive attitudes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34735,
+        "text": "Presents a series of statements with degree of agreement options"
+      },
+      "explanation": "A Likert scale presents a series of statements with response categories ranging from strongly agree to strongly disagree.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": 24874,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is not a type of validity?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 124579,
+          "text": "Face validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 124580,
+          "text": "Construct validity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 124581,
+          "text": "Ecological validity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 124582,
+          "text": "Interrater validity",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 124583,
+          "text": "Content validity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 124582,
+        "text": "Interrater validity"
+      },
+      "explanation": "Inter-rater reliability is different from validity.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": 6990,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A screening test for depression is being evaluated. The sensitivity is 85% and the specificity is 70%. How is the positive likelihood ratio (LR+) calculated?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34984,
+          "text": "Sensitivity × Specificity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34985,
+          "text": "Sensitivity / (1 - Specificity)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34986,
+          "text": "Specificity / (1 - Sensitivity)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34987,
+          "text": "(1 - Sensitivity) / Specificity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34988,
+          "text": "Sensitivity + Specificity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34985,
+        "text": "Sensitivity / (1 - Specificity)"
+      },
+      "explanation": "LR+ = Sensitivity / (1 - Specificity). This represents how much more likely a positive test result is in someone with the disease compared to someone without it.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": 6934,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is true regarding statistical power?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34704,
+          "text": "The power of a study is equivalent to the type I error",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34705,
+          "text": "Power is a measure of a studies ability to change clinical practice",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34706,
+          "text": "Power can assume any value from -1 to 1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34707,
+          "text": "The larger the sample size of a study the greater the power",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 34708,
+          "text": "The term power is synonymous with the term significance",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 34707,
+        "text": "The larger the sample size of a study the greater the power"
+      },
+      "explanation": "Larger samples lead to parameter estimations of smaller variance and therefore increase the study's ability to detect a significant effect. Power can assume values between 0 and 1 only, not -1 to 1.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": 24875,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Concurrent validity is also known as",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 124584,
+          "text": "Face validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 124585,
+          "text": "Construct validity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 124586,
+          "text": "Incremental validity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 124587,
+          "text": "Criterion validity",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 124587,
+        "text": "Criterion validity"
+      },
+      "explanation": "In criterion-related validity, we examine whether the operationalised criteria used in a scale is aligned to the theory behind a construct that is being tested.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": 6953,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is a true property of purines?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34799,
+          "text": "They contain one carbon-nitrogen ring",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34800,
+          "text": "They are aromatic heterocycles composed of carbon and nitrogen",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34801,
+          "text": "They include thymine and cytosine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34802,
+          "text": "They degrade into beta-alanine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34803,
+          "text": "They are smaller than pyrimidines",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34800,
+        "text": "They are aromatic heterocycles composed of carbon and nitrogen"
+      },
+      "explanation": "Purines are aromatic heterocycles composed of carbon and nitrogen. They contain two carbon-nitrogen rings and include adenine and guanine. Purines are larger and have a more complex structure than pyrimidines. They degrade into uric acid in humans, which can lead to gout when present in high levels.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": 6968,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which type of scale uses two bipolar descriptors at opposite ends, measures qualitative attitudes using discrete points between opposite word, allowing a subject to rate their experience?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34874,
+          "text": "Likert scale",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34875,
+          "text": "Semantic differential scale",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34876,
+          "text": "Visual analogue scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34877,
+          "text": "Thurstone scale",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34878,
+          "text": "Numeric rating scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34875,
+        "text": "Semantic differential scale"
+      },
+      "explanation": "The semantic differential scale uses bipolar adjectives at two extremes of a rating line, which structurally resembles a pain VAS with \\\\\\'no pain at all\\\\\\' and \\\\\\'excruciating pain\\\\\\' as anchors ,qualitative attitudes using discrete points between opposite word. The Likert scale uses summated ordered response categories (e.g., strongly agree to strongly disagree) rather than bipolar continuum anchors. The Thurstone scale is constructed via judge-rated statements and is an attitude measurement tool. Nominal and ordinal scales are data measurement levels, not clinical rating instruments for pain.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": 6956,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "How many stages must a new drug successfully complete before regulatory approval for general clinical use is granted?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34814,
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34815,
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34816,
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34817,
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 34818,
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 34817,
+        "text": "4"
+      },
+      "explanation": "Before receiving regulatory approval for general clinical use, a new drug must pass through four stages: (1) preclinical animal studies (mutagenicity, carcinogenicity, organ toxicity on at least two species), (2) Phase 1 human trials in volunteers assessing safety and pharmacokinetics, (3) Phase 2 trials in hundreds of patients assessing effectiveness versus placebo, and (4) Phase 3 extensive double-blind RCTs assessing comparative efficacy and tolerability. Phase 4 (post-marketing surveillance) occurs only after approval has been granted and therefore does not count as a stage required before approval. The correct answer is D (4).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": 6993,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A dementia screening test identifies 80 true positives and misses 20 patients who actually have dementia. What is the formula for sensitivity?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34999,
+          "text": "True Positive / (True Positive + False Positive)",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35000,
+          "text": "True Negative / (True Negative + False Negative)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35001,
+          "text": "True Positive / (True Positive + False Negative)",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35002,
+          "text": "True Negative / (True Negative + False Positive)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35003,
+          "text": "(True Positive + True Negative) / Total",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35001,
+        "text": "True Positive / (True Positive + False Negative)"
+      },
+      "explanation": "Sensitivity = TP / (TP + FN). It measures the proportion of actual positives correctly identified.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": 6943,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What bias is expected when individuals are asked to fill a self-questionnaire about their personality traits?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34749,
+          "text": "Confirmation bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34750,
+          "text": "Social desirability bias",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34751,
+          "text": "Recall bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34752,
+          "text": "Selection bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34753,
+          "text": "Attribution bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34750,
+        "text": "Social desirability bias"
+      },
+      "explanation": "Social desirability bias is the tendency to underreport socially undesirable attitudes and behaviors and over-report more desirable attributes when responding to self-report questionnaires.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": 22289,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A two-item screening test for depression is applied sequentially. Item 1 has a sensitivity of 90% and specificity of 70%; Item 2 (applied only to those testing positive on Item 1) has a sensitivity of 90% and specificity of 80%. Using the data provided in the table above, what is the false negative rate for the overall two-item screening test?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111752,
+          "text": "32%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111753,
+          "text": "9%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111754,
+          "text": "90%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111755,
+          "text": "67%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111756,
+          "text": "25%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111753,
+        "text": "9%"
+      },
+      "explanation": "False negative (FN) is the number of people not diagnosed with a condition with the new test when they actually have the condition according to the gold standard. In this case, the percentage of people among the depressed group falsely identified by the test as not depressed, i.e. C/A +C; 4/43 = 9.3%.",
+      "image_url": "https://kdpsychacademy.com/wp-content/uploads/2026/08/Biostatisiti-A300126.jpg",
+      "explanation_image_url": "https://kdpsychacademy.com/wp-content/uploads/2026/08/BiostatisitiQ300126.jpg"
+    },
+    {
+      "question_number": 31,
+      "question_id": 22335,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 50-year-old man sustained signifi cant memory loss following near- fatal carbon monoxide poisoning. Following discussion he agreed to take part in a double-blinded trial of donepezil vs placebo administered in six separate 4-week modules with a 2-week washout period in between. Neuropsychological measures were obtained at regular pre-planned intervals to monitor changes. He was the sole subject on the trial and the randomization sequence was generated and maintained by the pharmacy. This study design could be best described as",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111982,
+          "text": "Uncontrolled trial",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111983,
+          "text": "N-of-1 trial",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111984,
+          "text": "Crossover RCT",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111985,
+          "text": "Pragmatic RCT",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111986,
+          "text": "Naturalistic observational study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111983,
+        "text": "N-of-1 trial"
+      },
+      "explanation": "N-of-1 trials are randomized double-blind multiple crossover comparisons of an active drug against placebo in a single patient. The design uses a series of pairs of treatment periods called modules. Within each module the patient receives active treatment during one period and either an accepted standard treatment or placebo in the other. Random allocation determines the order of the two treatment periods within each pair and both clinician and patient are blinded for the intervention. This design is mostly suited for chronic recurrent conditions for which long-term interventions exist that are not curative. Interventions with rapid onset and offset of effects are best suited for n-of-1 trials. This allows shorter treatment periods wherein multiple modules of intervention and placebo/standard treatment can be compared, increasing the chance of achieving a statistically signifi cant result. It is also necessary that the interventions tested must be cleared from the patient’s system within a fi nite washout period. Price JD and Evans JG. An N-of-1 randomized controlled trial (‘N-of-1 trial’) of donepezil in the treatment of non–progressive amnestic syndrome. Age and Ageing 2002; 31: 307–309.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": 22294,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A two-item depression screening test has a sensitivity of 96% and a specificity of 57% (as calculated in the previous question). We randomly select 1000 people from the general population. Given that the prevalence of major depressive disorder in the general population using DSM-IV criteria is 10%, calculate the negative predictive value (NPV) of this two-item screening test in this population.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111777,
+          "text": "49%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111778,
+          "text": "91%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111779,
+          "text": "67%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111780,
+          "text": "30%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111781,
+          "text": "99.23%",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 111781,
+        "text": "99.23%"
+      },
+      "explanation": "The NPV Formula Using These Terms\r\nSpecificity: 0.57 (57%)\r\nSensitivity: 0.96 (96%)\r\nPrevalence: 0.10 (10%)\r\n\r\nNPV =\r\n(Specificity * (1 - Prevalence)) / ((Specificity * (1 - Prevalence)) + ((1 - Sensitivity) * Prevalence))\r\n(0.57 * (1 - 0.10)) / ((0.57 * (1 - 0.10)) + ((1 - 0.96) * 0.10)) = 0.9923 (or 99.23%)",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": 6972,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which scale includes graded measures from 'agree' to 'disagree'?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34894,
+          "text": "Semantic differential scale",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34895,
+          "text": "Likert scale",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34896,
+          "text": "Visual analogue scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34897,
+          "text": "Numeric rating scale",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34898,
+          "text": "Categorical scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34895,
+        "text": "Likert scale"
+      },
+      "explanation": "The Likert scale includes graded 'agree' to 'disagree' measures. It is one of the most popular and statistically reliable measures, is easy to construct, and does not assume equality of intervals between points.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": 6971,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is a property of purines?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34889,
+          "text": "Contain one carbon-nitrogen ring",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34890,
+          "text": "Aromatic",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34891,
+          "text": "Smaller than pyrimidines",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34892,
+          "text": "Degrade into beta-alanine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34893,
+          "text": "Found only in RNA",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34890,
+        "text": "Aromatic"
+      },
+      "explanation": "Purines are aromatic heterocycles composed of carbon and nitrogen. They contain two carbon-nitrogen rings and include adenine and guanine. Pyrimidines, in contrast, contain one carbon-nitrogen ring and are also aromatic.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": 6957,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is a standardized pain severity scale that uses anchor points ranging from \\\\\\'no pain\\\\\\' at one end to \\\\\\'worst possible pain\\\\\\' at the other?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34819,
+          "text": "Likert scale",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34820,
+          "text": "Weight Scale",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34821,
+          "text": "Visual Analogue Scale (VAS)",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 34822,
+          "text": "Semantic differential scale",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34823,
+          "text": "Interval scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 34821,
+        "text": "Visual Analogue Scale (VAS)"
+      },
+      "explanation": "The Visual Analogue Scale (VAS) is a standardized pain severity tool that uses anchor points ranging from \\'no pain\\' at one end to \\'worst possible pain\\' at the other, as explicitly described in the New Oxford Textbook of Psychiatry (2012, p.1089). An ordinal scale (option B) and interval scale (option E) are general psychometric measurement categories, not named pain instruments. A Likert scale (option A) measures agreement/attitudes, and a semantic differential scale (option D) measures connotative meaning of concepts  neither is a dedicated pain severity measure with these specific anchors.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": 6962,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Hawthorne effect is best described as",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34844,
+          "text": "Overall impression of a person influences judgment of their character",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34845,
+          "text": "People tend to perform well when they are being observed",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34846,
+          "text": "Judging attractive people as more intelligent",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34847,
+          "text": "Immediate ascription of negative attitudes based on appearance",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34848,
+          "text": "Inability to make fine movements",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34845,
+        "text": "People tend to perform well when they are being observed"
+      },
+      "explanation": "The Hawthorne effect is an observer effect where people tend to perform better when they are being observed, altering their behavior due to awareness of observation.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": 6974,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is a key disadvantage of cross-sectional studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34904,
+          "text": "High cost",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34905,
+          "text": "Long follow-up period required",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34906,
+          "text": "Cannot infer causality",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 34907,
+          "text": "Excessive participant burden",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34908,
+          "text": "Complex statistical analysis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 34906,
+        "text": "Cannot infer causality"
+      },
+      "explanation": "Cross-sectional studies cannot establish causality due to their snapshot nature without temporal sequencing.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": 6952,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A pain scale ranging from no pain on one end to excruciating pain on the other with mild degrees in between, represents which type of measurement scale?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34794,
+          "text": "Nominal scale",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34795,
+          "text": "Ordinal scale",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34796,
+          "text": "Interval scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34797,
+          "text": "Ratio scale",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34798,
+          "text": "Semantic differential scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34795,
+        "text": "Ordinal scale"
+      },
+      "explanation": "A scale ranging from \\'no pain\\' to \\'excruciating pain\\' represents an ordinal scale: the categories have a clear order (more pain vs. less pain), but the intervals between points are not necessarily equal and there is no true zero point implying complete absence of pain sensation. Most psychiatric and pain rating scales yield ordinal data is specifically designed to measure attitudes using bipolar adjective pairs across multiple dimensions (e.g., good–bad, active–inactive), and is not a measurement level category. Nominal scales lack order; interval scales require equal intervals; ratio scales require a true zero none of these precisely describe a simple unipolar pain rating scale.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": 6949,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which cognitive bias is expected when individuals complete self-questionnaires about personality traits?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34779,
+          "text": "Social desirability bias",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 34780,
+          "text": "Response bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34781,
+          "text": "Confirmation bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34782,
+          "text": "Anchoring bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34783,
+          "text": "Halo effect",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 34779,
+        "text": "Social desirability bias"
+      },
+      "explanation": "Social desirability bias leads individuals to present themselves more favorably when completing self-report personality measures.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": 6935,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Based on the ROC curve, which cut-off point provides the best compromise between sensitivity and specificity?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 100807,
+          "text": "The dot closest to the top left hand corner of an ROC curve",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 100808,
+          "text": "Cut-off point in the beginning",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 100809,
+          "text": "Cut-off in the end",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 100810,
+          "text": "None of the points",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 100811,
+          "text": "All of the Above",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 100807,
+        "text": "The dot closest to the top left hand corner of an ROC curve"
+      },
+      "explanation": "On an ROC curve, the optimal cut-off point is the \\'knee\\' or \\'elbow\\' — the point that lies closest to the top-left corner of the ROC space — because this represents the best trade-off between maximising sensitivity (true positive rate) and maximising specificity (minimising the false positive rate). The passages explicitly state that \\'the knee or elbow of the curve is a cut-off point with balance between sensitivity and specificity.\\'.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": 6988,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Why are power calculations performed in study design?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34974,
+          "text": "To reduce the risk of Type I error",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34975,
+          "text": "To plan the required sample size",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34976,
+          "text": "To perform sensitivity analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34977,
+          "text": "To calculate effect size",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34978,
+          "text": "To determine clinical significance",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34975,
+        "text": "To plan the required sample size"
+      },
+      "explanation": "Power calculations are performed during study planning to determine the sample size needed to detect a statistically significant difference with a predetermined level of power and significance.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": 6965,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Withdrawal of a medication from the market due to risk of serious cardiac adverse events primarily reflects which ethical principle?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34859,
+          "text": "Autonomy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34860,
+          "text": "Justice",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34861,
+          "text": "Beneficence",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34862,
+          "text": "Non-maleficence",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 34863,
+          "text": "Veracity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 34862,
+        "text": "Non-maleficence"
+      },
+      "explanation": "Non-maleficence, the principle of do no harm, is reflected in withdrawing medications that cause serious adverse effects such as cardiac events, prioritizing harm prevention.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": 6976,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which statement is true about purines?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34914,
+          "text": "They are nitrogen-containing compounds",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 34915,
+          "text": "They include cytosine and thymine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34916,
+          "text": "They are found only in eukaryotes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34917,
+          "text": "They can only be obtained from the diet",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34918,
+          "text": "They include ethanol and nicotine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 34914,
+        "text": "They are nitrogen-containing compounds"
+      },
+      "explanation": "Purines are aromatic heterocycles composed of carbon and nitrogen. Purines include adenine and guanine and are found in eukaryotes, bacteria, and archaea. Cytosine, thymine, and uracil are pyrimidines, not purines. Purines can be synthesized de novo.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 44,
+      "question_id": 6963,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Scale that has 'no pain' on one end and 'excruciating pain' on the other end",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34849,
+          "text": "Nominal scale",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34850,
+          "text": "Ordinal scale",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34851,
+          "text": "Likert scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34852,
+          "text": "Interval scale",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34853,
+          "text": "Ratio scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34850,
+        "text": "Ordinal scale"
+      },
+      "explanation": "An ordinal scale has ordered categories from one end (no pain) to the other (excruciating pain), representing a hierarchy of pain intensity with meaningful order but not equal intervals.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 45,
+      "question_id": 6948,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which assessment scale measures pain intensity on a continuum from no pain at all to excruciating pain?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34774,
+          "text": "Likert scale",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34775,
+          "text": "Semantic differential scale",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34776,
+          "text": "Visual analogue scale",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 34777,
+          "text": "Thurstone scale",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34778,
+          "text": "Nominal scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 34776,
+        "text": "Visual analogue scale"
+      },
+      "explanation": "The visual analogue scale allows patients to indicate pain intensity on a continuous line, typically ranging from no pain to worst possible pain.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 46,
+      "question_id": 6958,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is true about the Likert scale?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34824,
+          "text": "It is free from bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34825,
+          "text": "It is similar to a visual analogue scale",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34826,
+          "text": "It asks respondents to indicate agreement or disagreement with statements",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 34827,
+          "text": "It measures continuous pain intensity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34828,
+          "text": "It is used only for rating pain",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 34826,
+        "text": "It asks respondents to indicate agreement or disagreement with statements"
+      },
+      "explanation": "The Likert scale presents a series of statements and asks respondents to indicate their degree of agreement or disagreement, typically on a 5-point scale ranging from strongly agree to strongly disagree.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 47,
+      "question_id": 6969,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What bias is expected when individuals complete self-questionnaires about personality traits",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34879,
+          "text": "Social desirability bias",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 34880,
+          "text": "Factor analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34881,
+          "text": "Confirmation bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34882,
+          "text": "Recall bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34883,
+          "text": "Anchoring bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 34879,
+        "text": "Social desirability bias"
+      },
+      "explanation": "Social desirability bias is the tendency to underreport socially undesirable attitudes and behaviors and overreport desirable attributes when completing self-report questionnaires about personality traits.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 48,
+      "question_id": 22372,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A new antidepressant costs £400 per patient per week and produces an average symptom reduction of 2 points on a validated rating scale. Calculate the average cost-effectiveness ratio (ACER) for the new treatment.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112167,
+          "text": "£200/week",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 112168,
+          "text": "£100/week",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 112169,
+          "text": "£50/week",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 112170,
+          "text": "£111/week",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 112171,
+          "text": "£20/week",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 112167,
+        "text": "£200/week"
+      },
+      "explanation": "ACER is calculated as total cost divided by total effect , cost = £400/week and effect = 2 units of improvement, then ACER = £400/2 = £200/unit (option A). The other options (B–E) would correspond to different cost/effect ratios and would be incorrect under these assumed values. The stem must be completed with actual data before this question is valid.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 49,
+      "question_id": 6950,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In Bayesian theory, what is an already-held belief called?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34784,
+          "text": "Evidence",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34785,
+          "text": "Data",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34786,
+          "text": "Prior",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 34787,
+          "text": "Posterior",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34788,
+          "text": "Likelihood",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 34786,
+        "text": "Prior"
+      },
+      "explanation": "In Bayesian theory, pre-existing beliefs are known as priors. These priors are combined with observed sensory data (referred to as likelihood) to compute a posterior probability, which represents the most probable perception considering both prior beliefs and sensory evidence.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 50,
+      "question_id": 6983,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the best graph to display the MODE of a dataset?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34949,
+          "text": "Histogram",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34950,
+          "text": "Bar chart",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34951,
+          "text": "Pie chart",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34952,
+          "text": "Line graph",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34953,
+          "text": "Scatter plot",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34950,
+        "text": "Bar chart"
+      },
+      "explanation": "A bar chart is the best graph to show the mode as it clearly displays the frequency of categorical data, making the most frequently occurring category visually apparent.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 51,
+      "question_id": 24876,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A depressed patient has shown a good degree of improvement in her sleep pattern after initiating a new treatment. Though objectively she continues to be depressed, when using a self-rated scale to monitor her symptoms, she significantly overrates the degree of improvement in her mood and other domains. This effect is called",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 124588,
+          "text": "Drift effect",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 124589,
+          "text": "Stockholm effect",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 124590,
+          "text": "Domino effect",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 124591,
+          "text": "Hawthorne effect",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 124592,
+          "text": "Halo effect",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 124592,
+        "text": "Halo effect"
+      },
+      "explanation": "The halo effect refers to a cognitive bias whereby the perception of a particular trait is influenced by the perception of other related traits. This phenomenon is best established in the study of physical attractiveness. More positive personality traits are often ascribed to individuals who are more attractive, across races and ages. Langlois JH, Kalakanis L, Rubenstein AJ, Larson A, Hallam M, Smoot M. Maxims or myths of beauty? A meta-analytic and theoretical review. Psychological Bulletin. 2000;126:390-423.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 52,
+      "question_id": 22300,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "If the sample size is suffi ciently large, mean values of repeated observations follow normal distribution irrespective of the distribution of original data in the population. This is known as",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111807,
+          "text": "Bayesian theorem",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111808,
+          "text": "Central limit theorem",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111809,
+          "text": "Bonferroni correction",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111810,
+          "text": "Transformation theorem",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111811,
+          "text": "Independent observations theorem",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111808,
+        "text": "Central limit theorem"
+      },
+      "explanation": "The central limit theorem explains why normal distributions are so frequent when considering most biological parameters. Consider repeated sampling from a population where distribution of the observed variable is unknown. You intend to plot the distribution of individual means of each sample from the population. As sample size increases, the sample means approach a normal distribution with its mean value being the same as the population mean and a standard deviation equal to the standard deviation of the population divided by the square root of the sample size. Usually 10 or more observations are suffi cient to result in an approximate normal distribution. Lawrie SM, McIntosh AM, and Rao S. Critical Appraisal for Psychiatry. Churchill Livingstone, 2000, p. 252.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 53,
+      "question_id": 24877,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "If a person's performance of a task is influenced by test procedures used, this is called",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 124593,
+          "text": "Hawthorne effect",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 124594,
+          "text": "Halo effect",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 124595,
+          "text": "Pygmalion effect",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 124596,
+          "text": "Practice effect",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 124597,
+          "text": "Barnham effect",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 124593,
+        "text": "Hawthorne effect"
+      },
+      "explanation": "The Hawthorne effect in psychology refers to the tendency of some people to work harder and perform better when they are a part of an experiment. This is because of the fact that individuals often change their behavior simply due to the attention they are receiving from researchers.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 54,
+      "question_id": 22306,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among the options below, which one types of data can have potentially infi nite number of values?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111837,
+          "text": "Continuous",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111838,
+          "text": "Categorical",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111839,
+          "text": "Nominal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111840,
+          "text": "Ordinal",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111841,
+          "text": "Binary",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111837,
+        "text": "Continuous"
+      },
+      "explanation": "Data can be qualitative or quantitative. Quantitative data refers to measures that often have a meaningful unit of expression. This can be either discrete or continuous. A discrete measure has no other observable value between two contiguous potentially observable values, i.e. there are ‘gaps’ between values. A continuous variable, on the other hand, can take potentially infi nite values. The other choices in the question refer to qualitative measures whose value can only be described and counted but cannot be expressed in meaningful units. Lawrie SM, McIntosh AM and Rao S. Critical Appraisal for Psychiatry. Churchill Livingstone, 2000, p. 56.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 55,
+      "question_id": 6959,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which pain assessment scale measures pain intensity from no pain at all to excruciating pain?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34829,
+          "text": "Likert scale",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34830,
+          "text": "Semantic differential scale",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34831,
+          "text": "Nominal scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34832,
+          "text": "Thurstone scale",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34833,
+          "text": "Visual analogue scale",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 34833,
+        "text": "Visual analogue scale"
+      },
+      "explanation": "The visual analogue scale (VAS) is a standardised pain intensity measure with anchor points ranging from \\'no pain\\' to \\'the worst possible pain\\' (or \\'excruciating pain\\'), as described in the New Oxford Textbook of Psychiatry (p.1089). The semantic differential scale (Osgood) is an attitude-measurement tool using bipolar adjective pairs and, while verbal descriptor scales are used for pain quality, they do not specifically operate on a no-pain-to-excruciating-pain intensity continuum. Likert, nominal, and Thurstone scales are general psychometric/attitude tools with no specific role in pain intensity measurement.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 56,
+      "question_id": 22309,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Parametric statistical methods make assumptions, which when satisfi ed make the fi nal estimate precise and accurate. Which of the following is one such parametric assumption?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111852,
+          "text": "The distribution of observations in the population is not known",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111853,
+          "text": "The variance of the compared samples are homogeneous",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111854,
+          "text": "The analysed variables are categorical measures",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111855,
+          "text": "Outliers are unequally distributed",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111856,
+          "text": "The sample size is at least 2% of the size of target population",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111853,
+        "text": "The variance of the compared samples are homogeneous"
+      },
+      "explanation": "To enable use of inferential statistics, standard sampling assumptions such as (1) the randomness of the sampled data and (2) the independent nature of the observations must be met. In addition, when parametric statistics are employed assumptions such as 1. homogeneity of variance of the samples 2. observations are obtained from continuous (interval/ratio) scales 3. normal distribution of the observed variable must be met. There is no set proportion of population size that must constitute the sample size in order to use parametric statistics. But in samples that are too small the distribution may not be normal and the central limit theorem may not be applicable. In conditions where such assumptions are not met non-parametric statistics are used. The latter are often considered to be less robust. Bland, M. An Introduction to Medical Statistics, 3rd edn. Oxford University Press, 2000, p. 210.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 57,
+      "question_id": 6982,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The Likert Scale is used to measure:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34944,
+          "text": "Interval data",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34945,
+          "text": "Ordinal data (agreement levels)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34946,
+          "text": "Categorical data",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34947,
+          "text": "Nominal data",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34948,
+          "text": "Ratio data",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34945,
+        "text": "Ordinal data (agreement levels)"
+      },
+      "explanation": "The Likert scale measures ordinal data by assessing levels of agreement or disagreement on a statement.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 58,
+      "question_id": 6964,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The Likert scale includes which type of response measures?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34854,
+          "text": "Open-ended responses",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34855,
+          "text": "Graded 'agree' to 'disagree' measures",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34856,
+          "text": "Yes/No responses",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34857,
+          "text": "Multiple selection options",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34858,
+          "text": "Visual analogue responses",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34855,
+        "text": "Graded 'agree' to 'disagree' measures"
+      },
+      "explanation": "The Likert scale includes graded 'agree' to 'disagree' measures and is one of the most popular and statistically reliable measures that is easy to construct without assuming equality of intervals.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 59,
+      "question_id": 6984,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A correlation coefficient of -0.9 suggests what type of relationship?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34954,
+          "text": "Weak positive correlation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34955,
+          "text": "Weak negative correlation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34956,
+          "text": "Strong positive correlation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34957,
+          "text": "Strong negative correlation",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 34958,
+          "text": "No correlation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 34957,
+        "text": "Strong negative correlation"
+      },
+      "explanation": "A correlation coefficient of -0.9 is close to -1, indicating a strong negative correlation between the two variables.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 60,
+      "question_id": 6945,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Q Methodology is best described as which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34759,
+          "text": "Quantitative statistical analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34760,
+          "text": "A systematic study of participant viewpoints and subjectivity",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34761,
+          "text": "Neuropsychological testing",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34762,
+          "text": "Randomized controlled trial design",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34763,
+          "text": "Case-control study methodology",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34760,
+        "text": "A systematic study of participant viewpoints and subjectivity"
+      },
+      "explanation": "Q Methodology is a research method developed by William Stephenson used in psychology and social sciences to systematically study people's subjectivity—their viewpoints and perspectives on a topic.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 61,
+      "question_id": 22297,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A new diagnostic test detects 60 out of 100 schizophrenia individuals correctly. It does not wrongly diagnose anyone in a sample of 100 controls. The positive predictive value of this test is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111792,
+          "text": "50%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111793,
+          "text": "60%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111794,
+          "text": "40%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111795,
+          "text": "100%",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 111796,
+          "text": "0%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 111795,
+        "text": "100%"
+      },
+      "explanation": "It is useful to construct a 2 × 2 table for calculating properties of reported diagnostic tests. From the given information we can draw the following: Schizophrenia Controls Total Test positive 60 0 ? Test negative ? ? ? Total 100 100 ? The remaining boxes can be fi lled as below Schizophrenia Controls Total Test positive 60 (true positive) 0 60 Test negative 40 100 (true negative) 140 Total 100 100 200 Now, positive predictive value = true positive/total positive = 60/60 = 100%. Guyatt G and Rennie D, eds. Users’ Guides to the Medical Literature. A Manual for Evidence-based Clinical Practice. AMA Press, 2002, p. 661.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 62,
+      "question_id": 6991,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A box plot is displayed showing the distribution of depression scores in a treatment group. What does the distance between the upper and lower boxes (the box itself) represent?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34989,
+          "text": "Standard deviation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34990,
+          "text": "Range",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34991,
+          "text": "Interquartile range",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 34992,
+          "text": "95% confidence interval",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34993,
+          "text": "Standard error",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 34991,
+        "text": "Interquartile range"
+      },
+      "explanation": "The box in a box plot represents the interquartile range (IQR), spanning from the 25th percentile (Q1) to the 75th percentile (Q3).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 63,
+      "question_id": 24878,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A candidate who has appeared for a mock exam before the actual exam scores better than a candidate who has not. This is called",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 124598,
+          "text": "Practice effect",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 124599,
+          "text": "Hawthorne effect",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 124600,
+          "text": "Observer effect",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 124601,
+          "text": "Regression of mean",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 124602,
+          "text": "Halo effect",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 124598,
+        "text": "Practice effect"
+      },
+      "explanation": "Practice effects occur when a participant in an experiment performs the same task twice or more after an interval. Subjects can either have a positive (subjects become better at performing the task) or negative (subjects become worse at performing the task) effect. Repeated measures designs are almost always affected by practice effects.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 64,
+      "question_id": 6931,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Weight before and after antipsychotics in same individuals. Statistical test.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34689,
+          "text": "Paired t-test",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 34690,
+          "text": "Unpaired t-test",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34691,
+          "text": "ANOVA",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34692,
+          "text": "Chi-square",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34693,
+          "text": "Mann-Whitney U",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 34689,
+        "text": "Paired t-test"
+      },
+      "explanation": "A paired t-test is used to compare weight measurements in the same individuals at two different time points (before and after antipsychotic treatment), as the measurements are dependent/related.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 65,
+      "question_id": 6937,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A psychiatrist wants to examine the validity of MRCPsych theory exams that purportedly test the knowledge base of a psychiatric trainee. She chooses to examine the degree of association between paper A scores and paper B scores. Which of the following is she testing?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34719,
+          "text": "Content validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34720,
+          "text": "Divergent validity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34721,
+          "text": "Face validity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34722,
+          "text": "Convergent validity",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 34723,
+          "text": "Divergent validity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 34722,
+        "text": "Convergent validity"
+      },
+      "explanation": "Convergent validity is a part of construct validity. Two measures of the same construct should be related to each other. Since both paper A and paper B test the same construct (theoretical knowledge base of psychiatric trainees), examining the association between them tests convergent validity.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 66,
+      "question_id": 22344,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a RCT the randomization sequence is protected before and until the randomization is completed. This is known as",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112027,
+          "text": "Concealment",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 112028,
+          "text": "Double blinding",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 112029,
+          "text": "Matching",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 112030,
+          "text": "Masking",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 112031,
+          "text": "Trial independence",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 112027,
+        "text": "Concealment"
+      },
+      "explanation": "Allocation concealment refers to the process used to prevent fore knowledge of the assignment before allocation is complete. So the investigator who recruits subjects for a trial will not know the nature of assignment of consequent subjects that enter randomization. Allocation concealment seeks to prevent selection bias, protects the allocation sequence before and until assignment, and can almost always be successfully implemented in a RCT. It is often confused with blinding which seeks to prevent ascertainment bias and protects the sequence after allocation, and cannot always be implemented. Schulz KF, Chalmers I., and Altman DG. The landscape and lexicon of blinding in randomized trials. Annals of Internal Medicine 2002; 136: 254–259.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 67,
+      "question_id": 6977,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is true about purines?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34919,
+          "text": "Are nitrogen-containing compounds",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 34920,
+          "text": "Include cytosine and thymine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34921,
+          "text": "Are found only in eukaryotes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34922,
+          "text": "Can only be obtained from the diet",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34923,
+          "text": "Include ethanol and nicotine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 34919,
+        "text": "Are nitrogen-containing compounds"
+      },
+      "explanation": "Purines are aromatic heterocycles composed of carbon and nitrogen. They include adenine and guanine, which participate in DNA and RNA formation. Eukaryotes, bacteria, and archaea can all perform de novo biosynthesis of purines. Cytosine, thymine, and uracil are pyrimidines, not purines. Ethanol and nicotine are not purines.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 68,
+      "question_id": 6944,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In rat behavioral testing models, which test measures sensorimotor gating?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34754,
+          "text": "Morris water maze",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34755,
+          "text": "Elevated plus maze",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34756,
+          "text": "Prepulse inhibition test",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 34757,
+          "text": "Y-maze test",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34758,
+          "text": "Novel object recognition test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 34756,
+        "text": "Prepulse inhibition test"
+      },
+      "explanation": "The prepulse inhibition test measures sensorimotor gating by assessing the reduction in startle response due to a preceding weak pre-pulse stimulus.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 69,
+      "question_id": 6989,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is NOT an assumption of multiple linear regression?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34979,
+          "text": "Linearity between variables",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34980,
+          "text": "Independence of observations",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34981,
+          "text": "Homoscedasticity of residuals",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34982,
+          "text": "Normality of the dependent variable",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 34983,
+          "text": "Absence of multicollinearity among predictors",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 34982,
+        "text": "Normality of the dependent variable"
+      },
+      "explanation": "Multiple linear regression assumes that the residuals (not the dependent variable itself) are normally distributed; the dependent variable does not need to be normally distributed.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 70,
+      "question_id": 6924,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which statistical test would be appropriate to compare mean depression scores (HAMD) at baseline, 3 months, 6 months, and 12 months?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34654,
+          "text": "Repeated Measures ANOVA",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 34655,
+          "text": "ANCOVA",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34656,
+          "text": "Independent T-test",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34657,
+          "text": "Chi-Square",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34658,
+          "text": "Kruskal-Wallis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 34654,
+        "text": "Repeated Measures ANOVA"
+      },
+      "explanation": "Repeated measures ANOVA is used to compare continuous outcomes (like HAMD scores) across multiple time points within the same subjects.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 71,
+      "question_id": 22331,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which statement most accurately characterizes gender differences in the risk of developing posttraumatic stress disorder (PTSD)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111962,
+          "text": "Men have higher rates of PTSD after experiencing combat trauma.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111963,
+          "text": "The risk is higher in females across the life span.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111964,
+          "text": "Gender does not influence the likelihood of developing PTSD after trauma exposure.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111965,
+          "text": "Women are less likely to be exposed to traumatic events than men.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111966,
+          "text": "Men and women have identical symptom presentations of PTSD.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111963,
+        "text": "The risk is higher in females across the life span."
+      },
+      "explanation": "PTSD is more prevalent among females than among males across the lifespan. Females in the general population experience PTSD for a longer duration than do males. At least some of the increased risk for PTSD in females appears to be attributable to a greater likelihood of exposure to traumatic events, such as rape, and other forms of interpersonal violence. Within populations exposed specifically to such stressors, gender differences in risk for PTSD are attenuated or nonsignificant.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 72,
+      "question_id": 6933,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one of the following statements regarding the power of a study is correct?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34699,
+          "text": "Is the probability of rejecting the null hypothesis when it is false",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 34700,
+          "text": "Decreases with increasing sample size",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34701,
+          "text": "Lies within 2 standard deviations of the mean",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34702,
+          "text": "Is the chance a significant p value will be reached",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34703,
+          "text": "Is equal to 1 - (the probability of a type I error)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 34699,
+        "text": "Is the probability of rejecting the null hypothesis when it is false"
+      },
+      "explanation": "Power is the probability of correctly rejecting the null hypothesis when it is false (i.e., it will not make a Type II error). Power is expressed as 1 - beta, where beta is the probability of a Type II error.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 73,
+      "question_id": 22327,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among the options below, which one clinical question can be correctly addressed by a case–control design?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111942,
+          "text": "Is it effective to use hyoscine patches in treating clozapine-induced hypersalivation?",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111943,
+          "text": "How many inpatients in wards for elderly people suffer from untreated hypercholesterolaemia at any given time?",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111944,
+          "text": "How rapidly will lithium discontinuation produce relapse of schizoaffective disorder?",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111945,
+          "text": "Are we at local community team compliant with the NICE guidelines for prescribing antipsychotics?",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111946,
+          "text": "Do individuals with depression have more academic examination failures than their healthy siblings?",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 111946,
+        "text": "Do individuals with depression have more academic examination failures than their healthy siblings?"
+      },
+      "explanation": "Choice A refers to a clinical question related to therapeutic intervention – RCTs are best suited to answer this. Choice B is an epidemiological question – ‘how many in a population have a particular condition?’ A cross-sectional survey could answer this question. Choice C refers to a prognostic question – how long will it take for schizoaffective relapse following lithium discontinuation? A prospective cohort (or a RCT if ethically approved) is the most appropriate design for this question. Choice D requires a clinical audit, which is often closer to a cross-sectional survey in design. Choice E refers to defi ned cases and controls being compared for a possible exposure or risk factor that might have occurred in the past. Hence the case– control design is best suited to answer this question. Please note that it is possible to design a prospective cohort study by observing for a long time those with academic failure to detect development of depression. Lawrie SM and McIntosh AM, Rao S. Critical Appraisal for Psychiatry. Churchill Livingstone, 2000, p. 27.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 74,
+      "question_id": 6942,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is true regarding the synthesis of purines?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34744,
+          "text": "Obtained exclusively from diet",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34745,
+          "text": "Not synthesized in the body",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34746,
+          "text": "Made up of cytosine and thymine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34747,
+          "text": "Synthesized in the body and obtained from diet",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 34748,
+          "text": "Only present in prokaryotic cells",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 34747,
+        "text": "Synthesized in the body and obtained from diet"
+      },
+      "explanation": "Purines are both obtained from dietary sources and synthesized de novo within the body, primarily in the liver.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 75,
+      "question_id": 6978,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Healthcare workers wash hands more when they are being observed. What explains this?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34924,
+          "text": "Hawthorne effect",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 34925,
+          "text": "Observer bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34926,
+          "text": "Social desirability",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34927,
+          "text": "Demand characteristics",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34928,
+          "text": "Halo effect",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 34924,
+        "text": "Hawthorne effect"
+      },
+      "explanation": "The Hawthorne effect describes how behavior changes when individuals are aware they are being observed. Healthcare workers engaging in better hand hygiene when observed is a classic example of this phenomenon.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 76,
+      "question_id": 6951,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which test is used to model depression and learned helplessness in rodents?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34789,
+          "text": "Morris water maze",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34790,
+          "text": "Elevated plus maze",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34791,
+          "text": "Forced swim test",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 34792,
+          "text": "Passive avoidance test",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34793,
+          "text": "Open field test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 34791,
+        "text": "Forced swim test"
+      },
+      "explanation": "The forced swim test is a rodent behavioral test used to evaluate antidepressant efficacy and model depressive-like states including learned helplessness, where mice are placed in an inescapable water tank.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 77,
+      "question_id": 22318,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A clinician wants to know whether a new medication improves cognitive symptoms in schizophrenia, and only 10% of those eligible for the study are willing to participate. The fact that so few of the eligible subjects agree to participate in this study compromises which of the following in this study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111897,
+          "text": "A diagnosis of testretest reliability",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111898,
+          "text": "A diagnosis of interrater reliability",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111899,
+          "text": "A diagnosis of internal validity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111900,
+          "text": "A diagnosis of external validity",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 111901,
+          "text": "A diagnosis of utility",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 111900,
+        "text": "A diagnosis of external validity"
+      },
+      "explanation": "External validity describes how well a study generalizes to a broader population, which is compromised if only a small portion of potentially eligible persons agree to participate. Internal validity describes the degree to which each element of a test (such as a selfreport scale) accurately represents the construct of interest (i.e., do all the questions accurately depict elements of a major depressive episode?). Reliability speaks to the consistency of a test such as from one test administration to another (testretest) or between different people administering the test (interrater). Utility is a lessdiscussed metric but is no less important: it describes the usefulness of a particular test, screening tool, and so forth. A questionnaire that takes 30 minutes to screen for substance abuse would not be useful in a busy primary care clinic. 306 • PsyChiatRy",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 78,
+      "question_id": 6955,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which scale includes graded 'agree' to 'disagree' measures and is one of the most popular and statistically reliable measures?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34809,
+          "text": "Semantic differential scale",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34810,
+          "text": "Visual analogue scale",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34811,
+          "text": "Likert scale",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 34812,
+          "text": "Numerical rating scale",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34813,
+          "text": "Categorical rating scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 34811,
+        "text": "Likert scale"
+      },
+      "explanation": "The Likert scale includes graded 'agree' to 'disagree' measures. It is one of the most popular and statistically more reliable measures, is easy to construct, and makes no assumptions about the equality of intervals.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 79,
+      "question_id": 6923,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which statistical test would be used to compare non-parametric data across groups?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34649,
+          "text": "T-test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34650,
+          "text": "ANOVA",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34651,
+          "text": "Mann-Whitney U",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 34652,
+          "text": "Pearson Correlation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34653,
+          "text": "Linear Regression",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 34651,
+        "text": "Mann-Whitney U"
+      },
+      "explanation": "Mann-Whitney U test is the non-parametric alternative to the independent t-test, used for comparing two groups of non-parametric data.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 80,
+      "question_id": 6921,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Two radiologists independently report MRI results. Which type of validity is being assessed?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34639,
+          "text": "Concurrent Validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34640,
+          "text": "Content Validity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34641,
+          "text": "Inter-rater Validity",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 34642,
+          "text": "Construct Validity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34643,
+          "text": "Predictive Validity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 34641,
+        "text": "Inter-rater Validity"
+      },
+      "explanation": "Inter-rater reliability (validity) measures the agreement between two independent raters evaluating the same item, which is what occurs with two radiologists independently reporting MRI findings.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 81,
+      "question_id": 22351,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among the following, which is strictly correct about a single-blind study design?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112062,
+          "text": "Only the individuals, but not the researchers, do not know whether placebo or active drug is being administered",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 112063,
+          "text": "Only the researchers, but not the individuals, do not know whether placebo or active drug is being administered",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 112064,
+          "text": "Both the individual and researchers do not know the treatment given",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 112065,
+          "text": "Only one group of the trial subjects is kept unaware of the treatment status",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 112066,
+          "text": "Either the individuals or the researchers do not know whether placebo or active drug is administered",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 112066,
+        "text": "Either the individuals or the researchers do not know whether placebo or active drug is administered"
+      },
+      "explanation": "Single blind: either the patient or the clinician remains unaware of the intervention given. Double blind: both the patient and investigator are unaware of the given intervention. Open label: both researchers and the participants are aware of treatment being given after randomisation. Triple blind: apart from the patient and the researcher, those who measure the study outcomes (the assessors) are also unaware of the given intervention. Forder PM, Gebski VJ, and Keech AC. Allocation concealment and blinding: when ignorance is bliss. Medical Journal of Australia 2005; 182: 87–89.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 82,
+      "question_id": 22321,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among the following options, which categories of disorder has the highest 12month occurrence rate among US adults?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111912,
+          "text": "A diagnosis of mood disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111913,
+          "text": "A diagnosis of anxiety disorders",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111914,
+          "text": "A diagnosis of psychotic disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111915,
+          "text": "Sleep disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111916,
+          "text": "Neurodevelopmental disorders",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111913,
+        "text": "A diagnosis of anxiety disorders"
+      },
+      "explanation": "Anxiety disorders are the most prevalent type of psychiatric disorder in US adults. As a result, patients who present for psychiatric evaluation should be systematically screened for the presence of anxiety disorders.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 83,
+      "question_id": 6980,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A cell infected by toxins displays inflammatory markers in its environment. Which cellular process is this?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34934,
+          "text": "Apoptosis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34935,
+          "text": "Necrosis",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34936,
+          "text": "Entosis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34937,
+          "text": "Autophagy",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34938,
+          "text": "Senescence",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34935,
+        "text": "Necrosis"
+      },
+      "explanation": "Necrosis is the cellular death process characterized by inflammatory markers and toxins in the surrounding environment. Unlike apoptosis, which is clean programmed cell death, necrosis is uncontrolled and triggers inflammation.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 84,
+      "question_id": 6925,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which statistical test would be used to compare the difference between means of mirtazapine and placebo groups at 12 weeks?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34659,
+          "text": "Paired T-test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34660,
+          "text": "Independent T-test",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34661,
+          "text": "Mann-Whitney U",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34662,
+          "text": "Correlation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34663,
+          "text": "Chi-Square",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34660,
+        "text": "Independent T-test"
+      },
+      "explanation": "Independent t-test compares means between two independent groups (mirtazapine vs. placebo) at a single time point.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 85,
+      "question_id": 6986,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a naturalistic study examining the relationship between psychosis and compulsions, mediation analysis shows an indirect effect of 0.07 and a direct effect of -20. What is the role of obsessions in this relationship?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34964,
+          "text": "Moderator",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34965,
+          "text": "Mediator",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34966,
+          "text": "Confounder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34967,
+          "text": "Effect modifier",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34968,
+          "text": "Interaction variable",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34965,
+        "text": "Mediator"
+      },
+      "explanation": "In mediation analysis, a mediator is a variable through which an independent variable exerts its effect on a dependent variable. The presence of an indirect effect (0.07) indicates that obsessions mediate part of the relationship between psychosis and compulsions.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 86,
+      "question_id": 22312,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is the best example of secondary prevention in psychiatry?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111867,
+          "text": "Media campaign promoting mental health awareness in the general population",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111868,
+          "text": "Depression screening programme in primary care",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111869,
+          "text": "Relapse prevention programme for individuals with bipolar disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111870,
+          "text": "Structured day program for individuals with schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111871,
+          "text": "Prenatal care to reduce the rate of new cases of intellectual disability in children",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111868,
+        "text": "Depression screening programme in primary care"
+      },
+      "explanation": "Secondary prevention involves the early identification and prompt treatment of illness to reduce the number of existing cases and shorten their duration (Kaplan p.3018). A depression screening programme in primary care exemplifies this by detecting illness at an earlier stage before full impairment occurs. \r\nOption A (media campaign) is primary prevention as it targets the general population to prevent new cases. Option C (relapse prevention) and Option D (structured day programme) are tertiary prevention, aimed at reducing disability in established illness. Option E (prenatal care) reduces incidence of new cases, making it primary prevention.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 87,
+      "question_id": 6928,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a meta-analysis, what statistical measure is commonly used to assess the degree of heterogeneity among included studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34674,
+          "text": "I-squared (I²) Statistic",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 34675,
+          "text": "T-score",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34676,
+          "text": "Mean Effect Score",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34677,
+          "text": "Chi-squared Test for Independence",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34678,
+          "text": "Standard Error",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 34674,
+        "text": "I-squared (I²) Statistic"
+      },
+      "explanation": "The I² statistic is a widely used measure in meta-analytical studies to assess heterogeneity among included studies. It quantifies the proportion of total variation across studies that is due to heterogeneity rather than chance, with higher values indicating greater heterogeneity.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 88,
+      "question_id": 22291,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a study presenting outcome in terms of median days of hospital admission, the collected data show many observations substantially higher than the median. Which one of the following is correct regarding the above study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111762,
+          "text": "The results are negatively skewed",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111763,
+          "text": "Mean = median = mode",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111764,
+          "text": "The results are not skewed",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111765,
+          "text": "Mean > median",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 111766,
+          "text": "Mode = median",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 111765,
+        "text": "Mean > median"
+      },
+      "explanation": "If many observations are substantially higher than the median we can assume that the mean of the distribution might be greater than the median. This translates to a positively skewed distribution. No comments can be made on mode using the available information. Lawrie SM, McIntosh AM, and Rao S. Critical Appraisal for Psychiatry. Churchill Livingstone, 2000, p. 60.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 89,
+      "question_id": 22339,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What would be the name of the graph shown above?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112002,
+          "text": "Funnel plot",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 112003,
+          "text": "Galbraith plot",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 112004,
+          "text": "L’Abbé plot",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 112005,
+          "text": "Scatter plot",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 112006,
+          "text": "Forest plot (blobbogram)",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 112006,
+        "text": "Forest plot (blobbogram)"
+      },
+      "explanation": "Meta-analyses are usually displayed in graphical form using Forest plots, which present the fi ndings for all studies plus (usually) the combined results. This allows the reader to visualize how much uncertainty there is around the results. The graph in question, modifi ed below, presents a Forest plot, sometimes called a ‘blobbogram’ identifying its basic components. The 95% CI are represented using Trial 1 horizontal lines. If the line crosses Trial 2 the line of no effect, the effect is not statistically significant. Trial 3 Trial 4 Trial 5 The “blob” represents each Trial 6 trial; the size of the blob usually suggests the weight Trial 7 of the study, usually determined by its sample Pooled fixed effects size −2.0−1.5 −1.0−0.5 0 0.5 Pooled effect: is the combined (average) effect that appears as a diamond at the bottom of the Forest X better Placebo better plot. In this case, the diamond does not cross the line of no effect, hence is statistically significant, although Line of no effect – depending on the the effect size is less than 0.5. positive or negative effect of intervention, the blobs are placed to the right or left of this line. If the variables are dichotomous, the line of effect would correspond to 1. Geddes J, Freemantle N, Streiner D, et al. Understanding and interpreting systematic reviews and meta–analyses. Part 1: rationale, search strategy, and describing results (editorial). Evidence-Based Mental Health 1998; 1: 68–69.",
+      "image_url": "https://kdpsychacademy.com/wp-content/uploads/2026/08/Forest-plotQ300183.jpg",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 90,
+      "question_id": 22358,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among the following, which characters of a pragmatic RCT distinguishes it from an explanatory RCT?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112097,
+          "text": "Pseudo-randomization is practised in pragmatic trials",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 112098,
+          "text": "Type 1 error level is set to be higher in pragmatic trials",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 112099,
+          "text": "Descriptive rather than inferential statistics are used to report the outcome of pragmatic trials",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 112100,
+          "text": "Higher generalizability is achieved in pragmatic trials",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 112101,
+          "text": "Strict exclusion of individuals with comorbid conditions is seen in pragmatic trials",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 112100,
+        "text": "Higher generalizability is achieved in pragmatic trials"
+      },
+      "explanation": "The RCT has traditionally been considered as a study design that can yield results with a high degree of internal validity. But the major drawback of RCTs is that the process takes place under highly experimental conditions, which are not seen in clinical practice. So any results achieved from such RCTs, though valid, may not be reproducible in everyday practice. In order to circumvent this issue, more naturalistic trials that retain core principles of RCT such as randomization, longitudinal follow-up, and controlled intervention are being increasingly used. Such real-world RCTs are called pragmatic trials or effectiveness trials. Such trials can be useful to fi nd out if an intervention will be effective in clinical practice, although they may not be suitable to study the biological effi cacy of a drug. A pragmatic RCT may reject various practices seen in an explanatory RCT, such as strict exclusion criteria, blinding, placebo use, fi xed dose intervention, high follow-up care, per-protocol analysis, etc. But basic principles such as randomization and use of probability theory (hypothesis testing and p values) are retained. Hotopf M. The pragmatic randomised controlled trial. Advances in Psychiatric Treatment 2002; 8: 326–333.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 91,
+      "question_id": 6932,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Cholesterol level in 3 groups before and after. One question was after adjusting for age.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34694,
+          "text": "ANOVA",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34695,
+          "text": "ANCOVA",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34696,
+          "text": "Paired t-test",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34697,
+          "text": "Repeated measures ANOVA",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34698,
+          "text": "Repeated measures ANCOVA",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 34698,
+        "text": "Repeated measures ANCOVA"
+      },
+      "explanation": "When comparing cholesterol levels across 3 groups at multiple time points (before and after) while adjusting for a covariate (age), repeated measures ANCOVA is the appropriate test.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 92,
+      "question_id": 24879,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The Likert scale consists of",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 124603,
+          "text": "Three responses to each statement",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 124604,
+          "text": "Four responses to each statement",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 124605,
+          "text": "Five responses to each statement",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 124606,
+          "text": "Six responses to each statement",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 124607,
+          "text": "Seven responses to each statement",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 124605,
+        "text": "Five responses to each statement"
+      },
+      "explanation": "The Likert scale consists of five responses to each statement- Agree/disagree on a five-point scale. These are quick to design, but they are relatively sensitive. The Thurston scale has equal intervals between successive points on the scale. A range of statements is presented, and you tick those you agree with.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 93,
+      "question_id": 6987,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "For what purpose is the Bonferroni correction used in statistical analysis?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34969,
+          "text": "To increase statistical power",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34970,
+          "text": "To correct for multiple comparisons and reduce Type I error",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34971,
+          "text": "To improve sample size calculation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34972,
+          "text": "To assess effect size",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34973,
+          "text": "To determine clinical significance",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34970,
+        "text": "To correct for multiple comparisons and reduce Type I error"
+      },
+      "explanation": "The Bonferroni correction adjusts the significance level when conducting multiple statistical tests to reduce the probability of Type I error (false positives).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 94,
+      "question_id": 6946,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is a key characteristic of a Likert scale?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34764,
+          "text": "It measures nominal categories only",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34765,
+          "text": "It has an ordinal basis assumption",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34766,
+          "text": "It provides ratio-level data",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34767,
+          "text": "It always has five response options",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34768,
+          "text": "Intervals between points are mathematically equal",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34765,
+        "text": "It has an ordinal basis assumption"
+      },
+      "explanation": "A Likert scale is an ordinal scale where responses (e.g., strongly agree to strongly disagree) represent ranked order, but the intervals between points are not necessarily mathematically equal.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 95,
+      "question_id": 22365,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among the options below, which one statement with respect to bias is false?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112132,
+          "text": "Bias is a systematic error",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 112133,
+          "text": "Bias cannot be controlled for during the analysis stage of a trial",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 112134,
+          "text": "The presence of bias always overestimates the fi nal effect",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 112135,
+          "text": "Blinding reduces measurement bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 112136,
+          "text": "Randomization reduces selection bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 112134,
+        "text": "The presence of bias always overestimates the fi nal effect"
+      },
+      "explanation": "Bias is defi ned as any trend in the collection, analysis, interpretation, publication, or review of data that can lead to conclusions that are systematically different from the truth. It can also be termed as a systematic error that infl uences the result in either direction. Hence a biased study could either overestimate or underestimate the true effect, depending on the direction of the trend. Bias may be introduced by poor study design or poor data collection. Bias cannot be ‘controlled for‘ at the analysis stage. In RCTs, randomization ensures a reduction in selection bias if the process is carried out in a strictly concealed manner. Blinding can reduce the measurement bias if properly executed. Page LA and Henderson M. Appraising the evidence: what is measurement bias? Evidence Based Mental Health 2008; 11: 36–37.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 96,
+      "question_id": 6930,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Chi, ANOVA, ANCOVA, Mann-Whitney, biserial - correlation between two binary variables.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34684,
+          "text": "Kendall",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34685,
+          "text": "Pearson",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 34686,
+          "text": "Spearman",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34687,
+          "text": "Phi",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 34688,
+          "text": "Point-biserial",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 34687,
+        "text": "Phi"
+      },
+      "explanation": "Phi correlation coefficient is used to measure the association between two binary variables. Point-biserial is used when one variable is binary and one is continuous.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 97,
+      "question_id": 6954,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The semantic differential scale may be subject to which of the following problems?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 34804,
+          "text": "Performance bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 34805,
+          "text": "Positional response bias",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 34806,
+          "text": "Recall bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 34807,
+          "text": "Selection bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 34808,
+          "text": "Detection bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 34805,
+        "text": "Positional response bias"
+      },
+      "explanation": "The semantic differential scale is a visual analogue scale with two polarized adjectives at either extremes separated by a line. Subjects mark their attitudes between the two, and this scale may be subject to positional response bias, where subjects tend to mark their responses in a particular position regardless of the content.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 98,
+      "question_id": 22315,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The number of new cases occurring during a specified period of time, usually 1 year, is called:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111882,
+          "text": "A diagnosis of prevalence",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111883,
+          "text": "A diagnosis of incidence",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111884,
+          "text": "A diagnosis of distribution",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111885,
+          "text": "A diagnosis of sample",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111886,
+          "text": "A diagnosis of lifetime expectancy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111883,
+        "text": "A diagnosis of incidence"
+      },
+      "explanation": "Incidence is the number of new cases occurring over a specified time. It is often confused with prevalence, which is the number of existing cases of a disorder. Point prevalence refers to prevalence at a specific point in time, whereas period prevalence refers to prevalence during a specified duration.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 99,
+      "question_id": 24880,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Two medications have the same efficacy but Drug A is marketed as having a 50% failure rate whilst Drug B is marketed as having a 50% success rate. Drug B is prescribed more frequently. What is this an example of?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 124608,
+          "text": "Framing",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 124609,
+          "text": "Barnum effect",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 124610,
+          "text": "Hawthorne effect",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 124611,
+          "text": "Outcome bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 124612,
+          "text": "Heuristics",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 124608,
+        "text": "Framing"
+      },
+      "explanation": "The framing effect is an example of cognitive bias, in which people react to a particular choice in different ways depending on how it is presented; e.g. as a loss or as a gain. Heuristics are simple, efficient rules which people often use to form judgments and make decisions. The outcome bias is an error made in evaluating the quality of a decision when the outcome of that decision is already known. The Barnum effect is a common psychological phenomenon whereby individuals will give high accuracy ratings to descriptions of their personality that supposedly are tailored specifically to them but that are, in fact, vague and general enough to apply to a wide range of people. The Hawthorne effect is the alteration of behaviour by the subjects of a study due to their awareness of being observed.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 100,
+      "question_id": 23894,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following psychological tests is used in research on animal models of depression?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 119723,
+          "text": "Spitz test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 119724,
+          "text": "Radial arm maze task",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 119725,
+          "text": "Light-Dark box",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 119726,
+          "text": "Morris water maze task",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 119727,
+          "text": "Forced swim test",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 119727,
+        "text": "Forced swim test"
+      },
+      "explanation": "The behavioural despair test (also called the Porsolt test or forced swimming test) is a test used to measure the effect of antidepressant drugs on the behaviour of laboratory animals (typically rats or mice). Animals are initially made to swim in a cylinder filled with water from which they cannot escape even if they swim vigorously but rescued manually after 15 minutes. After a day, the forced swimming experiment is repeated but only for 5 minutes. The total time for which the animal shows no effort to escape or swim out of the cylinder during the second trial is the immobility time that indexes helplessness. This time is decreased by antidepressants.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 101,
+      "question_id": 23895,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "You are giving a talk to your hospital staff about the importance of clinical trials. How would you explain the term 'standardised difference in effectiveness'?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 119728,
+          "text": "The difference in the effect of treatment in the active treatment group compared to the",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 119729,
+          "text": "placebo group after taking into account the variation in the treatment effect",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 119730,
+          "text": "The effect of treatment in the active treatment group",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 119731,
+          "text": "The difference in the effect of treatment in the active treatment group compared to the",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 119732,
+          "text": "placebo group",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 119728,
+        "text": "The difference in the effect of treatment in the active treatment group compared to the"
+      },
+      "explanation": "The number of patients that require one treatment compared to the other in order to detect one positive response Is the NNT (Number Needed to Treat). The standardised mean difference is also called Cohen's d.",
+      "image_url": "",
+      "explanation_image_url": null
+    }
+  ]
+}

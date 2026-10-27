@@ -1,0 +1,1089 @@
+{
+  "chapter_id": 209,
+  "chapter_name": "Biostatistics 3",
+  "subject_name": "Statistics and Critical appraisal",
+  "total_questions": 23,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 7789,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher examines depression outcomes in 500 individuals with documented childhood abuse and 500 non-exposed individuals, measuring both exposure and outcome simultaneously from current health records and labelling this a \\'retrospective cohort study\\'. Which fundamental assumption of cohort methodology is most critically violated?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 38979,
+          "text": "That the comparison groups are followed forward in time",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 38980,
+          "text": "That exposure is documented before outcome occurs",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 38981,
+          "text": "That outcome measurement is blinded",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 38982,
+          "text": "That the sample size is adequately powered",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 38983,
+          "text": "That matching is performed on confounders",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 38980,
+        "text": "That exposure is documented before outcome occurs"
+      },
+      "explanation": "In a true retrospective cohort study, exposure is identified from past records and outcome is then traced forward (or assessed as having occurred subsequently), preserving temporal precedence — exposure is always documented before outcome. The scenario described uses only current health records to ascertain both childhood abuse and depression simultaneously, violating the core assumption that exposure documentation precedes outcome ascertainment (Option B).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": 7946,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher wants to investigate why patients with schizophrenia are non-concordant with antipsychotic medication. They plan to conduct in-depth interviews with patients to explore their attitudes, beliefs, and subjective experiences. Which type of study design is most appropriate for this research question?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 39764,
+          "text": "Case report",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 39765,
+          "text": "Clinical audit",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 39766,
+          "text": "Cross-sectional survey",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 39767,
+          "text": "Qualitative study",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 39768,
+          "text": "Ecological study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 39767,
+        "text": "Qualitative study"
+      },
+      "explanation": "This scenario describes a qualitative study design. Qualitative research is appropriate when the aim is to understand attitudes, beliefs, and subjective experiences — such as why patients do not take their medication  rather than to quantify outcomes. As noted in the SPMM course notes, qualitative studies are suited to questions that cannot be easily answered by conventional quantitative theories, including questions about patient behaviour and motivation. Case reports describe individual clinical cases; cross-sectional surveys measure variables at a single point in time to estimate prevalence; ecological studies use population-level aggregate data; and clinical audit is a quality improvement process rather than a research design.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": 22241,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a randomised controlled trial of rTMS versus sham stimulation, 50% of patients in the rTMS group achieved a clinical response compared with 20% in the sham group. Based on these results, how many subjects would need to be given rTMS before one additional individual achieved a clinical response (NNT or number needed to treat)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111513,
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111514,
+          "text": "3.33",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111515,
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111516,
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111517,
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111514,
+        "text": "3.33"
+      },
+      "explanation": "The absolute risk reduction (ARR) is calculated as the difference between the experimental event rate (EER) and the control event rate (CER): 50% − 20% = 30%. \r\n\r\nAbsolute Risk Reduction (ARR) = Response Rate in Treatment Group - Response Rate in Control Group\r\nNNT = 1 / ARR\r\n\r\nNNT = 1 / 0.30 = 3.33",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": 22266,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Using the following nomogram calculate the post-test probability of a negative test when using the two-item depression screening test in the palliative care unit",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111637,
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111638,
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111639,
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111640,
+          "text": "50",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111641,
+          "text": "80",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111638,
+        "text": "2"
+      },
+      "explanation": "Fagan nomogram. It is used in medicine and epidemiology to quickly update probability based on new information, such as the result of a diagnostic test. By drawing a straight line through two known points, a third unknown point can be found.\r\nThe nomogram establishes a visual mathematical relationship between three core concepts in diagnostic testing: \r\nPre-test probability → Likelihood ratio → Post-test probability\r\n2.3 →  2 →0.2",
+      "image_url": "https://kdpsychacademy.com/wp-content/uploads/2026/08/Q010123.jpg",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": 7299,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A hospital-based case-control study selects cases of first-episode psychosis from an acute psychiatric ward and controls from the same hospital who have been admitted for an orthopaedic condition unrelated to the exposure of interest. Compared with community controls, which of the following is a practical advantage of using hospital controls from a different, unrelated condition?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36529,
+          "text": "Hospital controls are more likely to have exposure histories similar to cases",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36530,
+          "text": "Hospital controls are easier to recruit than community controls",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36531,
+          "text": "Hospital controls from an unrelated condition have accessible medical records and share healthcare-seeking behaviour with cases, facilitating exposure ascertainment",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36532,
+          "text": "Hospital controls eliminate the need for matching on age and sex",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36533,
+          "text": "Hospital controls allow measurement of relative risk instead of odds ratio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36531,
+        "text": "Hospital controls from an unrelated condition have accessible medical records and share healthcare-seeking behaviour with cases, facilitating exposure ascertainment"
+      },
+      "explanation": "In case-control studies, hospital controls from a different, unrelated condition are acceptable because they share healthcare-seeking behaviour with cases and their medical records are readily accessible, facilitating accurate ascertainment of past exposures  making Option C the best answer by elimination. Matching on age and sex remains necessary regardless of control source, directly contradicting Option D. Relative risk cannot be calculated from case-control studies as incidence rates are unavailable; only the odds ratio is obtainable, contradicting Option E. Selecting controls from a different condition specifically helps avoid Berkson (admission rate) bias, which would arise if controls were selected from conditions causally linked to the same exposure as the cases; Option A incorrectly frames similar exposure histories as an advantage when this could distort the odds ratio. Option B may be practically true but is not the primary epidemiological rationale for this design choice.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": 22255,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a randomized controlled trial assessing the side effects of sertraline, 44 patients received the drug and 39 received a placebo. During the trial, 6 patients on sertraline developed dyspepsia, while 2 patients on the placebo developed the same condition. Based on this data, what is the Experimental Event Rate (EER) and the Control Event Rate (CER) for developing dyspepsia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111582,
+          "text": "13.60%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111583,
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111584,
+          "text": "8.60%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111585,
+          "text": "63.20%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111586,
+          "text": "90.20%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111582,
+        "text": "13.60%"
+      },
+      "explanation": "Data Summary\r\n\r\nSertraline (Drug) Group: 6 developed dyspepsia (A), 38 did not (B). Total = 44 (A + B)\r\n\r\nPlacebo Group: 2 developed dyspepsia (C), 37 did not (D). Total = 39 (C + D)\r\n\r\nStep 1: Calculate the Experimental Event Rate (EER)\r\nThe EER is the chance of developing the outcome (dyspepsia) in the group receiving the active treatment.\r\n\r\nFormula: A / (A + B)\r\n\r\nCalculation: 6 / 44\r\n\r\nResult: 0.136 (13.6%)\r\n\r\nStep 2: Calculate the Control Event Rate (CER)\r\nThe CER is the chance of developing the outcome (dyspepsia) in the group receiving the placebo.\r\n\r\nFormula: C / (C + D)\r\n\r\nCalculation: 2 / 39\r\n\r\nResult: 0.051 (approx. 5.0%)\r\n\r\nFinal Result\r\nThe chance of developing dyspepsia is 13.6% for patients taking sertraline (EER) and approximately 5.0% for patients taking a placebo (CER).",
+      "image_url": "https://kdpsychacademy.com/wp-content/uploads/2026/08/Q010142-1.jpg",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": 22254,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a randomised controlled trial comparing sertraline with placebo, the rate of dyspepsia in the sertraline group (EER) was 13.6% and in the placebo group (CER) was 5.0%. How many times more likely is a person on sertraline to develop dyspepsia than a person on placebo?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111577,
+          "text": "1.7",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111578,
+          "text": "2.7",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111579,
+          "text": "3.7",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111580,
+          "text": "4.7",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111581,
+          "text": "5.7",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111578,
+        "text": "2.7"
+      },
+      "explanation": "Question is asking about the Relative Risk\r\n\r\nStep 1: Identify the event rate in the sertraline group.\r\nSertraline rate (EER) = 13.6%\r\n\r\nStep 2: Identify the event rate in the placebo group.\r\nPlacebo rate (CER) = 5.0%\r\n\r\nStep 3: Calculate the Relative Risk.\r\n(Sertraline rate) divided by (Placebo rate)\r\nRelative Risk = 13.6 / 5.0 = 2.72\r\n\r\nFinal Answer: A person on sertraline is 2.72 times more likely to develop dyspepsia than a person on placebo.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": 25493,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Machine learning applied to psychiatric neuroimaging aims to develop imaging-based biomarkers. Which type of machine learning model has shown the strongest performance for pattern recognition in complex neuroimaging datasets?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 127659,
+          "text": "Logistic regression with ROI features",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 127660,
+          "text": "Decision trees, cortical thickness",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 127661,
+          "text": "Convolutional neural networks (CNNs)",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 127662,
+          "text": "K-nearest neighbour 2D projections",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 127663,
+          "text": "SVM with PCA only",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 127661,
+        "text": "Convolutional neural networks (CNNs)"
+      },
+      "explanation": "Deep learning — particularly convolutional neural networks (CNNs) — has demonstrated superior performance for pattern recognition in psychiatric neuroimaging. CNNs learn hierarchical spatial features directly from raw imaging data (voxel-level) without requiring manual feature extraction or a priori region-of-interest selection. Their architecture (convolutional layers → pooling → fully connected layers) is well-suited to the spatial structure of brain images. Applications include: diagnosis of Alzheimer's disease, schizophrenia, and ASD classification from structural MRI or rs-fMRI; brain age prediction; and prediction of treatment response. Transfer learning (pre-training CNNs on large natural image datasets, then fine-tuning on brain images) improves performance with limited psychiatric neuroimaging datasets. Major limitations include: need for large labelled training datasets; lack of interpretability ('black box' problem — addressed by techniques like saliency maps and GradCAM); overfitting to specific scanner and protocol characteristics; and the risk of perpetuating diagnostic category biases present in training labels. Explainability and fairness remain key challenges for clinical deployment.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": 25494,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Federated learning is a machine learning approach increasingly advocated for psychiatry research involving sensitive health data. What is its key advantage over conventional centralised machine learning?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 127664,
+          "text": "Less computational power required",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 127665,
+          "text": "Trains without sharing patient data",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 127666,
+          "text": "Eliminates need for labelled data",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 127667,
+          "text": "Always outperforms single-site models",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 127668,
+          "text": "Only FDA-approved AI approach",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 127665,
+        "text": "Trains without sharing patient data"
+      },
+      "explanation": "Federated learning trains a shared machine learning model across multiple institutions without centralising raw patient data. Instead of pooling data (which raises GDPR, HIPAA, and institutional privacy concerns), each site trains the model locally on its own data and shares only model parameters (gradients or weights) with a central aggregator, which combines them into an updated global model — then redistributes to sites. This preserves patient privacy since raw data never leaves the institution. Advantages in psychiatry: enables large-scale training on heterogeneous, multi-site datasets (improving generalisability); facilitates international collaboration without complex data-sharing agreements; particularly valuable for sensitive mental health records. Challenges include: communication overhead in model aggregation; data heterogeneity across sites (non-IID data); security (gradient attacks can partially reconstruct training data); and ensuring the aggregated model remains clinically valid across diverse patient populations. The UK Biobank, ENIGMA consortium, and several NHS trusts are exploring federated learning frameworks for psychiatric genomic and neuroimaging research.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": 7422,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which statement best characterises how subjects are selected in cohort versus case-control study designs?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37144,
+          "text": "Subject selection determines whether a study is descriptive or analytical",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37145,
+          "text": "In cohort studies, subjects are selected based on differences in exposure status; in case-control studies, subjects are selected based on differences in outcome (disease) status",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37146,
+          "text": "All studies must select subjects based on randomization",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37147,
+          "text": "Subject selection is irrelevant to study design classification",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37148,
+          "text": "Descriptive studies always use random sampling",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37145,
+        "text": "In cohort studies, subjects are selected based on differences in exposure status; in case-control studies, subjects are selected based on differences in outcome (disease) status"
+      },
+      "explanation": "According to the study design classification table, subjects in case-control studies are identified according to disease (outcome) status, whereas subjects in cohort studies are identified according to exposure status. This is a fundamental axis of study classification. Option A is incorrect because the descriptive/analytical distinction relates to whether a causal hypothesis is tested, not simply to how subjects are selected.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": 7638,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Compared to cohort studies, case-control studies are more suitable for studying rare outcomes (diseases) because:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 38224,
+          "text": "Cohort studies are always less expensive",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 38225,
+          "text": "Cohort studies measure odds ratio rather than relative risk",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 38226,
+          "text": "Case-control studies start with known disease cases and search backward for exposures, avoiding the need to wait for rare events to occur.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 38227,
+          "text": "Cohort studies eliminate selection bias entirely",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 38228,
+          "text": "Cohort studies do not require informed consent",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 38226,
+        "text": "Case-control studies start with known disease cases and search backward for exposures, avoiding the need to wait for rare events to occur."
+      },
+      "explanation": "Case-control studies begin by identifying individuals with the disease (cases) and matched controls without disease, then look backward for exposures  this design is efficient for rare outcomes because the investigator can deliberately enrich the sample with cases rather than waiting for rare events to accumulate prospectively. Cohort studies, by contrast, follow exposed and non-exposed groups forward in time, which is inefficient for rare outcomes as thousands must be observed; the passages note cohort studies are \\'not suitable for investigating rare diseases. Cohort studies are instead preferred when the exposure is rare or when multiple outcomes of a single exposure need to be studied. Case-control studies use odds ratio (not relative risk) because incidence rates cannot be calculated from this retrospective design",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": 7874,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An epidemiologist studying psychiatric medication side effects across age groups conducts separate cohort studies in adolescents, young adults, and older adults. Which advantage does this approach offer over a single pooled analysis?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 39404,
+          "text": "Elimination of confounding variables",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 39405,
+          "text": "Detection of age-specific associations that pooled analysis might obscure",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 39406,
+          "text": "Reduction of sample size requirements",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 39407,
+          "text": "Improvement of internal validity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 39408,
+          "text": "Direct measurement of effect modification",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 39405,
+        "text": "Detection of age-specific associations that pooled analysis might obscure"
+      },
+      "explanation": "Stratified analysis — here operationalised as separate cohort studies per age group — allows detection of differential associations across strata (e.g. age groups) that a single pooled analysis might obscure by averaging across heterogeneous subgroups\\'different age groups had different relative risks\\'). This makes B the best answer. Option E (\\'direct measurement of effect modification\\') is related but subtly incorrect in this context: formal statistical measurement of effect modification requires interaction testing within a single unified model, not separate studies; separate studies can suggest effect modification by revealing differing stratum-specific estimates but cannot formally quantify it. Option A is wrong because stratification controls but cannot eliminate confounders (SPMM p.511). Option C is wrong because stratified designs require larger, not smaller, samples. Option D is incorrect because stratification by age does not inherently improve internal validity.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": 7587,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher studying the association between childhood adversity and anxiety disorders recruits 50 cases with anxiety and 100 controls without anxiety, collecting retrospective exposure data. A colleague proposes increasing controls further from 200 to 400 (an 8:1 ratio). What is the maximum additional statistical benefit expected from this increase beyond the 4:1 ratio?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37969,
+          "text": "Doubling the power",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37970,
+          "text": "Modest additional power gain",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37971,
+          "text": "No additional benefit, as the 4:1 ratio already reaches the optimal threshold for power gain",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37972,
+          "text": "Tripling the statistical significance",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37973,
+          "text": "Eliminating all confounding variables",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37971,
+        "text": "No additional benefit, as the 4:1 ratio already reaches the optimal threshold for power gain"
+      },
+      "explanation": "In case-control studies, increasing the number of controls relative to cases improves statistical power up to a control-to-case ratio of 4:1, beyond which no further power benefit accrues . In this scenario the current ratio is 2:1 (100 controls : 50 cases); increasing to 200 controls moves the ratio to exactly 4:1, which still lies within the beneficial range and therefore yields a genuine modest additional power gain (Option B). Options A and D overstate the magnitude of gain: power is not doubled or trebled by this change. Option E is incorrect because increasing sample size does not eliminate confounding, which requires design features such as matching or randomisation. Option C is incorrect because the 2:1 ratio has not yet reached the 4:1 optimal ceiling, so there is still meaningful benefit from the proposed increase.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": 7784,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study examines the association between childhood trauma and adult depression by recruiting 200 adults with depression and 200 without depression, then reviewing childhood medical records for trauma documentation. Which of the following represents the most fundamental methodological limitation of this study design?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 38954,
+          "text": "Inadequate sample size",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 38955,
+          "text": "Inability to calculate relative risk directly",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 38956,
+          "text": "Susceptibility to recall bias from retrospective data collection",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 38957,
+          "text": "Failure to match on age",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 38958,
+          "text": "Inability to establish temporality between exposure and outcome",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 38955,
+        "text": "Inability to calculate relative risk directly"
+      },
+      "explanation": "This is a case-control study in which cases (depression) and controls (no depression) are identified first, and exposure (childhood trauma) is assessed retrospectively. A fundamental limitation of case-control designs is that incidence rates cannot be measured because there is no prospective longitudinal observation; therefore, relative risk cannot be calculated directly — only the odds ratio can be derived .",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": 22243,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A screening tool for major depression is administered to 50 participants. Of the 10 who have major depression (confirmed by gold standard), 8 screen positive and 2 screen negative. Of the 40 without major depression, 5 screen positive and 35 screen negative. Does this test have a higher specificity or sensitivity in detecting major depression in this sample?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 118868,
+          "text": "It is more specific than sensitive.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 118869,
+          "text": "Equal specific and sensitive.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 118870,
+          "text": "It is more sensitive than specific.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 118871,
+          "text": "Neither sensitive nor specific.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 118872,
+          "text": "Insufficient information is provided to calculate sensitivity and specificity.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 118868,
+        "text": "It is more specific than sensitive."
+      },
+      "explanation": "This question is asking you to calculate and compare the Sensitivity and Specificity of a screening tool. Sensitivity means how well the test correctly identifies people who actually have the condition. Specificity means how well the test correctly identifies people who do not have the condition.\n\nSensitivity and Specificity Calculation\n\nStep 1: Calculate the Sensitivity.\n(Number of True Positives) divided by (Total number of people with major depression)\nSensitivity = 8 / 10 = 0.80 (or 80%)\n\nStep 2: Calculate the Specificity.\n(Number of True Negatives) divided by (Total number of people without major depression)\nSpecificity = 35 / 40 = 0.875 (or 87.5%)\n\nStep 3: Compare the two percentages.\nThe specificty is 87.5% and the sensitivity is 80%.\n\nThis test has a higher specificity.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": 7612,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which statement most accurately explains the fundamental methodological reason why incidence rates cannot be calculated from a case-control study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 38094,
+          "text": "Cases and controls are selected retrospectively after the outcome has occurred",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 38095,
+          "text": "The study design does not follow exposed individuals forward in time to observe new cases",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 38096,
+          "text": "Case-control studies rely on retrospective self-report of exposure, making objective measurement of disease onset unreliable",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 38097,
+          "text": "Controls are not representative of the general population",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 38098,
+          "text": "Case-control studies always have higher attrition rates",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 38094,
+        "text": "Cases and controls are selected retrospectively after the outcome has occurred"
+      },
+      "explanation": "In a case-control study, participants are selected retrospectively on the basis of whether they already have the disease (cases) or do not (controls). Because disease status has already been established before recruitment, it is impossible to observe new cases arising during the study which is what incidence measurement requires. Only prospective cohort studies, which follow disease-free individuals forward in time, can generate incidence data. Options C, D, and E describe study quality concerns (sample size, control representativeness, attrition) that are unrelated to the fundamental inability to measure incidence. Option B describes the cohort study attribute whose absence explains the case-control limitation, but option A more directly states the case-control structural reason.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": 22274,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a study evaluating a two-item depression screen, the 2×2 results against a gold-standard diagnosis were as follows: True positives (A) = 39, False positives (B) = 40, False negatives (C) = 4, True negatives (D) = 84. Total diseased = 43, Total non-diseased = 124. What is the likelihood ratio of a negative test (LR–) for this two-item screen?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111677,
+          "text": "0.14",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111678,
+          "text": "0.34",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111679,
+          "text": "0.54",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111680,
+          "text": "0.74",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111681,
+          "text": "0.94",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111677,
+        "text": "0.14"
+      },
+      "explanation": "Data Provided :\r\nTrue positives (A): 39\r\nFalse positives (B): 40\r\nFalse negatives (C): 4\r\nTrue negatives (D): 84\r\nTotal diseased (A+C): 43\r\nTotal non-diseased (B+D): 124\r\n\r\nThe LR– represents the likelihood that a negative test comes from a person with the disorder rather than one without the disorder. \r\nLR– is calculated using the formula LR–ve = [C/(A + C)]/[D/(B + D)], \r\nor simply LR–ve = (1 – sensitivity)/specificity. \r\n(4/43)/(84/124) = 0.10/0.67 = 0.14 \r\n\r\nLR+ve, LR–ve is also constant irrespective of prevalence rates.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": 7134,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following best describes the incidence of a disease?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35704,
+          "text": "Number of cases in a population at a specific time",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35705,
+          "text": "Number of new cases occurring in one year",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 35706,
+          "text": "Total number of deaths in a year",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 35707,
+          "text": "Proportion of population affected by disease",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35708,
+          "text": "Number of cases divided by total population",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 35705,
+        "text": "Number of new cases occurring in one year"
+      },
+      "explanation": "Incidence rate measures the number of new cases of a disease occurring within a defined time period (typically one year) in a population at risk.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": 7159,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A hospital psychiatry team identifies that patients admitted with a first episode of psychosis are waiting an average of 18 days before receiving a structured psychological intervention. The team uses a Plan-Do-Study-Act (PDSA) cycle to introduce a new care pathway and iteratively test changes over three months, measuring wait times at each cycle. What type of study best describes this intervention?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 35829,
+          "text": "Cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 35830,
+          "text": "Case-control study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 35831,
+          "text": "Quality improvement study",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 35832,
+          "text": "Randomized controlled trial",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 35833,
+          "text": "Cross-sectional survey",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 35831,
+        "text": "Quality improvement study"
+      },
+      "explanation": "A Quality Improvement (QI) study uses a scientific approach to systematically analyse performance and iteratively test service-level interventions within a local healthcare context, often using frameworks such as PDSA cycles. This distinguishes QI from a randomized controlled trial (which tests efficacy/effectiveness under controlled conditions), a cohort study (which follows exposed subjects prospectively to measure outcomes), a case-control study (which retrospectively compares cases and controls to identify exposures), and a cross-sectional survey (which measures attributes at a single point in time).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": 7955,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In comparing study designs for investigating the aetiology of schizophrenia, a researcher must choose between a case-control and a cohort design. A key disadvantage of the case-control approach for this purpose is which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 39809,
+          "text": "Case-control studies cost more than cohort studies",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 39810,
+          "text": "Case-control studies cannot measure incidence",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 39811,
+          "text": "Case-control studies are particularly susceptible to recall bias",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 39812,
+          "text": "Cohort studies are only suitable for prognosis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 39813,
+          "text": "Case-control studies are more time-consuming",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 39811,
+        "text": "Case-control studies are particularly susceptible to recall bias"
+      },
+      "explanation": "A key disadvantage of case-control studies compared to cohort studies for investigating aetiology is that they cannot measure incidence, and therefore relative risk cannot be directly calculated. Because case-control studies do not involve prospective longitudinal observation of new cases developing, only the odds ratio (not relative risk) can be derived Cohort studies, by contrast, allow direct calculation of incidence and relative risk, and more strongly support causal inference with established temporality (p.493). Recall bias (option C) is also a genuine limitation of case-control studies, but the statement that they are \\'always\\' affected is factually too absolute — the passages describe case-control studies as \\'particularly vulnerable\\' to recall bias, not invariably so. Options A and E are incorrect because cohort studies are the more expensive and time-consuming design; option D is false because cohort studies are used for both aetiology and prognosis.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": 22257,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a randomized controlled trial comparing sertraline with placebo, the following results for dyspepsia were recorded: sertraline group  6 developed dyspepsia, 38 did not; placebo group  2 developed dyspepsia, 37 did not. How many times are the odds of being dyspeptic on sertraline higher than the odds of being dyspeptic on placebo?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111592,
+          "text": "1.9",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111593,
+          "text": "2.9",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111594,
+          "text": "3.9",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111595,
+          "text": "4.9",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111596,
+          "text": "5.9",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111593,
+        "text": "2.9"
+      },
+      "explanation": "Step 1: Calculate the odds of developing dyspepsia in the sertraline group.\r\n(Number with dyspepsia) divided by (Number without dyspepsia)\r\nOdds on Sertraline = 6 / 38 = 0.15789\r\n\r\nStep 2: Calculate the odds of developing dyspepsia in the placebo group.\r\n(Number with dyspepsia) divided by (Number without dyspepsia)\r\nOdds on Placebo = 2 / 37 = 0.05405\r\n\r\nStep 3: Calculate the Odds Ratio.\r\n(Odds on Sertraline) divided by (Odds on Placebo)\r\nOdds Ratio = 0.15789 / 0.05405 = 2.92118",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": 22288,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a randomised controlled trial comparing memantine with placebo for depression, 200 participants were enrolled. Per-protocol analysis included only those who completed the trial. In the memantine group (n=100), 40 patients responded and 60 did not. In the placebo group (n=100), 20 patients responded and 80 did not. What is the odds ratio for treatment response with memantine compared with placebo?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111747,
+          "text": "2.7",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111748,
+          "text": "7.2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111749,
+          "text": "0.16",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111750,
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111751,
+          "text": "0.37",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111747,
+        "text": "2.7"
+      },
+      "explanation": "To calculate the odds ratio, it will be useful to construct a 2 × 2 table. As per protocol analysis is used, only those who completed the trial have been included in the analysis. Response No response Total Memantine 40 (a) 60 (b) 100 Placebo 20 (c) 80 (d) 100 Total The odds ratio is obtained using the cross product ratio ad/bc = (80 × 40)/(60 × 20) = 8/3 = 2.7",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": 22249,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A screening test for major depression is applied to a sample of 50 patients attending a primary care clinic. Results are as follows: 8 patients test positive and have major depression (true positives), 5 patients test positive but do not have major depression (false positives), 2 patients test negative but have major depression (false negatives), and 35 patients test negative and do not have major depression (true negatives). Among those who screen positive on this test, what are the odds that a person has major depression?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 118863,
+          "text": "1.6",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 118864,
+          "text": "3.4",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 118865,
+          "text": "0.5",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 118866,
+          "text": "2.5",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 118867,
+          "text": "0.1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 118863,
+        "text": "1.6"
+      },
+      "explanation": "This question is asking for the Post-Test Odds. It means we are calculating the ratio of people who truly have the condition versus those who do not, looking exclusively at the group of people who received a positive test result.\n\nPost-Test Odds Calculation\n\nStep 1: Identify the number of people who screened positive and actually have major depression.\nTrue Positives = 8\n\nStep 2: Identify the number of people who screened positive but do not have major depression.\nFalse Positives = 5\n\nStep 3: Calculate the odds of having major depression among all positive screens.\n(Number of True Positives) divided by (Number of False Positives)\nOdds = 8 / 5 = 1.6",
+      "image_url": null,
+      "explanation_image_url": null
+    }
+  ]
+}

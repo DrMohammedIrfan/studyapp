@@ -1,0 +1,2922 @@
+{
+  "chapter_id": 95,
+  "chapter_name": "Basic Epidemiology_3",
+  "subject_name": "Basic Epidemiology",
+  "total_questions": 62,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 7245,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "At what age is the peak prevalence of hazardous drinking in women?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36259,
+          "text": "13–15 years",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36260,
+          "text": "16–19 years",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36261,
+          "text": "20–24 years",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36262,
+          "text": "25–30 years",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36263,
+          "text": "30–35 years",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36260,
+        "text": "16–19 years"
+      },
+      "explanation": "The source identifies 16–19 years as the peak age for hazardous drinking in women (using AUDIT score ≥8). The peak age for men is slightly later at 20–24 years, reflecting differences in drinking trajectories between sexes. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": 7291,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the maximum control-to-case ratio that provides a meaningful increase in study power?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36489,
+          "text": "2:1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36490,
+          "text": "3:1",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36491,
+          "text": "4:1",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36492,
+          "text": "6:1",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36493,
+          "text": "10:1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36491,
+        "text": "4:1"
+      },
+      "explanation": "The source explicitly states that up to a ratio of 4:1, when the number of controls is increased, the power of the study increases. However, once this ratio is exceeded, further power gains do not occur. This is a specific, factual statement about optimal study design efficiency.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": 7265,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among drug users in the last year, what percentage used multiple substances when alcohol is included?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36359,
+          "text": "31%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36360,
+          "text": "41%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36361,
+          "text": "51%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36362,
+          "text": "61%",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 36363,
+          "text": "71%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 36362,
+        "text": "61%"
+      },
+      "explanation": "The source directly states 61% when alcohol is also included for percentage of drug users using multiple substances. This is straightforward epidemiological recall. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": 7241,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the prevalence of severe PMS affecting women in reproductive age?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36239,
+          "text": "1-3%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36240,
+          "text": "3-8%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36241,
+          "text": "8-15%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36242,
+          "text": "15-25%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36243,
+          "text": "25-35%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36240,
+        "text": "3-8%"
+      },
+      "explanation": "The source explicitly states severe PMS affects 3-8% of women in reproductive age. All other options cite incorrect prevalence rates.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": 7254,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In the UK, what is the hazardous drinking prevalence in South Asian adults (AUDIT ≥8)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36304,
+          "text": "3%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36305,
+          "text": "8%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36306,
+          "text": "15%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36307,
+          "text": "18%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36308,
+          "text": "27%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36305,
+        "text": "8%"
+      },
+      "explanation": "Ethnicity-specific hazardous drinking prevalence: 27% White adults, 18% Black adults, and 8% South Asian adults. This demonstrates significant ethnic variation in hazardous drinking patterns. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": 7297,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An analytical study comparing the association between childhood adversity and adult anxiety disorders examines two groups that differ in their exposure history and follows both groups forward in time. This describes which study design?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36519,
+          "text": "Case-control study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36520,
+          "text": "Cohort study",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36521,
+          "text": "Cross-sectional study",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36522,
+          "text": "Ecological study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36523,
+          "text": "Case report series",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36520,
+        "text": "Cohort study"
+      },
+      "explanation": "This is the defining structure of a cohort study: an observational study of groups with specified characteristics (exposed vs. non-exposed) followed over time to detect outcomes. The forward-in-time, prospective direction distinguishes it from case-control (which is retrospective). Cross-sectional studies measure at a single point in time. Ecological studies use population-level data.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": 7281,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What percentage of drug users in the last year in the UK use multiple substances when alcohol is included?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36439,
+          "text": "27%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36440,
+          "text": "38%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36441,
+          "text": "43%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36442,
+          "text": "55%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36443,
+          "text": "61%",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 36443,
+        "text": "61%"
+      },
+      "explanation": "That 61% when alcohol is also included use multiple substances, compared to only 7% when alcohol is excluded. This highlights the significant overlap between alcohol and other drug use.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": 7283,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "One in ten pregnant women in the UK reported drinking alcohol in the last week according to the epidemiological data. Which of the following best explains why this is a significant public health concern in addiction psychiatry?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36449,
+          "text": "All alcohol consumption in pregnancy is universally safe",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36450,
+          "text": "Alcohol is a teratogen and can cause fetal alcohol syndrome",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36451,
+          "text": "Pregnancy completely prevents alcohol dependence",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36452,
+          "text": "Alcohol has no effect on fetal development",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36453,
+          "text": "Prenatal alcohol exposure reduces risk of behavioural problems",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36450,
+        "text": "Alcohol is a teratogen and can cause fetal alcohol syndrome"
+      },
+      "explanation": "Whilst the source does not explicitly detail fetal alcohol syndrome, it specifically notes this 1 in 10 prevalence under alcohol use during pregnancy, indicating concern about in-utero exposure. The inclusion of this data reflects recognition of alcohol's teratogenic effects—a fundamental principle in addiction psychiatry.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": 7296,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which research question is best answered by a cohort study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36514,
+          "text": "What is the current prevalence of depression in this community?",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36515,
+          "text": "What are the effects of a risk factor or exposure on disease development?",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36516,
+          "text": "What does it feel like to experience a first episode of psychosis?",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36517,
+          "text": "What is the cost-effectiveness of a new antipsychotic medication?",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36518,
+          "text": "How does this new diagnostic interview compare to the gold standard?",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36515,
+        "text": "What are the effects of a risk factor or exposure on disease development?"
+      },
+      "explanation": "Cohort studies are specifically listed as the best design to answer questions about the effects of risk factors or exposures on outcomes. They follow exposed and non-exposed groups forward in time to detect outcomes. Cross-sectional studies answer prevalence questions. Qualitative studies explore meaning and experience. Cost-effectiveness studies address health economics questions. Cross-sectional comparisons to a gold standard evaluate diagnostic tools.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": 7303,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The ecological fallacy is best defined as which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36549,
+          "text": "Using a control group that is not properly matched to cases",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36550,
+          "text": "Drawing individual-level conclusions from group-level observations",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36551,
+          "text": "Selecting cases based on outcome rather than exposure",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36552,
+          "text": "Matching study subjects on too many variables",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36553,
+          "text": "Measuring exposure after the outcome has occurred",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36550,
+        "text": "Drawing individual-level conclusions from group-level observations"
+      },
+      "explanation": "A specific definition: drawing subject-level conclusions based on group-level observations in an ecological study is termed ecological fallacy. The example given illustrates how conclusions about individuals who commit suicide cannot be validly drawn from population-level data about religious attachment rates. The other options describe different methodological issues unrelated to ecological fallacy.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": 7258,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 26-year-old female reports alcohol use at AUDIT score ≥8. Based on epidemiological data, what percentage of women in the UK have similar hazardous drinking levels?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36324,
+          "text": "8%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36325,
+          "text": "15%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36326,
+          "text": "24%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36327,
+          "text": "27%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36328,
+          "text": "38%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36325,
+        "text": "15%"
+      },
+      "explanation": "That the annual prevalence of hazardous drinking (AUDIT ≥8) in women is 15% of UK women (compared with 38% of men and 27% of White adults overall). This contextualizes her presentation within population-level patterns. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": 7292,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In descriptive studies of psychiatric populations, what is the primary limitation regarding causal inference?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36494,
+          "text": "Descriptive studies lack comparison groups",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 36495,
+          "text": "Descriptive studies always contain selection bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36496,
+          "text": "Descriptive studies cannot measure exposure accurately",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36497,
+          "text": "Descriptive studies require prospective follow-up",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36498,
+          "text": "Descriptive studies exclude rare conditions",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 36494,
+        "text": "Descriptive studies lack comparison groups"
+      },
+      "explanation": "Descriptive studies are explicitly defined as having no testing of causal hypotheses or comparisons with other groups. They simply describe characteristics and their distribution in a study population. This fundamental design feature means causal inference cannot be made, not because of methodological flaws, but because no comparison group exists. Selection bias is possible but not inherent to the design. Prospective follow-up is not a requirement for descriptive studies—they are complete without it. Rare conditions can be described in case reports and case series.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": 7237,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What percentage of women in reproductive age experience severe PMS?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36219,
+          "text": "1–2%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36220,
+          "text": "3–8%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36221,
+          "text": "10–15%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36222,
+          "text": "20–25%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36223,
+          "text": "30–40%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36220,
+        "text": "3–8%"
+      },
+      "explanation": "The source explicitly states Severe PMS affects 3–8% women in reproductive age. Option A underestimates the prevalence, while C, D, and E significantly overestimate it based on the given epidemiological data.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": 7272,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "At what age does the peak incidence of hazardous drinking occur in men in the UK?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36394,
+          "text": "13-15 years",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36395,
+          "text": "16-19 years",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36396,
+          "text": "20-24 years",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36397,
+          "text": "25-30 years",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36398,
+          "text": "30-35 years",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36396,
+        "text": "20-24 years"
+      },
+      "explanation": "That the peak age of hazardous drinking in men is 20-24 years, whilst women peak at 16-19 years. The earlier age range (13-15) represents the average age at first drink, not peak hazardous drinking.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": 7309,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A qualitative research study exploring patients' subjective experiences of recovery from major depressive disorder would be most appropriate for investigating which type of clinical question?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36579,
+          "text": "What is the incidence of depression in the population?",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36580,
+          "text": "What are the risk factors for treatment non-response?",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36581,
+          "text": "What is the meaning of recovery and the experience of returning to wellness?",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36582,
+          "text": "What is the relative risk of suicide in depressed patients?",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36583,
+          "text": "How does this depression severity scale compare to the gold standard?",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36581,
+        "text": "What is the meaning of recovery and the experience of returning to wellness?"
+      },
+      "explanation": "The source explicitly lists qualitative studies as appropriate for investigating 'meaning' or health 'experience.' These studies explore subjective dimensions of illness and recovery that cannot be quantified in numerical designs. Incidence and prevalence are measured in cohort and cross-sectional studies. Risk factors are investigated through case-control or cohort studies. Diagnostic comparison uses cross-sectional designs.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": 7231,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the National Epidemiologic Survey on Alcohol and Related Conditions (NESARC, Hasin et al. 2005), which age group has the highest risk for major depressive disorder?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36189,
+          "text": "15–19 years",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36190,
+          "text": "19–29 years",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36191,
+          "text": "30–44 years",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36192,
+          "text": "45–59 years",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36193,
+          "text": "60 years and above",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36191,
+        "text": "30–44 years"
+      },
+      "explanation": "According to NESARC (Hasin et al., Arch Gen Psychiatry 2005), the highest risk for major depressive disorder shifted from the 19–29 age group (as found in earlier ECA/NCS studies) to those aged over 30 years, with a mean age of onset of 30 years. Among the listed options, C (25–44 years) best approximates this finding. Option B (19–29 years) reflects older study data. Options A (15–19), D (45–59), and E (60+) represent lower-prevalence groups in all major epidemiological surveys.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": 7288,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a case-control study investigating the association between childhood trauma and adult depression, what is the critical limitation regarding temporal relationships?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36474,
+          "text": "Temporality cannot be reliably determined retrospectively",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 36475,
+          "text": "The exposure must have occurred after the outcome",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36476,
+          "text": "Prospective data collection is not possible",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36477,
+          "text": "Controls cannot be matched for age",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36478,
+          "text": "Selection bias always prevents valid conclusions",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 36474,
+        "text": "Temporality cannot be reliably determined retrospectively"
+      },
+      "explanation": "Case-control studies are explicitly described as having difficulty determining temporality retrospectively because both exposure and disease have already occurred before the study begins. While recall bias is a disadvantage, it is separate from temporality issues. Temporal ordering cannot be definitively established because researchers are working backwards from outcome to exposure. The retrospective nature is a design feature, not a limitation that prevents conclusions entirely. Controls can be matched for age, and selection bias is possible but not automatic.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": 7307,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An experimental RCT is distinguished from a pragmatic RCT by which characteristic?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36569,
+          "text": "Experimental RCTs measure treatment efficacy under controlled conditions",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 36570,
+          "text": "Pragmatic RCTs are more expensive to conduct",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36571,
+          "text": "Experimental RCTs cannot detect adverse effects",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36572,
+          "text": "Pragmatic RCTs use randomization while experimental RCTs do not",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36573,
+          "text": "Experimental RCTs are retrospective in design",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 36569,
+        "text": "Experimental RCTs measure treatment efficacy under controlled conditions"
+      },
+      "explanation": "The source identifies two types of RCTs answering different questions: Experimental RCTs answer treatment efficacy questions (controlled conditions testing whether treatment works), while Pragmatic RCTs answer treatment effectiveness questions (real-world application testing whether treatment works in practice). Both are experimental designs with randomization; they differ in their application context and scope. Neither is inherently more expensive, both detect adverse effects, and both are prospective.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": 7234,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the source, what percentage of patients with depression remain untreated despite seeking help, based on European data?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36204,
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36205,
+          "text": "15%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36206,
+          "text": "21%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36207,
+          "text": "31%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36208,
+          "text": "43%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36206,
+        "text": "21%"
+      },
+      "explanation": "Nearly 21% remained untreated in spite of seeking help. This is distinct from the 43% in the DEPRES study who failed to seek treatment at all. The 21% figure represents a critical gap in treatment despite engagement with health systems. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": 7253,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What percentage of patients presenting to primary care consume alcohol at harmful or hazardous levels?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36299,
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36300,
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36301,
+          "text": "15%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36302,
+          "text": "20%",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 36303,
+          "text": "25%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 36302,
+        "text": "20%"
+      },
+      "explanation": "The source explicitly states that 20% of patients presenting to primary care consume alcohol at harmful or hazardous levels. This represents a significant proportion of primary care attendees, making screening and brief intervention a core function. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": 7236,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the relative risk of mortality associated with longstanding or recurrent depression?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36214,
+          "text": "1.06",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36215,
+          "text": "1.20",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36216,
+          "text": "1.50",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36217,
+          "text": "2.20",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36218,
+          "text": "5.00",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36216,
+        "text": "1.50"
+      },
+      "explanation": "Longstanding or recurrent depression is a significant predictor of mortality (RR=1.5, 1.06-2.20). The RR of 1.5 is the point estimate, with 1.06-2.20 representing the 95% confidence interval. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": 7249,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the most commonly reported age for first taking cannabis?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36279,
+          "text": "13 years",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36280,
+          "text": "16 years",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36281,
+          "text": "18 years",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36282,
+          "text": "20 years",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36283,
+          "text": "22 years",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36280,
+        "text": "16 years"
+      },
+      "explanation": "The source identifies 16 years as the most common age for first cannabis use, whilst powder cocaine and ecstasy debut typically occurs at 18 years, indicating younger initiation for cannabis. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": 7313,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Both case-control and cohort studies can investigate multiple etiological factors for a single outcome. However, case-control studies have a specific advantage in which scenario?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36599,
+          "text": "When investigating common exposures and common diseases",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36600,
+          "text": "When investigating rare diseases with multiple potential causes",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36601,
+          "text": "When requiring real-time measurement of exposure",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36602,
+          "text": "When following subjects for extended periods is necessary",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36603,
+          "text": "When studying incidence rates in the general population",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36600,
+        "text": "When investigating rare diseases with multiple potential causes"
+      },
+      "explanation": "The source explicitly states case-control studies are most useful when the disease is rare and exposure is common. This is their primary situational advantage because investigating rare outcomes in cohort studies requires impractically large populations and long follow-up. The advantage applies specifically to rare disease investigation. Cohort studies are better for common diseases. Incidence measurement requires cohort methodology. Extended follow-up is a cohort feature.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": 7282,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among patients presenting to primary care, what proportion consume alcohol at harmful or hazardous levels?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36444,
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36445,
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36446,
+          "text": "15%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36447,
+          "text": "20%",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 36448,
+          "text": "25%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 36447,
+        "text": "20%"
+      },
+      "explanation": "That 20% of patients presenting to primary care consume alcohol at harmful or hazardous levels. This represents a significant proportion of primary care presentations.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": 7242,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Between 2000 and 2050, the proportion of the world's population over 60 years is projected to increase from 11% to what percentage?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36244,
+          "text": "18%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36245,
+          "text": "22%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36246,
+          "text": "25%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36247,
+          "text": "28%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36248,
+          "text": "30%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36245,
+        "text": "22%"
+      },
+      "explanation": "The source explicitly states that Between 2000 and 2050, the proportion of the world's population over 60 years will double from about 11% to 22%. This is a straightforward recall question based directly on demographic data presented in the text. Options A, C, D, and E are distractors that do not match the stated projection. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": 7311,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In comparing a case-control study to a cohort study investigating the association between occupational stress and major depression, what is the fundamental difference in how subjects are initially identified and grouped?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36589,
+          "text": "Case-control studies identify subjects by exposure history; cohort studies identify by disease status",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36590,
+          "text": "Case-control studies identify subjects by disease status; cohort studies identify by exposure history",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36591,
+          "text": "Both designs identify subjects by disease status and then assess exposure",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36592,
+          "text": "Both designs identify subjects by exposure status and then measure outcomes",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36593,
+          "text": "Cohort studies cannot identify exposed and non-exposed groups",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36590,
+        "text": "Case-control studies identify subjects by disease status; cohort studies identify by exposure history"
+      },
+      "explanation": "This is a core definitional distinction. Case-control studies start with defined groups separated by disease status (cases vs. controls) and then assess exposure retrospectively. Cohort studies start with exposure status (exposed vs. non-exposed) and follow forward to measure outcomes. This difference determines the temporal direction and measurable statistics (odds ratio vs. relative risk) of each design.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": 7271,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What percentage of men in the UK drank alcohol above the recommended limits among those who drank in the last week?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36389,
+          "text": "35%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36390,
+          "text": "45%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36391,
+          "text": "55%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36392,
+          "text": "65%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36393,
+          "text": "75%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36391,
+        "text": "55%"
+      },
+      "explanation": "The source explicitly states that 55% of men who drank alcohol in the last week exceeded recommended limits. This represents 24% of the general population overall. The other options are factually incorrect distractors.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": 7305,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An experimental study of a new psychotropic medication randomly assigns 100 participants to active drug and 100 to placebo, then measures symptom change over 12 weeks. What distinguishes this design from a cohort study of the same medication in naturalistic practice?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36559,
+          "text": "The experimental study has more statistical power",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36560,
+          "text": "The experimental study involves deliberate manipulation of exposure through intervention assignment",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36561,
+          "text": "The experimental study measures outcomes more accurately",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36562,
+          "text": "The experimental study eliminates selection bias entirely",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36563,
+          "text": "The experimental study cannot calculate relative risk",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36560,
+        "text": "The experimental study involves deliberate manipulation of exposure through intervention assignment"
+      },
+      "explanation": "The defining difference between experimental and observational cohort studies is deliberate manipulation of exposure. In experimental studies, the exposure (intervention) is experimentally assigned; in cohort studies, groups are assembled based on naturally occurring exposure differences and observed prospectively. This is the core distinction stated in the source. Neither design eliminates bias, and both can measure relative risk. Accuracy of outcome measurement and statistical power depend on execution, not design type.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": 7289,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following statements about control selection in case-control studies is most accurate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36479,
+          "text": "Controls must be identical to cases except for disease presence or absence",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36480,
+          "text": "Controls should be randomly selected from any healthy population",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36481,
+          "text": "Hospital controls are always preferable to neighbourhood controls",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36482,
+          "text": "Selection of controls is independent of exposure status",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36483,
+          "text": "Both A and D",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 36483,
+        "text": "Both A and D"
+      },
+      "explanation": "Two key criteria: controls must be identical to cases except for presence/absence of disease, AND they must be recruited independently of exposure status. These are presented as dual requirements, not alternatives. Hospital controls, neighbourhood controls, relatives, or general population controls are all acceptable options depending on research requirements—there is no absolute preference stated. Random selection from any healthy population would not ensure comparability on important variables like age and sex.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": 7252,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among school pupils aged 11–15 in the UK, what percentage have drunk alcohol at least once?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36294,
+          "text": "23%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36295,
+          "text": "33%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36296,
+          "text": "43%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36297,
+          "text": "53%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36298,
+          "text": "63%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36296,
+        "text": "43%"
+      },
+      "explanation": "That 43% of school pupils aged 11–15 have drunk alcohol at least once. This highlights early initiation patterns, relevant to understanding escalation pathways and intervention timing in young populations. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": 7295,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A longitudinal prospective study of psychiatric patients involves repeated observations over several years. What is the primary disadvantage of this design choice?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36509,
+          "text": "It cannot establish temporal relationships between variables",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36510,
+          "text": "It is subject to ecological fallacy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36511,
+          "text": "It is costly and time-consuming",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36512,
+          "text": "It cannot measure incidence rates",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36513,
+          "text": "It relies entirely on recall bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36511,
+        "text": "It is costly and time-consuming"
+      },
+      "explanation": "The source explicitly identifies prospective longitudinal studies as costly and time-consuming as their primary disadvantage, despite their advantages in studying natural course of illness, risk factors, and incidence rates. The other options mischaracterize longitudinal studies: they are excellent for establishing temporal relationships, they do measure incidence, they are not subject to ecological fallacy, and they minimize (rather than rely on) recall bias.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": 7238,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What comorbidity rate is observed between severe PMS and mood disorders?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36224,
+          "text": "5–10%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36225,
+          "text": "10–20%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36226,
+          "text": "30–70%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36227,
+          "text": "75–85%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36228,
+          "text": "90%+",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36226,
+        "text": "30–70%"
+      },
+      "explanation": "The source directly states Comorbidity with a mood disorder is seen in 30–70% in women with severe PMS. This is a straightforward epidemiological fact that must be memorized from the provided text.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": 7312,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher studying psychiatric outcomes in a specific ethnic minority community notes that epidemiological data from the group shows high rates of psychotic disorders. Before concluding that ethnicity is a risk factor for psychosis, the researcher should be aware of which potential limitation?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36594,
+          "text": "The study is not prospective",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36595,
+          "text": "The study may be subject to ecological fallacy if individual-level data are not examined",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36596,
+          "text": "The exposure cannot be measured in this population",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36597,
+          "text": "Case-control methodology cannot be used in minority populations",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36598,
+          "text": "Relative risk cannot be calculated from population data",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36595,
+        "text": "The study may be subject to ecological fallacy if individual-level data are not examined"
+      },
+      "explanation": "The source's ecological fallacy example illustrates this exact situation—population-level observations cannot be validly translated to individual-level conclusions. A population with high psychotic disorder rates tells nothing about individuals within that population without individual-level data. The limitation is specifically about drawing individual conclusions from group data, not about prospective design, exposure measurement, methodology constraints on minorities, or relative risk calculations per se.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": 7294,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A census is distinguished from other cross-sectional studies by which characteristic?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36504,
+          "text": "It is prospective rather than retrospective",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36505,
+          "text": "It includes the whole population rather than a subset",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36506,
+          "text": "It measures incidence rather than prevalence",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36507,
+          "text": "It collects data on exposure before measuring outcome",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36508,
+          "text": "It uses matched controls for comparison",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36505,
+        "text": "It includes the whole population rather than a subset"
+      },
+      "explanation": "The source explicitly defines a census as a special cross-sectional study where the sample includes the whole of the population, in contrast to other surveys which use a subset. This is the defining difference. Census shares all other cross-sectional features (point-in-time measurement, no prospective follow-up, measuring prevalence) with surveys—the distinction is sampling completeness.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": 7301,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A descriptive case series documents clinical features, treatment response, and outcomes in ten patients diagnosed with a rare form of treatment-resistant depression. Which aspect of clinical knowledge does this study design best contribute?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36539,
+          "text": "Establishing the relative risk of antidepressant non-response",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36540,
+          "text": "Describing the natural course and clinical characteristics of the condition",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36541,
+          "text": "Comparing antidepressant efficacy through controlled comparison",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36542,
+          "text": "Measuring population prevalence of treatment resistance",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36543,
+          "text": "Determining causality between genetic factors and treatment response",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36540,
+        "text": "Describing the natural course and clinical characteristics of the condition"
+      },
+      "explanation": "Case series are described as the simplest form of descriptive study, designed to describe characteristics and their distribution in a study population. They excel at documenting clinical features and natural course without requiring comparison groups or causal testing. They do not provide relative risk, compare treatments in controlled fashion, measure population prevalence, or establish causality. Their strength is documentation of clinical presentation and course.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": 7247,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among A&amp;E attendees during peak hours, what proportion are alcohol-related?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36269,
+          "text": "1 in 10",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36270,
+          "text": "1 in 6",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36271,
+          "text": "4 in 10",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36272,
+          "text": "6 in 10",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36273,
+          "text": "8 in 10",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 36273,
+        "text": "8 in 10"
+      },
+      "explanation": "That 1 in 6 A&amp;E attendees overall are alcohol-related, rising to 8 in 10 during peak hours, demonstrating significant temporal variation in alcohol-related presentations. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": 7260,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which age range represents the peak age of hazardous drinking in men in the UK?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36334,
+          "text": "16 to 19 years",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36335,
+          "text": "20 to 24 years",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36336,
+          "text": "25 to 29 years",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36337,
+          "text": "30 to 34 years",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36338,
+          "text": "35 to 39 years",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36335,
+        "text": "20 to 24 years"
+      },
+      "explanation": "The source clearly documents that the peak age of hazardous drinking in men is 20-24 years (peak in women is 16-19 years). This is a direct factual recall from the epidemiological table. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": 7285,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 24-year-old male presents to primary care with hazardous drinking patterns. According to UK epidemiological data, what is the approximate prevalence of hazardous drinking (AUDIT score ≥8) in men of his age group within UK households?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36459,
+          "text": "15%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36460,
+          "text": "27%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36461,
+          "text": "38%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36462,
+          "text": "53%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36463,
+          "text": "67%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36461,
+        "text": "38%"
+      },
+      "explanation": "The source explicitly states that the annual prevalence of hazardous drinking (AUDIT score ≥8) in UK households is 38% of men overall. While 67% of men drank alcohol in the last week and 53% of those who drank exceeded recommended limits, these represent different epidemiological measures. The 27% figure refers to White adults (a demographic subset), and 15% refers specifically to women. The question asks for hazardous drinking prevalence in men generally, which is 38%.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": 7240,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following comorbidities is specifically mentioned as occurring with severe PMS in the source?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36234,
+          "text": "Generalized anxiety disorder exclusively",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36235,
+          "text": "Bipolar disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36236,
+          "text": "Mood disorder (30–70% comorbidity rate)",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36237,
+          "text": "Psychotic disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36238,
+          "text": "Substance use disorders",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36236,
+        "text": "Mood disorder (30–70% comorbidity rate)"
+      },
+      "explanation": "The source specifically quantifies Comorbidity with a mood disorder is seen in 30–70%. While mood disorders are common in depression generally, this specific prevalence in PMDD is clinically important. Other conditions are not mentioned in the liaison psychiatry section on PMS.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": 7280,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the epidemiological data, which demographic group in the UK has the highest prevalence of hazardous drinking (AUDIT score ≥8)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36434,
+          "text": "Black adults",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36435,
+          "text": "South Asian adults",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36436,
+          "text": "White adults",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36437,
+          "text": "Women aged 20-24",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36438,
+          "text": "Young people aged 16-19",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36436,
+        "text": "White adults"
+      },
+      "explanation": "That hazardous drinking (AUDIT ≥8) is 27% in White adults, compared to 18% in Black adults and 8% in South Asian adults. White adults show the highest prevalence. Gender and age data show men at 38% overall, but the comparison of ethnic groups clearly shows White adults leading.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": 7310,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which statement most accurately describes the difference between prospective and retrospective data collection in analytical studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36584,
+          "text": "Prospective studies measure exposure before outcome; retrospective studies measure both after outcome has occurred",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 36585,
+          "text": "Prospective studies are always less expensive than retrospective studies",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36586,
+          "text": "Retrospective studies cannot have comparison groups",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36587,
+          "text": "Prospective studies cannot establish temporal relationships",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36588,
+          "text": "Both A and B",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 36584,
+        "text": "Prospective studies measure exposure before outcome; retrospective studies measure both after outcome has occurred"
+      },
+      "explanation": "Prospective studies look forward from exposure to outcome with the temporal sequence clear; retrospective studies look backward from outcome to exposure with temporal relationships difficult to determine. This is the fundamental distinction in the source between forward-looking and backward-looking research. Retrospective studies can have comparison groups (case-control design). Prospective studies can be expensive. Prospective studies excel at establishing temporal relationships.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": 7235,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the DEPRES (Depression Research in European Society) study, among depressed patients who sought help, what percentage received antidepressant drugs?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36209,
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36210,
+          "text": "15%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36211,
+          "text": "21%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36212,
+          "text": "25%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36213,
+          "text": "31%",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 36213,
+        "text": "31%"
+      },
+      "explanation": "According to the DEPRES study , only 31% of depressed patients who sought help actually received antidepressant treatment, making E the correct answer. The 21% figure (option C) refers to the proportion of all identified depressed patients (not just those who sought help) who received antidepressants in a given year, per the ESEMED study.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": 7244,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What percentage of men in the UK drink alcohol above the recommended limits among those who drank in the last week?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36254,
+          "text": "35%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36255,
+          "text": "45%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36256,
+          "text": "55%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36257,
+          "text": "65%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36258,
+          "text": "75%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36256,
+        "text": "55%"
+      },
+      "explanation": "The source explicitly states that 55% of men who drank alcohol in the last week consumed above the recommended limits. This represents 24% of the general male population overall. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 44,
+      "question_id": 7259,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What percentage of men in the UK drank alcohol above recommended limits among those who drank in the last week?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36329,
+          "text": "35%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36330,
+          "text": "45%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36331,
+          "text": "55%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36332,
+          "text": "65%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36333,
+          "text": "75%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36331,
+        "text": "55%"
+      },
+      "explanation": "The source explicitly states 55% of men who drank alcohol drank above recommended limits among those who drank in the last week. This is a straightforward recall of epidemiological data provided in Section 1A. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 45,
+      "question_id": 7300,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which statement best explains why case-control studies are described as often the first mode of studying a suspected association of causality?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36534,
+          "text": "They are the only design that can prove causality",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36535,
+          "text": "They are less expensive and time-consuming than cohort studies while still examining associations",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36536,
+          "text": "They produce more valid results than prospective designs",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36537,
+          "text": "They eliminate all forms of selection bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36538,
+          "text": "They can measure incidence rates in rare diseases",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36535,
+        "text": "They are less expensive and time-consuming than cohort studies while still examining associations"
+      },
+      "explanation": "Case-control studies are often first because they are easy to carry out, less time-consuming, and less expensive than alternatives like cohort studies, while still allowing examination of associations. This practical advantage makes them a logical starting point. However, they cannot prove causality (a limitation explicitly stated) and are actually more prone to bias than cohort studies. They cannot measure incidence or eliminate bias—the advantages are efficiency and feasibility.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 46,
+      "question_id": 7306,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which clinical enquiry question is most appropriately answered by a pragmatic RCT rather than a cohort study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36564,
+          "text": "What are the risk factors for developing bipolar disorder?",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36565,
+          "text": "What is the real-world effectiveness of cognitive therapy for depression in routine practice?",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36566,
+          "text": "What is the prognosis for patients with first-episode psychosis?",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36567,
+          "text": "What are the causes of treatment-resistant anxiety?",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36568,
+          "text": "How common is major depression in the general population?",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36565,
+        "text": "What is the real-world effectiveness of cognitive therapy for depression in routine practice?"
+      },
+      "explanation": "That pragmatic RCTs answer questions about treatment effectiveness in real-world conditions. Cohort studies are best for studying risk factors and prognosis. Aetiology (causes) is answered by cohort or case-control studies. Prevalence questions use cross-sectional studies. Pragmatic trials are designed specifically to test interventions in everyday practice conditions.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 47,
+      "question_id": 7255,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to epidemiological studies of alcohol dependence, which of the following best describes the typical age range at which alcohol-dependent individuals first experience alcohol-related problems?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36309,
+          "text": "13–15 years",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36310,
+          "text": "16–22 years",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36311,
+          "text": "23–27 years",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36312,
+          "text": "25–30 years",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36313,
+          "text": "30–35 years",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36310,
+        "text": "16–22 years"
+      },
+      "explanation": "Epidemiological studies consistently identify late adolescence to early adulthood (approximately 16–22 years) as the most common period for first alcohol-related problems in individuals who go on to develop alcohol dependence, reflecting the peak rise in substance use disorders during this developmental window (Shorter Oxford Textbook of Psychiatry, 8th ed., p.443). Ages 13–15 years represent a minority of very early-onset cases. Ages 25 and above are more consistent with early-onset alcoholism developing in the 20s–30s as described , or with the late-onset variant. Option C (20–24 years) is a plausible distractor but the broader range of 16–22 years better captures the full distribution of problem onset including late adolescence.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 48,
+      "question_id": 7270,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A research team studies 100 UK men aged 20-24 who drink alcohol weekly. Based on epidemiological data, approximately how many would be expected to have hazardous drinking patterns (AUDIT ≥8)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36384,
+          "text": "15 adults",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36385,
+          "text": "27 adults",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36386,
+          "text": "38 adults",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36387,
+          "text": "45 adults",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36388,
+          "text": "55 adults",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36386,
+        "text": "38 adults"
+      },
+      "explanation": "The annual prevalence of hazardous drinking (AUDIT score ≥8) in UK households is 38% of men and 15% of women. The peak age of hazardous drinking in men is 20-24 years. In a cohort of 100 UK men aged 20-24 who drink, approximately 38 would be expected to meet criteria for hazardous drinking. Options A (15%) corresponds to the female prevalence, B (27%) to the overall White adult prevalence, D and E have no epidemiological basis in the source material.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 49,
+      "question_id": 7264,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to the Crime Survey for England and Wales (year ending March 2020), approximately what percentage of adults aged 16–59 reported using any illicit drug in the past year?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36354,
+          "text": "Approximately 4%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36355,
+          "text": "Approximately 6%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36356,
+          "text": "Approximately 9%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36357,
+          "text": "Approximately 14%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36358,
+          "text": "Approximately 20%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36356,
+        "text": "Approximately 9%"
+      },
+      "explanation": "The Crime Survey for England and Wales (year ending March 2020) reported that approximately 9.4% of adults aged 16–59 used any illicit drug in the past year, making \\'approximately 9%\\' the closest and correct answer. Cannabis was the most commonly used drug (approximately 7.8%), followed by cocaine (approximately 2.6%). The figure of 9.4% is notably higher than 8% (which underestimates) and lower than 12% (which overestimates). Options at 4%, 6%, 14%, and 20% are all clearly too far from the true prevalence to be defensible.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 50,
+      "question_id": 7308,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study examining the diagnostic accuracy of a new psychiatric screening tool compares results against a gold standard diagnostic interview in a representative community sample. Which study design is most appropriate for this evaluation?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36574,
+          "text": "Case-control study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36575,
+          "text": "Ecological study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36576,
+          "text": "Cross-sectional comparison to gold standard",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36577,
+          "text": "Prospective longitudinal cohort",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36578,
+          "text": "Uncontrolled trial",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36576,
+        "text": "Cross-sectional comparison to gold standard"
+      },
+      "explanation": "The source explicitly lists Cross-sectional comparison to gold standard as the best design for diagnostic assessment and evaluating new diagnostic tools. This is the standard approach for diagnostic accuracy studies because it directly compares the new test to established standards at a single point in time. Case-control studies are not designed for diagnostic test evaluation. Ecological studies use population-level data. Cohort studies follow outcomes over time. Uncontrolled trials assess interventions.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 51,
+      "question_id": 7287,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which study design is most appropriate for investigating a suspected association between a rare psychiatric disorder and a specific occupational exposure?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36469,
+          "text": "Case-control study",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 36470,
+          "text": "Cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36471,
+          "text": "Cross-sectional study",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36472,
+          "text": "Ecological study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36473,
+          "text": "Uncontrolled trial",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 36469,
+        "text": "Case-control study"
+      },
+      "explanation": "Case-control studies are specifically noted as most suitable for investigating rare diseases because they start from defined cases and work backwards, making them efficient when disease prevalence is low. Cohort studies would be impractical as you would need to follow a very large population for extended periods to identify sufficient cases. Cross-sectional studies provide only point-in-time data and cannot efficiently investigate causality. Ecological studies work with population-level data and introduce fallacy risks. Uncontrolled trials are not observational designs suited to investigating associations.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 52,
+      "question_id": 7276,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the most commonly reported age for first cannabis use among drug users in the UK?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36414,
+          "text": "13 years",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36415,
+          "text": "16 years",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36416,
+          "text": "18 years",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36417,
+          "text": "20 years",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36418,
+          "text": "22 years",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36415,
+        "text": "16 years"
+      },
+      "explanation": "That cannabis use typically begins at age 16 years, whilst powder cocaine and ecstasy begin at 18 years. This distinction is important for understanding substance-specific initiation patterns.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 53,
+      "question_id": 7269,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A parent of an alcohol-dependent adult patient asks whether the age at which their child first started drinking could have predicted dependence. Based on epidemiological data , what is true about the age of first alcohol use in people who become alcohol dependent compared to the general population?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36379,
+          "text": "Early onset (before age 16) strongly predicts dependence",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36380,
+          "text": "Age at first use among dependent users is essentially the same as the general population",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36381,
+          "text": "Age at first use has no relationship to dependence development",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36382,
+          "text": "Only users starting before age 12 develop dependence",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36383,
+          "text": "Late onset (after age 18) is more strongly associated with dependence",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36380,
+        "text": "Age at first use among dependent users is essentially the same as the general population"
+      },
+      "explanation": "The SPMM Course Notes (p.105) state that for alcohol-dependent individuals, the age at first drink (13–15), first intoxication (15–17), and first problem (16–22) is essentially the same as the general population. This means early alcohol use does not uniquely distinguish dependent from non-dependent users in terms of onset age — option B correctly reflects this.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 54,
+      "question_id": 7232,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Compared to non-sufferers, major depression sufferers make how many more visits to their GP or family doctor, according to the DEPRES study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36194,
+          "text": "1.5 times more",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36195,
+          "text": "2 times more",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36196,
+          "text": "3 times more",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36197,
+          "text": "4 times more",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36198,
+          "text": "5 times more",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36196,
+        "text": "3 times more"
+      },
+      "explanation": "Sufferers from major depression made almost three times as many visits to their GP or family doctor as non-sufferers, placing huge demands on the primary care. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 55,
+      "question_id": 7290,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher is planning a case-control study to examine risk factors for psychosis. Currently, she plans to match cases and controls on age, sex, socioeconomic status, and genetic predisposition. What is the primary concern with this matching strategy?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36484,
+          "text": "Pairwise matching is more time-consuming than group matching",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36485,
+          "text": "Overzealous matching may inadvertently eliminate putative causal factors from analysis",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36486,
+          "text": "The ratio of controls to cases exceeds 4:1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36487,
+          "text": "Hospital controls cannot be matched on socioeconomic status",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36488,
+          "text": "Genetic predisposition cannot be reliably assessed retrospectively",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36485,
+        "text": "Overzealous matching may inadvertently eliminate putative causal factors from analysis"
+      },
+      "explanation": "The source explicitly warns that overzealous matching can inadvertently result in matching for putative causal factors, which would obscure true associations. While matching on some variables ensures comparability, matching on too many variables—especially those potentially causally related to the outcome—reduces the ability to detect risk differences. Pairwise matching is more time-consuming but is not the primary methodological concern. The 4:1 ratio applies to quantity of controls, not matching variables. The retrospective nature of case-control studies is a general limitation, not specific to genetic variables.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 56,
+      "question_id": 7243,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "How many people in the UK are currently over 80 years old?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36249,
+          "text": "1 million",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36250,
+          "text": "2 million",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36251,
+          "text": "3 million",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36252,
+          "text": "5 million",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36253,
+          "text": "10 million",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36251,
+        "text": "3 million"
+      },
+      "explanation": "The source directly states 3 million in the UK are over 80 years old. This is a simple factual recall question. The other options represent plausible but incorrect demographic figures. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 57,
+      "question_id": 7230,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The 1-year prevalence of depression in the general population is approximately:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36184,
+          "text": "3.3%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36185,
+          "text": "5.3%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36186,
+          "text": "7%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36187,
+          "text": "13%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36188,
+          "text": "21%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36185,
+        "text": "5.3%"
+      },
+      "explanation": "The source clearly states the 1-year prevalence of depression in the general population was 5.3%, while lifetime prevalence was 13%. The 3.3% figure represents an older baseline from 1992 in NESARC data, and 7% represents the point prevalence estimate after the illness doubled from 1992 to 2002. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 58,
+      "question_id": 7248,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the percentage of UK adults (aged 16–59) who took an illicit drug in the last year?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36274,
+          "text": "3.8%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36275,
+          "text": "5.3%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36276,
+          "text": "8.3%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36277,
+          "text": "12.1%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36278,
+          "text": "16.3%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36276,
+        "text": "8.3%"
+      },
+      "explanation": "That 1 in 12 adults (8.3%) took an illicit drug in the last year. Of these, frequent users (&gt;once/month) represent 2.8%, with cannabis being the most commonly used at 6.4%. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 59,
+      "question_id": 7298,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a case-control study examining the relationship between antipsychotic medication use and metabolic syndrome, researchers compare the proportion of patients with metabolic syndrome who used antipsychotics to the proportion of controls who used antipsychotics. This comparison is appropriate for calculating which measure of association?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36524,
+          "text": "Relative risk",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36525,
+          "text": "Odds ratio",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 36526,
+          "text": "Incidence rate",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36527,
+          "text": "Prevalence ratio",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36528,
+          "text": "Attributable risk",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 36525,
+        "text": "Odds ratio"
+      },
+      "explanation": "Case-control studies cannot measure incidence because both exposure and disease have already occurred; therefore, only odds ratio can be calculated, not relative risk. This is an explicit limitation of case-control designs stated in the source. The cross-product ratio (odds ratio) is the appropriate measure for case-control studies. Relative risk requires knowledge of incidence. Incidence and prevalence ratios also require prospective data.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 60,
+      "question_id": 7302,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the critical distinction between an ecological study and an individual-level analytical study examining the relationship between social factors and psychiatric disorder rates?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36544,
+          "text": "Ecological studies use prospective data while individual studies use retrospective data",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36545,
+          "text": "Ecological studies consider populations as the unit of analysis and assume equal exposure within populations",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36546,
+          "text": "Ecological studies cannot identify individual risk factors for disease",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36547,
+          "text": "Ecological studies are always experimental in design",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36548,
+          "text": "Both B and C",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 36548,
+        "text": "Both B and C"
+      },
+      "explanation": "Ecological studies use populations rather than individuals as the unit of measurement and assume all members of a population are equally exposed and carry the same risk, disregarding within-group differences. This design feature means individual-level conclusions cannot be validly drawn (ecological fallacy). Therefore, individual risk factors cannot be reliably identified from population-level data. Both statements are true and related to the same fundamental limitation of ecological design. Ecological studies are observational, not inherently experimental.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 61,
+      "question_id": 7304,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a cohort study of psychiatric outcomes, the researcher assembles 500 individuals with recent cannabis use and 500 individuals without cannabis use, following both groups for 10 years. This design choice (comparing exposed vs. non-exposed) reflects which fundamental aspect of cohort studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36554,
+          "text": "Subjects are identified and grouped based on their exposure status",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 36555,
+          "text": "Subjects are identified and grouped based on their disease status",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36556,
+          "text": "Subjects are randomly assigned to receive an intervention",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 36557,
+          "text": "Subjects are selected from a population at a single point in time",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36558,
+          "text": "Subjects are selected from healthcare records retrospectively",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 36554,
+        "text": "Subjects are identified and grouped based on their exposure status"
+      },
+      "explanation": "Cohort studies are defined by grouping subjects based on differences in exposure (exposed vs. non-exposed) and then following them forward to detect outcomes. This is the fundamental design characteristic. Case-control studies group by disease status (cases vs. controls). Experimental studies involve random assignment of intervention. Cross-sectional studies measure at one point in time. Case-control studies use retrospective selection based on disease status.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 62,
+      "question_id": 7293,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Cross-sectional surveys measure the prevalence of a psychiatric symptom cluster in a population at a single point in time. Which statement best describes the strength of this design?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 36499,
+          "text": "It can definitively establish causation between risk factors and symptoms",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 36500,
+          "text": "It can measure incidence rates of new psychiatric diagnoses",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 36501,
+          "text": "It can suggest the presence of relationships among variables without establishing causality",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 36502,
+          "text": "It eliminates all selection bias through matching procedures",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 36503,
+          "text": "It is the most efficient design for studying rare psychiatric outcomes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 36501,
+        "text": "It can suggest the presence of relationships among variables without establishing causality"
+      },
+      "explanation": "Cross-sectional studies are described as being able to suggest the presence of putative relationships among variables, which is their primary strength. However, they cannot establish causality definitively. They measure prevalence (snapshot at one point in time), not incidence. They are called prevalence studies specifically for this reason. They do not eliminate selection bias through matching—matching is a feature of analytical studies like case-control. They are not efficient for rare outcomes because prevalence is too low at any single point in time.",
+      "image_url": null,
+      "explanation_image_url": null
+    }
+  ]
+}

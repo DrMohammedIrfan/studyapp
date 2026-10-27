@@ -1,0 +1,2506 @@
+{
+  "chapter_id": "145e5c4a-83c0-49e1-a607-47daf0d5ec97",
+  "chapter_name": "Rating Scales",
+  "chapter_title": "Rating Scales",
+  "resource_id": "d7e6b408-1793-402b-9890-ee18dbb216f6",
+  "resource_title": "SPMM I",
+  "subject_name": "SPMM I",
+  "chapter_number": 17,
+  "total_questions": 43,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "ac801a94-8f95-4ca1-af1f-281ae70a2794",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a gold standard test for intelligence?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1aa3c686-4892-4292-b890-50cf8685cd6a",
+          "text": "Auditory Verbal Learning Test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "0f77ac4b-572f-4011-9458-f97c3b53b7cc",
+          "text": "National Adult Reading Test",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "aba3ff79-76b4-4d15-99b8-c384f7059e30",
+          "text": "Quick Test",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "1b2354b6-fd42-40b0-9eb2-4e112cd69a9c",
+          "text": "Wechsler Adult Intelligence Scale",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "df895b7d-0405-4b55-aa39-fdead20b9662",
+          "text": "Wisconsin Card Sorting Test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "1b2354b6-fd42-40b0-9eb2-4e112cd69a9c",
+        "text": "Wechsler Adult Intelligence Scale"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "1b2354b6-fd42-40b0-9eb2-4e112cd69a9c",
+          "text": "Wechsler Adult Intelligence Scale",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Wechsler Adult Intelligence Scales have represented the traditional gold standard in intellectual assessment for many years, based on carefully developed normative standards.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 52.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": "df9cd79e-4fcf-43b6-bb57-5aa5ad8cc343",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is not a type of validity?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "213de1c8-5be8-430b-964c-f9166bb33a9c",
+          "text": "Face validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "0f73e333-3ba7-4aef-a413-a726998fe980",
+          "text": "Construct validity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "95d9c773-ae62-4737-ad2b-5b0ea76b8ec5",
+          "text": "Ecological validity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "cffda71d-0d85-4273-b2e4-0ce839a67424",
+          "text": "Interrater validity",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "55f21866-0959-4014-a635-d6df7e3a224a",
+          "text": "Content validity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "cffda71d-0d85-4273-b2e4-0ce839a67424",
+        "text": "Interrater validity"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "cffda71d-0d85-4273-b2e4-0ce839a67424",
+          "text": "Interrater validity",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Inter-rater reliability (not validity) is a measure of agreement between two or more observers evaluating the same subjects using the same information.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 30.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "fea6e6d9-2cb3-4e72-9b03-a205b70edccb",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following rating scales for depression used in adults is well validated in children aged 14 and older?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "ee361905-48bf-440f-a9b7-491e04a7ea40",
+          "text": "Clifton Assessment Procedure",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "02a19c0a-4869-40e8-815b-25fbf292f809",
+          "text": "Beck Depression Inventory",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "672a7f36-b2c9-4559-9b20-680ee742b37e",
+          "text": "Cornell Depression Scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "af8f7600-5e86-445a-9fac-c84407c25997",
+          "text": "Wechsler Assessment Scale",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "264a4a49-28e2-480d-849d-97e1a2c83c41",
+          "text": "Edinburgh Depression Scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "02a19c0a-4869-40e8-815b-25fbf292f809",
+        "text": "Beck Depression Inventory"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "02a19c0a-4869-40e8-815b-25fbf292f809",
+          "text": "Beck Depression Inventory",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Beck Depression Inventory (BDI) was developed in the early 1960s to rate depression severity, with a focus on behavioural and cognitive dimensions of depression. It is a self-rated questionnaire containing 21 statements, with four possible responses for each. The current version has added more coverage of somatic symptoms and covers the most recent 2 weeks. Because it is a self-report measure, it can be used to screen for major depression (in individuals aged 13 and older). A score of >17 indicates moderate and >30 indicates severe depression.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 39.\nSemple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 97.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": "d88602cc-0e59-46ce-9f71-11fe024f3089",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is not an alcohol assessment tool?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "54a435ba-816f-418d-932d-78b9492d1a3c",
+          "text": "MAST",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a82b9ccc-f235-45bc-9765-061d76a95996",
+          "text": "AUDIT",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9a039d83-8472-47f4-bddd-975ba0a70341",
+          "text": "CAGE",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d1fac7fd-8b9b-48aa-aba7-833f9e0030db",
+          "text": "SCOFF",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "36ec36a2-1453-4264-8051-562ffe01cdea",
+          "text": "CIWA",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "d1fac7fd-8b9b-48aa-aba7-833f9e0030db",
+        "text": "SCOFF"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "d1fac7fd-8b9b-48aa-aba7-833f9e0030db",
+          "text": "SCOFF",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The SCOFF questions are useful as a screening tool for eating disorders in primary care.\nSCOFF questions are:\n- Do you make yourself Sick because you feel uncomfortably full?\n- Do you worry you have lost Control over how much you eat?\n- Have you recently lost more than One stone in a 3-month period?\n- Do you believe yourself to be Fat when others say you are too thin?\n- Would you say that Food dominates your life?\nRef: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 418.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": "77b35d0d-8e7a-41b8-bb73-7d67064e0ae2",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The SF-36 scale measures which of the following?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "06198645-9cb1-44e0-866e-24b9d3bd8899",
+          "text": "Occupational functioning",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "9a149e73-0648-4e0a-a133-8bff191482a4",
+          "text": "Stress level at work",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ed5713b2-a8a3-466a-8620-4eb870d354ea",
+          "text": "Developmental psychopathology",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "9e9db40a-5be7-4e2d-ad91-5eebcce24a02",
+          "text": "Health-related quality of life",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "86a5da10-e4f7-4f00-8067-500650fb56db",
+          "text": "Social readjustment",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "9e9db40a-5be7-4e2d-ad91-5eebcce24a02",
+        "text": "Health-related quality of life"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "9e9db40a-5be7-4e2d-ad91-5eebcce24a02",
+          "text": "Health-related quality of life",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The 36-Item Short Form Health Survey questionnaire (SF-36) is a very popular instrument for evaluating Health-Related Quality of Life. The SF-36 measures eight scales: physical functioning, role physical, bodily pain, general health, vitality, social functioning, role emotional, and mental health.\nRef: Lins L, Carvalho FM. SF-36 total score as a single measure of health-related quality of life: Scoping review. SAGE open medicine. 2016 Sep 30;4:2050312116671725.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": "37cf7321-7161-4ec6-a3ca-242851f1115d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The maximum possible score from General Health Questionnaire (28 items version) is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b057793b-af0e-4033-b55f-33d67d6c121b",
+          "text": "84",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "05b17d1c-1919-4aba-aeaa-b17d6d28e9ef",
+          "text": "28",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "889cf73f-51ca-4cbc-90c2-cb731508979b",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "9344457f-b621-411b-b6f7-154c3b4026ca",
+          "text": "42",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d720e53c-1ca0-4225-aefe-dfc082f04939",
+          "text": "72",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "b057793b-af0e-4033-b55f-33d67d6c121b",
+        "text": "84"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "b057793b-af0e-4033-b55f-33d67d6c121b",
+          "text": "84",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The General Health Questionnaire (GHQ) is a self-rated questionnaire used as a screening instrument for the presence of psychiatric illness. The patient is asked to report the presence of a list of symptoms in the preceding weeks. Four versions are available, using 12, 28 (max score = 84), 30, and 60 items.\nRef: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 96.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": "89c6d269-2948-45bd-8965-066807a45db5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Choose the correct statement about Brief Psychiatric Rating Scale?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "89bbe016-1b44-430f-b65c-ad2a166f4232",
+          "text": "It is an assessment of global psychiatric symptomatology",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "be4cb87a-5417-40f8-a812-b4ba92b99a4c",
+          "text": "Each item is rated on a 6-point scale",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5b793bb2-2383-4b08-8dc7-b22aa0ae9f6a",
+          "text": "It focuses on negative symptoms",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0d5005a8-edf2-46ff-a7bc-035880f386f4",
+          "text": "It is a 30-item scale",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "cc700eaa-d32c-4f26-954e-3656f98263b0",
+          "text": "It is self administered",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "89bbe016-1b44-430f-b65c-ad2a166f4232",
+        "text": "It is an assessment of global psychiatric symptomatology"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "89bbe016-1b44-430f-b65c-ad2a166f4232",
+          "text": "It is an assessment of global psychiatric symptomatology",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Brief Psychiatric Rating Scale (BPRS) was developed in the late 1960s as a short clinician-rated scale (based on observation) for measuring the severity of psychiatric symptomatology. It consists of 18 or 24 items, each rated on a 7-8 point scale. It covers a broad range of areas, including thought disturbance, emotional withdrawal and retardation, anxiety and depression, and hostility and suspiciousness. It has been used extensively for decades as an outcome measure in treatment studies of schizophrenia. Reliability of the BPRS is good to excellent when raters are experienced, but this is difficult to achieve without substantial training.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. pp. 34- 38.\nSemple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 97.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": "9367da99-5463-44b4-9950-1d15fcd3eaed",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is the most important aspect of construct validity for a test of cognitive impairment in dementia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e7d9b550-37c8-4217-b0b7-58a4c6c53597",
+          "text": "The scores depend on educational attainment of the subjects",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f96e2610-182a-4048-a40b-4e37c7b42dff",
+          "text": "It predicts the likelihood of progression to end stage dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "e9940b37-6d61-41f7-a6a0-3a049f899c1e",
+          "text": "It includes most of the components of cognition that are commonly affected by dementia",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "a430087a-4903-47dc-ba29-41148a108074",
+          "text": "Scores are not affected by taking medications",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d040b381-7c33-4361-ab4f-5a4a1e09d821",
+          "text": "Experts agree with the choice of sub-items for the global scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "e9940b37-6d61-41f7-a6a0-3a049f899c1e",
+        "text": "It includes most of the components of cognition that are commonly affected by dementia"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "e9940b37-6d61-41f7-a6a0-3a049f899c1e",
+          "text": "It includes most of the components of cognition that are commonly affected by dementia",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In psychometrics, construct validity is the extent to which a test measures a specified construct or hypothetical construct, determined by interpreting the psychological meaning of the test scores and testing implications of this interpretation. If our scale includes most of the components of cognition that are commonly affected by dementia, we can be assured of a good degree of construct validity.\nRef: Colman AM. Oxford Dictionary of Psychology, 4th Edition. 2015.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": "6af75042-7360-4b9b-bb39-49ccc82df4ac",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a useful screening tool for early detection of an eating disorder?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4b528b54-49ac-4876-bcd6-ea9b112ee0e0",
+          "text": "Prochaska questionnaire",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "cb3e9eba-f223-4418-88f3-52cb6668d9d4",
+          "text": "AUDIT",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4bb2f194-f6f9-4d78-96b3-3a39ffa98845",
+          "text": "CAMCOG questionnaire",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c7f18e91-e102-4da8-9564-2b3a67c21f65",
+          "text": "SCOFF questionnaire",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "142abdae-2bd4-40a7-8c51-361937b7557c",
+          "text": "CAGE questionnaire",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "c7f18e91-e102-4da8-9564-2b3a67c21f65",
+        "text": "SCOFF questionnaire"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "c7f18e91-e102-4da8-9564-2b3a67c21f65",
+          "text": "SCOFF questionnaire",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The SCOFF questions are useful as a screening tool for eating disorders in primary care.\nSCOFF questions are:\n- Do you make yourself Sick because you feel uncomfortably full?\n- Do you worry you have lost Control over how much you eat?\n- Have you recently lost more than One stone in a 3-month period?\n- Do you believe yourself to be Fat when others say you are too thin?\n- Would you say that Food dominates your life?\nRef: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 418.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": "5d3f048f-0509-4eb8-94d2-7e8e7dc562ab",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a self-rated questionnaire used as a screening instrument for the presence of psychiatric illness?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "45192579-d6a3-44b1-a6d3-a8a2731baab6",
+          "text": "Global Assessment of Functioning Scale",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a5000399-0ed4-4445-8a62-f01d16cbfe3c",
+          "text": "Quality of Life Interview",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6f30e308-842a-4984-9325-0daedd4796b6",
+          "text": "Structured Clinical Interview",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "873d6114-e3e0-432c-9c8a-7f12c88f1e37",
+          "text": "General Health Questionnaire",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "066e4261-efce-40d5-87dc-403e678ec7ec",
+          "text": "Diagnostic Interview Schedule",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "873d6114-e3e0-432c-9c8a-7f12c88f1e37",
+        "text": "General Health Questionnaire"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "873d6114-e3e0-432c-9c8a-7f12c88f1e37",
+          "text": "General Health Questionnaire",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The General Health Questionnaire (GHQ) is a self-rated questionnaire used as a screening instrument for the presence of psychiatric illness. The patient is asked to report the presence of a list of symptoms in the preceding weeks. Four versions are available, using 12, 28 (max score = 84), 30, and 60 items.\nRef: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 96.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": "244e24bc-0b15-45f5-9c69-3422554c365b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which is the best screening tool?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1d8fb488-fcb4-407f-b2e5-ba32f980e839",
+          "text": "Hamilton depression rating scale",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a95b18c6-1710-47c1-b026-144919a4c2bc",
+          "text": "Child behavioural checklist",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c50ad812-5630-4909-b6e6-f5345ec45d10",
+          "text": "Child and adolescent functional assessment scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c02357ec-7d6a-47ea-9401-0058c1a5b6ce",
+          "text": "Beck depression inventory",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "9b2e6038-f65d-4b93-b26a-fcdc146af096",
+          "text": "SCID (Structured clinical interview for DSM-5)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "c02357ec-7d6a-47ea-9401-0058c1a5b6ce",
+        "text": "Beck depression inventory"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "c02357ec-7d6a-47ea-9401-0058c1a5b6ce",
+          "text": "Beck depression inventory",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Beck Depression Inventory (BDI) was developed in the early 1960s to rate depression severity, with a focus on behavioural and cognitive dimensions of depression. It is a self-rated questionnaire containing 21 statements, with four possible responses for each. The current version has added more coverage of somatic symptoms and covers the most recent 2 weeks. Because it is a self-report measure, it can be used to screen for major depression (in individuals aged 13 and older). A score of >17 indicates moderate and >30 indicates severe depression.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 39.\nSemple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 97.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": "e51447da-f27f-4451-8308-b99f6afd1853",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Choose the correct answer from the following options.",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2b8389d7-e38b-4f72-be61-bccde2bfa164",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ae7b3728-74e3-45f5-afe2-f71650ac3b27",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4f714204-5601-4abb-84db-ae7a84fc0016",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d5739407-c1b0-4422-8e19-23d4f746adca",
+          "text": "12",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "9775567c-4ef0-49b5-940e-41b47957e7b6",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "d5739407-c1b0-4422-8e19-23d4f746adca",
+        "text": "12"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "d5739407-c1b0-4422-8e19-23d4f746adca",
+          "text": "12",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Short Alcohol Withdrawal Scale is a tool to assess the severity of alcohol withdrawal. Patients indicate how they have felt in the previous 24 hours. A cut-off of 12 points is used where mild withdrawal is indicated by <12 points, and moderate to severe withdrawal (requiring intervention) is indicated by 12 points or greater.\nRef: Muncie Jr HL et al. Outpatient management of alcohol withdrawal syndrome. American family physician. 2013 Nov 1;88(9):589-95.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": "45642c4d-5960-4779-baa9-42dbb4763178",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "This test can be said to have good",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1c1f119e-a034-425a-8c23-7590f7cb1a10",
+          "text": "Concurrent validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "238fa516-8afd-4336-992d-109cabf1fa8d",
+          "text": "Construct validity",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "463cba36-a4d1-4c86-b34a-7711b801ba67",
+          "text": "Predictive validity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e0f3a462-32e5-427d-81c2-416649fc5da6",
+          "text": "Face validity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c0ed69eb-2a5e-42e0-9479-e25e1924f222",
+          "text": "Incremental validity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "238fa516-8afd-4336-992d-109cabf1fa8d",
+        "text": "Construct validity"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "238fa516-8afd-4336-992d-109cabf1fa8d",
+          "text": "Construct validity",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In psychometrics, construct validity is the extent to which a test measures a specified construct or hypothetical construct, determined by interpreting the psychological meaning of the test scores and testing implications of this interpretation.\nRef: Colman AM. Oxford Dictionary of Psychology, 4th Edition. 2015.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": "54052185-7b8b-4ac7-8fad-05eff9ba7c3a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The Clifton Assessment Procedure is used in which of the following situations?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "77f72f82-ca98-4629-91bd-93b8be58ccb6",
+          "text": "Residential care for the elderly",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "6753fe70-6cd2-4d48-9813-300792db8f0f",
+          "text": "Schizophrenia rehabilitation units",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "751c4555-10da-442b-9501-8a0fe95e3e06",
+          "text": "Children in foster care",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0fae8547-64af-4e94-9cac-4031a47b846e",
+          "text": "Care homes for the learning disabled",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "0e301ed8-1021-4153-8109-35fb708c7e91",
+          "text": "Prisons with high mental health burden",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "77f72f82-ca98-4629-91bd-93b8be58ccb6",
+        "text": "Residential care for the elderly"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "77f72f82-ca98-4629-91bd-93b8be58ccb6",
+          "text": "Residential care for the elderly",
+          "is_correct": true
+        }
+      ],
+      "explanation": "CAPE (Pattie and Gilleard, 1979) is intended to assess level of disability and estimate need for care. It consists of a short cognitive scale and a behavioural rating scale. The latter has four sub-scales: physical disability, apathy, communication difficulties and social disturbance. It is quick and easy to administer, and is widely used by professional staff and care workers especially at elderly residential care settings",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": "7268138c-f273-4318-a873-ef1a7c540168",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following scales is used for measuring drug-induced movement abnormalities in general and tardive dyskinesia in particular?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2e220f55-3e7b-469b-9531-13fb573bc04f",
+          "text": "AIMS scale",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "e371a846-ee6b-4876-8876-80eebe3ce253",
+          "text": "Barnes Akathisia scale",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "338c2e97-745a-4185-a7dc-d01c7b76ba1d",
+          "text": "Simpson Angus scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "2d8355da-dbba-4c4c-a4f0-7127a2bf4b3c",
+          "text": "Lane scale",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "7285d851-8038-4b45-88c4-fbc25e77bdf0",
+          "text": "LUNSERS scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "2e220f55-3e7b-469b-9531-13fb573bc04f",
+        "text": "AIMS scale"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "2e220f55-3e7b-469b-9531-13fb573bc04f",
+          "text": "AIMS scale",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Abnormal Involuntary Movement Scale (AIMS) is a 12-item clinician-administered scale for assessing the severity of antipsychotic side effects, including tardive dyskinesia.\nRef: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 97.\nBoland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 597.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": "12a32357-6da5-4812-b322-16f9dc8e7064",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following technique is best utilised minimally if possible in those with high suggestibility?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "20dbc699-34b2-4aa4-aaea-e94b45e4579c",
+          "text": "Open questions",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2bac0526-7685-47af-9680-671b7173fe8a",
+          "text": "Structured questionnaire",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "86a5fc4a-23f8-4802-b2af-d6ddb1546272",
+          "text": "Validation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6306cbe9-1b45-4d78-b663-f0794cd87681",
+          "text": "Summarising techniques",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b64cd6df-236d-4003-ba5e-4c95344cac17",
+          "text": "Facilitating comments",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "2bac0526-7685-47af-9680-671b7173fe8a",
+        "text": "Structured questionnaire"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "2bac0526-7685-47af-9680-671b7173fe8a",
+          "text": "Structured questionnaire",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Structured interviews have demonstrated a high degree of reliability, validity, and legal defensibility. But in highly suggestible patients, rigid interview questions are bound to induce responses that are in agreement with the tone of the question, leading to inaccurate answers.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": "a6d0c1b6-c153-4e46-92dd-b4f5a72fbea5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The term test-retest reliability refers to",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "90cd566c-93a5-44ee-b4fa-29aa07ef81a2",
+          "text": "The correlation between the 1st and 2nd test of a number of subjects",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "06986372-6d58-4694-aa8f-5dfda56f80ba",
+          "text": "The correlation between the 1st and 2nd test in the same subject",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "3c855865-8b71-4bd3-be85-da1ee7382cb6",
+          "text": "The correlation between the 1st and 2nd test carried out by different raters",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "adb9d5c2-1fc3-4d03-a81c-d0f0e9683338",
+          "text": "The agreement between 2 raters",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e8ee91cf-33ac-426e-bfda-b6b57ea44fef",
+          "text": "The correlation between ratings before and after treatment",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "06986372-6d58-4694-aa8f-5dfda56f80ba",
+        "text": "The correlation between the 1st and 2nd test in the same subject"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "06986372-6d58-4694-aa8f-5dfda56f80ba",
+          "text": "The correlation between the 1st and 2nd test in the same subject",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Test-retest reliability is a measure of the ability of a psychological testing instrument to yield the same result for a single subject at 2 different test periods. Test-retest evaluations measure reliability only to the extent that the same subject’s true condition remains stable in the time interval.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 30.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": "fd07118e-208a-479c-a867-9979b80eadf6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following rating scale for depression has more cognitive items than the others?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "579d7bee-32ba-422b-a0d6-f146ffe35d63",
+          "text": "Young rating scale",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "44f7dd5b-ffdd-44ae-8059-5dc6fb740a13",
+          "text": "Hamilton rating Scale",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "276260c7-e0b7-4e92-bdb0-0e261dd4fc4d",
+          "text": "Beck depression inventory",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "0a3d58cf-99f2-48e1-846f-efed54b7d6c5",
+          "text": "General Health Questionnaire",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "dcd62b5e-0cc3-4c22-bccb-771fd8d8f396",
+          "text": "Montgomery Asberg scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "276260c7-e0b7-4e92-bdb0-0e261dd4fc4d",
+        "text": "Beck depression inventory"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "276260c7-e0b7-4e92-bdb0-0e261dd4fc4d",
+          "text": "Beck depression inventory",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Beck Depression Inventory (BDI) was developed in the early 1960s to rate depression severity, with a focus on behavioural and cognitive dimensions of depression. It is a self-rated questionnaire containing 21 statements, with four possible responses for each. The current version has added more coverage of somatic symptoms and covers the most recent 2 weeks. Because it is a self-report measure, it can be used to screen for major depression (in individuals aged 13 and older). A score of >17 indicates moderate and >30 indicates severe depression.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 39.\nSemple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 97.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": "bc7ddfa7-4906-4a0e-9513-a42b9c97f98e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What is the most reliable instrument to make a clinical diagnosis according to DSM criteria?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f79bf1bc-3edd-4e7b-814f-0e0e6eee7abe",
+          "text": "AIMS",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "610f83c6-c00f-493c-bcb1-eb636627a0de",
+          "text": "SCID",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "1daecc22-d920-40f3-bd3a-c59bdae35474",
+          "text": "SCAN",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "616c2dd0-e379-49d0-93b2-bf480d073f5f",
+          "text": "HAMD",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "9721d815-8281-49e2-9748-c8ab96c1fb3a",
+          "text": "MMPI",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "610f83c6-c00f-493c-bcb1-eb636627a0de",
+        "text": "SCID"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "610f83c6-c00f-493c-bcb1-eb636627a0de",
+          "text": "SCID",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Structured Clinical Interview for the DSM (SCID) is one of the most used diagnostic instruments in clinical research worldwide. The latest version of the instrument is called ‘SCID-5’. SCID is a clinician-administered semi-structured interview for use in patients in whom a psychiatric diagnosis is suspected. It is primarily used in research with trained interviewers.\nRef: Osório FL et al. Clinical validity and intrarater and test–retest reliability of the Structured Clinical Interview for DSM‐5–Clinician Version (SCID‐5‐CV). Psychiatry and clinical neurosciences. 2019 Dec;73(12):754-60.\nSemple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 96.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": "8c09a22f-0e1b-43df-bcee-5cfd7b45a83f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "With respect to Young Mania Rating Scale, which of the following is least likely to be correct?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "607a1dbc-0d59-4f43-88c9-e2c3d1f4a652",
+          "text": "It is sensitive to change",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "6bb31507-8930-4f03-b068-ce8487723435",
+          "text": "It does not have items on suicidality",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "93f41aa2-9985-4695-9b55-cad188ddcf47",
+          "text": "Psychotic symptoms are not included in the scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a321bb8a-6ae5-4d6b-8060-352eaf281777",
+          "text": "It has 11 items",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "8477c7a8-e345-4466-a432-bbe5b1e743d5",
+          "text": "It is self-rated",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "8477c7a8-e345-4466-a432-bbe5b1e743d5",
+        "text": "It is self-rated"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "8477c7a8-e345-4466-a432-bbe5b1e743d5",
+          "text": "It is self-rated",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Young Mania Rating Scale (YMRS) has 11 items and is based on the patient’s subjective report of their condition over the previous 48 hours. Additional information is based upon clinical observations made during the course of the clinical interview. There are four items that are graded on a scale from 0 to 8 (irritability, speech, thought content, and disruptive/aggressive behaviour), while the remaining seven items are graded on a scale of 0 to 4. Mania is indicated by a score of 12, but many clinical studies require YMRS > 20 to determine a manic state.\nRef: Di Giacomo E et al. Unblending borderline personality and bipolar disorders. Journal of psychiatric research. 2017 Aug 1;91:90-7.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": "4f26d0f0-bd2b-4c98-8dbd-3563d60f7453",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which is the most commonly used screening tool to diagnose dementia in older people?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "adc5d99b-f268-4618-9e60-51b7298fea38",
+          "text": "CAMDEX",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "862e2795-2907-45ba-b68f-4c6f688da140",
+          "text": "Addenbrooke cognitive examination",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "1df4d5f2-662c-4642-a687-4d03d0ce3d8a",
+          "text": "Abbreviated mental test score",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b0260dbf-6322-44ae-889a-1d28dee0db09",
+          "text": "Mini-mental state examination",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "4d4b1d77-f1e4-4c71-9070-37b36d3bc683",
+          "text": "Mini-COG",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "b0260dbf-6322-44ae-889a-1d28dee0db09",
+        "text": "Mini-mental state examination"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "b0260dbf-6322-44ae-889a-1d28dee0db09",
+          "text": "Mini-mental state examination",
+          "is_correct": true
+        }
+      ],
+      "explanation": "MMSE: Cut off 24/30, takes 5-10 minutes to complete and is a standard baseline test. It is the most widely used cognitive test in old age psychiatry and has been validated in a variety of populations. It is good for screening global cognitive dysfunctions as opposed to focal cognitive dysfunctions. It covers the following areas of cognition such as orientation, memory, concentration, language, praxis and Gnosis",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": "841b40cc-7b2f-4dee-b4ef-e999e835ff5b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following rating scales retain the aspects of a clinical examination during consultation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5ce978ca-1d99-4b1a-a451-746098cc0471",
+          "text": "HoNOS",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "71b55fad-ebb6-457c-9abd-a4c95647213f",
+          "text": "CATEGO",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "991bf72d-adf1-4832-aa40-5782719bcd2d",
+          "text": "SANS",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ff7ec8c9-84d7-4057-9ec2-169e2862f39e",
+          "text": "PSE",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "6efd050c-46d9-4194-ad28-b286d23ad80d",
+          "text": "BPRS",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "ff7ec8c9-84d7-4057-9ec2-169e2862f39e",
+        "text": "PSE"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "ff7ec8c9-84d7-4057-9ec2-169e2862f39e",
+          "text": "PSE",
+          "is_correct": true
+        }
+      ],
+      "explanation": "PSE retains the aspects of a mental state examination",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": "05db03ec-888b-4780-bec4-b5ed0582555c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following scales of depression is most sensitive to change?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f68b1105-b7cb-46fc-87e4-3db3555a7b38",
+          "text": "Visual analogue scale",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "69935955-c804-42e3-9482-3bd3acad3956",
+          "text": "Beck depression inventory",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4d468a06-b9b7-4d87-83f4-f2bff5b693ce",
+          "text": "Zung self-rating scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "16184c47-7e7b-41cc-989d-bde23aa4a8c5",
+          "text": "Montgomery-Asberg depression rating scale",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "73f4ed55-ab94-4b08-a251-96f67c9bf29a",
+          "text": "Hospital anxiety and depression scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "16184c47-7e7b-41cc-989d-bde23aa4a8c5",
+        "text": "Montgomery-Asberg depression rating scale"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "16184c47-7e7b-41cc-989d-bde23aa4a8c5",
+          "text": "Montgomery-Asberg depression rating scale",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Montgomery-Asberg depression rating scale is most sensitive to change. It has a ten items version, which requires a clinical interview like Hamilton depression rating scale.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": "caa4db01-8e6a-45ed-85f2-f2e1b59e92a6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "All of the following are projective tests except",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "67a16b03-d713-44b2-b418-1622e3b9f5ad",
+          "text": "Rorschach test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3affc70e-a78b-4f47-8dc5-b014b858f24c",
+          "text": "Sentence Completion Test",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ae1a96c7-c7b7-4728-8508-b24fc1377353",
+          "text": "HAM-D",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "567668b1-31da-451b-8753-29cda9c1b9a6",
+          "text": "Draw A Person Test",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "be127bac-dd94-48ed-aa1a-f59a225e7a80",
+          "text": "Thematic Apperception Test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "ae1a96c7-c7b7-4728-8508-b24fc1377353",
+        "text": "HAM-D"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "ae1a96c7-c7b7-4728-8508-b24fc1377353",
+          "text": "HAM-D",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Projective tests of personality include the Rorschach test, Thematic Apperception Test (TAT), Sentence Completion Test, Holtzman Inkblot Technique (TIT), Figure drawing (typically human forms but can involve houses or other forms) and Make-a-Picture Story (MAPS). HAM-D is not a projective test.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 59.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": "ff86a51a-e532-45d3-bb98-befd2cd38c9e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following refers to the extent to which performance on a test fits with theoretical schema about the test attributes?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "7471b06f-1076-4a33-8707-d67878cdfa8e",
+          "text": "Criterion validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "de597f58-58db-4e4a-b945-3ecafda96f5c",
+          "text": "Convergent validity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2e9a9cd3-f6aa-4de6-922d-e98ccbf7a34d",
+          "text": "Construct validity",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "ef5bfc34-f7aa-42e7-9526-2e27fe079ddf",
+          "text": "Face validity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ae5d4753-a1ae-487f-8c6c-182d6ae694c2",
+          "text": "Concurrent validity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "2e9a9cd3-f6aa-4de6-922d-e98ccbf7a34d",
+        "text": "Construct validity"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "2e9a9cd3-f6aa-4de6-922d-e98ccbf7a34d",
+          "text": "Construct validity",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In psychometrics, construct validity is the extent to which a test measures a specified construct or hypothetical construct, determined by interpreting the psychological meaning of the test scores and testing implications of this interpretation.\nRef: Colman AM. Oxford Dictionary of Psychology, 4th Edition. 2015.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": "bc7c3637-80bb-428c-827f-cbdb04b9a6cc",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Considering the Beck Depression Inventory, which of the following is true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d70fefce-7a86-448b-b107-7bc9ad8ae438",
+          "text": "Refers to symptoms over the last five days",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e035b3f9-323c-431b-be29-801b378dfbbd",
+          "text": "It has 21 items",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "ece3c2e0-cab3-4257-9f57-ac61f32905ea",
+          "text": "Maximum score is 42",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8953547e-a9c2-4021-a664-1cdc35bf306f",
+          "text": "Has no item on suicidal ideas",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d95d2032-602b-417c-9ddd-e0736d7b877e",
+          "text": "Strictly a clinician-rated scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "e035b3f9-323c-431b-be29-801b378dfbbd",
+        "text": "It has 21 items"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "e035b3f9-323c-431b-be29-801b378dfbbd",
+          "text": "It has 21 items",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Beck Depression Inventory (BDI) was developed in the early 1960s to rate depression severity, with a focus on behavioural and cognitive dimensions of depression. It is a self-rated questionnaire containing 21 statements, with four possible responses for each. The current version has added more coverage of somatic symptoms and covers the most recent 2 weeks. Because it is a self-report measure, it can be used to screen for major depression (in individuals aged 13 and older). A score of >17 indicates moderate and >30 indicates severe depression.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 39.\nSemple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 97.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": "925495f2-50be-4a4f-9a2a-84ea851e0302",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following instruments can be used to monitor his symptoms?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b9dd7dcd-b500-4711-89e5-9fe6dca79706",
+          "text": "Schedule for Assessment of Negative Symptoms",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "079b3720-9e9c-4de6-995d-860b7ddbfa09",
+          "text": "Brief Psychiatric Rating Scale",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "c4376161-b09c-4e0d-bc6c-a2be0c62acbe",
+          "text": "Bristol Assessment Scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7b0b83dd-0ec7-4418-8d07-b984ae554aab",
+          "text": "Thought Language Index",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e755e5d0-ed91-4402-8b8e-470352ec35d8",
+          "text": "General Health Questionnaire",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "079b3720-9e9c-4de6-995d-860b7ddbfa09",
+        "text": "Brief Psychiatric Rating Scale"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "079b3720-9e9c-4de6-995d-860b7ddbfa09",
+          "text": "Brief Psychiatric Rating Scale",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Brief Psychiatric Rating Scale (BPRS) was developed in the late 1960s as a short clinician-rated scale (based on observation) for measuring the severity of psychiatric symptomatology. It consists of 18 or 24 items, each rated on a 7-8 point scale. It covers a broad range of areas, including thought disturbance, emotional withdrawal and retardation, anxiety and depression, and hostility and suspiciousness. It has been used extensively for decades as an outcome measure in treatment studies of schizophrenia. Reliability of the BPRS is good to excellent when raters are experienced, but this is difficult to achieve without substantial training.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. pp. 34- 38.\nSemple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 97.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": "0e1b1525-3a90-463b-85e9-1101a38aa30a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following interview schedules have replaced the Present Status Examination in contemporary epidemiological studies?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1fbe6a13-bd41-48d4-824a-bc2e05df40c1",
+          "text": "SCAN",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "d261dba7-e4d0-4a33-ace7-25f1fca10a77",
+          "text": "PANSS",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8dd25b4b-0611-46ba-afa1-b0642fec69cc",
+          "text": "SSPI",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "14011ead-e0d9-4568-822f-d94d539066da",
+          "text": "CASH",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d197e6f7-6ace-4c0e-ac6a-d3d91e1862da",
+          "text": "SANS",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "1fbe6a13-bd41-48d4-824a-bc2e05df40c1",
+        "text": "SCAN"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "1fbe6a13-bd41-48d4-824a-bc2e05df40c1",
+          "text": "SCAN",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Schedules for Clinical Assessment in Neuropsychiatry (SCAN) has evolved from the older Present State Examination (PSE). SCAN is a set of instruments aimed at assessing and classifying psychopathology in adults. Instruments include the PSE-10 (the tenth edition of the Present State Examination), the SCAN glossary, the Item Group Checklist, and the Clinical History Schedule. The interview is semi-structured, the aim being to encapsulate the clinical interview while minimising its vagaries. Where there is doubt, the interviewer can proceed to a freestyle interview to clarify further. It is designed for use by psychiatrists or clinical psychologists, thereby utilising clinical interviewing skills in evaluating each symptom. The use of mental health professionals in interviewing with SCAN makes this an expensive method but has the advantage of approximating the ‘gold standard’ diagnosis achieved by clinical interview.\nRef: Casey P, Kelly B. Fish’s clinical pathology: Signs and symptoms in psychiatry, 4th Edition. 2019.p. 9.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": "d92343d7-d8ba-49ee-8b13-dab333305fa9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following questionnaires can be used to identify psychiatric 'caseness' in the general population?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c1881b93-cd0f-4e36-87f6-3f5f293f541e",
+          "text": "BDI - Beck depression inventory",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "458e9644-efac-4f42-95b1-ca57101c2f39",
+          "text": "HAM-D - Hamilton Depression Scale",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8545b330-66f1-49ad-a7e9-282471431d74",
+          "text": "Structured clinical interview DSM-5",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f835f16b-f36f-4bba-907e-1999e6d60b32",
+          "text": "GHQ - General Health Questionnaire",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "16c32a4f-d399-4c5a-a700-6c127133b345",
+          "text": "SCAN - Schedules for Clinical Assessment in Neuropsychiatry",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "f835f16b-f36f-4bba-907e-1999e6d60b32",
+        "text": "GHQ - General Health Questionnaire"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "f835f16b-f36f-4bba-907e-1999e6d60b32",
+          "text": "GHQ - General Health Questionnaire",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The General Health Questionnaire (GHQ) is a self-rated questionnaire used as a screening instrument for the presence of psychiatric illness. The patient is asked to report the presence of a list of symptoms in the preceding weeks. Four versions are available, using 12, 28 (max score = 84), 30, and 60 items.\nRef: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 96.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": "d3c81ab2-7396-4917-b5d5-15f6fce8034f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is not a rating scale for mood disorders?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "657fe99c-9d9a-48fb-addd-3fb0b71709c9",
+          "text": "Beck inventory",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "65d18ddb-741d-4ca9-ad54-f26c16550b6c",
+          "text": "Hamilton Rating scale",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c7913e89-01e7-4d7c-8c0f-b32076a32714",
+          "text": "Montgomery-Asberg rating scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "757256d7-99ef-4e34-8434-b9d5be756d28",
+          "text": "Simpson-Angus scale",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "2ff4fc08-23a7-4b36-96dd-09d6204ca99d",
+          "text": "Young rating scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "757256d7-99ef-4e34-8434-b9d5be756d28",
+        "text": "Simpson-Angus scale"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "757256d7-99ef-4e34-8434-b9d5be756d28",
+          "text": "Simpson-Angus scale",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Simpson-Angus Scale is a clinical tool commonly used to detect and monitor extrapyramidal symptoms. It rates 10 items from 0 to 4 points, yielding a total body score divided by 10, and considered normal up to 0.3. It has been criticized for its bias in the rigidity domain, accounting for 6 of 10 items.\nRef: Blanchet PJ, Rompré PH. Clinimetric evaluation of the Simpson-Angus Scale in older adults with schizophrenia. Journal of clinical psychopharmacology. 2014 Feb 1;34(1):36-9.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": "7dd3aae9-5bba-4e57-b7c9-48cd69a9c9cd",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following will you be testing?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f425b50b-5947-45a8-90ef-93d93b45b8b5",
+          "text": "The questionnaire predicts what will happen in the future",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ef34a8f4-1d12-4146-ac13-8f55c57e0b17",
+          "text": "Constituent parts of the questionnaire are suitable and related to the phenomenon being tested",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "56809f76-3045-4b3d-9275-dcc9791ff716",
+          "text": "The questionnaire covers most symptoms related to the phenomenon being measured",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e960b92e-1e9d-4db5-a7dd-5364c96924b9",
+          "text": "The questionnaire gives same results when tested on the same patient twice by a single rater",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "63bd8c5f-2c02-4658-9118-1972d61d696d",
+          "text": "The questionnaire gives same results when used by two different raters on the same patient twice",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "ef34a8f4-1d12-4146-ac13-8f55c57e0b17",
+        "text": "Constituent parts of the questionnaire are suitable and related to the phenomenon being tested"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "ef34a8f4-1d12-4146-ac13-8f55c57e0b17",
+          "text": "Constituent parts of the questionnaire are suitable and related to the phenomenon being tested",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In psychometrics, construct validity is the extent to which a test measures a specified construct or hypothetical construct, determined by interpreting the psychological meaning of the test scores and testing implications of this interpretation.\nRef: Colman AM. Oxford Dictionary of Psychology, 4th Edition. 2015.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": "48521320-5d8e-46fe-85fe-50cfab11837a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following rating scales is a self-report measure?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "37b9b64f-3328-4447-917e-17736cb58581",
+          "text": "Abbreviated Mental Test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "90ca09b1-cb7b-4e47-b85b-ba9b9998f9f1",
+          "text": "Glasgow Coma Scale",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9c97504f-09a6-497a-9cdd-dee5ca862483",
+          "text": "Hamilton Depression Scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "3476b7d2-85d7-45c2-8168-9ca2338d5276",
+          "text": "Beck Depression Inventory",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "a3e29053-6769-4132-8995-dd264ab5456b",
+          "text": "Clinical Global Improvement scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "3476b7d2-85d7-45c2-8168-9ca2338d5276",
+        "text": "Beck Depression Inventory"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "3476b7d2-85d7-45c2-8168-9ca2338d5276",
+          "text": "Beck Depression Inventory",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Beck Depression Inventory (BDI) was developed in the early 1960s to rate depression severity, with a focus on behavioural and cognitive dimensions of depression. It is a self-rated questionnaire containing 21 statements, with four possible responses for each. The current version has added more coverage of somatic symptoms and covers the most recent 2 weeks. Because it is a self-report measure, it can be used to screen for major depression (in individuals aged 13 and older). A score of >17 indicates moderate and >30 indicates severe depression.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 39.\nSemple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 97.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": "a81ac60d-e14e-4d80-a46a-00ca1a39a76d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is correct concerning the SCID?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "ba6e5446-f3f5-405d-8866-c8a59a827fe5",
+          "text": "Based on a dimensional diagnostic scheme",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ce5dd6d2-4216-4876-9015-3019c082129b",
+          "text": "Used in conjunction with ICD-10 classification",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "e89301b8-6aff-415a-a18e-bcce05e1a18f",
+          "text": "Provides the Axis V diagnosis in DSM-IV",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8c7e4362-6551-4243-b1a0-0f117dc72ee8",
+          "text": "Useful for untrained lay interviewers",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "7c8d1aec-0017-46cf-abef-8745418230d1",
+          "text": "Primarily used in research",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "7c8d1aec-0017-46cf-abef-8745418230d1",
+        "text": "Primarily used in research"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "7c8d1aec-0017-46cf-abef-8745418230d1",
+          "text": "Primarily used in research",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Structured Clinical Interview for DSM (SCID) is a clinician-administered semi-structured clinical interview for use with patients in whom a psychiatric diagnosis is suspected. It is primarily used in research with trained interviewers to inform the operationalized diagnosis psychiatric disorders.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": "1df6bf98-7f65-4f7d-b1da-b84068bd4214",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following tools would be helpful to assess and monitor his psychopathology?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d3d50b00-0bd1-4efc-8c9d-3c2bb84c8c0b",
+          "text": "MADRS",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "0a1db852-f4b2-4c08-8d57-2f2e8f8bd08d",
+          "text": "PANSS",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "7b22c81c-30fc-465c-a5cc-18555a83cea6",
+          "text": "MMSE",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e4994e33-d44e-4dc8-86b5-e3870abd57e1",
+          "text": "HAS",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "454efc0f-d151-4f7a-b1c3-fdb188b47751",
+          "text": "GHQ",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "0a1db852-f4b2-4c08-8d57-2f2e8f8bd08d",
+        "text": "PANSS"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "0a1db852-f4b2-4c08-8d57-2f2e8f8bd08d",
+          "text": "PANSS",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Positive and Negative Symptom Scale (PANSS) is a clinician-administered rating scale for the assessment of severity and monitoring of change of symptoms in patients with a diagnosis of schizophrenia. It contains items that cover positive symptoms, negative symptoms, and general psychopathology.\nRef: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 97.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": "e72d1f68-92a8-4eed-9480-2feb3560aa5e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following scales is used for monitoring clinical recovery?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f6d3e683-b9c0-4f06-bc32-c3f7068cd6d5",
+          "text": "SCAN",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "053a4d8a-7f04-4808-b100-3687e395da6f",
+          "text": "CAGE",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "400cadd1-f816-4458-a4b4-a1f2cceddfc2",
+          "text": "MMPI",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5e74e2c1-6b42-4bc6-ab07-8cbcb8efc9b3",
+          "text": "AUDIT",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "2bb71f17-38a1-4121-9689-af6e40f288f3",
+          "text": "HoNOS",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "2bb71f17-38a1-4121-9689-af6e40f288f3",
+        "text": "HoNOS"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "2bb71f17-38a1-4121-9689-af6e40f288f3",
+          "text": "HoNOS",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Health of the Nation Outcomes Scales (HoNOS) is a 12-scale clinician-rated measure developed by the Royal College of Psychiatrists to guide everyday clinical practice and measure health and social care outcomes in secondary mental health service for adults age 18-65 years. It was designed to be sensitive to improvement, deterioration, or lack of change over time.\nRef: James M et al. A review and update of the Health of the Nation Outcome Scales (HoNOS). BJPsych bulletin. 2018 Apr;42(2):63-8.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": "283072c7-5baa-451d-b94e-669f3fdeced9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following scales can be used by primary care physicians, general medical professionals and also in community studies?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "113f5e16-174f-476b-b23b-18a3efd4dbe6",
+          "text": "Signs and Symptoms in Psychotic Illness",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5951329d-07bf-4590-aa37-8da97392a384",
+          "text": "Scale of Assessment of Positive Symptoms",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "789d479a-fd43-4690-9938-eebb7d26fb42",
+          "text": "General Health Questionnaire",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "250dfc65-edd9-4f70-82eb-f684d74e49ae",
+          "text": "Simpson-Angus Scale",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "70d0b3d2-399b-48bd-92af-d8d04a1a6d6e",
+          "text": "Brief Psychiatric Rating Scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "789d479a-fd43-4690-9938-eebb7d26fb42",
+        "text": "General Health Questionnaire"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "789d479a-fd43-4690-9938-eebb7d26fb42",
+          "text": "General Health Questionnaire",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The General Health Questionnaire (GHQ) is a self-rated questionnaire used as a screening instrument for the presence of psychiatric illness. The patient is asked to report the presence of a list of symptoms in the preceding weeks. Four versions are available, using 12, 28 (max score = 84), 30, and 60 items.\nRef: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 96.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": "3fd70518-21fc-4c04-925a-cc507bf3184b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is true concerning Brief Psychiatric Rating Scale (BPRS)?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3bd3bf63-f35a-4b18-8eaa-bcd04df16479",
+          "text": "Useful for global psychiatric symptom ratings",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "c5815afb-239f-46b9-9876-5517a78929af",
+          "text": "Cannot be used to detect treatment response",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3f182c3b-2d52-438e-b324-ee8b4b3875d6",
+          "text": "It requires no clinical training to administer",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c2810e82-21cb-472c-8cd9-9c8c6d304b31",
+          "text": "It has 20 items",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "92def8b9-7c7d-4e28-ad83-056ed729a2a7",
+          "text": "It has 8 items",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "3bd3bf63-f35a-4b18-8eaa-bcd04df16479",
+        "text": "Useful for global psychiatric symptom ratings"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "3bd3bf63-f35a-4b18-8eaa-bcd04df16479",
+          "text": "Useful for global psychiatric symptom ratings",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Brief Psychiatric Rating Scale (BPRS) was developed in the late 1960s as a short clinician-rated scale (based on observation) for measuring the severity of psychiatric symptomatology. It consists of 18 or 24 items, each rated on a 7-8 point scale. It covers a broad range of areas, including thought disturbance, emotional withdrawal and retardation, anxiety and depression, and hostility and suspiciousness. It has been used extensively for decades as an outcome measure in treatment studies of schizophrenia. Reliability of the BPRS is good to excellent when raters are experienced, but this is difficult to achieve without substantial training.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. pp. 34- 38.\nSemple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 97.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": "31f7f1be-d628-4fde-b824-35daa2d1f451",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Concurrent validity is also known as",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "259bd1b5-c1e0-43ad-a28a-6e3d9eef08e1",
+          "text": "Face validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "7748da61-dde7-4bd1-aa56-a29d230cf6bf",
+          "text": "Construct validity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "0e4e568d-13a4-41d9-ae69-405f52edb1cd",
+          "text": "Incremental validity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c7130d20-0e0a-4caa-87a0-260d017462df",
+          "text": "Criterion validity",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "92b3370b-550c-4407-a818-66e6d72c8601",
+          "text": "Predictive validity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "c7130d20-0e0a-4caa-87a0-260d017462df",
+        "text": "Criterion validity"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "c7130d20-0e0a-4caa-87a0-260d017462df",
+          "text": "Criterion validity",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In criterion-related validity, we examine whether the operationalised criteria used in a scale is aligned to the theory behind a construct that is being tested.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": "a656bf20-3051-4403-9a5c-7833c0b01553",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "It is most commonly used in patients with a diagnosis of",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "84b332e3-6bea-40e5-be90-7a568ee2b1ab",
+          "text": "Alcohol use disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2aa55fb3-c2ba-4ece-a445-cd445d907ce9",
+          "text": "Personality disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "98bc979e-63b7-41b8-83a5-91192668ad5e",
+          "text": "Schizophrenia",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "e45375e8-1d5a-40e9-a391-780ccb425485",
+          "text": "Bipolar disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b58db492-4d82-4cda-a668-a0844480ce93",
+          "text": "Somatisation disorder",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "98bc979e-63b7-41b8-83a5-91192668ad5e",
+        "text": "Schizophrenia"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "98bc979e-63b7-41b8-83a5-91192668ad5e",
+          "text": "Schizophrenia",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Brief Psychiatric Rating Scale (BPRS) was developed in the late 1960s as a short clinician-rated scale (based on observation) for measuring the severity of psychiatric symptomatology. It consists of 18 or 24 items, each rated on a 7-8 point scale. It covers a broad range of areas, including thought disturbance, emotional withdrawal and retardation, anxiety and depression, and hostility and suspiciousness. It has been used extensively for decades as an outcome measure in treatment studies of schizophrenia. Reliability of the BPRS is good to excellent when raters are experienced, but this is difficult to achieve without substantial training.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. pp. 34- 38.\nSemple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 97.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": "9aed1cd5-6411-4cf4-a70a-716e9bba189f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following will you be testing?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5f09e9ff-9fe4-42c2-99ed-53e25c7b3b5d",
+          "text": "The questionnaire is valid when it gives same results if assessed on two different occasions by same rater",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "40f42a92-c17e-4e6e-a7e0-1ae1a09f6cde",
+          "text": "The scores given by one rater are well concealed and cannot be copied by another rater",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f328d2d9-7287-407e-8daf-02f3cac97f16",
+          "text": "The questionnaire gives same results when used by two different raters on the same patient",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "660d8b42-d69e-4a5d-a942-ab4ba5e62ace",
+          "text": "Self-rating and clinician rating gives the same score from the questionnaire",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f2ea8ba0-c8a0-4b8f-8e4a-bd1ca31ad79c",
+          "text": "The questionnaire is valid when it gives same results if assessed by two different assessors on two different patients",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "f328d2d9-7287-407e-8daf-02f3cac97f16",
+        "text": "The questionnaire gives same results when used by two different raters on the same patient"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "f328d2d9-7287-407e-8daf-02f3cac97f16",
+          "text": "The questionnaire gives same results when used by two different raters on the same patient",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Inter-rater reliability is a measure of the consistency of ratings, equal to the correlation between ratings given by different raters of the same people or stimuli.\nRef: Colman AM. Oxford Dictionary of Psychology, 4th Edition. 2015.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": "58d25571-e567-4a2f-8acf-3492612e2edf",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In psychometry, internal consistency refers to",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "327b1e6d-accb-4d9a-9170-92cef81afa15",
+          "text": "Degree of correlation between one test item with other items",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "a5eef21d-f58e-429b-9dd6-55c614e16f78",
+          "text": "Degree of agreement between two raters",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "91d8e431-c069-458d-99eb-ca02ec010193",
+          "text": "Degree of agreement between results obtained in two different occasions",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "10a9c356-bfe5-4af9-9892-34206286108b",
+          "text": "Degree of correlation between two different versions of the scale",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ab02beef-a2b2-41dc-88ef-f714cfb06434",
+          "text": "Degree of agreement between two similar scales",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "327b1e6d-accb-4d9a-9170-92cef81afa15",
+        "text": "Degree of correlation between one test item with other items"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "327b1e6d-accb-4d9a-9170-92cef81afa15",
+          "text": "Degree of correlation between one test item with other items",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In psychometrics, internal consistency is an aspect of reliability associated with the degree to which the items of a test measure the same construct or attribute. It is indexed by Cronbach’s alpha, the Kuder-Richardson coefficient, or the split-half reliability.\nRef: Colman AM. Oxford Dictionary of Psychology, 4th Edition. 2015.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": "a95397ad-18fa-4dea-b4a2-660dd70da3c1",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The assessment tool useful in measuring the severity and change in psychotic symptoms is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e1cc6a98-5a2a-4403-9ab3-cc43ef1bb8fc",
+          "text": "Neuropsychiatric inventory",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f0513b27-9b4d-4cd6-941c-060c7db5c4e6",
+          "text": "CATEGO",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8223d276-c545-41bb-bea6-a10d839113be",
+          "text": "Young mania rating scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "3b261812-100d-4500-9e82-b943f88a8d63",
+          "text": "Brief psychiatric rating scale",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "edda1175-7024-43f9-b6a2-8c789ec44d13",
+          "text": "SCAN",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "3b261812-100d-4500-9e82-b943f88a8d63",
+        "text": "Brief psychiatric rating scale"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "3b261812-100d-4500-9e82-b943f88a8d63",
+          "text": "Brief psychiatric rating scale",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Brief Psychiatric Rating Scale (BPRS) was developed in the late 1960s as a short clinician-rated scale (based on observation) for measuring the severity of psychiatric symptomatology. It consists of 18 or 24 items, each rated on a 7-8 point scale. It covers a broad range of areas, including thought disturbance, emotional withdrawal and retardation, anxiety and depression, and hostility and suspiciousness. It has been used extensively for decades as an outcome measure in treatment studies of schizophrenia. Reliability of the BPRS is good to excellent when raters are experienced, but this is difficult to achieve without substantial training.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. pp. 34- 38.\nSemple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 97.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": "08e26b7f-6f11-44a9-94f6-975a7245873f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following scales is NOT used for measuring drug-induced movement abnormalities?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5ad37421-0453-4750-bddc-4aa6a7d81d14",
+          "text": "LUNSERS scale",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "6be86498-178e-42c8-a86d-341a1599a1d5",
+          "text": "Lane scale",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "7634819d-6479-4ead-affe-0dd6286f71bb",
+          "text": "Barnes Akathisia scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "272b47be-f928-42ef-b812-35279c227404",
+          "text": "Simpson Angus scale",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "2d33b8d8-fc93-4ccf-bf0e-9a93ad4adaf4",
+          "text": "AIMS scale",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "6be86498-178e-42c8-a86d-341a1599a1d5",
+        "text": "Lane scale"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "6be86498-178e-42c8-a86d-341a1599a1d5",
+          "text": "Lane scale",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Lane scale is used for minor physical anomalies.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

@@ -1,0 +1,4018 @@
+{
+  "chapter_id": "5dd444e8-3150-424e-b206-1f8212c3aa0a",
+  "chapter_name": "pharmacokinetics",
+  "chapter_title": "pharmacokinetics",
+  "resource_id": "d7e6b408-1793-402b-9890-ee18dbb216f6",
+  "resource_title": "SPMM I",
+  "subject_name": "SPMM I",
+  "chapter_number": 10,
+  "total_questions": 69,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "99649655-7dcd-40fa-a058-e31cce26e164",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is best choice to treat alcohol withdrawal in a man with severe liver damage?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a51fb50b-cf44-4681-9b0d-fce20a92ef79",
+          "text": "Naltrexone",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a7688f69-67d2-42c6-9b1e-5c9725959471",
+          "text": "Carbamazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "401d8e6c-c7c7-4dfb-bfd3-a23577e2fa12",
+          "text": "Chlordiazepoxide",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "1019198a-4b89-4f8a-af76-fc87450ce0e5",
+          "text": "Lorazepam",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "f40ba4ab-03e1-4cdc-b241-92d43910277d",
+          "text": "Diazepam",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "1019198a-4b89-4f8a-af76-fc87450ce0e5",
+        "text": "Lorazepam"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "1019198a-4b89-4f8a-af76-fc87450ce0e5",
+          "text": "Lorazepam",
+          "is_correct": true
+        }
+      ],
+      "explanation": "When managing alcohol withdrawal, a short-acting benzodiazepine such as oxazepam or lorazepam may be used in individuals with impaired liver function.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": "ad21c129-7bee-4220-a4b5-19ffa5216a14",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A patient drives to work at 6:30 AM and wants night sedation. Based on half life, which of the following is the best?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "95551341-ce86-4e57-8c13-e85d100153c0",
+          "text": "Lorazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "97b86b22-7be9-4c11-911e-44c4a04ac075",
+          "text": "Zopiclone",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "a7d2ef13-c7f4-48fa-b7a6-50967fb0b550",
+          "text": "Zolpidem",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "b8f9dadd-1682-4b71-882e-26bf5df51af4",
+          "text": "Temazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "36423caf-a119-4ecd-bec1-78b12f94ce80",
+          "text": "Diazepam",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "a7d2ef13-c7f4-48fa-b7a6-50967fb0b550",
+        "text": "Zolpidem"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "a7d2ef13-c7f4-48fa-b7a6-50967fb0b550",
+          "text": "Zolpidem",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Zolpidem is rapidly and well absorbed after oral administration. Zolpidem reaches peak plasma concentrations in 1.6 hours and has a half-life of 2.6 hours. The rapid metabolism and lack of active metabolites of zolpidem avoid the accumulation of plasma concentrations compared with the use of benzodiazepines such as diazepam.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "414e1fa7-6ca5-4147-8588-5f9aeb459594",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following drugs is excreted unchanged in urine?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6695419b-2043-4315-af49-1d79614281f2",
+          "text": "Quetiapine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "518eb9f8-8bfb-4995-933e-2f43839154f8",
+          "text": "Gabapentin",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "8ae93c54-866c-4ecc-9970-f5152201105c",
+          "text": "Valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "2715c746-b68a-4f2c-879a-56b0bb3347f6",
+          "text": "Diazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "8cba9224-fef7-4933-b734-438677eecb19",
+          "text": "Morphine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "518eb9f8-8bfb-4995-933e-2f43839154f8",
+        "text": "Gabapentin"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "518eb9f8-8bfb-4995-933e-2f43839154f8",
+          "text": "Gabapentin",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Gabapentin, sulpiride, amisulpride, and lithium all undergo no or minimal hepatic metabolism.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": "2bb7d89e-2fce-49da-9d66-3b1048af118c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following psychotropic will be affected most by contact with moist air?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b398ce8d-80d0-4c7b-912e-e806768af859",
+          "text": "Olanzapine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d01b1c62-e104-4d79-9e66-46aa23b911b6",
+          "text": "Gabapentin",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "a618e2b5-a49b-4d14-ac75-aa0822cde29c",
+          "text": "Carbamazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "19ee82f4-62c7-4821-b1c1-9f283f3b2c86",
+          "text": "Topiramate",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c18fa454-c49d-4b60-b2e2-1ec8d626892c",
+          "text": "Sodium valproate",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "c18fa454-c49d-4b60-b2e2-1ec8d626892c",
+        "text": "Sodium valproate"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "c18fa454-c49d-4b60-b2e2-1ec8d626892c",
+          "text": "Sodium valproate",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Deliquescent salts such as valproate absorb moisture from the air",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": "9b539df9-f99d-463e-9965-483c5e2d1089",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A psychotropic drug is observed to undergo phase 2 metabolism directly without undergoing phase 1 reactions. Which one of the following fits with the above description best?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "64f865fe-046d-43bb-b3ed-bc4bd82198e2",
+          "text": "Lithium",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "db3dd1c6-9a63-40e8-9b9b-89f7ba31d800",
+          "text": "Fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5c22f88d-fc30-454e-8f53-8d59baf50862",
+          "text": "Chlordiazepoxide",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0b72d5e5-87d6-4eb3-9459-3389eead5617",
+          "text": "Diazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ba7341db-0a7c-4c34-b1fc-f116065fda3f",
+          "text": "Lorazepam",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "ba7341db-0a7c-4c34-b1fc-f116065fda3f",
+        "text": "Lorazepam"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "ba7341db-0a7c-4c34-b1fc-f116065fda3f",
+          "text": "Lorazepam",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Most benzodiazepines are oxidised first by CYP3A4 and CYP2C19, often to active metabolites. These metabolites may then be hydroxylated to another active metabolite. However, lorazepam, oxazepam, and temazepam are metabolised by non-CYP450 pathways. They are conjugated directly by glucuronidation and are excreted.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": "627aa69e-e346-42ed-b1b6-01ef58af2b1e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following statements is least likely to be correct with respect to the tissue distribution of drugs?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4dc054d6-8609-40b8-a15a-e081c1162d43",
+          "text": "Drugs with high affinity for tissues such as fat have high volume of distribution",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "cac3a269-3d0f-4303-b632-8e561b272bde",
+          "text": "The drug distribution in plasma to various tissues depends on plasma protein binding",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "38dac39e-3978-46d5-ba6b-4a33526f9c76",
+          "text": "The drug distribution in plasma to various tissues depends on tissue permeability",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "bc65e8a1-a4c7-4769-9404-efd546b5cc49",
+          "text": "Distribution is uniform across the body tissues",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "b77b7522-f405-4cf2-892a-3f669b461509",
+          "text": "Tissue distribution leads to a fall in plasma concentration",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "bc65e8a1-a4c7-4769-9404-efd546b5cc49",
+        "text": "Distribution is uniform across the body tissues"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "bc65e8a1-a4c7-4769-9404-efd546b5cc49",
+          "text": "Distribution is uniform across the body tissues",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Drugs are not evenly distributed in the body. There are three main compartments through which a drug may be distributed. (1) The Vascular compartment (2) The extra cellular compartment (3) The intracellular compartment.Drugs that are large molecules and those which bind tightly to plasma proteins remain in the vascular compartment; drugs with low lipid solubility are distributed in the vascular plus the extracellular compartment whilst lipid soluble drugs are distributed through the three compartments. Drugs such as Phenytoin, diazepam, chlorpromazine and amitriptyline are all highly bound to plasma proteins. They are very lipophilic and once absorbed pass readily into peripheral fat stores; from which they are gradually released long after the last dose has been administered.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": "b1e2f539-98d0-4f32-b896-234d54e2f9fd",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following medications must be used with caution when fluvoxamine is prescribed?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "7227b955-34c8-45db-87dd-3ede9946bf51",
+          "text": "Theophylline",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "18119acd-1817-4022-8a60-e8633509b335",
+          "text": "Naproxen",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "27284124-3c0f-4c7f-bb21-4e7516ff5d42",
+          "text": "Amlodipine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "08b36bd1-4e56-4146-8925-cdfe39514878",
+          "text": "Salbutamol",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "9a8e6c48-a612-42b2-a42a-1cd865bd2da6",
+          "text": "Paracetamol",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "7227b955-34c8-45db-87dd-3ede9946bf51",
+        "text": "Theophylline"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "7227b955-34c8-45db-87dd-3ede9946bf51",
+          "text": "Theophylline",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Fluvoxamine is a potent inhibitor of CYP1A2 which can result in increased theophylline serum levels.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": "5eefe3ce-49aa-4cfa-b552-7ba31a58edad",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following acts on presynaptic receptors as the main mechanism of action?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "845630b4-d613-4489-995e-5d0113d424e8",
+          "text": "Donepezil",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a20fa47a-767d-46b7-9f14-1997180bcd8d",
+          "text": "Diazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b3718a60-a135-4b33-b3f8-827e1b28ae8d",
+          "text": "Phenelzine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "525c38ca-b563-40f2-8f23-4f04de217082",
+          "text": "Propranolol",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "596dd112-5467-4b7a-8f06-cc9367474a0b",
+          "text": "Clonidine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "596dd112-5467-4b7a-8f06-cc9367474a0b",
+        "text": "Clonidine"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "596dd112-5467-4b7a-8f06-cc9367474a0b",
+          "text": "Clonidine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Clonidine and guanfacine are presynaptic alpha-2-receptor agonists. They inhibit sympathetic outflow and cause vasodilation of the blood vessels. The agonist effects of clonidine and guanfacine on pre-synaptic alpha-2-adrenergic receptors in the sympathetic nuclei of the brain result in a decrease in the amount of norepinephrine released from the presynaptic nerve terminals. This decrease serves to reset the body's sympathetic tone at a lower level and decrease arousal.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": "0997bf8f-06d3-4cbf-a1da-3ecf2dfbc0f4",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Hepatic metabolism may involve various chemical reactions. Which one of the following is not a common chemical activity seen in hepatic metabolism?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9d37c8ef-8652-4a8e-b820-8f839d39882b",
+          "text": "oxidation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "7c21c25b-f92e-4d2e-a4f8-d4109ea8a8f8",
+          "text": "reduction",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "55b31483-6734-4ebf-a26b-b5838fe80e71",
+          "text": "dealkylation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6f22fd6b-5cfc-4efd-bf9a-b7ef80b824db",
+          "text": "hydroxylation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "340b104e-147b-412a-a44c-a10f7424014b",
+          "text": "polymerisation",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "340b104e-147b-412a-a44c-a10f7424014b",
+        "text": "polymerisation"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "340b104e-147b-412a-a44c-a10f7424014b",
+          "text": "polymerisation",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Hepatic metabolism may involve non-synthetic reactions that involve oxidation, reduction, hydroxylation, dealkylation, demethylation, acetylation; methylation may produce active compounds (Phase 1). The metabolism also involves synthetic reactions such as conjugation usually with glucuronic acid and sulphation that produce inactive water-soluble compounds. (Phase 2)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": "070b9b46-1bdb-4d82-8b57-afbda01e449a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following drugs has its plasma levels reduced even after regular administration of the same dose for 2 weeks?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6483f484-d81c-407d-bf43-8dc3137dd97d",
+          "text": "Lithium",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "09617fcb-9ead-41b1-a09b-2cb408b996ae",
+          "text": "Clozapine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "105ea7a8-a896-4e59-8f80-061ebe1a9f25",
+          "text": "Chlormethiazole",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "568914f8-ded0-432e-9256-d73a58c70d20",
+          "text": "Valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "0b8c3181-7157-4526-b316-a64a4e9efcc2",
+          "text": "Carbamazepine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "0b8c3181-7157-4526-b316-a64a4e9efcc2",
+        "text": "Carbamazepine"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "0b8c3181-7157-4526-b316-a64a4e9efcc2",
+          "text": "Carbamazepine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Carbamazepine induces its own metabolism. Time to steady state is dependent on this autoinduction and is usually at least 2 weeks.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": "d14c7715-1e5c-4386-bcf0-513bc79ffae0",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Enzyme autoinhibition is most likely to be seen with which of the following antidepressants?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f0929672-6cd9-42d2-b9aa-0a2ff6053e85",
+          "text": "Sertraline",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "6768064f-3e45-4a9b-a53a-5abc78288d6d",
+          "text": "Duloxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5499522c-4a2c-4eef-9b7d-92e75befede5",
+          "text": "Fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "84aac9d5-1f90-4e44-803b-aa4bec225e28",
+          "text": "Paroxetine",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "1dde32aa-fdc5-4311-8def-16e2f3895143",
+          "text": "Citalopram",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "84aac9d5-1f90-4e44-803b-aa4bec225e28",
+        "text": "Paroxetine"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "84aac9d5-1f90-4e44-803b-aa4bec225e28",
+          "text": "Paroxetine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Paroxetine is a potent CYP450 2D6 inhibitor. It inhibits its own metabolism, so dosing is not linear. Plasma concentrations can double when oral doses increase by 50%. Plasma concentrations can increase by 2-7 fold when oral doses are doubled.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": "e4a23ae6-415a-42f7-a889-3f208b43fdfe",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Under which of the following conditions interactions with drugs that alter protein binding becomes important?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "496e8e9d-d5e0-4fa4-8d83-e4550a718752",
+          "text": "Obesity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d2d4347a-5d01-477a-b88a-fb297089e33c",
+          "text": "Children",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "807d9437-505b-42c5-8f7d-b3cba5b9d09c",
+          "text": "Lung disease",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e83667a1-203e-41bc-bc80-d122dd5cd2f6",
+          "text": "High altitude living",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "dbadfbd6-29e6-4bf2-a7c2-8977eb6f7568",
+          "text": "Renal disease",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "dbadfbd6-29e6-4bf2-a7c2-8977eb6f7568",
+        "text": "Renal disease"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "dbadfbd6-29e6-4bf2-a7c2-8977eb6f7568",
+          "text": "Renal disease",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Protein binding interactions become relevant in the presence of a renal disease where proteinuria can occur.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": "2c9276d3-ce45-4e3f-836e-b9a4bbbe4d2b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following drugs has a higher therapeutic index than the others listed?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b8d7f4b0-a82a-426f-b64e-ec7b66f71261",
+          "text": "Lithium",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b5c431a8-d9b2-4592-b080-cd27820f1d79",
+          "text": "Phenytoin",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "76897e4f-4189-46d6-a237-512d4a38a925",
+          "text": "Type 1 anti-arrhythmics",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d64a0c83-addc-41c7-81a2-2e811e08e288",
+          "text": "Paracetamol",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "281695c6-7379-46b3-9ce8-76d40b5c965f",
+          "text": "Tricyclics",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "d64a0c83-addc-41c7-81a2-2e811e08e288",
+        "text": "Paracetamol"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "d64a0c83-addc-41c7-81a2-2e811e08e288",
+          "text": "Paracetamol",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The therapeutic index is any of several indices relating the clinical effectiveness of a drug to its safety factor, one being the therapeutic ratio of the median lethal dosage to the median effective dosage (LD-50/ED-50). Other therapeutic indices include the ratio of the minimum toxic dosage to the minimum effective dosage, and the difference between the minimum effective dosage and the minimum toxic dosage. Drugs available over the counter usually have a better (higher) therapeutic index (or else they won't be sold without a prescription). This does not mean that they are absolutely safe.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": "dc4bbb5e-2c7a-4349-8be8-ffed0356c203",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 44-year-old man is on warfarin for thromboprophylaxis. He returns from a holiday to mainland Europe where he obtained a preparation for treating his depression. The GP is concerned about his INR and organizes an urgent blood test. What is the likely drug taken?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a18e74ce-c019-4d7c-a05d-897e71394d2a",
+          "text": "St John's Wort",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "9014deb8-e26f-4430-b574-e4a3348dc553",
+          "text": "Duloxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "0c847de4-62fb-4e5d-9bf8-310eb8c6bc9d",
+          "text": "Carbamazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "09190be5-de1d-4121-bb7c-8f648186b531",
+          "text": "Citalopram",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c60f3b58-84cf-439a-b9c0-d6f53f02f8d6",
+          "text": "Venlafaxine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "a18e74ce-c019-4d7c-a05d-897e71394d2a",
+        "text": "St John's Wort"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "a18e74ce-c019-4d7c-a05d-897e71394d2a",
+          "text": "St John's Wort",
+          "is_correct": true
+        }
+      ],
+      "explanation": "St. John's wort (SJW) is a potent inducer of intestinal and hepatic CYP3A4, CYP2C9, CYP2c39, CYP2E1, and intestinal p-glycoprotein. Hyperforin is responsible for this effect. The hyperforin content of SJW preparations varies 50-fold, which will result in a different propensity for drug interactions between brands. Studies have shown that SJW significantly reduces plasma concentrations of warfarin, hormonal contraceptives, digoxin, and indinavir (used in the treatment of HIV).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": "591376a0-b9c7-4960-9c47-b9715a65dbd1",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is least likely to be a pharmacokinetic property of the tricyclic antidepressants?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3c6acf29-39d6-41cc-aed4-cce75af369b9",
+          "text": "Extensive hepatic breakdown",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "cf4781df-be78-4fbd-8e48-71c61032449f",
+          "text": "Their activity may delay their own absorption",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "814c8ddb-20ac-4ec7-a1b5-fa0639e55a2f",
+          "text": "Lipid solubility",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7874a8f5-a4e5-4904-8931-1a2de616c302",
+          "text": "Metabolism being reduced by smoking",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "dcb373a0-d9bc-4210-9cbc-f72236f48ce2",
+          "text": "Extensive protein binding in the plasma",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "7874a8f5-a4e5-4904-8931-1a2de616c302",
+        "text": "Metabolism being reduced by smoking"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "7874a8f5-a4e5-4904-8931-1a2de616c302",
+          "text": "Metabolism being reduced by smoking",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Smoking facilitates metabolism and generally reduces plasma levels of tricyclic antidepressants by 25-50%. Tricyclics readily cross lipid barriers such as blood-brain barrier and placenta. They are extensively bound to plasma proteins. Due to anticholinergic effects, they may reduce their own absorption.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": "8f98e381-ac3f-4f5d-8e7a-2cc6fa8cde83",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A drug X is used to treat acute behavioural disturbances. It can be given orally or intravenously. 15mg of the oral drug is needed for an acutely disturbed man of weight 70kgs while 10mg is sufficient if given intravenously. What is the bioavailability of IV administration of 10mg?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "afb1fbfc-c331-4468-9c55-dab9daa73070",
+          "text": "10.5mg",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "6bdafd15-c53a-4b92-900a-675af2a3fdcf",
+          "text": "10mg",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "ce5c025f-66f1-40a8-bf67-09d7a3cc6b42",
+          "text": "5mg",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "099d8a2a-1b65-41ce-8188-7295996ab9f7",
+          "text": "1.5mg",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d2f2ab30-9c03-4fea-b8b0-dfcc3029bbe4",
+          "text": "15mg",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "6bdafd15-c53a-4b92-900a-675af2a3fdcf",
+        "text": "10mg"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "6bdafd15-c53a-4b92-900a-675af2a3fdcf",
+          "text": "10mg",
+          "is_correct": true
+        }
+      ],
+      "explanation": "When a drug is administered intravenously the availability of the drug is 100%.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": "fd2777ec-a099-43da-a7fa-c4909bf83d0e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Steady-state plasma concentration is usually achieved after",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "145d42a6-5c6a-44ae-860b-b3cdaafc3bbf",
+          "text": "1-2 half-lives",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "15c0d8e2-c7f6-4eea-8b10-83170065cb48",
+          "text": "2-3 half-lives",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "32ecf73f-03af-4b22-aca9-de454217015a",
+          "text": "10-20 half-lives",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "2b5da4b7-08a3-4fe0-91ee-9e85a3820a8b",
+          "text": "4-5 half-lives",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "46b57487-bd16-4740-b1c5-6addb36c6d93",
+          "text": "9-10 half-lives",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "2b5da4b7-08a3-4fe0-91ee-9e85a3820a8b",
+        "text": "4-5 half-lives"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "2b5da4b7-08a3-4fe0-91ee-9e85a3820a8b",
+          "text": "4-5 half-lives",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Steady state concentration is achieved after repeated doses, which lead to an equilibrium between absorption and elimination. It usually takes 4-5 drug half-lives to reach steady-state levels.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": "b1ba58cd-f907-4e64-a619-e6e0517d6b3f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Some drugs such as fluoxetine move from first order to zero order kinetics in supratherapeutic doses. What happens to their t1/2 in such cases?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "439601b6-ecf4-45eb-8d8d-00e637ca8996",
+          "text": "t1/2 doubles",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b434d5fc-cad8-44ee-9c77-95ca6a6c4498",
+          "text": "t1/2 becomes independent of dose",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b651cbc2-f51f-4c88-b2a0-c8e612b2e855",
+          "text": "t1/2 becomes dependent on dose",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "ebdbf3cf-08a4-48fa-a574-c1563aaa384a",
+          "text": "t1/2 quadruples",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "99e74254-17c4-4307-ac7d-cfe443273017",
+          "text": "t1/2 halves",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "b651cbc2-f51f-4c88-b2a0-c8e612b2e855",
+        "text": "t1/2 becomes dependent on dose"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "b651cbc2-f51f-4c88-b2a0-c8e612b2e855",
+          "text": "t1/2 becomes dependent on dose",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In very high supratherapeutic doses, saturation of enzymes can happen for drugs such as fluoxetine, wherein first order elimination switches to become zero order. In zero-order kinetic state, a constant amount, rather than a constant fraction, of the drug is cleared per unit time. This means that irrespective of the amount of drug in plasma or dose of drug administered, only a fixed unit of drug is cleared by the body. Here the concept of half-life does not hold true as 'half life' depends on the dose administered (i.e the time taken to eliminated 50% of dose, becomes dose dependent, and the concept of t1/2 loses its validity).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": "3389de22-365c-494c-8a39-476703d5726c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In a patient with severe liver disease, the antipsychotic of choice is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "bf4300a9-735f-4ce6-8492-6fee43047581",
+          "text": "Amisulpride",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "e10029c4-7453-4fa9-8e6e-f3ca12c3dee0",
+          "text": "Clozapine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "dde58114-8768-4cc6-9287-50d4e3dc4166",
+          "text": "Quetiapine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0936f2fa-b234-4d75-9cdb-af6a09603033",
+          "text": "Risperidone",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "297fab67-0d45-4c9f-9eb9-9f18352551c2",
+          "text": "Olanzapine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "bf4300a9-735f-4ce6-8492-6fee43047581",
+        "text": "Amisulpride"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "bf4300a9-735f-4ce6-8492-6fee43047581",
+          "text": "Amisulpride",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Amisulpride is predominantly renally excreted, so dosage reduction should not be necessary as long as renal function is normal. Amisulpride is uncommonly associated with rises in transaminases and hepatocellular injury.",
+      "explanation_images": [
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/10.%20pharmacokinetics/19/explanation_image-3389de22-365c-494c-8a39-476703d5726c-1788624425182.jpeg"
+      ],
+      "explanation_image_url": "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/10.%20pharmacokinetics/19/explanation_image-3389de22-365c-494c-8a39-476703d5726c-1788624425182.jpeg"
+    },
+    {
+      "question_number": 20,
+      "question_id": "e58e02f5-4de5-478b-96b5-e81169e2034d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following drugs can decrease lithium excretion and precipitate toxicity?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9c283003-5feb-4682-abb3-819e9534d2d2",
+          "text": "Diazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "87a17b10-6745-4249-8fa2-d4aa051e76d8",
+          "text": "Valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "467fb619-3cb6-4d59-9a4c-09a323a077d4",
+          "text": "Propranolol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d981a8d9-7a39-4390-83b4-a5d39cd5669b",
+          "text": "Haloperidol",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "3b4653f7-fa72-4555-bf88-00f24e0fd9b8",
+          "text": "NSAIDs",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "3b4653f7-fa72-4555-bf88-00f24e0fd9b8",
+        "text": "NSAIDs"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "3b4653f7-fa72-4555-bf88-00f24e0fd9b8",
+          "text": "NSAIDs",
+          "is_correct": true
+        }
+      ],
+      "explanation": "NSAIDs inhibit the synthesis of renal prostaglandins, thereby reducing renal blood flow and possibly increasing renal re-absorption of sodium and therefore lithium. The magnitude of the rise is unpredictable for any given patient; case reports vary from increases of around 10% to over 400%.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": "e79d9c8f-59fe-4500-826f-a8454b1f1f70",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A drug X, when given at a dose of 300 units, is cleared from the body at a rate of 30 units per hour. When the dose is increased to 600 units, it is still cleared at a rate of 30 units per hour. Which of the following is true? The drug follows",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "905a4d89-5300-4c33-9c9b-d216d203f7c8",
+          "text": "first order kinetics",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "53c297c6-a0b9-41e4-80cb-0f0fe6dd5ccc",
+          "text": "zero order at lower doses and first order at higher doses",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "54352308-13b9-402f-8548-9b113e7561b4",
+          "text": "first order at lower doses and zero order at higher doses",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6e668d0f-334a-4091-a5a3-ab3f5dcc4018",
+          "text": "no specific kinetics",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "32f95619-5e03-471e-b447-38ff5792b92d",
+          "text": "zero order kinetics",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "32f95619-5e03-471e-b447-38ff5792b92d",
+        "text": "zero order kinetics"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "32f95619-5e03-471e-b447-38ff5792b92d",
+          "text": "zero order kinetics",
+          "is_correct": true
+        }
+      ],
+      "explanation": "When the system facilitating first order clearance of drugs gets saturated, drugs follow zero-order kinetics. Here a constant amount, not a fraction, of the drug is cleared per unit time. This means that irrespective of the amount of drug in plasma or dose of drug administered, only a fixed unit of the drug is cleared by the body. As such, increasing dose might result in serious toxicity in this case.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": "0688d291-9859-431e-ac0f-c60761da1c56",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What is least likely to be correct concerning the pharmacology of clozapine?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "82701dc2-c068-4acc-9aee-ce6cb838e26f",
+          "text": "High affinity towards D4 receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "692f3ddc-b5ac-41b8-84e5-fdb08e30139e",
+          "text": "Slow release from D2 receptors",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "ae0ae321-c394-4cf9-bd55-04099bde5840",
+          "text": "Has antimuscarinic properties",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a0865293-8971-49f3-8971-1c5b7ccf259d",
+          "text": "Acts on D1 receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "146dfce7-38a8-4c5c-b28f-eef898f711e6",
+          "text": "Blocks 5HT2A receptors",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "692f3ddc-b5ac-41b8-84e5-fdb08e30139e",
+        "text": "Slow release from D2 receptors"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "692f3ddc-b5ac-41b8-84e5-fdb08e30139e",
+          "text": "Slow release from D2 receptors",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Clozapine is an antagonist of 5-HT2A, D1, D3, and D4 receptors. It also has potent antagonism of muscarinic M1, H1, and alpha-1 adrenergic receptors. It has relatively low potency as a D2 receptor antagonist. Clinically effective doses of clozapine occupy only 40-50% of striatal D2 receptors. This is probably why clozapine has low propensity to cause EPS. It has also been postulated that clozapine binds more loosely to the D2 receptor, and because of this 'fast dissociation', more normal dopamine neurotransmission is possible.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": "95dfec81-9ba4-493e-b616-42ead3898728",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Bioavailability is least likely to be influenced by",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a0881fd9-4fab-453c-b6e9-a1a94576067c",
+          "text": "Metabolism",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2866a683-77b5-4b8e-8a15-7acf42f25d04",
+          "text": "Absorption",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3725a8ad-2fe9-443e-a4bb-06daa3bd277a",
+          "text": "Distribution",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f8e759d5-a57e-465e-88f2-2c61f087ec4d",
+          "text": "Excretion",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b3c4a7da-d6d2-4889-ac8c-45ba0a526a5b",
+          "text": "Gender",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "b3c4a7da-d6d2-4889-ac8c-45ba0a526a5b",
+        "text": "Gender"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "b3c4a7da-d6d2-4889-ac8c-45ba0a526a5b",
+          "text": "Gender",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Bioavailability is the fraction of an ingested dose of a drug that gains access to the systemic circulation. It may be low because the drug is metabolised in the gut wall or liver before reaching the systemic circulation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": "cacc2081-d5d1-44b2-abcb-b3fe49825f8c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A fatal combination with respect to potentially severe serotonin syndrome is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b0d0932d-a6f7-4f75-9124-e5fe94c96cde",
+          "text": "Moclobemide and paroxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "291f0833-7e9d-4f62-a0cb-c66378fea255",
+          "text": "Paroxetine and methylphenidate",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6a6a1210-5f52-4083-bfca-5d2d9991c043",
+          "text": "MDMA and moclobemide",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "48c5396d-1e6b-444a-b8b1-9dd35d480c08",
+          "text": "Pethidine and tranylcypromine",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "3613388f-b14b-46c1-ac16-c5d8ef0f1a45",
+          "text": "Phenelzine and amitriptyline",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "48c5396d-1e6b-444a-b8b1-9dd35d480c08",
+        "text": "Pethidine and tranylcypromine"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "48c5396d-1e6b-444a-b8b1-9dd35d480c08",
+          "text": "Pethidine and tranylcypromine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Serotonin toxicity, often referred to as serotonin syndrome, is an iatrogenic drug-induced toxidrome associated with raised intra-synaptic concentrations of serotonin (5-HT) in the CNS. Dangerous toxic reactions, including death, have been shown to result after the administration of meperidine (pethidine – an opioid analgesic drug used in anaesthesia) to patients taking an MAOI such as phenelzine or tranylcypromine.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": "93a2b8d2-150d-4a7f-af4e-1d64c702d1a6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following hypnotic drugs acts for the longest duration?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "50e2cf2e-1bba-4383-9a8f-b21978ed59d2",
+          "text": "Temazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "6d289812-8584-4cec-8071-bfeb2c05a09e",
+          "text": "Triazolam",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c42fd36f-5913-4de0-87d7-e4316e53d9d0",
+          "text": "Zolpidem",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c76605ff-75ff-4380-b8b9-211c7609f872",
+          "text": "Zaleplon",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "84536d51-2cf7-4a18-9364-a1fe7858215e",
+          "text": "Nitrazepam",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "84536d51-2cf7-4a18-9364-a1fe7858215e",
+        "text": "Nitrazepam"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "84536d51-2cf7-4a18-9364-a1fe7858215e",
+          "text": "Nitrazepam",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Nitrazepam is a benzodiazepine compound with sedative properties. The half-life is on average 24 hours. In elderly patients the volume of distribution is greater, and the mean elimination half-life rises to 40 hours.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": "44df5e97-5e9f-4fb8-a8a6-afd4698ae1ab",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A clear therapeutic window is noted for which of the following?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "09482328-0ee9-43ba-9e43-9753ff9cad44",
+          "text": "Nortriptyline",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "2c86d3ee-8dcb-4513-8b6a-31900b523e82",
+          "text": "Amitriptyline",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "fc00346c-7834-40d0-8a04-b43b29b59457",
+          "text": "Carbamazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "47374b91-3080-46b3-8cd2-cc5b31b8c5c9",
+          "text": "Fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "bbfe68f0-192f-4e8d-a5fe-5ebcd462ed6f",
+          "text": "Clozapine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "09482328-0ee9-43ba-9e43-9753ff9cad44",
+        "text": "Nortriptyline"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "09482328-0ee9-43ba-9e43-9753ff9cad44",
+          "text": "Nortriptyline",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Although blood levels are available for many antidepressants; those for imipramine, desipramine, and nortriptyline have been best established. Imipramine and desipramine appear to have a curvilinear dose-response curve with an optimal range of 150 to 300 ng/mL. Nortriptyline appears to have a therapeutic window in the range of 50 to 150 ng/mL, usually reached by doses ranging from 50-100mg/day. Note that in clinical practice, therapeutic drug monitoring for nortriptyline is rarely used and of dubious benefit. If toxicity is suspected, ECG is the best investigation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": "800ce3b6-85b1-4b7a-92e4-3ba881cabfd5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "When plotting plasma concentration against time, the area under the curve after a single dose allows determination of the",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "28d0a5c0-dc28-40ca-9b51-b594e28684f4",
+          "text": "Plasma half-life (t-1/2)",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "59e6e8dc-405f-4ccf-bef0-a6e006d31332",
+          "text": "Metabolism",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "dece3264-4832-4091-b910-bc6c4e56ff25",
+          "text": "Elimination",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d2e09893-667a-4b50-9bf0-4c410ea39646",
+          "text": "Distribution",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e243331c-c7d0-4a0b-b2af-b878c3b5c43e",
+          "text": "Bioavailability of the drug",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "e243331c-c7d0-4a0b-b2af-b878c3b5c43e",
+        "text": "Bioavailability of the drug"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "e243331c-c7d0-4a0b-b2af-b878c3b5c43e",
+          "text": "Bioavailability of the drug",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The area under the curve (AUC) is proportional to the amount of drug in plasma and allows determination of fraction of dose absorbed (i.e. bioavailability of the drug). Low bioavailability usually means high first pass metabolism. T-1/2 is the time taken for the plasma concentration to fall by a half. It only applies for drugs with first order kinetics.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": "bdadcdb7-a516-4623-8296-02865f296c27",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following drugs is excreted unchanged almost completely via the renal route?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0800e6d6-bd79-4883-993b-e151cc41d03a",
+          "text": "Olanzapine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f466e6ed-c439-423a-ae36-5edf4af1029e",
+          "text": "Lithium",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "669a067a-829e-44f3-91e8-dc7c0af57b38",
+          "text": "Quetiapine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "bb325c4f-e06e-4950-9e8e-bc07e97a68fd",
+          "text": "Amisulpride",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "9095d019-ef2b-4957-afde-45b495ea9c9c",
+          "text": "Carbamazepine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "f466e6ed-c439-423a-ae36-5edf4af1029e",
+        "text": "Lithium"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "f466e6ed-c439-423a-ae36-5edf4af1029e",
+          "text": "Lithium",
+          "is_correct": true
+        }
+      ],
+      "explanation": "95% of lithium is excreted unchanged in the urine. Amisulpride is primarily renally excreted, but only 50% is excreted unchanged in the urine.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": "18c43495-64b6-41a2-a036-1e57a6676d0b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Advantages of buspirone over benzodiazepines when used for anxiety include all of the following except",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b3819f74-f61e-4efe-8564-54a5dae0383e",
+          "text": "Buspirone causes no dependence",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "dd57d8b3-0273-4547-9db3-4dbcf001b458",
+          "text": "Buspirone can be given once daily",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "d7137d28-b39f-4a78-a409-f75ef6301b24",
+          "text": "Buspirone can be withdrawn more easily",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a054b943-bd38-477d-8c6d-08edb9937a09",
+          "text": "Buspirone has no street value",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e6f73d3d-851a-4b23-80f9-86224c7820a7",
+          "text": "Buspirone causes no tolerance usually",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "dd57d8b3-0273-4547-9db3-4dbcf001b458",
+        "text": "Buspirone can be given once daily"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "dd57d8b3-0273-4547-9db3-4dbcf001b458",
+          "text": "Buspirone can be given once daily",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Because of its short half-life (2-11 hours), buspirone is dosed three times daily. Buspirone does not cause discontinuation/withdrawal symptoms.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": "64ac4659-20ed-4003-b0da-af0d426a2b51",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following can be given as a loading dose in acute mania?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "57910f25-49b3-472b-9f78-dc148d4ccb14",
+          "text": "Lithium",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "434bcbc9-e509-4636-bf3a-a1a2a7e9fb45",
+          "text": "Clozapine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "352922cb-9b2c-42a0-b9db-38d493fbec04",
+          "text": "Valproate",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "df80f11b-4971-4cef-ae8d-e5bd3377f532",
+          "text": "Olanzapine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "73af0bd5-87b6-422f-ab12-3cd2c4a179f4",
+          "text": "Clonazepam",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "352922cb-9b2c-42a0-b9db-38d493fbec04",
+        "text": "Valproate"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "352922cb-9b2c-42a0-b9db-38d493fbec04",
+          "text": "Valproate",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Loading doses can be used with valproate. Achieving therapeutic plasma levels of valproate rapidly using a loading dose regimen is generally well tolerated.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": "a376d4b5-9937-4094-b09d-efac5eadaa07",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is not altered much when considering pharmacokinetics in the elderly?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3aa7e24a-1e0a-4998-afb5-e3f72dcf8fac",
+          "text": "Total body fat",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "6ef21afc-ef2b-42cc-9c77-0b06f894c84f",
+          "text": "Renal clearance",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "131766dc-d8c9-490a-a486-ddb28ed02544",
+          "text": "Plasma protein binding",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "cdc168de-75a7-4f2c-a70a-4982cfe8522f",
+          "text": "Amount of GI absorption",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "64140896-334f-495d-b38c-8aefffc4bd68",
+          "text": "Gastric pH",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "cdc168de-75a7-4f2c-a70a-4982cfe8522f",
+        "text": "Amount of GI absorption"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "cdc168de-75a7-4f2c-a70a-4982cfe8522f",
+          "text": "Amount of GI absorption",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Absorption Reductions in gastric pH, mesenteric blood flow, and gut mobility Same amount of drug is absorbed, but there is reduced rate of absorption Drug metabolism Decreased blood flow to liver Loss of efficiency of liver microsomes Reduced metabolism Distribution of drugs Reduced body mass with proportionally increased body fat Reduced body water Lower albumin Increased levels of free drug and longer half-lives Excretion Drop in renal clearance Drug effects prolonged and cumulative High risk of toxicity Reduced excretion",
+      "explanation_images": [
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/10.%20pharmacokinetics/31/explanation_image-a376d4b5-9937-4094-b09d-efac5eadaa07-1788624459861.jpeg"
+      ],
+      "explanation_image_url": "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/10.%20pharmacokinetics/31/explanation_image-a376d4b5-9937-4094-b09d-efac5eadaa07-1788624459861.jpeg"
+    },
+    {
+      "question_number": 32,
+      "question_id": "7f3a82d3-08fa-49f9-af7f-22e236a53680",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The drug of choice for alcohol detoxification in a patient with liver disease is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "cfb75def-0d3e-44d1-9759-64283e0b1192",
+          "text": "Chlordiazepoxide",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "56f915e9-40e4-4091-bc55-e9e34fa4a352",
+          "text": "Diazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "07399187-3333-4319-a108-a6b4ae75af42",
+          "text": "Carbamazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f68baa91-533e-4d07-a49c-16eaa639e33f",
+          "text": "Chlormethiazole",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f8897bde-50de-48be-82c0-9a2e7c3b3528",
+          "text": "Oxazepam",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "f8897bde-50de-48be-82c0-9a2e7c3b3528",
+        "text": "Oxazepam"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "f8897bde-50de-48be-82c0-9a2e7c3b3528",
+          "text": "Oxazepam",
+          "is_correct": true
+        }
+      ],
+      "explanation": "When managing alcohol withdrawal, a short-acting benzodiazepine such as oxazepam or lorazepam may be used in individuals with impaired liver function. Oxazepam has a lesser propensity to accumulate and cause adverse reactions in the elderly or people with hepatic impairment. As it does not require hepatic oxidation, and is entirely metabolized via glucuronidation, it is a safer choice if benzodiazepines are required in those with liver failure.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": "4dfb8880-01f8-4263-a2c5-ba90c034b292",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is incorrect with respect to the pharmacokinetic properties of diazepam?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0dd10d10-cef1-442b-94af-af58cd64cf95",
+          "text": "The peak concentration is achieved within 30-90 minutes after single dose",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b64e20e3-f01f-4c52-90af-bfc919d7a50c",
+          "text": "The protein binding ratio is 30-40%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "9b4cd399-43b4-409d-99b8-0d8ca6853edb",
+          "text": "Bioavailability is almost complete with the oral dose",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f59099d3-f12a-4d11-b76c-e72c30abbfc7",
+          "text": "Desmethyldiazepam is the active phase 1 metabolite",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fda9d5be-2207-4f4d-9db4-f14a9c6e4558",
+          "text": "The rate of absorption is rapid",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "b64e20e3-f01f-4c52-90af-bfc919d7a50c",
+        "text": "The protein binding ratio is 30-40%"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "b64e20e3-f01f-4c52-90af-bfc919d7a50c",
+          "text": "The protein binding ratio is 30-40%",
+          "is_correct": true
+        }
+      ],
+      "explanation": "All benzodiazepines except chlorazepate are completely absorbed after oral administration and reach peak serum levels within 30 minutes to 2 hours. The absorption, attainment of peak concentrations, and the onset of action are quickest for diazepam, lorazepam, alprazolam, triazolam, and estazolam. The amount of protein binding varies from 70 to 99 percent. Diazepam is oxidised to desmethyldiazepam, which, in turn, is hydroxylated to produce oxazepam. These products undergo glucuronidation to inactive metabolites.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": "58e5d44a-d093-43aa-bcb8-79d5a73f8a20",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The SSRI most selective for serotonin reuptake is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "821816c5-ba95-41ba-9e1b-7b2ab7460c4d",
+          "text": "Citalopram",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "1e331cb6-d5b7-42fb-97bf-403ac9847674",
+          "text": "Paroxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "75f8b99f-3cdf-44db-91bb-71244c1f8c49",
+          "text": "Sertraline",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f1788a82-8ddc-436b-9be7-803d71288ee8",
+          "text": "Duloxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "5ac5d495-3081-41e5-8a0e-d20b62467671",
+          "text": "Fluoxetine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "821816c5-ba95-41ba-9e1b-7b2ab7460c4d",
+        "text": "Citalopram"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "821816c5-ba95-41ba-9e1b-7b2ab7460c4d",
+          "text": "Citalopram",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Amongst the SSRIs, citalopram and escitalopram are the most selective inhibitors of serotonin reuptake, with very little inhibition of norepinephrine or dopamine reuptake and very low affinities for histamine H1, GABA, or benzodiazepine receptors.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": "26535125-f5cc-463c-8f0a-21904f330619",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The active metabolite of imipramine is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "645731a0-ca95-4466-b511-de28d784c79a",
+          "text": "Lofepramine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a99198cf-72e3-4210-8048-8ae428f48962",
+          "text": "mcPP",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "03e08af4-a330-4cc5-acb6-066de70e2ea0",
+          "text": "Desipramine",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "8192fa6c-339a-47af-919b-1e23051dae09",
+          "text": "Nortriptyline",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "308bf907-7234-41e6-813e-5e01cecdd5de",
+          "text": "Amitriptyline",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "03e08af4-a330-4cc5-acb6-066de70e2ea0",
+        "text": "Desipramine"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "03e08af4-a330-4cc5-acb6-066de70e2ea0",
+          "text": "Desipramine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Imipramine is metabolised by CYP2C19 to desipramine, which is also a tricyclic antidepressant with distinct clinical features that differ from imipramine. Desipramine is then metabolised by CYP2D6 to the less active hydroxy-imipramine. The active metabolite of amitriptyline is nortriptyline.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": "ee31ef42-91b3-4cf8-9d50-8157003f70d8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Regarding the pharmacokinetics of Lithium which one of the following statements in not true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "801dfca5-b3a1-4eea-bb7a-6b194a9c65a2",
+          "text": "It passes freely through the glomerular membrane independent of serum concentration",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "01a8c6be-9f1f-4d85-9c97-9a6b07673592",
+          "text": "Lithium has a wide therapeutic range",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "71c162ca-a19c-4714-8175-c768da50b466",
+          "text": "It is not bound to serum proteins",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "1796370b-1292-4a61-9c81-acaab428d5cb",
+          "text": "Lithium renal clearance is reduced when sodium is depleted",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d811ec62-0f88-4db5-b6b7-d3a041f9b444",
+          "text": "The half-life of lithium lies between 10 and 24 hours",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "01a8c6be-9f1f-4d85-9c97-9a6b07673592",
+        "text": "Lithium has a wide therapeutic range"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "01a8c6be-9f1f-4d85-9c97-9a6b07673592",
+          "text": "Lithium has a wide therapeutic range",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Lithium has a narrow therapeutic range, i.e., when compared with other drugs, there is a narrow gap between the minimum blood level (0.4 m mol/L) required for therapeutic efficacy and the maximum level (1.5 m mol/L) beyond which toxicity may ensue.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": "cadf282e-06de-4487-9e2a-2dcf1f8b64e6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A drug follows first order kinetics and has a t1/2 of 4 hours. In a healthy male how long will it take for this drug to reach steady state assuming no loading dose is given, and the drug is administered at equal intervals regularly?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f97996cd-6100-4a3a-a11a-6b165654a4ff",
+          "text": "10 hours",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "1f2e244d-6775-40ee-af53-78e4cf0c946a",
+          "text": "2 hours",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "81f47007-ec50-4eb4-8d72-004979a9bac4",
+          "text": "4 hours",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0db79fb1-d9e5-4957-8f59-6428141ece40",
+          "text": "20 hours",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "9edf8a37-16c0-473a-8e99-ab872164af3b",
+          "text": "1 hour",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "0db79fb1-d9e5-4957-8f59-6428141ece40",
+        "text": "20 hours"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "0db79fb1-d9e5-4957-8f59-6428141ece40",
+          "text": "20 hours",
+          "is_correct": true
+        }
+      ],
+      "explanation": "It is estimated that it takes 4-5 t ½ for a drug to reach the steady plasma level.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": "b44271a0-85ed-40e0-ab38-ef69a2b8fbc2",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 30-year-old is on combined oral contraceptive pill. The risk of becoming pregnant is increased by all except",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "afe24bc3-86df-41d9-becf-21507fcedc07",
+          "text": "Venlafaxine",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "d103339b-2434-427e-bd97-a7f970cbd4e4",
+          "text": "Topiramate",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9cb49240-25aa-436a-8f47-43ca8762d474",
+          "text": "St John's wort",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "90b491ed-ef52-4c16-8ee1-48097d273a64",
+          "text": "Carbamazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "74a2498c-eeba-4cea-8817-5ec0f554807c",
+          "text": "Phenytoin",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "afe24bc3-86df-41d9-becf-21507fcedc07",
+        "text": "Venlafaxine"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "afe24bc3-86df-41d9-becf-21507fcedc07",
+          "text": "Venlafaxine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Psychiatric drugs that are CYP3A4 inducers (e.g. carbamazepine, St John's Wort, phenytoin, topiramate) reduce the bioavailability and hence contraceptive efficacy of combined hormonal contraceptives, the progesterone-only pill, and the subdermal implant both during use and for up to 28 days after stopping enzyme-inducer treatment. Thus, patients on enzyme inducers should be encouraged to use intrauterine contraception or injectables.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": "2eb0e3fb-30e1-43f5-850b-06579dd2fafc",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following undergoes metabolism predominantly by first order kinetics?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "ab59160d-cda7-466a-85f7-ed803603f62f",
+          "text": "Phenytoin",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "0fb8cfdf-4933-4c48-b32d-23ec3da5c251",
+          "text": "Depot antipsychotics",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "bc3a32b4-30f2-41c6-9289-353fd3b4236f",
+          "text": "Venlafaxine XL",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ba0ddf7b-03b8-4f6f-a97b-c808bb5a030e",
+          "text": "Alcohol",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a534cb72-d0f3-4abf-acbd-3575f09ac24f",
+          "text": "Thioridazine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "a534cb72-d0f3-4abf-acbd-3575f09ac24f",
+        "text": "Thioridazine"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "a534cb72-d0f3-4abf-acbd-3575f09ac24f",
+          "text": "Thioridazine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Elimination of a constant quantity per time unit of the drug quantity present in the organism is called zero order kinetics. 95% of the drugs in use at therapeutic concentrations are eliminated by first-order elimination kinetics. A few substances are eliminated by zero-order elimination kinetics because their elimination process is saturated, especially at higher doses. Examples are Ethanol, Phenytoin, high dose Salicylates, high dose Fluoxetine, high dose Omeprazole. Because in a saturated process the elimination rate is no longer proportional to the drug concentration but decreasing at higher concentrations, zero-order kinetics are also called 'non-linear kinetics' in clinical pharmacology. The absorption rate constant is slower than the elimination rate constant and, therefore, the depot antipsychotics exhibit 'flip-flop' kinetics where the time to steady-state is a function of the absorption rate, and the concentration at steady-state is a function of the elimination rate. ( Elimination kinetics - UNIL, http://sepia.unil.ch/pharmacology/index.php?id=94 (accessed April 11, 2015).)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": "5d92c016-1a49-4f83-93b6-d4d5f3c1a262",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Drug B is a prodrug whose metabolite is an active hypnotic agent. If drug A induces the metabolism of drug B, which of the following is true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "34f28bce-32c1-4f27-b7e5-72333335617f",
+          "text": "Effects of drug B are more pronounced",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "6c38fe75-bc36-4dce-b869-fa15cdd9dc4e",
+          "text": "No change occurs in drug effect",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d76dfb88-5038-435a-9f50-e5f309f1aa8b",
+          "text": "Effect of drug A will increase",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "2b20fb57-e817-4fe8-8cb8-9fa15ae243dd",
+          "text": "Hypnotic effect is lost",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "8260d6c4-3cf0-434c-a0db-de5d40555c83",
+          "text": "Level of drug B's metabolite falls in blood",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "34f28bce-32c1-4f27-b7e5-72333335617f",
+        "text": "Effects of drug B are more pronounced"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "34f28bce-32c1-4f27-b7e5-72333335617f",
+          "text": "Effects of drug B are more pronounced",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Prodrug's metabolism is increased. It will undergo more metabolism increasing the level of the active metabolite; drug B's effect will be more pronounced.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": "5b3f1c4d-5958-489b-89f5-71f7ed53350a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is an enzyme inducer?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6cc806c0-5f99-46d2-b549-d9d468434b11",
+          "text": "Caffeine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "835aa9d7-1523-432d-9f32-98b131f7a429",
+          "text": "Smoking",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "72b0539a-177e-4f08-a260-fa023616a23d",
+          "text": "Grapefruit juice",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "945cd2d8-5ae5-4618-9f31-fc0538c64cb7",
+          "text": "Paroxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "bb652b3d-1e67-445c-84a8-c2214a312d7b",
+          "text": "Valproate",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "835aa9d7-1523-432d-9f32-98b131f7a429",
+        "text": "Smoking"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "835aa9d7-1523-432d-9f32-98b131f7a429",
+          "text": "Smoking",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Tobacco smoke contains polycyclic aromatic hydrocarbons that induce (increase the activity of) certain hepatic enzymes (CYP1A2 in particular). The extent of enzyme induction is determined by the number and type of cigarettes smoked and the degree of smoke inhalation. For some drugs used in psychiatry, smoking significantly reduces drug plasma levels and higher doses are required than in non-smokers. Smoking may also affect alcohol metabolism by inducing CYP2E1.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": "ad12d119-2599-4cf9-8953-2aca3b884ee9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following drugs has a metabolite that has the longest half-life?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "ee9cb432-b5d0-48ca-9c1e-77d9fb07260f",
+          "text": "Fluoxetine",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "ca40cdcc-7407-4673-ae11-7e4d65107ac1",
+          "text": "Duloxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7c8d2d0b-8f26-4975-a0a2-a31e3a4cfe21",
+          "text": "Venlafaxine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6ee38be9-42d9-4c6b-bea7-8e772035cefa",
+          "text": "Paroxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e5e1ea57-6327-46fd-ab79-b858435e0e94",
+          "text": "Citalopram",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "ee9cb432-b5d0-48ca-9c1e-77d9fb07260f",
+        "text": "Fluoxetine"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "ee9cb432-b5d0-48ca-9c1e-77d9fb07260f",
+          "text": "Fluoxetine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Fluoxetine has a long half-life (2-3 days) and its active metabolite (norfluoxetine) an even longer half-life (2 weeks). Fluoxetine has a long half-life when compared with other SSRIs.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": "226fa525-b909-4662-a718-2bf63fb40912",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The ratio between minimum plasma level causing toxic effect to minimum plasma level causing therapeutic effect is called",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3fb079cc-0718-464f-abb4-211d8edb7a5b",
+          "text": "Toxic dose",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "64e03de9-22f5-4ea1-9125-27764779bc0a",
+          "text": "Therapeutic index",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "ab5893ef-d8dd-49e8-bf51-bdbf7ced3c43",
+          "text": "Volume of distribution",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "500f333c-2478-44d7-a17a-73af76249cff",
+          "text": "Affinity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fd58c7b4-dfc9-450b-bdd5-c016cb892d6a",
+          "text": "Potency",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "64e03de9-22f5-4ea1-9125-27764779bc0a",
+        "text": "Therapeutic index"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "64e03de9-22f5-4ea1-9125-27764779bc0a",
+          "text": "Therapeutic index",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Some drugs have a narrow therapeutic index (a small increase in dose can cause toxicity and a small reduction in dose can cause a loss of therapeutic actions). The most commonly prescribed ones are digoxin, warfarin, theophylline, phenytoin, and lithium.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 44,
+      "question_id": "d9cd4087-9084-4cf6-a8da-0270b250e308",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following is a potent hepatic enzyme inducer?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "05be86ea-91a4-45d2-9641-28ad796adb6b",
+          "text": "Gabapentin",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e109c2be-6f46-4f6e-8244-81397fcc8557",
+          "text": "Carbamazepine",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "676ac309-8193-4ef4-9da1-879ed5a2c44f",
+          "text": "Lamotrigine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c46721e3-d620-42d7-ab5b-e3a46efdd1c9",
+          "text": "Valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c870d933-04b7-4093-93dc-32521ebb2d83",
+          "text": "Lithium",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "e109c2be-6f46-4f6e-8244-81397fcc8557",
+        "text": "Carbamazepine"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "e109c2be-6f46-4f6e-8244-81397fcc8557",
+          "text": "Carbamazepine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Carbamazepine is a potent inducer of hepatic cytochrome enzymes and is metabolised by CYP3A4. Plasma levels of most antidepressants, most antipsychotics, benzodiazepines, warfarin, zolpidem, some cholinesterase inhibitors, methadone, thyroxine, theophylline, oestrogens, and other steroids may be reduced by carbamazepine. Valproate is hepatically metabolised; drugs that inhibit CYP enzymes can increase valproate levels (e.g. erythromycin, fluoxetine, and cimetidine).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 45,
+      "question_id": "f11bc3d2-b6ad-470f-b05e-0b7f637f7b63",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following is preferable to be used in the elderly than other tricyclic antidepressants?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "08bc50fc-fceb-4dc5-bd60-af1ecdbc14ee",
+          "text": "Imipramine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "440ab72a-a0c4-477f-a64f-b787257a2707",
+          "text": "Dothiepin",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2df47b86-ed0e-4a4a-9848-d880793a1b3e",
+          "text": "Trimipramine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "1b9c45ce-5029-4a39-8abb-097aa5ff4ae3",
+          "text": "Amitriptyline",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b35b31fe-93b1-4afe-aa34-be4c42851364",
+          "text": "Lofepramine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "b35b31fe-93b1-4afe-aa34-be4c42851364",
+        "text": "Lofepramine"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "b35b31fe-93b1-4afe-aa34-be4c42851364",
+          "text": "Lofepramine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Lofepramine and nortriptyline are the least sedative TCAs. Lofepramine has moderate anticholinergic effects, although constipation/sweating can be severe. Postural hypotension can be a problem, but lofepramine is the least likely TCA to cause it. Lofepramine is relatively safe in overdose and is the TCA that is the least likely to cause cardiac conduction disturbance.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 46,
+      "question_id": "b4af25dc-1a31-4590-a8dd-3c1a5c71502b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following types of drug molecules is most efficiently absorbed?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d9625527-6042-4bfe-b274-69a2e9a7a3ef",
+          "text": "Small, water soluble electrically neutral molecules",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "6e40c573-9ea7-435b-b860-40fdd3cf439d",
+          "text": "Small, water soluble electrically charged molecules",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7e0a8380-030e-414b-b846-f9544ea151f0",
+          "text": "Large, water soluble electrically neutral molecules",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "40f3f308-34f0-4e2a-9e2a-46adccde9bf1",
+          "text": "Small, lipid soluble electrically neutral molecules",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "16e25390-7caf-4e48-8768-0621995ab691",
+          "text": "Large, lipid soluble electrically neutral molecules",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "40f3f308-34f0-4e2a-9e2a-46adccde9bf1",
+        "text": "Small, lipid soluble electrically neutral molecules"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "40f3f308-34f0-4e2a-9e2a-46adccde9bf1",
+          "text": "Small, lipid soluble electrically neutral molecules",
+          "is_correct": true
+        }
+      ],
+      "explanation": "To achieve a therapeutic effect most drugs need to cross at least one lipid membrane. This will depend on the size and shape of the molecule, lipid solubility and ionic charge. The blood-brain barrier only allows lipid-soluble molecules in the brain",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 47,
+      "question_id": "1c9b7dcc-c51a-48c1-b146-35a38a2b7ce3",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The metabolism of which one among the following follow first order kinetics?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f1cdd25a-ca27-46e7-9fbd-2c33ec0e8449",
+          "text": "Alcohol",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "1a4de179-e8fa-4b8a-baaf-58296c0794af",
+          "text": "Oral Antipsychotic",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "3bffdab0-101f-4612-98a3-e202a72b9e50",
+          "text": "Depot antipsychotic",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "3f6495f0-d495-49aa-9d83-7f55f635387c",
+          "text": "Absorption of controlled release drugs",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "5f6a6789-c4fa-48e0-8377-fca4edb983f4",
+          "text": "Phenytoin",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "1a4de179-e8fa-4b8a-baaf-58296c0794af",
+        "text": "Oral Antipsychotic"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "1a4de179-e8fa-4b8a-baaf-58296c0794af",
+          "text": "Oral Antipsychotic",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Most drugs show first order kinetics where the rate of absorption or elimination is directly proportional to the amount of drug remaining. The concentration of a drug in the plasma will normally follow first order kinetics, decreasing in an exponential manner related to plasma concentration. However, drugs like ethanol and Phenytoin are metabolised by zero order kinetics, their concentration decreasing in a linear fashion i.e., at a constant rate irrespective of plasma concentration. With zero-order kinetics, a fixed amount of drug is absorbed each time independent of drug concentrations and hence a small increase in drug ingestion results in a large increase in plasma concentration. Absorption of controlled release drugs and depot antipsychotics also follow zero-order kinetics.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 48,
+      "question_id": "ddfe2fae-860e-49e9-ab30-9d2227c06ecc",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following medications has the least protein-binding?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6c65de46-cf1e-4002-9813-1ba84b261344",
+          "text": "venlafaxine",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "7437c29a-11c6-4de3-94da-9b39eea0569f",
+          "text": "paroxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c5b84ac3-e596-4630-af5e-a78f29298a32",
+          "text": "valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ab2b4f69-5d26-4231-ae4a-8e71450df552",
+          "text": "clomipramine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "adc931f9-b21e-4769-b412-813ab64ed134",
+          "text": "fluoxetine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "6c65de46-cf1e-4002-9813-1ba84b261344",
+        "text": "venlafaxine"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "6c65de46-cf1e-4002-9813-1ba84b261344",
+          "text": "venlafaxine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Venlafaxine, a phenylethylamine, is a relatively weak serotonin (5-HT) and weaker norepinephrine (NE) reuptake inhibitor with a 30-fold difference in binding of the two transporters. It has a clear dose progression, with low doses predominantly binding to the 5-HT transporter and more binding of the NE transporter as the dose ascends. Venlafaxine is metabolised to the active metabolite O-desmethylvenlafaxine (ODV; desvenlafaxine) by CYP2D6. Both venlafaxine and ODV have low protein binding (27% and 30% respectively).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 49,
+      "question_id": "0d77ead2-8630-49d5-b79c-605340b7f7c7",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "There is poor oral absorption of most psychotropics in which of the following parts of the gastrointestinal system?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0537dc61-0a21-4204-802a-12127fcc86c7",
+          "text": "Ileum",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "01e062dd-b763-4288-82d1-51505a560c6d",
+          "text": "Stomach",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "f98cc18b-da46-497f-b9ff-2c5bce75aaa5",
+          "text": "Jejunum",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8f428bfc-e4ab-4b17-adf8-ad4b6809c558",
+          "text": "Colon",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "474bf0ab-3a73-48eb-ba5b-4feed6725a06",
+          "text": "Rectum",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "01e062dd-b763-4288-82d1-51505a560c6d",
+        "text": "Stomach"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "01e062dd-b763-4288-82d1-51505a560c6d",
+          "text": "Stomach",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The GI tract begins at the mouth, includes the esophagus, stomach, small intestine, large intestine (also known as the colon), and rectum, and ends at the anus. Generally, absorption from the stomach is minor compared to the intestine because of the gastric epithelial barrier preventing diffusion, the relatively small available surface area, and the negligible expression of nutrient (uptake) transport proteins. The small intestine (duodenum, jejunum, and upper region of ileum) is the major and most efficient site for absorption of most drugs. The colonic absorption of drugs can differ significantly from absorption in the small intestine as a consequence of several physiological, physiochemical, and biopharmaceutical factors. Interest has developed in directing drugs and dosage forms to effect primary drug release to the colon. Targeted distribution of an orally administered drug at the large intestine confers therapeutic treatment of colonic diseases, peptide and protein therapy, and chronotherapy.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 50,
+      "question_id": "a8f2b22c-294e-43bb-b986-e2d95c323309",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following enzymes are responsible for oxidative metabolism of most psychotropic drugs?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d0c297ec-fa46-4b36-998d-6388362f0fb4",
+          "text": "Cytochrome P450 family",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "c4f355d6-a54f-4444-85a6-81fad8c8b023",
+          "text": "Glycoprotein P",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "e20872f0-1f07-4539-9bd6-2aabe1932a95",
+          "text": "Aryl Sulfatase",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8e7d8d29-bad8-42e9-a6c0-2c1164424dec",
+          "text": "Monoamine Oxidase",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f11e3d2d-cdc3-4385-9e14-b3086f5b833e",
+          "text": "G Protein",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "d0c297ec-fa46-4b36-998d-6388362f0fb4",
+        "text": "Cytochrome P450 family"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "d0c297ec-fa46-4b36-998d-6388362f0fb4",
+          "text": "Cytochrome P450 family",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The cytochrome P450 (CYP450) enzyme system mediates how the body metabolises many drugs, including antipsychotics. The CYP450 enzyme in the gut wall or liver converts the drug into a biotransformed product in the bloodstream. After passing through the gut wall and liver, the drug will exist partly as unchanged drug and partly as biotransformed drug.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 51,
+      "question_id": "9316c353-30d7-4c4a-9a19-d43dda0b90c4",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Valproate levels are decreased by",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "23deaace-d8d3-4b06-bbb9-6642507cb9ab",
+          "text": "Lithium",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "af40b4df-afce-4a38-a4ac-223189522e41",
+          "text": "Cimetidine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "0cb1d1b8-be8a-401a-ae45-26de2987421e",
+          "text": "Erythromycin",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a5c9265d-d07e-4c48-b984-374fb333e6bb",
+          "text": "Carbamazepine",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "d56d6dce-1915-4544-9545-21dd4ba92960",
+          "text": "Fluoxetine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "a5c9265d-d07e-4c48-b984-374fb333e6bb",
+        "text": "Carbamazepine"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "a5c9265d-d07e-4c48-b984-374fb333e6bb",
+          "text": "Carbamazepine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Carbamazepine is a potent inducer of hepatic cytochrome enzymes and is metabolised by CYP3A4. Plasma levels of most antidepressants, most antipsychotics, benzodiazepines, warfarin, zolpidem, some cholinesterase inhibitors, methadone, thyroxine, theophylline, oestrogens, and other steroids, as well as valproate, may be reduced by carbamazepine.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 52,
+      "question_id": "80c3d289-7fcd-458a-a1d2-1b42b07ed96f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The enhancement of drug effects following the repeated administration of the same dose of a drug is called",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "cf5d9997-f7ce-4739-9c66-7806aedb4425",
+          "text": "Tolerance",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "37c650af-a5ec-4a81-9f3a-10aaf35cb202",
+          "text": "Neuroadaptation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d40651d8-8e5b-4bbf-b661-a8a87cd8f4f3",
+          "text": "Habituation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ae218e23-e5f2-41de-9f21-618fe22f8011",
+          "text": "Sensitisation",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "566eac2e-3ef5-4d07-9d25-0add64275040",
+          "text": "Cross Tolerance",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "ae218e23-e5f2-41de-9f21-618fe22f8011",
+        "text": "Sensitisation"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "ae218e23-e5f2-41de-9f21-618fe22f8011",
+          "text": "Sensitisation",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Tolerance refers to the diminished response to the administration of a drug after repeated exposure. It may be behavioural tolerance through learning to cope with the effects, increased metabolism, reduced receptor sensitivity or number, activation of a homeostatic mechanism. Cross-tolerance refers to shared tolerance among drugs with similar chemical structure. Cross-tolerance forms the basis for a number of drug interactions (E.g. alcohol with barbiturates). Sensitisation refers to the enhancement of drug effects following the repeated administration of the same dose of the drug. Drug sensitization occurs in drug addiction and is the physiological opposite of drug tolerance.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 53,
+      "question_id": "34d07d5a-4976-4a33-a214-0e0ef2059a93",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following statements is true with respect to the interaction of fluoxetine with other drugs?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "74af3ebd-6c78-4882-a011-bb5141e65761",
+          "text": "Fluoxetine reduces the effects of propranalol",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2aa54ea9-7a99-442b-a0aa-55f7521948d5",
+          "text": "Fluoxetine reduces the plasma concentration of carbamazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d5e62b13-9d1f-48ab-b64f-51361abd1e46",
+          "text": "Fluoxetine reduces the concentration of haloperidol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "de69ef8c-d09a-4c85-95dc-1af8ae0cd77f",
+          "text": "Fluoxetine enhances the effects of oral anticoagulants",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "fe00932b-4cf6-4f02-9b2b-b57034fc0a90",
+          "text": "Fluoxetine reduces the plasma concentration of phenytoin",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "de69ef8c-d09a-4c85-95dc-1af8ae0cd77f",
+        "text": "Fluoxetine enhances the effects of oral anticoagulants"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "de69ef8c-d09a-4c85-95dc-1af8ae0cd77f",
+          "text": "Fluoxetine enhances the effects of oral anticoagulants",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Fluoxetine inhibits CYP450 2D6 and 3A4. Fluoxetine may displace high protein-bound drugs (e.g. warfarin). There is a possible risk of increased bleeding with fluoxetine, especially when combined with anticoagulants (eg. warfarin, NSAIDs). Via CYP 450 2D6 inhibition, fluoxetine can increase the plasma levels of some beta blockers. Fluoxetine increases concentration of haloperidol, carbamazepine and phenytoin.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 54,
+      "question_id": "67310d2a-9913-487c-87e8-f499e88a6c90",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is true concerning tricyclic metabolism?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d14e63b8-fc56-406d-81c4-2ffbb4f8f9c2",
+          "text": "Elderly clear more tricyclics than adults",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "316e672a-280a-40ff-960b-2b0a5c4993b9",
+          "text": "Adolescents clear more tricyclics than adults",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "3735ea65-f555-4ece-8523-3d2c3f3ab4d4",
+          "text": "None of the drugs need plasma monitoring",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a0a87f6a-3883-4216-85a8-12f849ecdae7",
+          "text": "Metabolism is not affected by CYP enzyme polymorphisms",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b192e7e6-49b6-48dd-9ef9-492fb3eb4036",
+          "text": "They do not interact with chlorpromazine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "316e672a-280a-40ff-960b-2b0a5c4993b9",
+        "text": "Adolescents clear more tricyclics than adults"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "316e672a-280a-40ff-960b-2b0a5c4993b9",
+          "text": "Adolescents clear more tricyclics than adults",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Tricyclic antidepressants are not effective in prepubertal children but may have marginal efficacy in adolescents with depression. Due to more extensive metabolism, young people require higher mg/kg doses than adults.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 55,
+      "question_id": "34c1b762-572c-4b03-a983-b0c5d4719074",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What is the volume of distribution of drug A if the plasma concentration immediately after IV administration of 10mg is 0.01mg/mL?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "222d6147-7382-4bd1-9805-6068eeae3f3a",
+          "text": "100mL",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "45f007fb-b994-417f-884e-2efad9ed7cc5",
+          "text": "1000mL",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "1d2cdecd-cba4-45f0-8422-a45013a32777",
+          "text": "1 mL",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8026f451-1de9-4b66-87ff-8cea049f082c",
+          "text": "10mL",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c8d78947-a8f1-4a9a-8e2f-627a17910f51",
+          "text": "0.1mL",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "45f007fb-b994-417f-884e-2efad9ed7cc5",
+        "text": "1000mL"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "45f007fb-b994-417f-884e-2efad9ed7cc5",
+          "text": "1000mL",
+          "is_correct": true
+        }
+      ],
+      "explanation": "(Volume of distribution) Vd =Q/Cp, where Vd-volume of distribution, Q-quantity of drug and Cp-plasma concentration at time of administration ('zero time').",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 56,
+      "question_id": "64080ae1-d97c-41aa-8a05-f3878c9d87b0",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following should be considered when switching from one brand of medication to another brand?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "77c62af0-96c3-4f1e-9c51-5b9e7bf35986",
+          "text": "Rate of absorption",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "07d236f0-6774-41ad-b3be-fb650ec419e5",
+          "text": "Bioequivalence",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "cf2c0da4-f5fe-4e8b-86ba-6cdb908be1de",
+          "text": "Bioavailability",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e27855e6-a5ca-41f1-9130-c01033c78d1f",
+          "text": "Volume of distribution",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "50280665-0dea-4b45-830a-b0bcbd437a23",
+          "text": "Clearance",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "07d236f0-6774-41ad-b3be-fb650ec419e5",
+        "text": "Bioequivalence"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "07d236f0-6774-41ad-b3be-fb650ec419e5",
+          "text": "Bioequivalence",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Bioequivalence is important feature to be considered when changing from one brand to other brand of the same compound e.g. camcolit vs. priadel for lithium carbonate or Clozaril vs. zaponex for clozapine. It is a measure of comparability of plasma levels of two different formulations of the same active compound when given at same dose and same route of administration",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 57,
+      "question_id": "c42cf28a-1c5a-4fc7-bf54-45a768b455ce",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Most orally administered psychotropic drugs undergo hepatic metabolism followed by renal clearance. Which of the following statement about clearance is true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4ecb107c-7514-4485-acc8-b2f02a4ab317",
+          "text": "Clearance can occur only via urine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a172c105-7b30-4d8d-a6e4-1838ba00a5b5",
+          "text": "Clearance rate determines half life of a drug in the body",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "1044c0ca-9129-4552-aa92-1662a7b4b22c",
+          "text": "It is fixed for each individual with minor variations among drugs",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "30b93a68-ecdd-409a-ac9a-4f24caa521ed",
+          "text": "It is the amount of drug eliminated from the body in a given time",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "69ee59ca-65c9-4d0a-9641-928a7906ae1a",
+          "text": "It always depends on the dose consumed",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "a172c105-7b30-4d8d-a6e4-1838ba00a5b5",
+        "text": "Clearance rate determines half life of a drug in the body"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "a172c105-7b30-4d8d-a6e4-1838ba00a5b5",
+          "text": "Clearance rate determines half life of a drug in the body",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Clearance is defined as the volume of blood cleared of a particular drug in unit time. It is specific for each drug and does not depend on drug concentration in plasma (because if concentration increases, elimination will also increase under first order kinetics). It represents the relationship between the rate of drug elimination (t1/2) and plasma level. For drugs with first order kinetics, clearance is constant irrespective of dose consumed because the rate of elimination is directly proportional to plasma level. Total body clearance depends on renal and non-renal clearance such as sweat, bile etc.Renal elimination without significant liver breakdown is seen in lithium, amisulpride, sulpiride, gabapentin, acamprosate and amantadine.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 58,
+      "question_id": "3aabe5c1-a121-42a1-9a63-66c13584b06c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following atypical agents have the shortest half life?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "368af770-d04a-420d-9e0e-413e1a10bcf7",
+          "text": "Quetiapine",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "7739c987-d35c-4fcf-bb21-e40ae6022561",
+          "text": "Aripiprazole",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "43f6eb44-0d33-4fb4-8f12-337244adbdb3",
+          "text": "Olanzapine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "2c6a92ff-7d55-4bf1-8d1e-9786ec8fb0d8",
+          "text": "Clozapine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f36c0343-a92e-439a-b7f6-1f17db30a16b",
+          "text": "Risperidone",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "368af770-d04a-420d-9e0e-413e1a10bcf7",
+        "text": "Quetiapine"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "368af770-d04a-420d-9e0e-413e1a10bcf7",
+          "text": "Quetiapine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Quetiapine has a short half-life (about 7 hours), and optimal dosing is two or three times per day.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 59,
+      "question_id": "159d4461-b4f6-4caf-9368-58e36bbf9afb",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The SSRI with longest total half-life is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1b4b3e98-fb7c-4e0c-a67d-dd9ac9f59624",
+          "text": "Citalopram",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "74f2f4bd-6b13-454c-8b00-00525de401b5",
+          "text": "Fluoxetine",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "1ba40993-4663-49d1-bad3-4f197b4bd6ea",
+          "text": "Duloxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "abaaa96f-c6dc-4710-96e3-c827bc132917",
+          "text": "Sertraline",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "67b0ef4c-a2f1-43c9-bc1a-39f56b68335a",
+          "text": "Paroxetine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "74f2f4bd-6b13-454c-8b00-00525de401b5",
+        "text": "Fluoxetine"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "74f2f4bd-6b13-454c-8b00-00525de401b5",
+          "text": "Fluoxetine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Fluoxetine has a long half-life (2-3 days) and its active metabolite (norfluoxetine) an even longer half-life (2 weeks). Fluoxetine has a long half-life when compared with other SSRIs.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 60,
+      "question_id": "01c44299-a474-4956-b384-773092c91a65",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following drugs have a half-life of 3 days?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "30a0374b-f27d-476a-ab2d-35007533db61",
+          "text": "Quetiapine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5e876b67-7752-4c81-ac36-61280ed2aaad",
+          "text": "Reboxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "cb5b5af1-d232-4003-a1a1-4c32432ff1d2",
+          "text": "Aripiprazole",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "48300522-a80b-4208-84f3-3cd82eb78709",
+          "text": "Carbamazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "522a4246-5524-4df9-b07e-cc8cd3e316ef",
+          "text": "Fluoxetine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "cb5b5af1-d232-4003-a1a1-4c32432ff1d2",
+        "text": "Aripiprazole"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "cb5b5af1-d232-4003-a1a1-4c32432ff1d2",
+          "text": "Aripiprazole",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The mean elimination half-life of aripiprazole is about 75 hours. It has a weakly active metabolite with a half-life of 96 hours. These relatively long half-lives make aripiprazole suitable for once-daily dosing.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 61,
+      "question_id": "b191a3f8-a322-4d96-978c-8d12b854e504",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A newly developed antipsychotic is said to be highly permeable across lipid membranes and so achieve very high bioavailability when given orally. Which of the following properties of the drug enable this?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "10ed3c5a-36d5-41f6-a097-a4589806077d",
+          "text": "Balanced hydrophilic and lipophilic properties",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "2a341461-99c6-43ec-969b-726de12ae6e8",
+          "text": "Low concentration gradient across membranes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "279979ba-e155-474d-bd6a-bf2c94c4a3c6",
+          "text": "Low protein binding",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ea47a721-dc3a-4b76-9c2d-f0ac94cd97b6",
+          "text": "Exists in highly ionised form predominantly",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "3ca40f63-e3cc-4bd8-8ac9-a79887bdb5dc",
+          "text": "All of the listed options",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "10ed3c5a-36d5-41f6-a097-a4589806077d",
+        "text": "Balanced hydrophilic and lipophilic properties"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "10ed3c5a-36d5-41f6-a097-a4589806077d",
+          "text": "Balanced hydrophilic and lipophilic properties",
+          "is_correct": true
+        }
+      ],
+      "explanation": "If highly hydrophilic; the drug cannot cross the lipid cell membrane. On the other hand, if highly lipophilic, the drug is not soluble enough to cross the water layer adjacent to the cell.Balanced hydrophilic and lipophilic property is essential for high permeability.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 62,
+      "question_id": "78208a01-892b-4cda-96c5-766462e2cdc7",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following drugs has the least propensity to cause a withdrawal effect?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "fbfabc02-7b40-48ce-9932-f50e328f7e09",
+          "text": "Temazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e805e1eb-6881-4034-a8a5-0ca237ee30ab",
+          "text": "Zolpidem",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ac6ead90-f3ff-428d-9858-5be9fa5a44bd",
+          "text": "Buspirone",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "fc9a9c01-9443-48db-b054-1f59d4faa87d",
+          "text": "Zopiclone",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "3c5656ff-4736-4904-b474-1a42815fbc8a",
+          "text": "Zaleplon",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "ac6ead90-f3ff-428d-9858-5be9fa5a44bd",
+        "text": "Buspirone"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "ac6ead90-f3ff-428d-9858-5be9fa5a44bd",
+          "text": "Buspirone",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Buspirone does not cause discontinuation/withdrawal symptoms. Because it does not act on the GABA-chloride ion channel complex, it is not recommended for the treatment of withdrawal from benzodiazepines, alcohol, or sedative-hypnotic drugs, except as treatment of comorbid anxiety symptoms.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 63,
+      "question_id": "c4b90808-bb06-470b-bb1a-fb53d5777b9f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Zaleplon has a half-life of approximately",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "aa905ac7-60cb-49de-857a-30cf357261c9",
+          "text": "12-24 hours",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2951e65b-a6bb-4a77-84f1-296ed80ad438",
+          "text": "More than 24 hours",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "98366f9d-c741-4cbd-9531-491c0631520a",
+          "text": "2-3 Hours",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "64140054-957a-46ac-b6dc-f262c2a2ab8f",
+          "text": "1 hour",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "88fd3340-4408-43d7-b833-7f06b706cab4",
+          "text": "3-6 Hours",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "64140054-957a-46ac-b6dc-f262c2a2ab8f",
+        "text": "1 hour"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "64140054-957a-46ac-b6dc-f262c2a2ab8f",
+          "text": "1 hour",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Zaleplon reaches peak plasma concentrations in 1 hour and has a half-life of 1 hour.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 64,
+      "question_id": "ade24c6c-80b0-4bd9-b109-239bc4a1b017",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following statements is incorrect about the oral route of administration?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "88eeeb99-91d6-4635-a9c5-fd39699515b3",
+          "text": "Preparations that are soluble in gastrointestinal fluids are absorbed better",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "9607f4f4-c526-4e16-9bd2-afa1156551a3",
+          "text": "Oral route drugs are subject to renal first pass metabolism",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "daade5b2-9abf-4b32-b4ab-5bb48df2270f",
+          "text": "Lipid solubility aids absorption",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "848c487d-5c88-4aee-b5ae-c1b0907ce6c1",
+          "text": "Oral route leads to variable plasma concentration because the absorption may be erratic",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "2bf6ab7b-b0ba-4009-a911-ec4176235bef",
+          "text": "Acid-resistant drugs are better absorbed",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "9607f4f4-c526-4e16-9bd2-afa1156551a3",
+        "text": "Oral route drugs are subject to renal first pass metabolism"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "9607f4f4-c526-4e16-9bd2-afa1156551a3",
+          "text": "Oral route drugs are subject to renal first pass metabolism",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Drugs taken orally are subject to metabolism by the liver (First-Pass Effect). A drug taken orally is absorbed from the gut into the enterohepatic circulation, where the liver inactivates some of the drug before even it reaches the systemic circulation, which is known as the first pass effect. It can be avoided if the drug is injected intravenously whereby the drug directly enters the systemic circulation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 65,
+      "question_id": "3d52c4b9-3761-43f0-9bde-e0fd29bafee8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A patient suddenly withdraws from a medication. How many half-lives does it take for the medication to be completely excreted?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e8b72445-f1d2-4330-8042-21e4c073c910",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "773d7189-0116-46ea-b475-736386802c95",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "bc0f728d-d3f4-4978-a66f-6609293feda6",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "81c862ea-1626-4597-a594-66dec5bb0d44",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c2da38e1-cd95-4bee-b726-c03e71da8b01",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "e8b72445-f1d2-4330-8042-21e4c073c910",
+        "text": "5"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "e8b72445-f1d2-4330-8042-21e4c073c910",
+          "text": "5",
+          "is_correct": true
+        }
+      ],
+      "explanation": "From a clinical standpoint, it is common to assume that a drug is effectively eliminated after 4-5 half-lives, assuming first order kinetics",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 66,
+      "question_id": "2573e53c-86db-4b12-8632-6ca095c0413b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Urinary acidification can help eliminate which of the following medications on overdose?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "7453cbc3-04d4-4626-a3bf-2f73ccb51dbc",
+          "text": "Amphetamines",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "223ea47a-0813-4a3e-9d41-53007ea1fe90",
+          "text": "Salicylates",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "16cbdf0c-3c9a-44dc-915e-86e8daaab471",
+          "text": "Paracetamol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8e32be46-474e-4a66-b72f-aaf78307256d",
+          "text": "Tricyclics",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a1879eaf-e7ad-4d6f-b288-d048f016e1b3",
+          "text": "Barbiturates",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "7453cbc3-04d4-4626-a3bf-2f73ccb51dbc",
+        "text": "Amphetamines"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "7453cbc3-04d4-4626-a3bf-2f73ccb51dbc",
+          "text": "Amphetamines",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Amphetamine intoxication can be treated with ammonium chloride. The recommended dose to acidify the urine is ammonium chloride 500mg every 2-3 hours.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 67,
+      "question_id": "e6db39c1-dee9-4b88-8ef6-b5aaf66eb3df",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "How many minimum weeks of interval should be given between fluoxetine and phenelzine when switching from the SSRI to the MAOI?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9d672986-58cc-43dc-a4dd-3e23faf08a40",
+          "text": "5 weeks",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "93bc7024-de70-4492-83a1-c29db98ea72c",
+          "text": "1 week",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "fd15f232-4c5f-4763-9052-3059174cac2c",
+          "text": "12 weeks",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d91bbc58-d94c-44ef-8cbb-3144854883b3",
+          "text": "3 weeks",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d0dd32a9-acca-4559-9855-60281be306db",
+          "text": "2 weeks",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "9d672986-58cc-43dc-a4dd-3e23faf08a40",
+        "text": "5 weeks"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "9d672986-58cc-43dc-a4dd-3e23faf08a40",
+          "text": "5 weeks",
+          "is_correct": true
+        }
+      ],
+      "explanation": "When switching from fluoxetine to phenelzine, it is advised to stop fluoxetine then wait 5-6 weeks before starting phenelzine.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 68,
+      "question_id": "47cc7000-d2a5-4267-90a9-56b18c59f4d3",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A new molecule investigated for anxiety disorder failed at initial stages of animal testing as it failed to reach the brain crossing the blood-brain barrier. Which of the following factors decide the degree of blood-brain barrier permeability?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b1261861-5601-43db-8e29-167e2049df29",
+          "text": "Frequency of administration of drug",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "dd3c0b93-95f0-491e-9517-eccdf8c2e0eb",
+          "text": "Time of drug administration",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "311ebbf5-92cd-4390-9251-5639e78f95f7",
+          "text": "Half life of drug",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0fa4d01e-da71-41c9-bd35-c8edc12dac09",
+          "text": "Lipid water partition coefficient",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "c46e142c-6141-464a-a47c-d6e6e3a39104",
+          "text": "Nitrogen content of the drug",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "0fa4d01e-da71-41c9-bd35-c8edc12dac09",
+        "text": "Lipid water partition coefficient"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "0fa4d01e-da71-41c9-bd35-c8edc12dac09",
+          "text": "Lipid water partition coefficient",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The ability of a drug to pass blood brain barrier depends on its molecular size, lipid solubility and ionic status. Unionized molecules that are freely available and less protein bound are transported across the barrier easily. In general higher the lipid-water partition coefficient, greater the ability to cross the barrier",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 69,
+      "question_id": "2a80836d-cbcb-4efc-9fd2-548b95d549ca",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following factors can improve absorption of orally administered drugs?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "63272406-0f95-42e4-a58d-61305353ebf4",
+          "text": "High hydrophilic capacity of drug",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "687c34d6-7266-4d11-8be3-9549e309e9e9",
+          "text": "Fast intestinal motility",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "fbb80a0f-6584-46d8-b4ad-168ac099e7cb",
+          "text": "Presence of P glycoprotein",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6a6e80d9-d972-45e8-aa83-fc6d5e1678cd",
+          "text": "Increasing particle size of the administered drug",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "af8cc2b5-9845-43db-ba69-fbba514cfeba",
+          "text": "None of the listed options",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "af8cc2b5-9845-43db-ba69-fbba514cfeba",
+        "text": "None of the listed options"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "af8cc2b5-9845-43db-ba69-fbba514cfeba",
+          "text": "None of the listed options",
+          "is_correct": true
+        }
+      ],
+      "explanation": "This is mainly due to lack of absorption from the intestine related to the presence of inhibitory factors like food, or gastric acid or due to changes in intestinal motility (e.g. having diarrhoea or vomiting can affect drug absorption). Inherent properties of certain drugs can also affect their absorption (e.g. highly hydrophilic drugs cannot cross the lipid cell membrane, while highly lipophilic drugs will struggle to cross the water layer in extracellular space). Inhibition of P-glycoprotein (e.g. by grapefruit juice) can increase absorption of certain medications. Reducing particle size increases surface area and can increase dissolution and thus absorption.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

@@ -1,0 +1,2814 @@
+{
+  "chapter_id": "dac4080c-8b0f-496c-ad0f-226ce7c9f92d",
+  "chapter_name": "Advanced Neuroscience",
+  "chapter_title": "Advanced Neuroscience",
+  "resource_id": "d7e6b408-1793-402b-9890-ee18dbb216f6",
+  "resource_title": "SPMM I",
+  "subject_name": "SPMM I",
+  "chapter_number": 18,
+  "total_questions": 45,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "26d19941-5d30-44d3-8bf8-30ba141be1ca",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "1. Default mode network (Choose THREE)\n2. Salience Network (Choose TWO)\n3. Central executive network (Choose TWO)",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b302df53-fd38-4a10-af41-c2722242739f",
+          "text": "Anterior Insula",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "8d57e117-2908-46b5-8e70-57e24811692f",
+          "text": "Posterior Insula",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3a4ad595-0ff6-485f-83e7-c9618da4a568",
+          "text": "Superior temporal gyrus",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "84777d0a-2480-4da0-b411-7abd2c1e2b4e",
+          "text": "Amygdala",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f8bd107c-aba1-4c9c-9c2b-4012394572ea",
+          "text": "Hippocampus",
+          "is_correct": false
+        },
+        {
+          "letter": "F",
+          "option_id": "adbd5008-62c9-465e-93a5-81f432e8c400",
+          "text": "Medial prefrontal cortex",
+          "is_correct": true
+        },
+        {
+          "letter": "G",
+          "option_id": "e9b38115-df7a-4d76-8afe-83db580ddaed",
+          "text": "Posterior cingulate cortex",
+          "is_correct": true
+        },
+        {
+          "letter": "H",
+          "option_id": "b6cc0838-c85a-4254-b5ee-0fdae86ff94b",
+          "text": "Precuneus",
+          "is_correct": true
+        },
+        {
+          "letter": "I",
+          "option_id": "d928d790-4f69-49bd-af3e-85e3f5e47bde",
+          "text": "Angular Gyrus",
+          "is_correct": false
+        },
+        {
+          "letter": "J",
+          "option_id": "b46c2cd0-f2cf-4218-bd66-164e714913bb",
+          "text": "Dorsolateral prefrontal cortex",
+          "is_correct": true
+        },
+        {
+          "letter": "K",
+          "option_id": "40435079-8dd0-4fd0-921f-c181a5a0deb5",
+          "text": "Intraparietal sulcus",
+          "is_correct": true
+        },
+        {
+          "letter": "L",
+          "option_id": "54de9568-5c86-4911-94d3-863b4d9ccbf2",
+          "text": "Occipital Gyrus",
+          "is_correct": false
+        },
+        {
+          "letter": "M",
+          "option_id": "6197f5dd-1e34-4975-b404-3ef00a9af33f",
+          "text": "Fusiform gyrus",
+          "is_correct": false
+        },
+        {
+          "letter": "N",
+          "option_id": "df174607-4ab3-4634-98e4-b520fd046c30",
+          "text": "Dorsal anterior cingulate cortex",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "b302df53-fd38-4a10-af41-c2722242739f",
+        "text": "Anterior Insula"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "b302df53-fd38-4a10-af41-c2722242739f",
+          "text": "Anterior Insula",
+          "is_correct": true
+        },
+        {
+          "letter": "F",
+          "option_id": "adbd5008-62c9-465e-93a5-81f432e8c400",
+          "text": "Medial prefrontal cortex",
+          "is_correct": true
+        },
+        {
+          "letter": "G",
+          "option_id": "e9b38115-df7a-4d76-8afe-83db580ddaed",
+          "text": "Posterior cingulate cortex",
+          "is_correct": true
+        },
+        {
+          "letter": "H",
+          "option_id": "b6cc0838-c85a-4254-b5ee-0fdae86ff94b",
+          "text": "Precuneus",
+          "is_correct": true
+        },
+        {
+          "letter": "J",
+          "option_id": "b46c2cd0-f2cf-4218-bd66-164e714913bb",
+          "text": "Dorsolateral prefrontal cortex",
+          "is_correct": true
+        },
+        {
+          "letter": "K",
+          "option_id": "40435079-8dd0-4fd0-921f-c181a5a0deb5",
+          "text": "Intraparietal sulcus",
+          "is_correct": true
+        },
+        {
+          "letter": "N",
+          "option_id": "df174607-4ab3-4634-98e4-b520fd046c30",
+          "text": "Dorsal anterior cingulate cortex",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The default mode network includes the posterior cingulate cortex (PCC), precuneus, medial prefrontal cortex (mPFC) and angular gyrus. The dorsal attention network, also called the frontoparietal or central executive network, comprises of dorsolateral prefrontal cortex, Intraparietal sulcus (IPS) as well as lateral superior parietal lobule and the frontal eye field (FEF). The salience network comprises of the anterior prefrontal cortex (aPFC), dorsal anterior cingulate cortex (dACC), anterior insula and frontal operculum, with some subcortical structures (thalamus and putamen).\nCorrect Answer is :\n1. Default mode network - Medial prefrontal cortex, Posterior cingulate cortex, Precuneus\n2. Salience Network - Anterior Insula, Dorsal anterior cingulate cortex\n3. Central executive network - Dorsolateral prefrontal cortex, Intraparietal sulcus",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": "a3836566-6bdc-4e26-abc4-123e4e978d92",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "1. How does an ion channel react to pharmacological manipulation of the neuron?\n2. How does a neurotransmitter affect the action potentials of a single neuron?\n3. How is neuronal spiking activity coordinated?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "7b2b1d05-dacb-4d66-9fee-638c376b08f7",
+          "text": "DREADD",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "295f39a1-e9a2-4446-8a1d-668781cb4001",
+          "text": "Optogenetic approach",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8cbba4c2-fa05-4af6-b77d-17e4382cb1ad",
+          "text": "CLARITY",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b1a0f719-72b1-49c5-9ad9-696133fd0c48",
+          "text": "Patch clamp technique",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "3a717db2-2fd3-4563-a89e-dfdce11febd8",
+          "text": "Extracellular recording",
+          "is_correct": true
+        },
+        {
+          "letter": "F",
+          "option_id": "bc09f327-985e-4290-b53c-e7ff9d9eef9e",
+          "text": "Intracellular recording",
+          "is_correct": true
+        },
+        {
+          "letter": "G",
+          "option_id": "a1d12d6a-b283-43ae-8ccb-9401c25dcc04",
+          "text": "Morpholinos",
+          "is_correct": false
+        },
+        {
+          "letter": "H",
+          "option_id": "d5611a5d-d45c-4bc6-b82a-436c5d1f4817",
+          "text": "Gene knockout",
+          "is_correct": false
+        },
+        {
+          "letter": "I",
+          "option_id": "33c5fe07-2591-4629-8340-06307a6451e2",
+          "text": "RNA interference",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "b1a0f719-72b1-49c5-9ad9-696133fd0c48",
+        "text": "Patch clamp technique"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "b1a0f719-72b1-49c5-9ad9-696133fd0c48",
+          "text": "Patch clamp technique",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "3a717db2-2fd3-4563-a89e-dfdce11febd8",
+          "text": "Extracellular recording",
+          "is_correct": true
+        },
+        {
+          "letter": "F",
+          "option_id": "bc09f327-985e-4290-b53c-e7ff9d9eef9e",
+          "text": "Intracellular recording",
+          "is_correct": true
+        }
+      ],
+      "explanation": "According to Shieh and Carter, the three main categories of electrophysiology techniques are defined by where the recording instrument, the electrode, is placed in the neural specimen. \"In an extracellular recording experiment, the electrode is placed just outside the neuron of interest. This is best suited to measure neuronal spiking and summed postsynaptic potentials of a set of cells in the vicinity (local field potentials). In an intracellular recording experiment, the electrode is inserted into the neuron of interest. This can be used to measure subthreshold changes in potentials such as EPSPs and IPSPs. Finally, using patch clamp techniques, the electrode is placed close to the neuronal membrane, forming a tight seal with a patch of the membrane. These different recording techniques are used to examine the electrical properties of neurons both in vitro and in vivo. Questions regarding signals from neurons in vivo are most easily addressed using extracellular methods. Questions regarding the open and closed states of a specific ion channel in the presence of neurochemical agents are best addressed using patch clamp techniques\". Ref: Excerpt from Carter & Shieh, Guide to Research Techniques in Neuroscience. Academic Press, 2010\nCorrect Answer is :\n1. How does an ion channel react to pharmacological manipulation of the neuron? - Patch clamp technique\n2. How does a neurotransmitter affect the action potentials of a single neuron? - Intracellular recording\n3. How is neuronal spiking activity coordinated? - Extracellular recording",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "3c1a97b8-96d0-4da6-b8eb-c6d0feaf785a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "1. Nuclease based gene targeting techniques (Choose THREE)\n2. Silencing transcribed gene products (Choose ONE)\n3. Preventing ribosomal access for protein translation (Choose ONE)\n4. Replacing a functional gene with non-functional sequence in the embryonic cells (Choose ONE)\n5. Cell-type specific replacement of functional genes (Choose ONE)",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "65c01c3c-1321-4b5b-814b-5ceee2fc5e29",
+          "text": "Conditional Knockouts",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "5b71ae9a-5224-471c-9367-470f5fcdf53d",
+          "text": "CRISPR",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "896b3cac-ec51-4f7e-bc85-e634151068e9",
+          "text": "TALEN",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "5d969708-8857-42b6-b270-b36ebc2c1a8c",
+          "text": "Targeted Gene Knockouts",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "3b8268ae-cd7c-438e-afa0-2f03899e239a",
+          "text": "DREADD",
+          "is_correct": false
+        },
+        {
+          "letter": "F",
+          "option_id": "c2809d5d-372e-4ff6-ab65-958f78f0d5e4",
+          "text": "CLARITY",
+          "is_correct": false
+        },
+        {
+          "letter": "G",
+          "option_id": "9f2d0978-0dea-475e-8693-9adee6fd7efd",
+          "text": "Morpholinos",
+          "is_correct": true
+        },
+        {
+          "letter": "H",
+          "option_id": "b00d7335-fb9e-49a7-879d-056c8573c667",
+          "text": "ZFN",
+          "is_correct": true
+        },
+        {
+          "letter": "I",
+          "option_id": "937afa4d-66f1-4524-861b-829eb125bf1f",
+          "text": "Gene knockout",
+          "is_correct": false
+        },
+        {
+          "letter": "J",
+          "option_id": "060394cb-4d09-403e-9a70-7c38ab4e4c8c",
+          "text": "RNA interference",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "65c01c3c-1321-4b5b-814b-5ceee2fc5e29",
+        "text": "Conditional Knockouts"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "65c01c3c-1321-4b5b-814b-5ceee2fc5e29",
+          "text": "Conditional Knockouts",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "5b71ae9a-5224-471c-9367-470f5fcdf53d",
+          "text": "CRISPR",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "896b3cac-ec51-4f7e-bc85-e634151068e9",
+          "text": "TALEN",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "5d969708-8857-42b6-b270-b36ebc2c1a8c",
+          "text": "Targeted Gene Knockouts",
+          "is_correct": true
+        },
+        {
+          "letter": "G",
+          "option_id": "9f2d0978-0dea-475e-8693-9adee6fd7efd",
+          "text": "Morpholinos",
+          "is_correct": true
+        },
+        {
+          "letter": "H",
+          "option_id": "b00d7335-fb9e-49a7-879d-056c8573c667",
+          "text": "ZFN",
+          "is_correct": true
+        },
+        {
+          "letter": "J",
+          "option_id": "060394cb-4d09-403e-9a70-7c38ab4e4c8c",
+          "text": "RNA interference",
+          "is_correct": true
+        }
+      ],
+      "explanation": "When a functional gene is knocked out in the entire organism, this could be lethal at the embryonic stage. Alternatively, the knockout can be tissue or cell-type specific or done in adult animals to prevent lethal effects. In such conditional knockouts, a gene is removed from the genome in a precise spatial or temporal manner.\nAnimals with tissue specific promoters (Cre) are bred with animals that carry the functional gene flanked by flagging sequences (floxed sequence). Modern gene editing tools such as CRISPR, Zinc finger nucleases (ZFNs), and Transcription activator-like effector nucleases (TALENs) create a double-strand break at a precise location in the genome using an enzyme that cleaves nucleic acids (nuclease). The nuclease is directed to a specific target in the genome by interacting with a guide strand of DNA or RNA.\nInstead of knocking out a gene at the DNA level, we can also silence the expression of the gene at the RNA level. This is called RNA interference (RNAi). RNAi is an endogenous process used to regulate gene expression and to degrade foreign mRNA from phages. A double-stranded RNA (dsRNA) is cleaved by an enzyme called dicer resulting in small duplex fragments, ( ~ 19-23 base pairs long), called small interfering RNA (siRNA). The siRNA-Dicer forms a RNA-induced silencing complex (RISC) which further degrades RNA strands that have a complementary nucleotide sequence to one of the siRNA guide strands. We can use a dsRNA molecule homologous to the mRNA transcript to be silenced to achieve the intended RNAi. We can also deliver synthetic siRNAs to attract the RISC complex and bind the homologous mRNA transcript. Also, short hairpin RNA (shRNA) with complementary sequences at either end, can cause the molecule to fold onto itself, producing a hairpin shape.\nMorpholinos are synthetic 22-25 bp antisense oligonucleotide analogues designed to complement an RNA sequence. A morpholino and its complementary mRNA will hybridize to each other, preventing a ribosome from accessing the mRNA and translating it into a protein. Unlike RNAi, morpholinos do not degrade their target mRNA molecules.\nGenetic knockout mice are created in the laboratory by injecting the genetic construct prepared using DNA recombinant technology into embryonic stem (ES) cells and inserting successfully targeted ES cells into a blastocyst, placed inside a female mouse for breeding the offspring. This is a long process, that can take up to 2 years before we can create a genetic knockout breed.\nRef: Excerpt from Carter & Shieh, Guide to Research Techniques in Neuroscience. Academic Press, 2010\nCorrect Answer is :\n1. Nuclease based gene targeting techniques - CRISPR, TALEN, ZFN\n2. Silencing transcribed gene products - RNA interference\n3. Preventing ribosomal access for protein translation - Morpholinos\n4. Replacing a functional gene with non-functional sequence in the embryonic cells - Targeted Gene Knockouts\n5.Cell-type specific replacement of functional genes - Conditional Knockouts",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": "d3d06645-cd3f-404b-9eb2-14ca7094abfd",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "CRISPR stands for",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "382d8e69-ffed-461b-bedf-40df0e95e81f",
+          "text": "Cutting Recurring Introns and Selectively Pasting Repeats",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "32f17532-9a03-4afe-8ec2-f502f87bdaa1",
+          "text": "Cutting Regularly Interspaced Small Purposeless Repeats",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f091fdb9-cabe-4dac-9971-fd81ee65c4e5",
+          "text": "Clustered Regularly Interspaced Short Protein Rings",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "801f96e6-9b89-4152-8517-63dfa0fa3459",
+          "text": "Cleaving Randomly Interleaved Silencing Protein Repeats",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "91269225-1a5d-43f9-b66f-74062fd82a87",
+          "text": "Clustered Regularly Interspaced Short Palindromic Repeats",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "91269225-1a5d-43f9-b66f-74062fd82a87",
+        "text": "Clustered Regularly Interspaced Short Palindromic Repeats"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "91269225-1a5d-43f9-b66f-74062fd82a87",
+          "text": "Clustered Regularly Interspaced Short Palindromic Repeats",
+          "is_correct": true
+        }
+      ],
+      "explanation": "CRISPR is the commonly known acronym for the genome editing technique Clustered Regularly Interspaced Short Palindromic Repeats. Ref: Heidenreich M, Zhang F. Applications of CRISPR–Cas systems in neuroscience. Nature Reviews Neuroscience. 2016 Jan;17(1):36.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": "30dd99f6-fbc1-434d-be0a-c806cf028797",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a major challenge for the use of CRISPR technique to alter neuronal gene expression in human adult brains?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "758cb5f7-f2f6-41a7-a595-f00bc6c00fe6",
+          "text": "Ischemic response to the use of Cas gene in humans",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d0e5e7a7-2920-4200-b222-2fcfcbd7b3d9",
+          "text": "Blood-Brain Barrier",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "43743f78-0bc1-4757-8dcb-5c55ed919eee",
+          "text": "Autoimmune inflammatory reaction to Cas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0ff2c541-0b33-494d-9c48-dbb4bd0d099f",
+          "text": "Epigenetic effects on the human genome",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c0f70f60-6b74-453a-91c6-4895f32ae4ac",
+          "text": "Lack of knowledge regarding human genome sequences",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "d0e5e7a7-2920-4200-b222-2fcfcbd7b3d9",
+        "text": "Blood-Brain Barrier"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "d0e5e7a7-2920-4200-b222-2fcfcbd7b3d9",
+          "text": "Blood-Brain Barrier",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The major obstacle for employing CRISPR as a gene therapy in neuroscience is our inability to safely overcome the blood brain barrier (BBB) and reach the specifc cells that are affected by a genetic aberration. Approaches such as the use of adenovirus vehicles have fallen short to date as the Cas gene and the other biological components required for gene editing through CRISPR constitute a much larger baggage than what adenoviruses can effectively carry past the BBB. Ref: SenÍs E, Fatouros C, Große S, Wiedtke E, Niopek D, Mueller AK, Börner K, Grimm D. CRISPR/Cas9-mediated genome engineering: an adeno-associated viral (AAV) vector toolbox. Biotechnology journal. 2014 Nov;9(11):1402-12.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": "86d4c194-cc69-4abe-969f-08f0ed188622",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "CRISPR-associated protein system Cas is best described as",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6acf5492-bd26-4c9a-8851-9cfa29b61d86",
+          "text": "an innate sequence defending against epigenetic changes",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "1c7a002e-b49d-404e-bb72-0d5950c93817",
+          "text": "a viral vector delivery system",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "379340c3-3e07-4692-9fa1-e9e10ad63ccb",
+          "text": "an innate microbial defense mechanism against pathogens",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "522010e4-b3ae-49c0-a45f-4aa44f49223c",
+          "text": "DNA-guided RNA editing sequence",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d73d13db-4a5f-431e-859c-b29eb72e7001",
+          "text": "a RNA dependent RNA polymerase",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "379340c3-3e07-4692-9fa1-e9e10ad63ccb",
+        "text": "an innate microbial defense mechanism against pathogens"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "379340c3-3e07-4692-9fa1-e9e10ad63ccb",
+          "text": "an innate microbial defense mechanism against pathogens",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The major function of CRISPR-associated (cas) genes for the bacteria that carry them is to provide innate immunity against the invasion of foreign nuclei acids such as plasmids and phages (viruses). Upon the first exposure to such foreign agents, short fragments of the foreign DNA (called protospacers) get incorporated into the CRISPR gene's repeat-spacer array (short palindromic repeats) as new spacers (usually of 20 nucleotides length) . This becomes the genetic memory of the prior invasion. Transcription of this array results in short mature CRISPR RNAs (crRNAs) that carry the tag (the RNA complement of the protospacer). Upon second exposure, the crRNA spacer 'sticks' to the target sequence of the foreign body and triggers sequence-specific destruction of theinvader using endonucleases. There are several types (1 to 5) of CRISPR systems identified to date. OF these, the type II CRISPR systems (Cas9) has a seed region called protospacer-adjacent-motif (PAM) that consists of 2 to 5 basepairs at the 3' end of the 20-nucleotide long spacer sequence. PAM is critical for the target selection and degradation. Ref: Heidenreich M, Zhang F. Applications of CRISPR–Cas systems in neuroscience. Nature Reviews Neuroscience. 2016 Jan;17(1):36.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": "e34f7b0e-2982-4f87-8c31-51905be47c50",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The most commonly used system for CRISPR based genome editing is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "10b3d572-1db7-498b-b4ff-e4dfe49a5026",
+          "text": "System I",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "1b6d05b7-1d95-4a13-a280-7ede1815bbc0",
+          "text": "System II",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "fa955281-694a-4117-9a59-dbd542ed7430",
+          "text": "System III",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f6647489-da64-4deb-9d4f-9d10eecedad7",
+          "text": "System V",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "68ba332e-8722-4ad6-9ad9-6cfd081730e9",
+          "text": "System IV",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "1b6d05b7-1d95-4a13-a280-7ede1815bbc0",
+        "text": "System II"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "1b6d05b7-1d95-4a13-a280-7ede1815bbc0",
+          "text": "System II",
+          "is_correct": true
+        }
+      ],
+      "explanation": "There are several types (1 to 5) of CRISPR systems identified to date. Of these, the type II CRISPR systems (Cas9) has a seed region called protospacer-adjacent-motif (PAM) that consists of 2 to 5 basepairs at the 3' end of the 20-nucleotide long spacer sequence. PAM is critical for the target selection and degradation. Ref: Heidenreich M, Zhang F. Applications of CRISPR–Cas systems in neuroscience. Nature Reviews Neuroscience. 2016 Jan;17(1):36.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": "a9d68731-0ed3-4de0-a2c5-4d4662d7d837",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following elements of CRISPR gene editing produces hindrance to DNA expression without causing a degradation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "ec4fa71d-6c0f-46b7-b8f2-67ec7a1936bb",
+          "text": "spacer",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "1a94b607-0197-4ceb-9f2a-8adcbd8454e1",
+          "text": "dead Cas9",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "34ddbc4b-0a8b-42d4-8086-93716e5a4925",
+          "text": "protospacer",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "cbd4b802-dfff-4b23-b762-f72f1f8e9cfb",
+          "text": "PAM",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "71881b81-0aae-4b9f-bb0f-992bfe09f2ed",
+          "text": "short Cas9",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "1a94b607-0197-4ceb-9f2a-8adcbd8454e1",
+        "text": "dead Cas9"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "1a94b607-0197-4ceb-9f2a-8adcbd8454e1",
+          "text": "dead Cas9",
+          "is_correct": true
+        }
+      ],
+      "explanation": "While the Cas9 gene used in routine CRIPSR experiments is a nuclease that cleaves DNA, CRISPR can also be used for gene silencing (i.e. reversible repression), gene activation (inducing expression). When the 2 catalytic domains of Cas9 are inactivated, this produces dead Cas9 (dCas9). dCas9 does not cleave DNA but produces stereological hindrance, resulting in a phenomenon known as CRISPR interference (CRISPRi).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": "f42a8642-c9b1-45b8-8744-15c6813542ef",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following refers to cells that are reprogrammed to an embryonic stem cell-like state?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b7349560-ebae-4d14-8ecc-37009e021ee2",
+          "text": "hiPSC",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "cf909599-40f9-47fe-a97b-8abdcebf6880",
+          "text": "zinc-finger cells",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8be87636-0a0b-4f94-bd5c-c37732aba56f",
+          "text": "PAM",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "72011bc4-a7d5-46e6-a031-00cd550464bd",
+          "text": "trans-activating CRISPR",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "69fbabef-6f38-4e8d-b015-9a6afe810f80",
+          "text": "Cas9",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "b7349560-ebae-4d14-8ecc-37009e021ee2",
+        "text": "hiPSC"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "b7349560-ebae-4d14-8ecc-37009e021ee2",
+          "text": "hiPSC",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Well-differentiated adult somatic cells such as fibroblasts from the human skin can be obtained from a donor, and reprogrammed to become pluripotent cells. These human induced pluripotent stem cells (hiPSC) have properties similar to\nthose of embryonic stem cells. They can be further differentiated into any other cell type. Furthermore, gene editing can be performed on these hiPSC, providing a means to observe the effect of genetic mutations across various cellular lineages. While cells such as neurons are difficult to grow in a dish, hiPSCs have enabled the culture of neurons much more accessible.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": "c77f43c6-46b8-4008-8489-aca6718af0c5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following refers to a mechanism that is highly conserved across species and serves to repair damage to DNA?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f0724a6d-9ee1-4200-a552-4b3b5931c243",
+          "text": "Homology-directed repair",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "db0c930e-1dbc-4cba-878a-bee9e4818231",
+          "text": "double-strand break (DSB) mechanism",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9737da25-031c-4358-b7dc-177f3c19bcf6",
+          "text": "transcription activator-like effectors",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "dfa5b498-f6dd-4271-a484-20f102a417f1",
+          "text": "Zinc-Finger nucleases",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e1854790-6b53-4556-a9ca-a069d0113ad2",
+          "text": "trans-activating CRISPR",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "f0724a6d-9ee1-4200-a552-4b3b5931c243",
+        "text": "Homology-directed repair"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "f0724a6d-9ee1-4200-a552-4b3b5931c243",
+          "text": "Homology-directed repair",
+          "is_correct": true
+        }
+      ],
+      "explanation": "When nucleases such as zinc-finger nuclease, TALENs or Cas result in DNA damage, one of the 2 highly conserved repair mechanisms gets triggered. Non-homologous end-joining (NHEJ) and homology-directed repair (HDR) are the 2 approaches that follow DNA double-strand breaks (DSB) induced by nucleases. These repair processes ensure prevention of cell death following DNA damage. Of these, NHEJ is very much prone to errors, and often results in various lengths of insertions and deletions (called \"indels\") and thus frameshift mutations that lead to gene knockout. On the other hand, HDR utilizes a homologous donor DNA template that accurately corrects the DSB. Gene editing techniques exploit the mechanism of HDR to introduce specific sequences into the genome, thus engineering the required genetic mutations. ZFNs and TALENs use protein domains to enable DNA binding, thus requiring tailored synthesis of nucleases for each target site. Cas9 is guided by the tag carried by CRISPR RNA (crRNA)) that is associated with the effector complex (trans-activating CRISPR RNA nuclease) crRNA (tracrRNA), making HDR readily accessible. A Cas9 system derived from Streptococcus pyogenes or Staphylococcus aureus can be used to cleave any genomic locus of interest.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": "385a7e35-fc58-40a0-9bed-a223278b56e2",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In gene editing approaches, the term gRNA refers to",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d6e31aee-f3eb-4900-8bae-dafad3ead32d",
+          "text": "gnome RNAs",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f7296628-20da-4981-8f33-54b0ccfdbbe9",
+          "text": "generic RNAs",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "646a7b36-6c52-40e0-929b-bb16a8eaa291",
+          "text": "global RNA sequences",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f2afe35a-cf62-4310-9f02-f4edb5ecdb2c",
+          "text": "guide RNAs",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "712adfc2-cd5d-448e-87dd-3653c856140d",
+          "text": "gliding RNAs",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "f2afe35a-cf62-4310-9f02-f4edb5ecdb2c",
+        "text": "guide RNAs"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "f2afe35a-cf62-4310-9f02-f4edb5ecdb2c",
+          "text": "guide RNAs",
+          "is_correct": true
+        }
+      ],
+      "explanation": "RNAs that guide the endonucleases that cleave DNA to form double strand breaks are called guide RNAs or simply gRNAs.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": "1b29da48-dd7d-4dc3-9b8d-f3542758b8c9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is an advantage of CRISPR technology compared to other gene editing tools?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e505effc-5cf1-4016-9cf5-d60a245da382",
+          "text": "can be used to alter pluripotent cells",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b6299554-3c09-4502-a99f-3588c8bd05fb",
+          "text": "multiple genetic targets can be edited",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "78541cbf-76c6-45ee-9311-ca6b17e22beb",
+          "text": "easy access via blood-brain barrier",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "28b43e32-d38f-41d2-b93f-95a37a1b2c07",
+          "text": "readily transmitted using adenoviral vectors to adult brains",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e3b1bbf3-de01-4127-983a-5ed17b0df922",
+          "text": "larger chunks of DNA can be traced",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "b6299554-3c09-4502-a99f-3588c8bd05fb",
+        "text": "multiple genetic targets can be edited"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "b6299554-3c09-4502-a99f-3588c8bd05fb",
+          "text": "multiple genetic targets can be edited",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Compared to older gene editing technologies, such as zinc-finger nucleases (ZFNs) and transcription activator-like effector nucleases (TALENs), CRISPR offers several advantages. It provides a faster means to edit multiple genetic targets in one experiment. In addition, it is cheaper as well. CRISPR technique involves RNA guided DNA sequence detection, while ZNF and TALENs involve protein guided detection. As a result, ZFN and TALENs need to be tailored for each search, while CRISPR is more accessible. ZFN and TALENs can also be used to edit hiPSC, though CRISPR provides easier means to achieve this. Ref: Cong L, Ran FA, Cox D, Lin S, Barretto R, Habib N et al (2013). Multiplex genome engineering using CRISPR/Cas systems. Science 339: 819–823.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": "b90e5d71-0140-42d6-b6af-7d20b9ee6e7f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Endonucleases used for gene editing result in",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "726120a4-a6b5-4360-a013-4ab0c9a9ebae",
+          "text": "double-strand break (DSB)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "58921358-0307-4226-8352-76fa80d1afb5",
+          "text": "activation of growth factor transcription",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c8dfe487-6ea2-42f5-831b-ac2c5b1b5684",
+          "text": "translocation of genetic material",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "34ff8fb3-6822-4ee9-9572-dfd8f99bc8d0",
+          "text": "cell death",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "388572e4-7366-4e5e-9b4c-223e59cce2f7",
+          "text": "epigenetic changes with knockout effect",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "726120a4-a6b5-4360-a013-4ab0c9a9ebae",
+        "text": "double-strand break (DSB)"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "726120a4-a6b5-4360-a013-4ab0c9a9ebae",
+          "text": "double-strand break (DSB)",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Site-specific nucleases, including ZFNs, TALENs and Cas proteins, enable precise genetic modifications by inducing double-strand DNA breaks (DSBs) at target locations in the genome. Ref: Heidenreich M, Zhang F. Applications of CRISPR–Cas systems in neuroscience. Nature Reviews Neuroscience. 2016 Jan;17(1):36.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": "5cf46e97-a90c-42ea-8a55-eabfa11aaf09",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "With respect to the electromagnetic fields recorded from the scalp surface, which of the following is the most prominent source of the recorded activity?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "368a43b5-495b-487b-b6a5-3aff80d626b2",
+          "text": "electrical flow tangential to pyramidal neurons",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "92b2579f-93cd-4661-af4c-1011c240f579",
+          "text": "asynchronous burst of the closest single neuronal cell",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "33165302-2bd3-4689-aba3-5b5ccb39aabe",
+          "text": "electrical activation of interneurons",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "38a6eec8-8f1a-4fcb-966a-73f3f2790367",
+          "text": "post-synaptic electrical flow along the pyramidal dendrites",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "5cf3b447-0681-4ff5-83f9-fec05de1f46a",
+          "text": "pre-synaptic currents on pyramidal soma",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "38a6eec8-8f1a-4fcb-966a-73f3f2790367",
+        "text": "post-synaptic electrical flow along the pyramidal dendrites"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "38a6eec8-8f1a-4fcb-966a-73f3f2790367",
+          "text": "post-synaptic electrical flow along the pyramidal dendrites",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Radial currents produce magnetic fields that are contained within the brain tissue (right hand rule of electromagnetism). As a result, MEG only detects tangential currents, produced by tangential currents, parallel to scalp surface. But perfectly radial neurons that are exactly perpendicular to scalp surface are rather few. As a result, MEG can generate representative maps of neural activity.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": "ab223c7b-a882-41fe-bf37-9a476bedfb59",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following neuroimaging techniques require a helium filled tank to enhance superconductivity?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9ac4ce0e-7d7d-4591-9d57-7fae402ff5e8",
+          "text": "EEG",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "adcbdb01-1f86-492a-9dac-ac384b85cc5a",
+          "text": "NIRS",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b23e3f84-78ff-4597-b4c4-7d40763a64b6",
+          "text": "MEG",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "cf69e62b-002d-49de-ac30-811fb6bdd806",
+          "text": "MRS",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "80f8ebf4-864c-418d-8f9d-7180c648598f",
+          "text": "PET",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "b23e3f84-78ff-4597-b4c4-7d40763a64b6",
+        "text": "MEG"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "b23e3f84-78ff-4597-b4c4-7d40763a64b6",
+          "text": "MEG",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Superconducting QUantum Interference Device or SQUID allows the detection of the brain's weak magnetic fields without the need for an electric reference. To enable superconductive properties, the SQUIDs have to be kept at -269 °C. Liquid helium filled tanks are required for this purpose. Modern MEG machines contain helmet-shaped arrays of more than 300 SQUID sensors immersed in liquid helium. Ref: Hari R, Salmelin R. Magnetoencephalography: from SQUIDs to neuroscience: neuroimage 20th anniversary special edition. Neuroimage. 2012 Jun 1;61(2):386-96.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": "f715e6b8-c604-4cef-bc55-4082ddb12c75",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is true regarding MEG?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "18a3ae99-d067-4262-a61e-97290f10a140",
+          "text": "EEG signal is dominated by currents flowing tangential to the skull.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3ad33df3-e9bc-4458-857e-62227f5f2556",
+          "text": "MEG signal comprises of the fields induced by both radial and tangential currents",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "487b71e7-11bc-4ba0-b374-7078fe6cab48",
+          "text": "MEG signal is dominated by currents flowing tangential to the skull.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "16f97c64-8b54-4596-8f7f-6e2f6eddc234",
+          "text": "EEG signal comes exclusively from currents flowing perpendicular to the skull.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "df792d0d-7597-415a-ba8c-ce153033f6d7",
+          "text": "MEG signal is dominated by currents flowing perpendicular to the skull.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "487b71e7-11bc-4ba0-b374-7078fe6cab48",
+        "text": "MEG signal is dominated by currents flowing tangential to the skull."
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "487b71e7-11bc-4ba0-b374-7078fe6cab48",
+          "text": "MEG signal is dominated by currents flowing tangential to the skull.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Radial currents produce magnetic fields that are contained within the brain tissue (right hand rule of electromagnetism). As a result, MEG only detects tangential currents. But perfectly radial neurons that are perpendicular to scalp surface are rather few. As a result, MEG can generate representative maps of neural activity.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": "e8b75662-da97-4c7f-adc1-d23ade39e5ab",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following mutations are likely to be present in the hiPSC lineages?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0b23005c-793f-4c88-aacd-8bc8f2b37778",
+          "text": "DISC1 mutations",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "889d9a18-1f97-40f2-b68e-02c42bdebcf4",
+          "text": "CDKL5 mutations",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b5c351a6-524b-4f43-94e2-82536d48cfa6",
+          "text": "MECP2 mutations",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "8f3b18ef-b605-48db-8b47-23e961adf12f",
+          "text": "FOXG1 mutations",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "dfca6606-61b6-4581-a4ab-29137fd99abe",
+          "text": "CDH8 mutatoins",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "b5c351a6-524b-4f43-94e2-82536d48cfa6",
+        "text": "MECP2 mutations"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "b5c351a6-524b-4f43-94e2-82536d48cfa6",
+          "text": "MECP2 mutations",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Rett's syndrome exclusively affects females (as male mutant foeuses do not survive to full gestation). Rett syndrome is most often caused by X-linked mutations in the MECP2 gene. MECP2 is a transcription factorthat plays a key role in the normal brain development. Rett syndrome is also associated with mutations in CDKL5 or FOXG1 though the latter are less common.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": "dc01c9bf-c42c-4986-ae1f-ce0108698408",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Patch-clamp recording is best used to measure",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "26e4e5d7-e766-438e-a018-b8e144cc9bfe",
+          "text": "Error related negativity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "145cfb2f-627a-464e-9dbb-0f80306d940c",
+          "text": "Mismatch negativity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b72f2cae-30b1-4438-aaf3-0793e5b7adc8",
+          "text": "Single channel currents",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "3e2c1c7e-24b0-4de5-9b10-7ee7d53aaa80",
+          "text": "Local field potential",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "001bfe7c-db8c-4a06-a21f-2fbb006dd3d9",
+          "text": "Evoked response potentials",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "b72f2cae-30b1-4438-aaf3-0793e5b7adc8",
+        "text": "Single channel currents"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "b72f2cae-30b1-4438-aaf3-0793e5b7adc8",
+          "text": "Single channel currents",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The patch-clamp technique is an electrophysiological approach to measure the currents passing through ion channels in the cell membrane. Developed by Neher and Sakmann in 1976, based on the experiments of odgkin and Huxley in the 1950s, patch clamp technique allows us to measure ion-channel activities even at the level of a single channel.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": "b5e6a516-3cdb-45cd-91a3-68bc335e0b9d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following neuroscietific approach can be used to activate or inhibit specific neuronal projections in live animals using light exposure?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b0e3970f-f4c8-4564-a78e-43052825fbbe",
+          "text": "Photostimulation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c7cd1695-524c-4a54-8b52-c13f39bf0036",
+          "text": "Flurostimulation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "42f07e3c-4f5c-4e9a-a956-2266b8d733c4",
+          "text": "Optogenetics",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "33f40bf0-640e-4e4d-a891-6772e885ea2c",
+          "text": "Deep brain stimulation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "cb631095-f0d2-439e-940c-7d3fb897e6e1",
+          "text": "DREADD",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "42f07e3c-4f5c-4e9a-a956-2266b8d733c4",
+        "text": "Optogenetics"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "42f07e3c-4f5c-4e9a-a956-2266b8d733c4",
+          "text": "Optogenetics",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Genetically encoded light sensitive protein channels are used in optogenetics. Depending on the specific pigment protein that is engineered genetically to be expressed in an organism (rodents, primates), depolarisation or hypopolarisation of specific neuronal populations can be achieved using specific frequency of light. Light is usually delivered very close to the target neurons due to the scattering effect of brain tissue, and tis is achieved usually by implanting a lightweight fiber optic cable guided by a surgical cannula.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": "609c3174-2eea-466a-a859-4bbef4110586",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "When employing optogenetics to study neuronal functions, which of the following light will activate the pigment rhodopsin?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "26f3115c-155b-4452-a348-8d8461df2604",
+          "text": "Blue light",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "5b465570-b08e-4e08-8ce1-376d7ddd7e10",
+          "text": "Red light",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "868791f5-da05-4f77-a7a0-3f79816a2c97",
+          "text": "Green light",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "78147694-3a96-473e-a9ae-ada97f1cb5c0",
+          "text": "White light",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "13f5b142-2f27-41e9-b1fb-4e485e272fc9",
+          "text": "Yellow light",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "26f3115c-155b-4452-a348-8d8461df2604",
+        "text": "Blue light"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "26f3115c-155b-4452-a348-8d8461df2604",
+          "text": "Blue light",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Channelrhodopsin-2 (ChR2) is a cation channel that opens in response to blue light. Halorhodopsin, from the halobacterium Natronomonas pharaonis, is a chloride channel that actively moves chloride ions into the cell from extracellular zone when yellow light is presented. Archaerhodopsin, derived from Halorubrum sodomense, is a proton pump that actively removes hydrogen ions from the cell when a yellow light is presented. There are two major transgenes used for optogenetic inhibition. Both halorhodopsin and archaerhodopsin serve to hyperpolarize neurons, while channelrhodopsin promotes depolarization.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": "91a9d054-0814-4285-b83b-deb8a9e19b2f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The most common adverse effects of rTMS is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "42df6806-7f6c-4adf-85c7-644be583183c",
+          "text": "Manic switching",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d41e4d46-da76-4b6d-904a-350f2f48bc43",
+          "text": "Vertigo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "84925ad2-ef75-4473-9756-67b60e4499aa",
+          "text": "Seizures",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8a0eb849-45d4-4115-a1e1-bc721bc75f1f",
+          "text": "Headaches",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "0e02ed7e-7cb0-4656-a5bf-801ca7e0c8f2",
+          "text": "Syncope",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "8a0eb849-45d4-4115-a1e1-bc721bc75f1f",
+        "text": "Headaches"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "8a0eb849-45d4-4115-a1e1-bc721bc75f1f",
+          "text": "Headaches",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The most common adverse effects of rTMS includes scalp pain during stimulation (35%– 40%), and transient headache after stimulation (25%–30%). It is important to note that the frequency of these side effects vary with the stimulation protocol. In addition, these symptoms are often transient, diminish during the couse of treatment and respond well to over-the-counter analgesics. The all-causes discontinuation rate for rTMS is estimated to be about 5%. Ref: http://www.cmaj.ca/content/188/16/1175",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": "777a61fc-938e-424c-81fe-f7c1041e8037",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "This technique is called",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "ab66a248-1418-4bbf-a632-54862b2db0f4",
+          "text": "Patch clamp recording",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "e3b896c2-747e-44c8-b5b9-1201a5ec1a6d",
+          "text": "Diffusion weighted recording",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3ffd0bd7-b4e3-4628-86ca-8c21d81eeab8",
+          "text": "Intracellular recording",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "fcf56a6d-a530-47c8-b547-317e2e14efc9",
+          "text": "Confocal recording",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "43e7a7bc-686a-433d-a581-0c336d8c68a5",
+          "text": "Extracellular recording",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "ab66a248-1418-4bbf-a632-54862b2db0f4",
+        "text": "Patch clamp recording"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "ab66a248-1418-4bbf-a632-54862b2db0f4",
+          "text": "Patch clamp recording",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The patch-clamp technique helps us to study single or multiple ion channel functions in live tissue. Whole-cell patch-clamp recordings allow the study of the electrical behavior of a substantial part of a neuron in vitro on brain slices, or freshly dissociated neurons, or on cell culture models.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": "968f9dd5-bea8-4a2d-8d3b-ed3c9f169094",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "CLARITY is the tem used to describe which of the following neuroscientific methods?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "46653ddb-052f-4f40-8450-fd1840bca401",
+          "text": "Diffusion tensor imaging",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5178508e-772e-404f-9e05-d5be8322998d",
+          "text": "Magnetic resonance spectroscopy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8513c01c-abb4-4400-8310-abc432d2c526",
+          "text": "Hydrogel tissue clarification",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "94b52be5-3665-45c6-89fe-efc988482c56",
+          "text": "Artifical intelligence",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "af9b9616-f966-4db7-8ada-7ca346e82bb7",
+          "text": "Embryonic stem cell culture",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "8513c01c-abb4-4400-8310-abc432d2c526",
+        "text": "Hydrogel tissue clarification"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "8513c01c-abb4-4400-8310-abc432d2c526",
+          "text": "Hydrogel tissue clarification",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Imaging of whole brains with cellular resolution is crucial to study neuronal morphology, connectivity and phenotyping. CLARITY, an approach introduced recently by Karl Deisseroth at Stanford produces structurally intact, yet optically transparent tissue,that can be imaged without sectioning. It involves a process by which the light-scattering lipids in the brain tissue are replaced by a transparent hydrogel matrix. Ref: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4586927/",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": "6446558e-9ba6-49ba-9583-5d2c2adc753b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "All of the following brain structures constitute the salience network, except",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "57e10b91-cd95-4e09-9082-175206ec0dc4",
+          "text": "thalamus",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2b9b52ec-1243-4f1d-9575-baa7d7f6a943",
+          "text": "anterior insula",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3627c912-efe7-4d27-9b04-e5585774d3e1",
+          "text": "Precuenus",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "4822df0a-4acf-474a-86df-61889cb80672",
+          "text": "dorsal anterior cingulate",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c2ecc8f3-8667-47d7-a0d9-2cf6703cc130",
+          "text": "striatum",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "3627c912-efe7-4d27-9b04-e5585774d3e1",
+        "text": "Precuenus"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "3627c912-efe7-4d27-9b04-e5585774d3e1",
+          "text": "Precuenus",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Precuneus is a part of the medial superior parietal lobule. It is a major brain hub tht constitutes a key node in the default mode, not the salience, network.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": "aba1253c-42c3-4ab8-91e8-354dc5b87bb3",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following best described the neuropsychological function of the default mode network?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "fbe9650c-646d-4604-a94c-e83b0c74c5ee",
+          "text": "Introspection",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "6b12f5e7-132c-4fe1-864c-2892f8f45a6d",
+          "text": "Reward orientation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5ed13125-d614-433e-9dd9-9b07f20d9117",
+          "text": "Task execution",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d94d2824-7aa5-4567-ac46-bb29530136a8",
+          "text": "Interoception",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "4f94f83f-e294-487c-ba74-7026b5d0cd6c",
+          "text": "Interference",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "fbe9650c-646d-4604-a94c-e83b0c74c5ee",
+        "text": "Introspection"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "fbe9650c-646d-4604-a94c-e83b0c74c5ee",
+          "text": "Introspection",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The DMN is “an organized spontaneous network of neural activity that is modulated during attention-demanding cognition which is characterized by spontaneous BOLD signal fluctuations which tend to inversely correlate with fluctuations in other networks, including those that subserve arousal, attention, perception, and working memory\". While the description of DMN is largeley based on what it does not do (task-based engagement), recent studies have implicated DMN to have a role in introspection, mind-wandering, daydreaming as well as autobiographical recall.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": "3790a251-4d60-4c78-886f-5a410fd22e32",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The term task-negative network refers to",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "67c2bae5-7664-4d2b-a4d5-3780ed6effd8",
+          "text": "The auditory network",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "0cf58a61-c339-4de7-9fab-a0051991c70e",
+          "text": "The default mode network",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "c622a83e-2e85-4d56-be64-62be0ab48aed",
+          "text": "The executive network",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "05cb0f6e-1337-43ce-9f7e-55576fbd04ee",
+          "text": "The sensorimotor network",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "dd093396-32bf-4a2a-b808-0c3a1424ef73",
+          "text": "The frontoparietal network",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "0cf58a61-c339-4de7-9fab-a0051991c70e",
+        "text": "The default mode network"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "0cf58a61-c339-4de7-9fab-a0051991c70e",
+          "text": "The default mode network",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The DMN includes those regions that are deactivated during performance of a task when compared to the resting, baseline condition (Raichle et al., 2001). Greicius et al. (2003) linked resting-state functional connectivity methodology to the default mode hypothesis, and coined the term “DMN\". Greicius et al.‘s (2003) article, which is commonly thought to have launched the DMN, noted that certain brain regions “consistently show greater activity during resting states than during cognitive tasks\" [excerpt from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4142807/]",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": "d860b7c8-cbdb-4a59-b3d2-fdff80649a8e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is true regarding the use of transcranial magnetic stmulation to treat treatment-resistant depression?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5fe94cc0-8935-49f5-b38b-c993701613ea",
+          "text": "It is not superior to ECT in terms of efficacy",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "bb3aa80a-7d30-4646-9838-95b67df7523a",
+          "text": "It works as well as ECT for psychotic depression",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "46b623d5-0192-4421-8457-7b2d5ed6fe1a",
+          "text": "It works better than ECT for melancholic depression",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "fb7a7cd6-890c-4548-991f-f1b5676d51ef",
+          "text": "It produces more cognitive dysfunction than ECT",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c3d155a6-beed-4fa2-9e53-d352f1b80a43",
+          "text": "It causes more side effects that ECT",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "5fe94cc0-8935-49f5-b38b-c993701613ea",
+        "text": "It is not superior to ECT in terms of efficacy"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "5fe94cc0-8935-49f5-b38b-c993701613ea",
+          "text": "It is not superior to ECT in terms of efficacy",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A meta-analysis of head-to-head trials of electroconvulsive therapy v. rTMS (n = 425 patients, 9 trials) concluded that ECT is superior to rTMS with 64.4% v. 48.7% response and 52.9% v. 33.6% remission rates. In particular, in the presence of psychotic symptoms, ECT was much superior. Nevertheless, in certain domains of side effects (esp. memory disturbances), rTMS was much more tolerable. Current treatment pathways endorse rTMS efficacy to be comparable or higher than that of psychotherapy and medications, but rather lower than ECT, when considering sequential treatment after successive treatment failures for major depressive disorder.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": "a60af660-ab2b-4def-ae31-9927c1d514c9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The brain region targeted by deep brain stimulation for addressing treatment resistant OCD is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d35d7f0a-d480-46a0-b58a-60bfc54769f9",
+          "text": "anterior limb of the internal capsule",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "333c2248-c1df-4d41-989c-977bf67f942b",
+          "text": "Amygdala",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "a17c32f7-951a-47e3-ae53-97bcd36289c7",
+          "text": "Dorsolateral prefrontal cortex",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "af39d71e-86b5-4db0-b11b-57b90d23d413",
+          "text": "Hippocampus",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "bc23ef84-7db6-4acf-bafb-d6ad572eed04",
+          "text": "Arcuate fasciculus",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "d35d7f0a-d480-46a0-b58a-60bfc54769f9",
+        "text": "anterior limb of the internal capsule"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "d35d7f0a-d480-46a0-b58a-60bfc54769f9",
+          "text": "anterior limb of the internal capsule",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In OCD, DBS is often targeted on “striatal areas\", including the anterior limb of the internal capsule (ALIC), the ventral capsule and ventral striatum (VC/VS), the nucleus accumbens (NA) or the ventral caudate nucleus, subthalamic nucleus, or the inferior thalamic peduncle.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": "fb57a4ca-212b-4fc1-bcc0-79b5042bad54",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "When functional connectivity is measured using resting state fMRI, the frequency of BOLD signal fluctuations captured by the technique is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "418c357f-cfb8-4ea2-bb68-5e741e5528f4",
+          "text": ">10Hz",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "092f9263-ba8a-4c92-a803-b1643f5cfc7a",
+          "text": "<0.1Hz",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "ba9ad406-d5e9-4cc0-9c1e-4663604e9c89",
+          "text": ">1Hz",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ffbc088f-c09e-4c15-aed7-d610203af60f",
+          "text": ">2.5Hz",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d4ceaa18-a2d1-4e8b-b8d7-955c6e003fc2",
+          "text": "<0.01Hz",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "092f9263-ba8a-4c92-a803-b1643f5cfc7a",
+        "text": "<0.1Hz"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "092f9263-ba8a-4c92-a803-b1643f5cfc7a",
+          "text": "<0.1Hz",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Resting state fcMRI measures spontaneous, high-amplitude, low-frequency (<0.1 Hz) BOLD signal fluctuations in subjects at rest (i.e., when not involved in any explicit task).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": "2c58c6d6-e503-4068-be92-97ad60621074",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following network is said to play a switching function in flipping the brain from a resting to cognitively active state?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6250734a-cb5d-4a06-be76-354585593554",
+          "text": "The sensorimotor network",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d49fde3a-6112-44de-b147-9c33c53ae8a3",
+          "text": "The frontoparietal network",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "04689866-aa9c-4e06-9f80-f9c558b714d6",
+          "text": "The default mode network",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "fbb4d0de-8b68-4c7f-a906-e113a24b665f",
+          "text": "The executive network",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "01f0002c-5bbe-478c-ac55-c4a7dd215827",
+          "text": "The salience network",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "01f0002c-5bbe-478c-ac55-c4a7dd215827",
+        "text": "The salience network"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "01f0002c-5bbe-478c-ac55-c4a7dd215827",
+          "text": "The salience network",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The DMN is associated with self-referential mental activity. It is also describe to be activated by “stimulus-independent thought\". When explicit task processing cognitive demands are placed, brain regions constituting the DMN get switched off or appear inactive. The switching function between DMN and task-positive networks such as frontoparietal regions is thought be managed by the salience network.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": "102ceadc-45c5-4681-9f2b-9e1999f9d1b5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following treatments is he receiving?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "7d52c18d-d04a-4a26-bfe2-9368d52e73eb",
+          "text": "Transcranial alternate current stimulation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "54e27ac7-b40b-4478-904c-710d482f4219",
+          "text": "Subcutaneous electrical non-convulsive stimulation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6c7b225d-6d4a-42b8-acf2-80d73fbceb9f",
+          "text": "Deep brain stimulation",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "79ee1e4b-7f2f-4099-a081-6f0507eb13f8",
+          "text": "Vagal nerve stimulation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fad76574-b861-4e26-87ee-dbddf543cfd9",
+          "text": "Gamma ventral capsulotomy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "6c7b225d-6d4a-42b8-acf2-80d73fbceb9f",
+        "text": "Deep brain stimulation"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "6c7b225d-6d4a-42b8-acf2-80d73fbceb9f",
+          "text": "Deep brain stimulation",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In DBS, the electrodes placed in the brain are connected by subcutaneous wires to implanatable neurostimulators (pulse generating batteries with a programmable microchip) placed below the collarbone. The treatment provider can use a hand-held wand to operate the battery.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": "037e928b-b1d9-4faa-ab90-07d96a6dc303",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is an advantage of human induced pluripotent stem cells compared to embryonic stem cells?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3b46de88-230a-44f6-b5f1-9b9717edec81",
+          "text": "Allows in vivo experiments",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "764bfd50-8e2a-4212-b371-4b16af1af0af",
+          "text": "Genome editing is feasible",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "fa0b1054-46a5-4825-91e2-46aa2861dea0",
+          "text": "Ethically acceptable",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "295e5bd8-791a-4bd7-91c8-8156f41286a1",
+          "text": "Only dead embryos are used",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e7b5a69b-c81e-4087-a531-b09c34c876dc",
+          "text": "Low possibility of mutations during in vitro culturing",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "fa0b1054-46a5-4825-91e2-46aa2861dea0",
+        "text": "Ethically acceptable"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "fa0b1054-46a5-4825-91e2-46aa2861dea0",
+          "text": "Ethically acceptable",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Pluripotent stem cells, when cultured, are capable of repeated self–renewal as well as differentiation to all adult cell types. Pluripotency of these cells results from a specific transcriptional gene network (especially Oct4, Sox2 , and Nanog genes). One of the well known source of pluripotent stem cells is the embryo. Embryonic stem cells (ESCs) are obtained from blastocyst stage of embryos. Research using ESCs has several ethical concerns, especially as retrieval of blastocyst cells leads to embryonal death. Since 2006, it has bcome possible to generate pluripotent cells by programming adult somatic cells, which results in induced pluripotent stem cells (iPSCs). These induced PSCs closely resemble ESCs with preserved pluripotency. As no embryos are required, this procedure is much more acceptable for ethical reasons.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": "9c78a5e2-b3d6-4d15-ac50-8ad83bf27678",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The term tDCS refers to",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a5e317c7-6647-4b3a-9f4e-c1982df1d0e2",
+          "text": "Transcranial Dorsolateral Cortical Stimulation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "57edb130-00ea-44ab-bbfb-2738d5e7269e",
+          "text": "Transcranial Direct Current Stimulation",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "5a475560-6225-433c-b8af-c472d886fa90",
+          "text": "Transcranial Deep Circuit Stimulation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "32f607a6-0f36-4f94-9e45-918926a5b7d8",
+          "text": "Treatment with Dynamic Cyclical Stimulation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "8be582bb-4581-4313-88b6-a175605e0196",
+          "text": "Transcranial Delta Charged Stimulation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "57edb130-00ea-44ab-bbfb-2738d5e7269e",
+        "text": "Transcranial Direct Current Stimulation"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "57edb130-00ea-44ab-bbfb-2738d5e7269e",
+          "text": "Transcranial Direct Current Stimulation",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Transcranial direct current stimulation (tDCS) and transcranial alternating current stimulation (tACS) are stimulation techniques that modulate neural activity in the human brain in a non-invasive manner using weak electrical currents.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": "beca3e0e-4254-4571-8cdc-f5585c4b9ffd",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following sequence of stimulation, when applied to the DLPFC, can reduce the GABA to glutamate concentration ratio?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5b8dbf7a-a5ab-435a-8c39-a0a5ea8a7145",
+          "text": "intermittent beta-burst stimulation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4fb3460e-1778-40de-822b-da484ab053d6",
+          "text": "intermittent gamma-burst stimulation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3804be49-6e7a-47bb-aca3-9990621b6303",
+          "text": "continuous beta-burst stimulation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "2ab853e7-db01-416c-b51d-3b3258d75405",
+          "text": "continuous theta-burst stimulation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "6a8f639c-3724-4e44-a115-1a38f625d2f6",
+          "text": "intermittent theta-burst stimulation",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "6a8f639c-3724-4e44-a115-1a38f625d2f6",
+        "text": "intermittent theta-burst stimulation"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "6a8f639c-3724-4e44-a115-1a38f625d2f6",
+          "text": "intermittent theta-burst stimulation",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Dorsolateral prefrontal intermittent theta-burst stimulation (iTBS), in healthy controls, has been shown to reduce GABA/Glutamate ratio. Ref: Iwabuchi SJ, Raschke F, Auer DP, Liddle PF, Lankappa ST, Palaniyappan L. Targeted transcranial theta-burst stimulation alters fronto-insular network and prefrontal GABA. Neuroimage. 2017 Feb 1;146:395-403.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": "78d67d9a-f25c-4389-b848-e77455efc194",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The term gyrification refers to the developmental process of",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "8f8e6c08-3487-432b-804d-e2b4fd9a4598",
+          "text": "Cortical folding",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "0e96acdc-2cd4-4f14-9d66-4f98f13e5501",
+          "text": "Cerebellar development",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "07dbc402-c0ec-49c8-8437-6a269f23a0af",
+          "text": "Subcortical connectivity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5ca24d4f-1e07-4142-84eb-f73d205fad50",
+          "text": "Neuronal migration",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b55dc6c0-68da-4973-bfa8-0c635310cd28",
+          "text": "Sulcal widening",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "8f8e6c08-3487-432b-804d-e2b4fd9a4598",
+        "text": "Cortical folding"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "8f8e6c08-3487-432b-804d-e2b4fd9a4598",
+          "text": "Cortical folding",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Gyrification is a developmental process by which the folding of cortical surface occurs leading to distinct patterns on the brain. Gyrification results in a significant increase in the cortical surface area during foetal development.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": "b7ab3f33-cddf-4e21-a458-8df7565a0ac3",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is more or less completed by the age of 2 in normally developing children?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5f4816a8-b521-4e46-8afd-9eb61f027dff",
+          "text": "Cortical contraction",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b8513e0c-8d19-4980-93fc-4fa10a568b85",
+          "text": "Synaptic pruning",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "194a1eef-b38a-4ea2-91c9-16d8a34befe4",
+          "text": "Cortical thinning",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "bf021537-5d7f-4bda-b732-b3ffd55ceec2",
+          "text": "Cortical gyrification",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "2dbf5c10-f325-46fa-8571-e14590a6c217",
+          "text": "Cortical myelination",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "bf021537-5d7f-4bda-b732-b3ffd55ceec2",
+        "text": "Cortical gyrification"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "bf021537-5d7f-4bda-b732-b3ffd55ceec2",
+          "text": "Cortical gyrification",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The development of gyrification begins prior to birth, with the early stages of gyral and sulcal formation taking place between 10 to 15 weeks of human fetal life (Zilles et al., 1997). During the third trimester of fetal life, when the brain is undergoing considerable growth (Chi et al., 1977), the brain develops from a relatively smooth, lissencephalic structure to a brain that more closely resembles the morphology of the adult brain. Most gyrification is completed in utero, with late neonatal changes completed by the age of 2. Using histological approaches, it has been demonstrated that the time-course for the laydown of synapses (synaptic blooming) and their elimination (synaptic pruning) in the human brain varies enormously by brain region. In the visual cortex (and many primary sensory areas), synaptic overproduction is maximal at about the fourth postnatal month, followed by synapse elimination. But in the medial prefrontal cortex (and many association areas), the peak occurs later at 3–4 years of age, with most decline occurring in the mid-to-late adolescence. Cortical thickness shows a linear decresae from the age of around 4 onwards in a steady monotonic manner, with an acceleration during later ages (>60) (Ducharme et al., 2014, Sowell et al., 2004, Muftuler et al., 2011, Tamnes et al., 2010, Koolschijn and Crone, 2013). Cortical thickness has later peaks around the ages 8-9, in association areas (posterior parietal areas, posterior temporo-parietal areas, and right DLPFC (Shaw et al., 2008, Mutlu et al., 2013)).. At present, the cellular drivers of thickness changes are not known. It is suspected that both synaptic pruning and progressive intracortical myelinatio with age could play a role. Myelination continues well into the third decade of life, with a ventral-to-dorsal pattern, with the most dorsal regions myelinating continually during adolescence. Subcortical structures (especially the caudate) also undergo progressive volume loss in the deep gray-matter nuclei around puberty. In contrast to the basal ganglia, medial temporal lobe gray-matter structures (such as the amygdala and hippocampus) appear to increase in volume during childhood and adolescence. Ref: Ducharme, Simon, et al. \"Trajectories of cortical thickness maturation in normal brain development—the importance of quality control procedures.\" Neuroimage 125 (2016): 267-279. Paus T. Mapping brain maturation and cognitive development during adolescence. Trends in cognitive sciences. 2005 Feb 1;9(2):60-8.\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3113697/ and https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2815169/",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": "9a9fa941-1899-4528-9a7c-b81177508f68",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "With respect to functional connectivity, which of the following statements is correct?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b7b0dd7e-fcd9-4233-9904-c369ea2a8d03",
+          "text": "It is static and does not change with time",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "10151ae4-d610-4bed-b011-94871ad118b1",
+          "text": "It is fixed and does not change during development",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "85681651-6f79-4007-bc7e-9837bce9576f",
+          "text": "It can only be quantified using functional MRI",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "594b23ae-477d-4884-a70b-295178cc41dd",
+          "text": "It refers to correlation in the time course of activation between 2 brain regions",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "503a2a90-6fad-4c4b-aace-18083049f14a",
+          "text": "Structural connectivity is essential to establish functional connectivity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "594b23ae-477d-4884-a70b-295178cc41dd",
+        "text": "It refers to correlation in the time course of activation between 2 brain regions"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "594b23ae-477d-4884-a70b-295178cc41dd",
+          "text": "It refers to correlation in the time course of activation between 2 brain regions",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The term “functional connectivity\" refers to the statistical dependency (usually, a correlation) between 2 or more spatially-distinct brain regions. Functional connectivity is often interpreted to represent simultaneous engagement among the brain regions when performing in a task. Functional connectivity may exist even if no strucutral (white matter based) connections can be traced between 2 brain regions. It can be quantified using EEG, PET, fMRI or MEG, though fMRI is the most commonly used tool. Functional connectivity is dynamic, i.e. 2 regions may show functional connectivity during a specific time window but not connected at other times. During development, a redistribution of functional ocnnectivity takes place, with anatomically distant sites getting connected at a functional level.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": "4b36722f-0493-4034-90d6-2f780c525428",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following brain networks is most likely to have regions that are deactivated when performaing a cognitively demanding task?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d7d45235-dd83-4870-965a-9d68ab1ee92b",
+          "text": "The default mode network",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "694bec5b-699c-48fe-ac64-62671e06ab58",
+          "text": "The sensorimotor network",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ed857933-92a2-45b8-95fe-126c351f6842",
+          "text": "The executive network",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c40aa10f-ba9d-44fd-bd6e-2b27963ce889",
+          "text": "The frontoparietal network",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "eeca5936-b189-45d9-8c3f-5087536b1b92",
+          "text": "The salience network",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "d7d45235-dd83-4870-965a-9d68ab1ee92b",
+        "text": "The default mode network"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "d7d45235-dd83-4870-965a-9d68ab1ee92b",
+          "text": "The default mode network",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The DMN is associated with self-referential mental activity. It is also describe to be activated by “stimulus-independent thought\". When explicit task processing cognitive demands are placed, brain regions constituting the DMN get switched off or appear inactive. The switching function between DMN and task-positive networks such as frontoparietal regions is thought be managed by the salience network.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": "bca51c0f-7618-4c6c-8e29-9cdb926befb4",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The frequency of transcranial magnetic stimulation that is shown to be effective and most widely used in treating depression is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2b769c20-8db5-4f80-a027-554e45567775",
+          "text": "60Hz",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "809daf7b-287a-49f6-8155-1802058ae7e0",
+          "text": "40Hz",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ad78ad07-8e72-4e09-b7fd-24a324a6af7b",
+          "text": "10 Hz",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "29304a52-8a50-46c4-95ea-5fbe41003d13",
+          "text": "2Hz",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d24fffa6-3302-405a-979e-3d2c831f8612",
+          "text": "1Hz",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "ad78ad07-8e72-4e09-b7fd-24a324a6af7b",
+        "text": "10 Hz"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "ad78ad07-8e72-4e09-b7fd-24a324a6af7b",
+          "text": "10 Hz",
+          "is_correct": true
+        }
+      ],
+      "explanation": "US FDA approved a protocol of left DLPFC stimulation at 10 Hz frequency (10 pulses/sec, 120% of motor threshold, 3000 pulses/session, 5 times a week for 4-6 weeks). This is the most widely used protocol to date for treating depression, but increasingly novel protocols such as theta-burst stimulation require just one to three minutes, and have shown favourable results in early studies.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": "463cde00-2658-4c0e-afcd-2abaa4e3ced3",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The brain region targeted by transcranial magnetic stimulation for addressing treatment resistant depression is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3ae64419-f66a-4af1-87dd-2a41e7e3c08e",
+          "text": "Anterior cingulate cortex",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "12c16309-b8a7-471c-89a9-107980bd0163",
+          "text": "Amygdala",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f43db618-3891-4dec-baba-656b5c41bf19",
+          "text": "Dorsolateral prefrontal cortex",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "40d05c16-f192-4816-9291-c364c96c8337",
+          "text": "Habenula",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "2a66b3b5-133c-4909-b72b-2d9af9e89635",
+          "text": "Motor cortex",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "f43db618-3891-4dec-baba-656b5c41bf19",
+        "text": "Dorsolateral prefrontal cortex"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "f43db618-3891-4dec-baba-656b5c41bf19",
+          "text": "Dorsolateral prefrontal cortex",
+          "is_correct": true
+        }
+      ],
+      "explanation": "US FDA approved a protocol of left DLPFC stimulation at 10 Hz frequency (10 pulses/sec, 120% of motor threshold, 3000 pulses/session, 5 times a week for 4-6 weeks). This is the most widely stimulated target site to date for treating depression, but increasingly other regions such as dorsomedial prefrontal cortex and insula (via deep TMS) have also been targeted with some encouraging results in early studies.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": "cdfd7936-e844-4e89-8091-6ccc93ec7475",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The brain region targeted by deep brain stimulation for addressing treatment resistant depression is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "efae8ac6-58ab-43a9-9ee3-02d0b9c7243f",
+          "text": "Amygdala",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4cc3206e-1434-4860-a217-b64a2f04fae1",
+          "text": "Hippocampus",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "1e951f4c-26e9-4774-a078-ff6623ec4bcc",
+          "text": "Anterior cingulate cortex",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "48347a7a-54b5-42ab-a52e-f80b9b035efe",
+          "text": "Habenula",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "9cb89604-4ba2-43d6-8b0f-db0cf1498188",
+          "text": "Dorsolateral prefrontal cortex",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "1e951f4c-26e9-4774-a078-ff6623ec4bcc",
+        "text": "Anterior cingulate cortex"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "1e951f4c-26e9-4774-a078-ff6623ec4bcc",
+          "text": "Anterior cingulate cortex",
+          "is_correct": true
+        }
+      ],
+      "explanation": "To date, studies of DBS in depression have primarily targeted the subcallosal cingulate gyrus (Brodmann Area 25 or Cg25 or Meyberg site), ventral capsule/ventral striatum, medial forebrain bundle, and nucleus accumbens. The best reported effect size to date has been obtained from stimulating the subcallosal cingulate cortex (Cg25). The ventral capsule/ventral striatum (VC/VS) site was accidentally discovered as a potential site when conducting DBS trials on OCD, as mood improvement preceded change in OCD symptoms when VC/VS was stimulated.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": "1c3615a8-a6f4-4432-a40f-7df03880741c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Estimating a subject specific motor threshold before prescribing a treatment dose is required for which of the following techniques?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "bf18493c-f5f1-4758-9d56-abd4e36e5c69",
+          "text": "tDCS",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c87ef4f5-c614-4c95-b242-39e13988bac3",
+          "text": "MEG",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "895a4c31-8681-42db-b130-93f125a08d83",
+          "text": "TMS",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "5dae70bb-d479-465a-ac75-01ddf3685e26",
+          "text": "ECT",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e90a3c7f-4cf0-4e84-b474-68b9199eabfb",
+          "text": "tACS",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "895a4c31-8681-42db-b130-93f125a08d83",
+        "text": "TMS"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "895a4c31-8681-42db-b130-93f125a08d83",
+          "text": "TMS",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Transcranial magnetic stimulation utilizes the measurement of motor threshold. Motor Threshold is defined as the minimum TMS intensity sufficient to produce a predefined motor-evoked potential (MEP) in the contralateral abductor pollicis brevis in at least 50% of trials [Rossini et al., 1994]. MT, roughly a measure of the TMS intensity necessary to evoke a peripheral motor response, is highly variable across individuals but also remarkably constant in a given individual [Cicinelli et al., 1997; Mills and Nithi, 1997; Ziemann et al., 1996]. The MT is of particular importance in TMS experimental design as a way of calibrating and normalizing TMS coil output energy for individual physiologic variability and thus determines both dose and safety limits. Excerpt from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2893589/",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 44,
+      "question_id": "40cc689c-7c4d-4372-aea3-1fde380f0ecc",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following receptors does it predominantly bind to in experimental studies?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6df0e775-9a7a-4ea0-bd01-3303704114d5",
+          "text": "M1 Muscarinic",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "08014925-3019-449c-933a-1311721fb3a9",
+          "text": "D4 Dopaminergic",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c17147f9-c634-433c-84af-1551947193b9",
+          "text": "M2 Muscarini",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "fec1f773-fe6f-4bf4-9219-e4a49b9d06d9",
+          "text": "D2 Dopaminergic",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "3565e0d5-d8d1-406f-a9e0-f44bc3a6d5b0",
+          "text": "M3 Muscarinic",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "3565e0d5-d8d1-406f-a9e0-f44bc3a6d5b0",
+        "text": "M3 Muscarinic"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "3565e0d5-d8d1-406f-a9e0-f44bc3a6d5b0",
+          "text": "M3 Muscarinic",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Designer Receptors Exclusively Activated by Designer Drugs (DREADD) is a chemogenetic tool that allows targetted manipulation of neuronal cells through genetically engineered expression of designer receptors that can be activated only by specific designer drugs. Clozapine-N-oxide (CNO) is a designer drug that is inert pharmacologically but activate a specific designer G-protein coupled (Gq-DREADDs) receptors. In particular, CNO acts on the muscarininc M3 designer receptor. It can also activate designer M1 and M5 receptors although hM3Dq is the most frequently used. While inert at the recommended doses (0.1–3 mg/kg), CNO may get back-transformed to clozapine via metabolic pathways but this occurs at a low level.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 45,
+      "question_id": "26e19be8-e41f-4c3d-92bc-e5fe278e614d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "When administering rTMS, which of the following frequency of stimulation is considered to have an excitatory effect on neuronal cells?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c2ff5ff4-63fb-4679-b712-e1703b05afd1",
+          "text": "0.5-0.9 Hz",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "0f2fb1e9-8992-4a95-974d-2c702de4f5ef",
+          "text": "5-20 Hz",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "d5209004-1258-4b34-906f-3621a3b584f6",
+          "text": "2-4 Hz",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "3ac3653a-47aa-4519-85d5-112c0bcca5ac",
+          "text": "1-5 Hz",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "9318895f-8026-4eb2-a5d1-f464f3acb36a",
+          "text": "3-7 Hz",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "0f2fb1e9-8992-4a95-974d-2c702de4f5ef",
+        "text": "5-20 Hz"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "0f2fb1e9-8992-4a95-974d-2c702de4f5ef",
+          "text": "5-20 Hz",
+          "is_correct": true
+        }
+      ],
+      "explanation": "High-frequency stimulation (5–20 Hz) is considered excitatory and low-frequency stimulation (1–5 Hz) inhibitory.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 46,
+      "question_id": "875e5d5d-1d86-4669-80a4-ec8dc6b4b708",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is an endogenous process used to regulate gene expression and to degrade foreign mRNA from phages?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2e9d3753-d4e8-4cb9-85e5-1fe14eecb9d3",
+          "text": "Nuclease Transcription",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "1858c485-8d9b-43e9-92a8-38aa6ad7134c",
+          "text": "Histone modification",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "fe4671b2-b1b1-40ef-8545-ef30f083797b",
+          "text": "RNA interference",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "cc78b4b2-edcc-47f7-8a29-dc76945ecc20",
+          "text": "DNA interference",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "034ed20a-89b4-4eea-bc16-202945a744aa",
+          "text": "Spontaneous mutations",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "fe4671b2-b1b1-40ef-8545-ef30f083797b",
+        "text": "RNA interference"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "fe4671b2-b1b1-40ef-8545-ef30f083797b",
+          "text": "RNA interference",
+          "is_correct": true
+        }
+      ],
+      "explanation": "RNAi is an endogenous process used to regulate gene expression and to degrade foreign mRNA from phages. A double-stranded RNA (dsRNA) is cleaved by an enzyme called dicer resulting in small duplex fragments, ( ~ 19-23 base pairs long), called small interfering RNA (siRNA). The siRNA-Dicer forms a RNA-induced silencing complex (RISC) which further degrades RNA strands that have a complementary nucleotide sequence to one of the siRNA guide strands. We can use a dsRNA molecule homologous to the mRNA transcript to be silenced to achieve the intended RNAi. We can also deliver synthetic siRNAs to attract the RISC complex and bind the homologous mRNA transcript. Also, short hairpin RNA (shRNA) with complementary sequences at either end, can cause the molecule to fold onto itself, producing a hairpin shape.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

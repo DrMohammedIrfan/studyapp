@@ -1,0 +1,2916 @@
+{
+  "chapter_id": "f19dcafa-1c7e-4a85-bfa4-c7552d077559",
+  "chapter_name": "Research methods, evidence-based practice, statistics and critical appraisal 1",
+  "chapter_title": "Research methods, evidence-based practice, statistics and critical appraisal 1",
+  "resource_id": "cf3f77f2-40cf-4dad-b8e0-33bb47816aad",
+  "resource_title": "Get Through Paper 3",
+  "subject_name": "Get Through Paper 3",
+  "chapter_number": 6,
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "ae4571a4-4945-41f3-9694-b404c4779f6f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true regarding relative risk?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "587a62ed-c17d-4d39-b86a-e5ddb23e3eda",
+          "text": "It is also called risk ratio",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b2dcd631-506c-45b8-9ef1-b71fe6fe6a19",
+          "text": "It compares the risk of disease and death in two groups",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "bdf067ea-6673-4e0a-b993-abc5cf79efa4",
+          "text": "The 'exposed' group is the group of prime interest",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "2d709772-d8a4-4c45-9c7b-7da9b739875b",
+          "text": "The 'unexposed' group is the comparison group",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "88b5948d-9d5a-4843-bdbc-504563bbe9b8",
+          "text": "A relative risk greater than 1.0 indicates a decreased risk for the 'exposed' group",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "88b5948d-9d5a-4843-bdbc-504563bbe9b8",
+        "text": "A relative risk greater than 1.0 indicates a decreased risk for the 'exposed' group"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "88b5948d-9d5a-4843-bdbc-504563bbe9b8",
+          "text": "A relative risk greater than 1.0 indicates a decreased risk for the 'exposed' group",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Relative risk compares the risk of some health-related event, such as a disease or death, in two groups. The group of primary interest is labelled the exposed group and the comparison group is labelled the unexposed group. The relative risk is calculated according to the following equation: Relative risk = risk of exposed group / risk of unexposed group. A risk ratio of 1.0 indicates identical risks in the two groups. A risk ratio greater than 1.0 indicates an increased risk for the exposed group and a risk ratio less than 1.0 indicates a decreased risk for the exposed group.",
+      "explanation_images": [
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/Get%20Through%20Paper%203/6.%20Research%20methods,%20evidence-based%20practice,%20statistics%20and%20critical%20appraisal%201/1/explanation_image-ae4571a4-4945-41f3-9694-b404c4779f6f-1784580901333.jpeg"
+      ],
+      "explanation_image_url": "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/Get%20Through%20Paper%203/6.%20Research%20methods,%20evidence-based%20practice,%20statistics%20and%20critical%20appraisal%201/1/explanation_image-ae4571a4-4945-41f3-9694-b404c4779f6f-1784580901333.jpeg"
+    },
+    {
+      "question_number": 2,
+      "question_id": "65f511f1-d488-444e-82b1-74233c88bde6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "If... A = number of people with disease and exposure B = number of people without disease but with exposure C = number of people with disease but without exposure D = number of people without disease and without exposure, which of the following equations will calculate the odds ratio?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4540f282-5692-4494-8d42-798ba391e800",
+          "text": "AB divided by CD",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b88c2a02-e900-4066-848a-c95a705df415",
+          "text": "AC divided by BD",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "854c4cb3-c405-4a32-82d6-9cef4aec37b7",
+          "text": "AA divided by BD",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "aa1ab9cb-ce3e-4909-ad2d-f43cbb5eac18",
+          "text": "AD divided by BC",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "5d158e58-b1d6-43c1-a16a-7e167268aa6a",
+          "text": "ABD divided by ACB",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "aa1ab9cb-ce3e-4909-ad2d-f43cbb5eac18",
+        "text": "AD divided by BC"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "aa1ab9cb-ce3e-4909-ad2d-f43cbb5eac18",
+          "text": "AD divided by BC",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Odds ratio is a measure of association that qualifies the relationship between an exposure and health outcome for a comparative study. The odds ratio is also sometimes called the cross-product ratio, as it is obtained by the product of the number of diseased people with exposure and the number of healthy people without exposure divided by the product of healthy people with exposure and diseased people without exposure.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "525738be-6c4e-4939-897f-23aa1eb4e883",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true regarding a placebo drug used in a clinical trial?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a2cad665-afc2-4512-994f-08b1298a5c1f",
+          "text": "It has no effect",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "3911f036-4cbf-4451-be03-838ebda49c4f",
+          "text": "It is pharmacologically inert",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7b99b189-a90c-4d31-9654-76d04b829832",
+          "text": "It is identical in appearance to the active drug",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "592c0623-4dfd-4498-bf0d-a297b273d55e",
+          "text": "The person administering the drug is blinded",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e6be9b33-6d08-4e46-8ee9-59fdcefedf7f",
+          "text": "It should be given with as much confidence as the active drug",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "a2cad665-afc2-4512-994f-08b1298a5c1f",
+        "text": "It has no effect"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "a2cad665-afc2-4512-994f-08b1298a5c1f",
+          "text": "It has no effect",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The placebo drugs, although pharmacologically inert, do produce effects, as reported by the participants of the trial.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": "b9590f14-2956-4461-940f-2b327935c805",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following factors is least likely to influence the placebo effect of a particular drug?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1123cbfe-0222-4099-8b14-086f88b55818",
+          "text": "Size of the tablet",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f4ec033a-2305-44e1-b6b4-e1180d338624",
+          "text": "Colour of the tablet",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6af6d5f7-803d-4283-ac45-0c68ad0a2e84",
+          "text": "Status of the person administering the drug",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0dd833ca-3500-4047-a29b-15cd99386d69",
+          "text": "Age of the patient",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "191615fa-f2cc-46bc-896c-b75da9875b47",
+          "text": "Expectation of the patient",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "0dd833ca-3500-4047-a29b-15cd99386d69",
+        "text": "Age of the patient"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "0dd833ca-3500-4047-a29b-15cd99386d69",
+          "text": "Age of the patient",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The placebo effect is least likely to be influenced by the age of the patient.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": "dc081d2f-5b63-407f-ac87-7b040594b7dd",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is true regarding measures of central location?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f031a080-5951-4f87-be7f-a2bcb07c8254",
+          "text": "They are a range of values that best represent a characteristic of a group of individuals",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f2c543ed-06e8-43e5-953d-d12b43ac397b",
+          "text": "They are a single value that best represent a characteristic of a group of individuals",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "02524882-4aef-44ff-afc6-2cfdd773b300",
+          "text": "They are a measure that quantifies how much individuals in a group vary from each other",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5c1f933d-9e87-4ab6-b7a1-d085012d98cb",
+          "text": "They are a measure that quantifies how much individuals in a group vary from other groups",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a04a2dc3-cfc8-47e3-af41-d31fc82bacdb",
+          "text": "None of the above",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "f2c543ed-06e8-43e5-953d-d12b43ac397b",
+        "text": "They are a single value that best represent a characteristic of a group of individuals"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "f2c543ed-06e8-43e5-953d-d12b43ac397b",
+          "text": "They are a single value that best represent a characteristic of a group of individuals",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A measure of central location such as arithmetic mean, median or mode is a single value that best represents a particular characteristic such as age or height of a group of individuals.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": "5d956835-0d44-4054-8a8d-95fc1b42f948",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is not a measure of central tendency?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0fec0e34-9ef0-4d07-889a-745f409e9ca7",
+          "text": "Arithmetic mean",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "31d0c85f-c9e4-47b8-a5fe-15c0af207e7d",
+          "text": "Median",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f13eceb5-e06d-47da-b4c1-88817c5e32a8",
+          "text": "Mode",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "600b745d-b47f-4605-ada9-71f09049aca3",
+          "text": "Range",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "80d857b8-7e52-45b0-8800-0662e8868430",
+          "text": "Mid-range",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "600b745d-b47f-4605-ada9-71f09049aca3",
+        "text": "Range"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "600b745d-b47f-4605-ada9-71f09049aca3",
+          "text": "Range",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Range is a measure of dispersion.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": "976765b3-a0f5-4b6a-8fde-c0d70f718dc6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following describes the normal distribution?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "bad8fdfe-0edf-4c4e-b248-313addba8f77",
+          "text": "Symmetric",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "c307fc51-5605-4684-9d75-a005c6fcbffc",
+          "text": "Asymmetric",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7778c26c-daf2-4f81-9aee-dbd4bb3cae1a",
+          "text": "Skewed",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "17553c2c-6aae-4314-89b4-c64ab927579f",
+          "text": "Positively skewed",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f13f7ad5-81ef-4b40-897b-bb4b989409a9",
+          "text": "Negatively skewed",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "bad8fdfe-0edf-4c4e-b248-313addba8f77",
+        "text": "Symmetric"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "bad8fdfe-0edf-4c4e-b248-313addba8f77",
+          "text": "Symmetric",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The symmetrical clustering of values around a central location is typical of many frequency distributions and is called the normal distribution.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": "bba3cce0-44d0-447b-bd7e-8367484b9034",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "All of the following statements are true regarding the 'arithmetic mean', except:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "64459d7f-3a35-4802-97f8-a262ae9e3698",
+          "text": "It is a measure of central tendency",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2673b9f7-d63d-4d98-9212-93a18dcc5ec2",
+          "text": "It is best suited for data with a normal distribution",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d7b6ac7e-3ad8-4336-8756-3ec97a660c09",
+          "text": "It is sensitive to extreme values",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5653db7b-f9dd-4bc4-8165-d0b9f6952040",
+          "text": "It is a good summary measure for skewed data",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "eeb1de30-0c2c-4940-b892-ba8318c7a3e3",
+          "text": "It is a poor summary measure for skewed data",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "5653db7b-f9dd-4bc4-8165-d0b9f6952040",
+        "text": "It is a good summary measure for skewed data"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "5653db7b-f9dd-4bc4-8165-d0b9f6952040",
+          "text": "It is a good summary measure for skewed data",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Arithmetic mean, because of its sensitivity to extreme values, is considered a poor summary measure for data that are severely skewed in either a positive or a negative direction.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": "ec7a2d0c-fef5-4e11-a00d-bdf74bfa43f4",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Identify the mode from the following set of values: 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 4, 6, 6, 9.",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "698c2b48-7891-4e61-82ec-6860c4604d8a",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "801de80f-6bae-4bb9-ad69-bb3fc46e536e",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "af912bb2-3fd1-4abb-82ce-659bc77c59c9",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "418e440c-8ab2-46c3-b35d-be6b20e1740f",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "353751ac-56bd-4db4-bf46-80a1bd620af4",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "801de80f-6bae-4bb9-ad69-bb3fc46e536e",
+        "text": "1"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "801de80f-6bae-4bb9-ad69-bb3fc46e536e",
+          "text": "1",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Mode is the value that occurs most often in a set of data and in this example the number 1 occurs four times, which is more than any other value.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": "513f1c7a-9c11-40c6-a9eb-1ee8dbc64b9d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is not a measure of dispersion?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "60b22e12-d97b-40eb-95de-3141c4c47781",
+          "text": "Range",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "329e83f2-fcb3-4bb6-b4d8-80b2a10206e9",
+          "text": "Mid-range",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "e2100f60-a7cd-47f6-b370-335c2b09127d",
+          "text": "Interquartile range",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "af37ffa4-87d2-4cff-bb44-d3c8547417dc",
+          "text": "Variants",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "af658bea-139b-493b-a8aa-10ee1d89f25d",
+          "text": "Standard deviation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "329e83f2-fcb3-4bb6-b4d8-80b2a10206e9",
+        "text": "Mid-range"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "329e83f2-fcb3-4bb6-b4d8-80b2a10206e9",
+          "text": "Mid-range",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Mid-range is a measure of central tendency.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": "1c669471-5aaa-422e-92dd-776de8d5be8b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true regarding standard deviation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "43d12c8c-bab2-4094-9fad-891ea2a10ddf",
+          "text": "It is a measure of dispersion",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f24f9ed5-5ecb-4439-a1a8-54817fb94feb",
+          "text": "The square root of variance is standard deviation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "0a3639b3-ba07-488a-82a1-87f0d84007cd",
+          "text": "It is usually represented by s",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0f23f4b7-3c1c-4bfe-8afd-14bd553f774b",
+          "text": "It is usually represented by s2",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "e15eb5e5-9840-4ba3-8160-5acf6430fbbd",
+          "text": "None of the above",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "0f23f4b7-3c1c-4bfe-8afd-14bd553f774b",
+        "text": "It is usually represented by s2"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "0f23f4b7-3c1c-4bfe-8afd-14bd553f774b",
+          "text": "It is usually represented by s2",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Variance and standard deviation are measures of dispersion. Variance is the mean of the square differences of the observations from the mean. It is usually represented in formulas as s2. The standard deviation is the square root of variance and is usually represented in formulas as s.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": "102b3b0e-c4e8-4329-bffd-530926a7af13",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In a distribution that is skewed to the left, all of the following statements are true, except:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "fe7e772c-e07b-4448-abe5-60eb517bf673",
+          "text": "Mean, mode and median are on the same line",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "8d08c7c9-6866-4885-b0e7-376debc83324",
+          "text": "Mean is towards the tail",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "aff07c50-683b-4ac6-9766-3a900b898c50",
+          "text": "Median is in the middle",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a2b4a487-c9a1-435e-bed6-5e6cfa47afe2",
+          "text": "Mode is towards the right",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "94998c10-4fbf-4294-95c2-f7df99fc7648",
+          "text": "Use of median is preferred to represent the centre of the data",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "fe7e772c-e07b-4448-abe5-60eb517bf673",
+        "text": "Mean, mode and median are on the same line"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "fe7e772c-e07b-4448-abe5-60eb517bf673",
+          "text": "Mean, mode and median are on the same line",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Mean, mode and median lie on the same line in symmetrical distribution and not in skewed distribution. In skewed distributions, the median is preferred to represent the centre of the data because it is not affected by a few extremely high or low observations.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": "d7c95ff1-d5b0-4de6-bd43-462d1a1e8c72",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements best describes a confidence interval?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "12f3df4b-621c-403c-9b38-032773fa9b45",
+          "text": "It helps to calculate the mean",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ed4f5b6e-e349-40e3-a446-985e2f2ed814",
+          "text": "It helps to calculate the mode",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "e9fe9c9f-ef67-4446-a90f-81f2e019e249",
+          "text": "It helps to calculate the median",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0055294c-3a0e-43b6-9873-4f40e84e6fb2",
+          "text": "It is the same as interquartile range",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "eb0a033f-e92a-4ef2-9c94-2e8ef542f6a4",
+          "text": "It indicates how precise or imprecise the estimate is",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "eb0a033f-e92a-4ef2-9c94-2e8ef542f6a4",
+        "text": "It indicates how precise or imprecise the estimate is"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "eb0a033f-e92a-4ef2-9c94-2e8ef542f6a4",
+          "text": "It indicates how precise or imprecise the estimate is",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A confidence interval indicates how precise or imprecise an estimate is.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": "545a195f-9194-4123-b666-62197774a9e7",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following measures of central tendency has half of the observations below it and half of the observations above it?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "88a04208-fdef-403a-bbd1-f34f08173517",
+          "text": "Arithmetic mean",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "9090cbb8-798f-443f-947e-48802135f9f2",
+          "text": "Geometric mean",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c6fb6a02-806e-4021-868b-76f93904f10b",
+          "text": "Median",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "80b0f88d-ccb9-4339-925a-c39effdfa050",
+          "text": "Mode",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e00d9003-b686-48a6-b71c-5fedd336d923",
+          "text": "Range",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "c6fb6a02-806e-4021-868b-76f93904f10b",
+        "text": "Median"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "c6fb6a02-806e-4021-868b-76f93904f10b",
+          "text": "Median",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The median is at the halfway point of a set of data that have been arranged in rank order.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": "92ad529c-a23d-41f6-82eb-e8ab14563785",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is the most commonly used measure of central location?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "bde4094b-498e-4faa-90d1-728d42a18700",
+          "text": "Arithmetic mean",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "9562e3f1-4a8f-44ae-898d-384c30800716",
+          "text": "Geometric mean",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9c1e8cbf-0867-431c-aeba-d0d68561c39a",
+          "text": "Median",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a69b0b42-a2da-4390-a8eb-e61f85f42393",
+          "text": "Mode",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "89709192-3a58-43ce-a187-471afcec9e81",
+          "text": "Range",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "bde4094b-498e-4faa-90d1-728d42a18700",
+        "text": "Arithmetic mean"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "bde4094b-498e-4faa-90d1-728d42a18700",
+          "text": "Arithmetic mean",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The arithmetic mean is the most commonly used measure of central location.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": "67331f3d-54cd-4a82-b866-6421c92da6d4",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "All of the following are measures of dispersion, except:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "55a11e3f-37cb-4d41-9f1b-6bac8877474a",
+          "text": "Variance",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "cc8d39f2-b5d4-4547-bbce-192ab97e7537",
+          "text": "Standard deviation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "06761ccc-19d3-4f48-9258-47d0ba1ec0ed",
+          "text": "Range",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ed170c40-65c1-4848-8f39-233c5308475f",
+          "text": "Percentile",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "261909ea-765f-49e3-9b8c-c31e43cace07",
+          "text": "Interquartile range",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "ed170c40-65c1-4848-8f39-233c5308475f",
+        "text": "Percentile"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "ed170c40-65c1-4848-8f39-233c5308475f",
+          "text": "Percentile",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A percentile is at a particular point in a data set and is not a measure of dispersion.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": "b4be1a37-86a3-4ff1-816f-3a390e755080",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following describes the distribution curve below? Frequency Variable",
+      "table": null,
+      "images": [
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/mcq-images/gt3-c6-17.png"
+      ],
+      "image_url": "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/mcq-images/gt3-c6-17.png",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "7a5cc1bb-7a5d-41c0-801a-b516d27c469d",
+          "text": "Negatively skewed",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "55f90515-cdeb-46a7-85ec-f772072db6f9",
+          "text": "Positively skewed",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "c76e6694-e795-42e3-97cd-92700b2bedbe",
+          "text": "Skewed to the left",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f61206a6-c2f5-4a08-a608-d7135f947546",
+          "text": "Normal distribution",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f4177956-ce74-48a9-8fba-18f05b48195b",
+          "text": "None of the above",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "55f90515-cdeb-46a7-85ec-f772072db6f9",
+        "text": "Positively skewed"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "55f90515-cdeb-46a7-85ec-f772072db6f9",
+          "text": "Positively skewed",
+          "is_correct": true
+        }
+      ],
+      "explanation": "This distribution curve is positively skewed as the tail points to the right and defines the direction of the skew.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": "bb20cca4-0553-4fbc-85f8-6528c4733cfd",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following measures of central location is most affected by extreme values?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5edb58a2-b6cf-4983-9d17-a2e1b7efe340",
+          "text": "Range",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e7376cfc-d1d3-4f97-b257-65edc5772f59",
+          "text": "Mode",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d47b78cd-b5f0-49ee-a09d-7e03fbfa40e0",
+          "text": "Median",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "adaa19cd-a172-4084-b5b0-15c2e832afe2",
+          "text": "Geometric mean",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "208ccd51-527c-49b5-856e-b88c7ac6d5cb",
+          "text": "Arithmetic mean",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "208ccd51-527c-49b5-856e-b88c7ac6d5cb",
+        "text": "Arithmetic mean"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "208ccd51-527c-49b5-856e-b88c7ac6d5cb",
+          "text": "Arithmetic mean",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The arithmetic mean is most sensitive to extreme values.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": "87608af4-b305-4c30-a91e-228c4327a873",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following data sets has the smallest standard deviation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "84cb8502-947b-471e-83b0-8f907218ae84",
+          "text": "2, 4, 4, 4, 6, 9, 9, 9, 10, 10",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ccc786dd-97ae-49da-9450-f2d47f86b3ef",
+          "text": "6, 8, 8, 8, 11, 12, 13, 14, 15, 16",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "292fbdd8-3d4b-450a-bb7c-c2e23a0ae040",
+          "text": "1, 1, 1, 6, 6, 6, 6, 6, 6, 6",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "694e5fac-f88e-47bf-8cb3-0003f1252d19",
+          "text": "2, 4, 6, 8, 10, 12, 14, 16",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d83b3a79-0835-4b53-9388-9e5648dd324e",
+          "text": "30, 30, 30, 30, 30, 30, 30, 30, 30, 30",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "d83b3a79-0835-4b53-9388-9e5648dd324e",
+        "text": "30, 30, 30, 30, 30, 30, 30, 30, 30, 30"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "d83b3a79-0835-4b53-9388-9e5648dd324e",
+          "text": "30, 30, 30, 30, 30, 30, 30, 30, 30, 30",
+          "is_correct": true
+        }
+      ],
+      "explanation": "As all the observations have the same value, the mean is 30, the difference between each value and the mean is 0 and thus the standard deviation is also 0. In other words, there is no dispersion from the mean.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": "ea409496-c8e2-4ee1-ae4d-02fc2c25ed49",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is essential for testing the effectiveness of a given treatment?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "25c372c1-a99d-4162-8d15-9d54ad671213",
+          "text": "Untreated controls",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "26d818b1-a8bf-427b-8c5c-822692b9ff53",
+          "text": "Double-blind procedure",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "bb456e25-8503-4be8-b8b8-006ead9d3b9b",
+          "text": "A valid measure of change",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "7fda4817-2312-4542-a86d-9fb40bc438d5",
+          "text": "Patients' self-reports",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "8fa7c3ff-3947-4e7d-9d3a-4ec46c232067",
+          "text": "Physiological measures",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "bb456e25-8503-4be8-b8b8-006ead9d3b9b",
+        "text": "A valid measure of change"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "bb456e25-8503-4be8-b8b8-006ead9d3b9b",
+          "text": "A valid measure of change",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A validated instrument to measure a change is essential for testing the effectiveness of a given treatment.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": "b9a63473-9af8-4bf1-8cc3-4a10e5fb8392",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is not typically included in a study protocol?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b19aa76c-0a6c-4a8b-8bba-4c232591205a",
+          "text": "Aims of the study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "722a1ee5-14af-4e75-8b3e-c2815e3b3259",
+          "text": "Review of relevant literature",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "527bfc6d-98cd-4308-93ed-ec3e11d11f8c",
+          "text": "Study design",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "3d3b7463-2ab7-4acc-8361-5e7ba5d1ffe0",
+          "text": "Anticipated date of the start of the study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "383d12fc-7009-4dfb-9ccb-d47bbd15d1e4",
+          "text": "Anticipated date of the publication of results",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "383d12fc-7009-4dfb-9ccb-d47bbd15d1e4",
+        "text": "Anticipated date of the publication of results"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "383d12fc-7009-4dfb-9ccb-d47bbd15d1e4",
+          "text": "Anticipated date of the publication of results",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The anticipated date and place of publication of the results is usually not included in a study protocol.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": "b31032a3-44e6-4ecb-98b5-5b0ed3e43e45",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "All of the following are essential qualities of a well designed study, except:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9f8f7369-0b63-4bae-88c5-901de4e4dbf4",
+          "text": "Clearly defined inclusion and exclusion criteria",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "aba8c657-7c1f-401f-a1cc-e5469e22f13a",
+          "text": "Power calculation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "beb65b31-2102-42e8-b652-b6141dcc4a95",
+          "text": "Use of reliable and valid instruments",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "16b4014d-d2f3-44f2-a956-b4b4e5a24a11",
+          "text": "Excluding the data from drop-outs to avoid spurious results",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "d37e3351-d319-4807-bfd2-d934838b316e",
+          "text": "Intention-to-treat analysis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "16b4014d-d2f3-44f2-a956-b4b4e5a24a11",
+        "text": "Excluding the data from drop-outs to avoid spurious results"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "16b4014d-d2f3-44f2-a956-b4b4e5a24a11",
+          "text": "Excluding the data from drop-outs to avoid spurious results",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The data from drop-outs should always be included in an intention-to-treat analysis.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": "374bdd49-51d6-4b81-8c9c-db3b0b695613",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Placebo-controlled studies are justifiable in which of the following scenarios?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c67697fe-6666-48c9-b9cf-55c84208e591",
+          "text": "When a new drug is developed",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4ad37210-7135-4e7f-a54b-285714122790",
+          "text": "To measure mortality risk",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2466d5ec-bb10-424c-bf40-c9525ba9a996",
+          "text": "To convince people to use a new drug",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "be617f6b-9f3a-46d7-9028-418d1c40db08",
+          "text": "When there is no possibility of treatment being better than placebo",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "de791bd5-58dd-4ed1-bf84-c59a88d1a59f",
+          "text": "When there is genuine uncertainty as to whether the treatment is better than placebo",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "de791bd5-58dd-4ed1-bf84-c59a88d1a59f",
+        "text": "When there is genuine uncertainty as to whether the treatment is better than placebo"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "de791bd5-58dd-4ed1-bf84-c59a88d1a59f",
+          "text": "When there is genuine uncertainty as to whether the treatment is better than placebo",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A placebo-controlled study can be justifiable only if there is genuine uncertainty as to whether the active treatment is better than placebo.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": "d5377a1e-7fe2-445a-9e3d-a8c4a7683475",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is true regarding data collection?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b5fab85a-baf1-493c-8ea3-92ee52cd0fa0",
+          "text": "Questionnaires sent by mail usually get a response rate of less than 40%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c6aa26dd-bbda-4ab2-adb4-415c642a6b7c",
+          "text": "The maximum amount of data should be collected from the records",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "87224746-41b1-4a49-89bf-ea6c8a57201c",
+          "text": "The General Health Questionnaire (GHQ) can be used to screen for psychosis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "4a37d850-25de-4409-975f-ad186e1ca1c0",
+          "text": "The Present State Examination is a structured interview for mental state examination",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "be995155-7d46-4b5d-96d6-bb1a840c42ff",
+          "text": "The Schedule for Affective Disorders and Schizophrenia (SADS) is a structured interview",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "4a37d850-25de-4409-975f-ad186e1ca1c0",
+        "text": "The Present State Examination is a structured interview for mental state examination"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "4a37d850-25de-4409-975f-ad186e1ca1c0",
+          "text": "The Present State Examination is a structured interview for mental state examination",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Present State Examination is a structured mental state interview. The response rates to mail questionnaires are usually between 40 and 60%. The GHQ is a screening instrument for non-psychotic illness and the SADS is a semi-structured interview.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": "23f355a7-cf19-4602-80a2-0d70159add7a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is true regarding study designs?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "98348bf9-8522-4ce4-8c50-2ab1dc867048",
+          "text": "Observation studies can be used to establish the direction of causality",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5580f2e6-b43c-46c0-b66c-e8d917fa6833",
+          "text": "Case-control studies give information about prevalence",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5cfabd8e-58e9-49f6-bb8c-c1b9d3b9ec03",
+          "text": "Case-control studies give information about incidence",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e35d7885-389a-49c4-a93b-d57a3968f52a",
+          "text": "Sex cannot be a confounder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fa12dcb5-3433-408c-a107-2d8bf6bc1be4",
+          "text": "Cohort studies provide information about relative risk",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "fa12dcb5-3433-408c-a107-2d8bf6bc1be4",
+        "text": "Cohort studies provide information about relative risk"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "fa12dcb5-3433-408c-a107-2d8bf6bc1be4",
+          "text": "Cohort studies provide information about relative risk",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Cohort studies do provide information about relative risk, which is the ratio of illness rates in the exposed to the unexposed. Observational studies can provide clues only to causality but they cannot establish the direction of causality. Case-control studies give clues to aetiology. Sex can be confounding as it is a variable related to both risk factors and illness.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": "5689a7bd-5363-432f-8639-cc768f1a939b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true regarding research data?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6d29fd6b-378e-4318-ac99-f4d2edb8666f",
+          "text": "It is conventional to report 90% confidence intervals",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "11d9c559-d4e3-4166-9cfb-69398811449a",
+          "text": "In normal distribution, the probability of the population mean lying more than two standard errors away from the sample mean is less than 5%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "34f735d2-6ec0-47d9-90a1-6b0cccdcfef5",
+          "text": "Confidence intervals can be calculated from the mean and standard error only if the variable is assumed to be normally distributed",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e260c7f1-1b3f-4394-a660-a96d2813bb51",
+          "text": "The standard error of the mean enables estimation of the range within which the mean would fall if the study were repeated",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "9dd7c5e4-5c09-456a-bf28-d86d8b1f9716",
+          "text": "The standard error of the mean is a function of the standard deviation of the sample and of the sample size",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "6d29fd6b-378e-4318-ac99-f4d2edb8666f",
+        "text": "It is conventional to report 90% confidence intervals"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "6d29fd6b-378e-4318-ac99-f4d2edb8666f",
+          "text": "It is conventional to report 90% confidence intervals",
+          "is_correct": true
+        }
+      ],
+      "explanation": "It is conventional to report 95% confidence intervals.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": "e752e31f-3adf-4f2a-800c-928eebefb7e6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Type II error is caused by which of the following?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3db98fd4-ac1c-415b-883a-73ddab1af9c7",
+          "text": "Non-random recruitment",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f0e79a6f-396f-48fd-accf-5fd35de331ed",
+          "text": "Too many groups in the study design",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3d326e41-417c-4ad2-9fbc-6b71eaaf015f",
+          "text": "Too many subjects",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "3567196b-e126-44f5-a073-54737704cd36",
+          "text": "Too few subjects",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "f62ba522-9209-4898-9ac7-27461be073c1",
+          "text": "None of the above",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "3567196b-e126-44f5-a073-54737704cd36",
+        "text": "Too few subjects"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "3567196b-e126-44f5-a073-54737704cd36",
+          "text": "Too few subjects",
+          "is_correct": true
+        }
+      ],
+      "explanation": "With too few subjects there is a high risk of type II error or a false negative result.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": "8921f830-a082-4b32-a58f-389a54bce9e3",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true regarding the principles of meta-analysis?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b7878b15-ebed-473d-8df8-d06f31f9fba1",
+          "text": "All studies should be given equal weight",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "d48371e9-6547-4a50-80c4-5717839fd26f",
+          "text": "Double-blind randomized controlled trials are the gold standard",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b3e1bfd2-d5ae-452a-a03c-f55950274591",
+          "text": "The topic to be reviewed must be clearly defined",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "552ce61f-d58e-41f6-8d98-de1c3c83dfe0",
+          "text": "Studies published in a wide range of journals should be included",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "cff9de4f-7ced-430c-9876-c2831a937b38",
+          "text": "Publication bias can be reduced by using a funnel plot",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "b7878b15-ebed-473d-8df8-d06f31f9fba1",
+        "text": "All studies should be given equal weight"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "b7878b15-ebed-473d-8df8-d06f31f9fba1",
+          "text": "All studies should be given equal weight",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Larger studies should be given greater weight.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": "ca5d078a-3cc5-4d57-a890-77d88fb7f179",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is true regarding frequency measures?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "48e7262b-0e55-4525-8c7e-a15a7c5bf745",
+          "text": "Prevalence rates are a measure of new cases",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "6e3af146-305a-4421-b8f9-0a4df6f161c7",
+          "text": "Incidence can be determined by performing a cross-sectional survey",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "eda5237c-36c0-4e48-9b03-b0357ef6565e",
+          "text": "Incidence is a proportion and can therefore be best expressed as a percentage",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c53426d7-c8eb-4009-9af4-63def217abc8",
+          "text": "With prevalence rates, the denominator is a percentile",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d9c61820-dd46-4b61-946b-f8b3312ae163",
+          "text": "Chronic diseases have a low incidence and a high prevalence",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "d9c61820-dd46-4b61-946b-f8b3312ae163",
+        "text": "Chronic diseases have a low incidence and a high prevalence"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "d9c61820-dd46-4b61-946b-f8b3312ae163",
+          "text": "Chronic diseases have a low incidence and a high prevalence",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Incidence is the rate of new cases occurring in a defined population in a given time period, whereas prevalence is the proportion of a defined population that has the disease at a given time. Chronic diseases tend to show higher prevalence figures than incidence as the patient survives for a longer time and the total number of patients is always higher than the number of new cases.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": "7c587a7c-5210-4c68-9ca7-408c06e1beba",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true regarding statistical power?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "8b4eaad1-09eb-4503-aa1a-54c09d2dfad9",
+          "text": "It gives the probability that a type I error will not occur",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "da6c88d1-5365-4b52-b6ea-f8b0968d000f",
+          "text": "It depends upon the strength of the expected association in relation to the measurement error",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4460e491-d809-4749-ae04-76bc181efcfd",
+          "text": "It depends upon the prevalence of the exposure",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ce56acbe-abeb-4f27-a2a5-4a6313188bc7",
+          "text": "It depends upon the significance level chosen",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d453752b-cf7b-4ba5-a441-c826ac8a660d",
+          "text": "It depends upon the sample size",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "8b4eaad1-09eb-4503-aa1a-54c09d2dfad9",
+        "text": "It gives the probability that a type I error will not occur"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "8b4eaad1-09eb-4503-aa1a-54c09d2dfad9",
+          "text": "It gives the probability that a type I error will not occur",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Statistical power gives the probability that a type II error will not occur. The statistical power increases with increases in b, c, d and e.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": "c367c6a4-0fed-437c-b4d0-7d231aeda60d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is true regarding randomized controlled trials?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2b8c3e6f-a7eb-4af6-a925-5025ffe8cdc3",
+          "text": "A double-blind design eliminates the chance of measurement bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4f1cf90a-7559-416f-9296-5dc7b7c8cb48",
+          "text": "They are observational studies",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2a477367-1633-4357-8703-3df96162fa84",
+          "text": "They can be thought of as matched cohort studies in which unknown confounders are randomly allocated",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "54b3743b-8c11-494b-8652-3177c54dff61",
+          "text": "Subjects who drop out should be left out of the final analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "9365a8a0-7f24-4297-b67a-2b14c736522d",
+          "text": "If the randomization is not biased, it is not necessary to analyse the data for potentially confounding variables",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "2a477367-1633-4357-8703-3df96162fa84",
+        "text": "They can be thought of as matched cohort studies in which unknown confounders are randomly allocated"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "2a477367-1633-4357-8703-3df96162fa84",
+          "text": "They can be thought of as matched cohort studies in which unknown confounders are randomly allocated",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Blinding can only reduce the chance of measurement bias but cannot eliminate it. Randomized controlled trials are not observational studies but experimental studies. Drop-outs have to be considered in an intention-to-treat analysis. It is important to analyse data for potentially confounding variables as even unbiased randomization can result in differences between the groups.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": "f5292027-22ab-43f7-bbee-5cda0a32d3c9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "All of the following statements are true regarding confounding variables in epidemiological research, except:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "25720385-0aba-498b-a8d8-4e14b327b611",
+          "text": "They can be either a risk factor or a protective factor",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "53acf342-869e-40a5-9a1d-c1d331892247",
+          "text": "They can be associated with both exposure and disease",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "41198d91-3659-482e-ba43-3069b863b2f7",
+          "text": "They can be taken into account by introducing randomization in a study design",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "9614688d-c381-4e04-997b-04dcb0214e56",
+          "text": "They are on the causal pathway between exposure and disease",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "b367ed9d-69ef-4641-8a4d-68a959f8298c",
+          "text": "They can be taken into account by introducing matching into a study design",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "9614688d-c381-4e04-997b-04dcb0214e56",
+        "text": "They are on the causal pathway between exposure and disease"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "9614688d-c381-4e04-997b-04dcb0214e56",
+          "text": "They are on the causal pathway between exposure and disease",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The confounding variables are not on the causal pathway between exposure and disease.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": "dffe1e23-e447-4349-86bf-f2c9e08ce074",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In experimental studies, which of the following is not a form of group comparison?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5afa0856-1ea8-4edb-91d1-6d47ba31ca11",
+          "text": "Parallel groups",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "8e0c6008-a44c-42e1-a526-239043043107",
+          "text": "Cross-over design",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "204e6cad-4d39-4834-92c5-a8e5ff07e4ff",
+          "text": "Double blinding",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "2a250f7a-b421-4350-88de-2929307cd6d4",
+          "text": "Factorial design",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "07745177-f316-41c0-8d34-05e74637c4a2",
+          "text": "Sequential design",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "204e6cad-4d39-4834-92c5-a8e5ff07e4ff",
+        "text": "Double blinding"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "204e6cad-4d39-4834-92c5-a8e5ff07e4ff",
+          "text": "Double blinding",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Double blinding is not a form of group comparison but a technique used in randomized controlled trials where the researcher and the subject are blinded from the information about whether the subject is entering the treatment arm or placebo arm of the study. Double blinding helps to prevent observation bias as well as placebo effect.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": "38a20cbf-7112-4d5c-8f33-50060e703c71",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following methods of data collection is the most expensive and time consuming but can generate high-quality data?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9ca78514-8992-4b3d-b59c-6c2104f480a0",
+          "text": "Computer interview",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "308b6da8-9eee-408f-8bb3-5ba0a6e7553b",
+          "text": "Telephone interview",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "1382bbb4-ced5-4bf9-bc7b-b3cc1147cd1a",
+          "text": "Mail questionnaires",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ae082590-82d2-4222-b8c7-b7e5ec06e6c6",
+          "text": "Personal interview",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "10e264f1-8d44-4d62-bafb-ce17e9e9db6d",
+          "text": "Record reviews",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "ae082590-82d2-4222-b8c7-b7e5ec06e6c6",
+        "text": "Personal interview"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "ae082590-82d2-4222-b8c7-b7e5ec06e6c6",
+          "text": "Personal interview",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The personal interview approach can generate high-quality data with a high response rate but is expensive and time consuming. It also requires training and practice for the interviewers.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": "67dc2e06-c748-4107-9682-def70c29c9cc",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true regarding correlation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6ca42299-4891-41ca-9b49-2633e40c3d37",
+          "text": "It is a useful technique to analyse nominal data",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "947e2e5a-87d5-42d5-8148-8474e65fe12e",
+          "text": "It usually examines the association between two variables (X and Y)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f5ea602f-38cc-4021-9005-3f09835b16ea",
+          "text": "A 0 correlation means that there is no association between X and Y",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "72e57b0d-9726-4ded-a597-97caa3b3caa6",
+          "text": "A positive correlation means that Y increases in a straight line as X increases",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "34ec4379-6297-4914-a57d-cc3a5015f104",
+          "text": "A negative correlation means that Y decreases in a straight line as X increases",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "6ca42299-4891-41ca-9b49-2633e40c3d37",
+        "text": "It is a useful technique to analyse nominal data"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "6ca42299-4891-41ca-9b49-2633e40c3d37",
+          "text": "It is a useful technique to analyse nominal data",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Correlation is used to look at the association between continuous quantitative data.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": "89420b98-2fa0-4d47-bb84-75ca5091b347",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What is the range of the correlation coefficient?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4d322446-7fae-4678-ad88-2aaef31d6ec2",
+          "text": "0 to +1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f9dad0bc-a5dc-4da2-be74-d5bfd105d7ce",
+          "text": "-1 to 0",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "69dcbdf4-82f1-437a-a6a4-c5529ea2a5e1",
+          "text": "0 to +100",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "cbf1f528-11ab-4c73-a19a-55669ce2f393",
+          "text": "-1 to +1",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "1397a239-572f-4564-9015-4b9924efa8ac",
+          "text": "-100 to 0",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "cbf1f528-11ab-4c73-a19a-55669ce2f393",
+        "text": "-1 to +1"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "cbf1f528-11ab-4c73-a19a-55669ce2f393",
+          "text": "-1 to +1",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The correlation coefficient ranges from -1 to +1. It is used in research to show the strength of the linear relationship between two variables.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": "cb843d0f-331a-48ae-b6aa-86a0b4d4db6e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true regarding systematic reviews?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "99c1c9a7-e2ea-4086-8def-3c944a142141",
+          "text": "They deal with a specific research question",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3fcfa1e1-b5fe-4399-a663-846e610caf65",
+          "text": "They clearly explain the search strategy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b8e59549-1d14-4b51-9e4f-ce11caec6ef0",
+          "text": "They pool the results from the selected studies",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "248cdbcf-66e1-499c-9aa2-a32b01b7a8ae",
+          "text": "They can be valuable for evidence-based practice",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e22ca1dc-18ea-4716-9f32-a01c7900c60f",
+          "text": "Overall conclusions are not more reliable than individual studies",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "e22ca1dc-18ea-4716-9f32-a01c7900c60f",
+        "text": "Overall conclusions are not more reliable than individual studies"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "e22ca1dc-18ea-4716-9f32-a01c7900c60f",
+          "text": "Overall conclusions are not more reliable than individual studies",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Systematic reviews are considered the gold-standard source for research evidence and overall conclusions are usually more reliable than those drawn from individual studies.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": "8f84770c-33cf-4b89-87a8-d966f8658360",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following could negatively influence the conclusions of a meta-analysis?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9af8eb54-03b1-479d-a7dd-f3fdae8829a2",
+          "text": "Combining the results of several studies",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "82b8b3c0-e0af-4216-8761-f024d21cb28d",
+          "text": "Calculation of a P value from the pooled data",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6ca7f632-65cb-40d1-8e6f-829c21974bd5",
+          "text": "Calculation of a confidence interval from the pooled data",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c0fbb5e5-53ac-4a79-a4bf-849540fec578",
+          "text": "Interpretation of the findings",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "de316c89-f31d-46d4-b2e2-b7b7d974bb21",
+          "text": "Publication bias",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "de316c89-f31d-46d4-b2e2-b7b7d974bb21",
+        "text": "Publication bias"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "de316c89-f31d-46d4-b2e2-b7b7d974bb21",
+          "text": "Publication bias",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Publication bias can have a negative effect on the findings of a meta-analysis. Ideally, a meta-analysis should include all the information provided by all the studies performed to answer a particular question. If the results of only positive studies are considered for meta-analysis, then the findings could be biased towards a particular intervention, as all the negative studies were excluded.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": "733adb34-29da-459e-86cc-cbfe32734ab4",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true regarding forest plots?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a8c41b73-49e9-4ab5-be69-9ee586ed9f1f",
+          "text": "They are used to present results of randomized controlled trials only",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "21859bc9-b3da-41e8-8009-050f4230111b",
+          "text": "The studies are listed on the vertical axis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "bd216a88-07ae-4e78-b45d-7e38259a05c6",
+          "text": "The outcome measure is on the horizontal axis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f8b9bcf4-e539-4e5d-9f0c-ff0b0eabaa4c",
+          "text": "The 'line of unity' intersects the horizontal axis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d1fced82-af60-4cbd-b59b-0de184cdba9d",
+          "text": "The overall outcome is represented by the diamond shape",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "a8c41b73-49e9-4ab5-be69-9ee586ed9f1f",
+        "text": "They are used to present results of randomized controlled trials only"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "a8c41b73-49e9-4ab5-be69-9ee586ed9f1f",
+          "text": "They are used to present results of randomized controlled trials only",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Forest plots are generally used to present the results of a meta-analysis.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": "a9a51898-9657-44f2-a155-0c0dee242389",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statistical methods is not used to test for heterogeneity?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9263676e-661c-4411-b665-2b0c532d9667",
+          "text": "Forest plot",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "6cf847ca-5e56-4b43-b8b9-8133d2e44c31",
+          "text": "Galbraith plot",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2c608273-c882-49c9-9b17-48bd6d170b57",
+          "text": "Z statistic",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "43d082fc-bf56-4f71-a9a5-888b232ce298",
+          "text": "Chi-square statistic",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "198c3d40-af6b-4da8-ad04-993d6953c766",
+          "text": "The Peto method",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "198c3d40-af6b-4da8-ad04-993d6953c766",
+        "text": "The Peto method"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "198c3d40-af6b-4da8-ad04-993d6953c766",
+          "text": "The Peto method",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Peto method is used for individual and combined odds ratios.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": "e4b17c9a-89d0-49a6-9dbf-a228a1e87668",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements best explains the term 'publication bias'?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "504d79a2-5eef-4f98-b20e-73726918093e",
+          "text": "Studies with negative findings are more likely to be published",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "cb1732bf-5f90-40ea-9603-97e4753c64b2",
+          "text": "Studies with positive findings are more likely to be published",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "79242b2f-cfd0-436e-bf04-5d072c872477",
+          "text": "Studies with high mortality figures are more likely to be published",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "368ddc27-f64b-4d65-9a85-9715a277e185",
+          "text": "Studies with low mortality figures are more likely to be published",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "93a0122a-4abb-4d7a-bc56-ae159f7bc488",
+          "text": "Studies sponsored by drug companies are more likely to be published",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "cb1732bf-5f90-40ea-9603-97e4753c64b2",
+        "text": "Studies with positive findings are more likely to be published"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "cb1732bf-5f90-40ea-9603-97e4753c64b2",
+          "text": "Studies with positive findings are more likely to be published",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Publication bias means the studies with positive findings are more likely to be published.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": "ad16d78e-e21d-4152-b37f-780495926149",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following methods can be used to identify publication bias?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "43d2de67-4ea2-4df1-8132-5095d47a973c",
+          "text": "Graphical method",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e6499839-2647-4dd9-93c9-4b1eddb0347a",
+          "text": "Meta regression",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "06424b1f-d0a5-47a6-a436-816cf265a4b1",
+          "text": "Correlation coefficient",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "bc7bdd30-9859-407e-b39b-941cf62052e1",
+          "text": "Funnel plots",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "535194f7-3bf0-4854-a5ba-64822ad6c06f",
+          "text": "Forest plots",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "bc7bdd30-9859-407e-b39b-941cf62052e1",
+        "text": "Funnel plots"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "bc7bdd30-9859-407e-b39b-941cf62052e1",
+          "text": "Funnel plots",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Funnel plots are used to identify publication bias. If publication bias is absent, then the funnel plot is symmetrical; it becomes asymmetrical in the presence of publication bias.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": "879c8c32-c9eb-4f09-9bce-5bb12dd930aa",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following study designs would be most suitable for aetiological studies?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "25150250-3a68-4e61-b919-8f27d42d1123",
+          "text": "Cross-sectional studies",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "398b1649-62a1-4c59-a09c-91c13eb60a99",
+          "text": "Case-controlled studies",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "364aec59-7a21-4506-a7b6-942114f4a7ae",
+          "text": "Randomized controlled trials",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0b31943f-7282-4e5e-988c-617f9176326d",
+          "text": "Intervention studies",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a71033e1-72dc-48ac-b0f5-74209739ab28",
+          "text": "None of the above",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "398b1649-62a1-4c59-a09c-91c13eb60a99",
+        "text": "Case-controlled studies"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "398b1649-62a1-4c59-a09c-91c13eb60a99",
+          "text": "Case-controlled studies",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In case-controlled studies, patients with a particular disease are identified and their past exposure to the aetiological factors is studied and compared with that of control subjects who do not have the disease. The odds ratio is estimated and potential confounding factors are measured.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 44,
+      "question_id": "cf8f1e90-166e-4ef3-a7ac-df1e32bd5d48",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Suppose a test on cerebrospinal fluid has been developed to identify depression. Which of the following terms best explains the following situation: 'A patient has been given a negative result when he is actually suffering from depression'?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9e77e25c-ed95-4dd5-8c7e-d406a3aa5119",
+          "text": "True positive",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "602d4758-508f-4393-b51f-40bf47e7e537",
+          "text": "True negative",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ec7ce89d-9f23-4b2c-90f4-5b720a53be0e",
+          "text": "False negative",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "2d518e3d-294e-4108-8973-e9180d680328",
+          "text": "False positive",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "508bef5c-9dfb-4808-ad1b-a9136c25a797",
+          "text": "None of the above",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "ec7ce89d-9f23-4b2c-90f4-5b720a53be0e",
+        "text": "False negative"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "ec7ce89d-9f23-4b2c-90f4-5b720a53be0e",
+          "text": "False negative",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A false-negative result means that a negative result has been shown by the test when the patient is actually suffering from depression.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 45,
+      "question_id": "dd6bd471-0167-4dd5-b774-e3d4ba3c5ae6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements best describes the 'positive predictive value' of a screening test?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f53a3b24-1c12-4be8-8062-0924efdf6485",
+          "text": "The proportion of people getting a positive result who will have the disease",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "dc29d578-d5e4-4882-a8cc-931649102d9b",
+          "text": "The proportion of people with the disease who test positive",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "e68fe035-df97-438c-b258-442f6438a75f",
+          "text": "The proportion of people without the disease who test negative",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7e468586-0662-4e9e-afb1-3ef8ebfbfbea",
+          "text": "The proportion of people getting a negative result who will not have the disease",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c29ba4e7-50c1-4139-819a-245cd10d9114",
+          "text": "The likelihood that those who test positive will have the disease as opposed to not have the disease",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "f53a3b24-1c12-4be8-8062-0924efdf6485",
+        "text": "The proportion of people getting a positive result who will have the disease"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "f53a3b24-1c12-4be8-8062-0924efdf6485",
+          "text": "The proportion of people getting a positive result who will have the disease",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The positive predictive value is the proportion of people scoring positive on the test who will have the disease.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 46,
+      "question_id": "d8f7e903-6d8f-4383-9788-4fe17960a2e8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What is the most suitable study design for assessing the effectiveness of a newly developed treatment?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f1df452e-f792-4d44-b5ec-29059c5773e5",
+          "text": "Retrospective study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "cb91710e-6d00-4587-8453-eb2e0b8f5de2",
+          "text": "Cross-sectional study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "838de434-f490-4391-ba46-d105446836b2",
+          "text": "Randomized controlled trial",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "fe8f01ce-4d5d-4f7a-955d-6820cbf234e9",
+          "text": "Observational studies",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e908d436-1b6a-4205-8244-c2afa2092355",
+          "text": "Systematic review",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "838de434-f490-4391-ba46-d105446836b2",
+        "text": "Randomized controlled trial"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "838de434-f490-4391-ba46-d105446836b2",
+          "text": "Randomized controlled trial",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Randomized controlled trials are considered the gold standard for assessing the effectiveness of a newly developed intervention.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 47,
+      "question_id": "0da02f54-3d09-4450-9fdc-59c9e2f101a3",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements best describes the term 'number needed to treat'?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b863337e-a076-4f3c-aa0e-529026a674aa",
+          "text": "The number of patients needed to be treated for the completion of a particular trial",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a4581920-8f2b-48b5-aa87-4a9ff5230bf0",
+          "text": "The number of patients who must be treated with an intervention without experiencing any adverse side-effects",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "e148daa6-ab81-4c49-a2c9-7cbc9756dc66",
+          "text": "The number of patients who must be treated with a particular intervention for one patient to experience the beneficial effect",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "34827658-b189-48fd-82a2-8f84a4135a20",
+          "text": "It means the same as absolute risk reduction",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "60830e8b-4154-47fd-85c9-3254220c3467",
+          "text": "It means the same as 'number needed to harm'",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "e148daa6-ab81-4c49-a2c9-7cbc9756dc66",
+        "text": "The number of patients who must be treated with a particular intervention for one patient to experience the beneficial effect"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "e148daa6-ab81-4c49-a2c9-7cbc9756dc66",
+          "text": "The number of patients who must be treated with a particular intervention for one patient to experience the beneficial effect",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The number needed to treat is the number of patients who must be treated with an intervention for one patient to experience the benefit of the treatment.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 48,
+      "question_id": "0ada1f8d-ec6d-467e-a089-642c0d737053",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true regarding survival analysis?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "26f3a1c4-3b70-4d7b-9a0d-8e7391779a50",
+          "text": "It is usually applicable to longitudinal cohort studies",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3f7e61cb-3c86-4471-96c4-3bfc99420397",
+          "text": "It looks exclusively at rate and time of death",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "9f8da702-447f-4bc8-bf46-8d4d692f58ca",
+          "text": "It can be used to calculate the median survival time",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f5b33b55-b8b5-47d6-bc25-a687a2355ddd",
+          "text": "It can be used to predict the likelihood of a number of outcomes in the study group",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "9b089177-0c4b-4488-9ab4-e34442fb3874",
+          "text": "It is not useful for cross-sectional studies",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "3f7e61cb-3c86-4471-96c4-3bfc99420397",
+        "text": "It looks exclusively at rate and time of death"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "3f7e61cb-3c86-4471-96c4-3bfc99420397",
+          "text": "It looks exclusively at rate and time of death",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Survival analysis is not exclusively used for information on time to death but can be applied to a number of outcomes.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 49,
+      "question_id": "e8a5e237-e2dc-4d04-8e1f-dd467d22451e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements best explains the term 'cost-effectiveness analysis'?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0a8b232b-776f-4398-8c80-1d0897877782",
+          "text": "An analysis of an intervention to cut down a cost",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b2a67967-3f7d-475a-84e3-97c319391232",
+          "text": "An analysis of a number of interventions to cut down the cost",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f0d5b3fd-38df-4b31-83f7-5ba5eb1b47ac",
+          "text": "An analysis to compare multiple interventions that produce the same beneficial outcome with a similar degree of benefit",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f3c6bf6c-998e-4f51-b78f-74e93335036d",
+          "text": "An analysis of the cost of a number of interventions for achieving a particular desired effect",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "56cbb3a0-dbf7-477c-b285-95c908b566bc",
+          "text": "An analysis of multiple interventions to choose the most suitable one for a particular condition",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "f3c6bf6c-998e-4f51-b78f-74e93335036d",
+        "text": "An analysis of the cost of a number of interventions for achieving a particular desired effect"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "f3c6bf6c-998e-4f51-b78f-74e93335036d",
+          "text": "An analysis of the cost of a number of interventions for achieving a particular desired effect",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Cost-effectiveness analysis is an economic analysis aiming to compare the cost of multiple interventions that achieve the same effect.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 50,
+      "question_id": "09e1c6e2-0b1a-4c51-a455-0706e5c7e354",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true regarding qualitative research?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d9e71056-2864-4301-a748-c9e8a67a2dcf",
+          "text": "It analyses the quality of data produced by a randomized controlled trial",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "7486d269-8eeb-43fa-b65f-0e68b759b3f3",
+          "text": "It looks at the subjective experiences of the participants",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "78a71b0a-4dbc-45e3-9619-bc70c964f86e",
+          "text": "It is useful for investigating attitudes and beliefs of the participants",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "22a1abee-66fd-4229-a591-6cbc4e676a88",
+          "text": "It does not necessarily require a hypothesis at the beginning of the research",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "256bef13-bac1-449f-905b-ec08ae1cff9a",
+          "text": "The stress is on the quality and depth of information gathered during research",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "d9e71056-2864-4301-a748-c9e8a67a2dcf",
+        "text": "It analyses the quality of data produced by a randomized controlled trial"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "d9e71056-2864-4301-a748-c9e8a67a2dcf",
+          "text": "It analyses the quality of data produced by a randomized controlled trial",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Qualitative research collects and analyses data that cannot be presented as numbers; it is used in the initial stages of research, studies dealing with attitudes and beliefs, assessment tools development, etc.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

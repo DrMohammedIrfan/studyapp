@@ -1,0 +1,1868 @@
+{
+  "chapter_id": "2d2834f1-eedf-44b0-93de-96340f06857f",
+  "chapter_name": "Neuropathology",
+  "chapter_title": "Neuropathology",
+  "resource_id": "27bdf65f-afb6-4ffa-af8b-c43c54f01aae",
+  "resource_title": "SPMM",
+  "subject_name": "SPMM",
+  "chapter_number": 9,
+  "total_questions": 32,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "c6108ffd-6f1d-46b6-b827-2c373deffe2e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The macroscopic changes seen in Alzheimer's disease includes?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "60ffad97-be8b-47de-bce7-6caae2b98edf",
+          "text": "Vacuolisation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "917ae84e-eeb2-481e-9034-4a877ad6db3c",
+          "text": "Senile plaques",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "92277f63-a771-42f1-b101-d23c05758380",
+          "text": "Ventricular enlargement",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "b2e8488c-7de6-4035-872c-2ddf362d3f36",
+          "text": "Neuronal loss",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "be701028-e864-4bf7-aa29-7703945bbc01",
+          "text": "Neurofibrillary tangles",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "92277f63-a771-42f1-b101-d23c05758380",
+        "text": "Ventricular enlargement"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "92277f63-a771-42f1-b101-d23c05758380",
+          "text": "Ventricular enlargement",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Cerebral atrophy and ventricular enlargement are macroscopic changes, including enlargement of the lateral and third ventricles, global brain atrophy, reduction in brain weight, and sulcal widening.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": "5ea6820c-dc70-4372-b38c-c3f9799cbc5b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Lewy bodies contain which of the following materials?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "141193c4-66e4-47a4-8b50-005e61b6e993",
+          "text": "Tau protein",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "96871f61-5088-40cd-afea-29037b0a166e",
+          "text": "Glial tissue",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "a83681b3-a7bd-44bc-ac7f-6f1ecfde6d94",
+          "text": "Paired helical filaments",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "be1dee66-8074-4f58-9174-89d8b5afa7df",
+          "text": "Dopamine metabolites",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d77264cd-02b0-4b99-9943-426f9d80cd8b",
+          "text": "Amyloid substance",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "141193c4-66e4-47a4-8b50-005e61b6e993",
+        "text": "Tau protein"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "141193c4-66e4-47a4-8b50-005e61b6e993",
+          "text": "Tau protein",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Lewy bodies contain Tau protein, Ubiquitin, protein neurofilaments, granular material, dense core vesicles and microtubule assembly protein.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "e89fef72-a252-4d65-9f39-42abf96f0c64",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The enzyme involved in the metabolism of amyloid precursor protein that prevents amyloid formation is?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3e6f334e-9b8a-47bf-af0d-7bb9c4cb94d0",
+          "text": "Protein kinase",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "9fea2277-02e3-47e0-a631-3bcb36a3bce8",
+          "text": "Alpha-secretase",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "c5d52f43-7594-443b-8cc4-394463a8b425",
+          "text": "Gamma-secretase",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d235270a-6f41-4806-8a49-521f9efdd1f5",
+          "text": "Beta-secretase",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "dbb40168-97d0-49a8-970d-322efe84dc1e",
+          "text": "Delta-secretase",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "9fea2277-02e3-47e0-a631-3bcb36a3bce8",
+        "text": "Alpha-secretase"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "9fea2277-02e3-47e0-a631-3bcb36a3bce8",
+          "text": "Alpha-secretase",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Alpha secretases are a family of proteolytic enzymes that cleave amyloid precursor protein in its transmembrane region, preventing amyloid formation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": "980816f5-80e5-493c-8178-623830894f39",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Hirano bodies are seen in brain autopsy of a patient who had a history of cognitive impairment. Which of the following diagnosis is most likely?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0292086c-de94-4862-a5cd-0838e9ea6fdc",
+          "text": "Lewy body dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "36e1f4c3-663d-46ff-84a5-ec3ff3461d50",
+          "text": "Creutzfeldt Jakob disease",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "42d546cf-4c72-45ef-8245-220bcb2e0d47",
+          "text": "Vascular dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5adaf1fe-18c1-46b2-9925-f57dfca7592b",
+          "text": "Alzheimer's dementia",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "9029db76-1dd8-4d13-ab31-cdc2eb2e1a75",
+          "text": "Wilson disease",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "5adaf1fe-18c1-46b2-9925-f57dfca7592b",
+        "text": "Alzheimer's dementia"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "5adaf1fe-18c1-46b2-9925-f57dfca7592b",
+          "text": "Alzheimer's dementia",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Hirano bodies are intracellular aggregates of actin and actin-associated proteins and are frequently seen in Alzheimer's dementia.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": "ff6d7956-5984-4ad3-aa35-5d087174d405",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The immunological staining used in detection of Pick's disease is?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1e19d0b8-fc9d-46f5-9f18-03004e1824c2",
+          "text": "Glycosaminoglycan.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "31976605-470e-4dd3-aeb4-cd914bf3dc8c",
+          "text": "Anti-tau antibodies",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "5e224e1a-46ea-43c2-b39c-b2325b640cee",
+          "text": "Amyloid P",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "60986825-b0ee-4dbd-919e-9554e171e5d3",
+          "text": "Basic fibroblast growth factor antibodies",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "805c95d8-b450-45cb-8ba2-25da8b2d4103",
+          "text": "Heparan sulfate",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "31976605-470e-4dd3-aeb4-cd914bf3dc8c",
+        "text": "Anti-tau antibodies"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "31976605-470e-4dd3-aeb4-cd914bf3dc8c",
+          "text": "Anti-tau antibodies",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The most efficient method is to use immunohistochemical staining with anti-tau and anti-ubiquitin antibodies to visualize Pick bodies.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": "47b79937-9635-470a-889d-2788b7ed1d9e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following is a protective factor against Alzheimer's disease?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "91d9f7b6-7d08-4099-843e-0b8b2e77859b",
+          "text": "Down's syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a3df4d59-ea5d-44ab-9574-ae095cc5cd03",
+          "text": "Head injury",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b555cfc3-9645-4cf2-9600-6ae7548770a2",
+          "text": "Age",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f83ec648-13d2-45c2-97bf-7012b61b28f3",
+          "text": "Post menopausal estrogen decline",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fb888689-8a30-4a4e-9efb-a9dcbef2e086",
+          "text": "Apolipoprotein e2 allele",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "fb888689-8a30-4a4e-9efb-a9dcbef2e086",
+        "text": "Apolipoprotein e2 allele"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "fb888689-8a30-4a4e-9efb-a9dcbef2e086",
+          "text": "Apolipoprotein e2 allele",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Apolipoprotein e2 allele is a proven protective factor against Alzheimer's disease.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": "f52217b3-d666-4d83-90a8-af9cd8c6ba2d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is correct concerning white matter hyperintensities seen in mood disorders?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "07eeecb6-662d-4849-960a-e0178a1aeab6",
+          "text": "Associated with good recovery from mood episodes",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "0dd5f28d-cb11-4866-8468-2464dd7654fe",
+          "text": "Seen only in bipolar patients",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "1b46b205-6edd-4c3a-81d8-07c2cc0bfdc2",
+          "text": "Associated with vascular risk factors",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "7cf4e623-6e9c-4f11-b828-724428eee5d7",
+          "text": "Seen more often in younger patients",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a6f3d336-e07f-487f-b19a-f17db87041f9",
+          "text": "Best seen in T1 images of MRI",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "1b46b205-6edd-4c3a-81d8-07c2cc0bfdc2",
+        "text": "Associated with vascular risk factors"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "1b46b205-6edd-4c3a-81d8-07c2cc0bfdc2",
+          "text": "Associated with vascular risk factors",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A strong association between mood disorder and the number and severity of focal signal hyperintensities has been established, with these seen in excess in patients with vascular risk factors.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": "e8a30648-8a3e-4fff-bf74-47f2e092fb95",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The pathological factor that correlates most with cognitive decline in Alzheimer's disease is?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0c44dbbd-acba-4950-819c-90b75f585da8",
+          "text": "Burden of gliosis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2a1d6569-fab1-4aee-af68-5ff999c414fc",
+          "text": "Burden of neuritic plaques",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "924ea90b-a99d-4e6f-bca5-d9c63647b93e",
+          "text": "Burden of vascular amyloid load",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "eec1f6b8-7cde-4f46-9ef1-d543b876ce6c",
+          "text": "Burden of diffuse plaques",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f1dfcf2c-5feb-4b71-a862-fd5442e2ff57",
+          "text": "Burden of neurofibrillary tangles",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "f1dfcf2c-5feb-4b71-a862-fd5442e2ff57",
+        "text": "Burden of neurofibrillary tangles"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "f1dfcf2c-5feb-4b71-a862-fd5442e2ff57",
+          "text": "Burden of neurofibrillary tangles",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The burden of neurofibrillary tangles correlates well with the severity of dementia in Alzheimer's disease.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": "fb8ad474-39fe-4a17-9b98-dd1c28d23629",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Selective cerebellar atrophy as a neuropathological change is likely to be seen in which of the following dementias?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "37ef5ada-833d-43e1-a995-39f52914fdf3",
+          "text": "Creutzfeldt-Jakob Disease",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "63e74117-3414-41a2-a89e-3012bead744a",
+          "text": "Lewy body dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "83395cc9-26a8-43be-8b65-eb882e3ea150",
+          "text": "Parkinson's disease dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a81bd5d6-fdf6-4e45-bfab-0561fda26769",
+          "text": "Normal Pressure Hydrocephalus",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fcb65763-b86d-4cb6-9cb5-a8fee61b033d",
+          "text": "Alzheimer's dementia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "37ef5ada-833d-43e1-a995-39f52914fdf3",
+        "text": "Creutzfeldt-Jakob Disease"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "37ef5ada-833d-43e1-a995-39f52914fdf3",
+          "text": "Creutzfeldt-Jakob Disease",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Macroscopic changes in Creutzfeldt-Jakob disease would include generalized cerebral atrophy, sometimes a selective cerebellar atrophy and ventricular enlargement.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": "695d51b0-3edb-45e6-bb84-a60338f77525",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 55-year-old lady is a known alcoholic. She drinks in binges and presents with deficits in new learning though she could retain messages long enough to hold a conversation. The most prominent pathology in this patient will be seen in?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1f0cb4ef-81d1-4c06-8070-e506b61bc639",
+          "text": "Hippocampus",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "72fd4d0d-17ff-4d6f-a90f-a6306c7cc04b",
+          "text": "Dorsal medial thalamus",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "8bd96231-e397-4eaa-b561-9bd19b5f263c",
+          "text": "Hypothalamus",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "aeb3fbb0-b978-49ba-bdcd-bd9168db6339",
+          "text": "Cerebellum",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c022610c-c64e-462a-8338-fb3b50eda995",
+          "text": "Dorsolateral prefrontal cortex",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "72fd4d0d-17ff-4d6f-a90f-a6306c7cc04b",
+        "text": "Dorsal medial thalamus"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "72fd4d0d-17ff-4d6f-a90f-a6306c7cc04b",
+          "text": "Dorsal medial thalamus",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Wernicke's encephalopathy is characterized by degenerative changes around the structures surrounding the third ventricle and aqueduct, which includes the dorsal medial thalamus.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": "cff05e09-06f6-4012-a15a-f10f4bf30f58",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following best describes the difference between CJD and vCJD? The variant CJD has?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0c1862b4-63fd-4572-9e3f-021a89cb10d8",
+          "text": "Absence of florid plaques on autopsy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "160e0c2d-55d5-403b-bc2a-6688179aefd6",
+          "text": "Typical EEG changes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5af5f972-6f3f-402e-a1fc-b9d7b81e67ea",
+          "text": "Negative tonsillar biopsy",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6ca9e2c7-dac8-4683-ba59-5ef1750c0e0b",
+          "text": "Earlier age of onset",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "da7c3165-bbbe-4172-92cc-3a71e25d9112",
+          "text": "Earlier onset of ataxia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "6ca9e2c7-dac8-4683-ba59-5ef1750c0e0b",
+        "text": "Earlier age of onset"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "6ca9e2c7-dac8-4683-ba59-5ef1750c0e0b",
+          "text": "Earlier age of onset",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Variant CJD affects younger people, with an average age of death of 29 years.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": "2749f3d8-949b-4e65-b9bd-346469a8519a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 33-year-old man presents with anxiety and depression. Soon he develops rapidly progressive cognitive impairment with myoclonus, ataxia and eventually akinetic mutism. Characteristic pathological change expected in brain autopsy, in this case, is?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4bf71ea4-91b1-44bd-8fa0-47c59b4d6888",
+          "text": "Ventricular dilatation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "54ef38e9-2d3f-4360-a224-7df2fdd04fc3",
+          "text": "Extensive vacuole formation",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "9f15b9b9-4ca9-4a56-900d-45a6c62b4cf2",
+          "text": "Eosinophilic extraneuronal deposits",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e2b6e5b0-98c0-4553-b9e4-c0c32dbee84e",
+          "text": "Lewy bodies",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ffa11cc0-8cf1-427b-a5be-9a9c7ed81f40",
+          "text": "Lack of gliosis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "54ef38e9-2d3f-4360-a224-7df2fdd04fc3",
+        "text": "Extensive vacuole formation"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "54ef38e9-2d3f-4360-a224-7df2fdd04fc3",
+          "text": "Extensive vacuole formation",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Microscopically, CJD shows spongiform encephalopathy secondary to neuropil vacuolisation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": "4110fe0c-4aba-4053-adc3-dfe208f507ad",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Neurofibrillary tangles are most commonly present in which of the following locations in Alzheimer's?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "22a09737-cea3-4560-ad27-7b51e9931877",
+          "text": "Hippocampus",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "245d8da9-58eb-4581-a368-54af3173bc49",
+          "text": "Prefrontal cortex",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "52c11da1-5a99-4ff1-985c-84df1b5ba6a2",
+          "text": "Auditory association cortex",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "641f04ef-4b90-4605-94e8-5234dbac8347",
+          "text": "Brain stem",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "70b97213-a8e5-4a8d-b5f4-fe8143734118",
+          "text": "Insula",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "22a09737-cea3-4560-ad27-7b51e9931877",
+        "text": "Hippocampus"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "22a09737-cea3-4560-ad27-7b51e9931877",
+          "text": "Hippocampus",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Neurofibrillary tangles occur in the hippocampus, along with senile plaques that are found in the same sites.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": "a4a46377-4f0c-461d-98ff-2310c407e18d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a true statement concerning human HIV disease?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "01af141f-3dc7-4390-b140-f38e0d8d6bf6",
+          "text": "Psychosis is the most common HIV related psychiatric problem.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4700b2bc-8329-4912-8c06-18093d50f6d9",
+          "text": "HIV does not cause programmed cell death of neurons",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "e6d02912-d884-4dbb-bc34-80e152d60fc4",
+          "text": "HIV cross the blood brain barrier using macrophages",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "f7279c7c-aa5d-4ef2-a4a4-5316f3396250",
+          "text": "CD4 count is the better indicator for severity than viral load",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fb001b64-2fce-4066-b4f5-c62cae7c2080",
+          "text": "CSF viral load is the best predictor of HIV related CNS disease.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "e6d02912-d884-4dbb-bc34-80e152d60fc4",
+        "text": "HIV cross the blood brain barrier using macrophages"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "e6d02912-d884-4dbb-bc34-80e152d60fc4",
+          "text": "HIV cross the blood brain barrier using macrophages",
+          "is_correct": true
+        }
+      ],
+      "explanation": "HIV enters the CNS as a passenger in cells trafficking to the brain via CD4 T cells or monocytes.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": "a05c5e0a-5405-4b26-97c6-9413ef625632",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "You have noticed some degree of cognitive decline and weight loss in an intravenous drug user. The most probable diagnosis is?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0bfaeffc-e859-4ca1-aff4-3d2ee626380b",
+          "text": "Binswanger's disease",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "206908a8-21be-4b33-824c-430f03d38670",
+          "text": "CADASIL",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "57049f96-71df-4465-ab25-442c511503c3",
+          "text": "HIV dementia",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "84d68cc5-9c0a-4938-81f6-dfbafd73dced",
+          "text": "Alzheimer's dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fa9a04cf-2b7a-4eea-8468-d1229b213869",
+          "text": "Neurosyphilis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "57049f96-71df-4465-ab25-442c511503c3",
+        "text": "HIV dementia"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "57049f96-71df-4465-ab25-442c511503c3",
+          "text": "HIV dementia",
+          "is_correct": true
+        }
+      ],
+      "explanation": "One of the common sources of acquiring HIV infection is intravenous drug use, leading to subcortical dementia.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": "a41034cd-8270-4836-b9ea-cba873fb9389",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Marked atrophy of the caudate nucleus is seen in which of the following disorders?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "04d4269d-bdca-43f6-a1d5-41b48a2ca7a3",
+          "text": "Punch drunk syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "19f12aa6-ff27-4c99-b563-bef007305505",
+          "text": "Lewy Body dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "1fff2cca-127b-4e73-8a5f-4ae5594d78ea",
+          "text": "Alcoholic dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5e10e2a2-781c-4704-8271-cd05e752e282",
+          "text": "Huntington's disease",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "e379f45e-b7d4-4403-8445-b6b4c872eb18",
+          "text": "Creutzfeldt-Jakob Disease",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "5e10e2a2-781c-4704-8271-cd05e752e282",
+        "text": "Huntington's disease"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "5e10e2a2-781c-4704-8271-cd05e752e282",
+          "text": "Huntington's disease",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Marked atrophy of the corpus striatum, particularly the caudate nucleus, is seen in Huntington's disease.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": "8f2ee531-2b0e-4c2e-aca7-6ea399fd25cb",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Neurofibrillary tangles seen in Alzheimer's disease are made up of?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "23c99dd4-d26f-4b77-b15b-2e5f19987530",
+          "text": "Actin filaments",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4275347c-8840-42e7-a099-a0522dce2c17",
+          "text": "Synaptophysin",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "770540df-ab66-4055-9ba3-95d088395bd8",
+          "text": "Amyloid fibrils",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b247874d-6d60-43ba-b807-39edee784758",
+          "text": "Hyperphosphorylated tau protein",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "ebf4db1c-02e6-4e66-9f3c-bea39a54d894",
+          "text": "Hypophosphorylated tau protein",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "b247874d-6d60-43ba-b807-39edee784758",
+        "text": "Hyperphosphorylated tau protein"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "b247874d-6d60-43ba-b807-39edee784758",
+          "text": "Hyperphosphorylated tau protein",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Neurofibrillary tangles are composed primarily of abnormally hyperphosphorylated tau protein.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": "019adc99-890c-4142-9893-054300c432a8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 10 year old child in a special school has challenging behaviour associated with aggression and stereotyped motor activity. Which of the following seen in MRI is associated with autism?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "292c88ad-1bf2-4769-87cd-4ba7203b21d8",
+          "text": "Cerebral atrophy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b882ba73-2e70-4d17-abaa-594de53c3bca",
+          "text": "Caudate atrophy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c3327287-db2a-4294-9292-4bdfd6973890",
+          "text": "Medial temporal atrophy",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "da38f419-bb21-453f-b270-1e6e51a1b6e9",
+          "text": "Hypoplastic cerebellum",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "e717cc6f-f737-4e54-b633-30cc68f773bb",
+          "text": "White matter hyperintensities",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "da38f419-bb21-453f-b270-1e6e51a1b6e9",
+        "text": "Hypoplastic cerebellum"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "da38f419-bb21-453f-b270-1e6e51a1b6e9",
+          "text": "Hypoplastic cerebellum",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Hypoplasia of cerebellar vermis and to some extent the cerebellar hemispheres is documented in association with autism.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": "15e17452-8254-4c0d-bc10-9bf7c5676420",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In those with Mild Cognitive Impairment, which of the following biomarkers can detect worsening cognitive function?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "214c27d3-cc01-43ab-9e28-dd0b21260f1a",
+          "text": "Increased beta amyloid in CSF",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "415001a2-beb7-4de4-991b-773b5c76eeea",
+          "text": "Increased Tau-to-Amyloid ratio in CSF",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "5e71eb81-f0e8-42a8-8035-58afcb170e91",
+          "text": "Decreased Ubiquitin-to-Amyloid ratio in CSF",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7922edda-7953-401d-9bfc-cb3643a75d3b",
+          "text": "Decreased Tau-to-Amyloid ratio in CSF",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "89a195b1-5f39-428c-94a2-2358d4196a25",
+          "text": "Decreased tau protein in CSF",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "415001a2-beb7-4de4-991b-773b5c76eeea",
+        "text": "Increased Tau-to-Amyloid ratio in CSF"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "415001a2-beb7-4de4-991b-773b5c76eeea",
+          "text": "Increased Tau-to-Amyloid ratio in CSF",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Increased CSF tau/A-beta (amyloid) ratios show promise as a preclinical biomarker to predict future dementia.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": "dfd9b641-456b-451d-bc1f-9ebdaaf06a38",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is correct with respect to planum temporale?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "37655d62-aeca-453d-843c-a3bacad8d92b",
+          "text": "It specializes in visual processing",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "54ebab81-7fe7-4694-b61d-ae202191d801",
+          "text": "It is normally larger on left side",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "a029c855-8c39-47c4-a32e-fe0ecd860d18",
+          "text": "In schizophrenia left More than right asymmetry is noted",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d0002f0e-a1ed-4843-986d-d3f2d5f08b98",
+          "text": "It is present only on dominant cerebral hemisphere",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e596487c-94c6-46c9-a597-9aa0667ac57a",
+          "text": "It is situated in anterior temporal surface",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "54ebab81-7fe7-4694-b61d-ae202191d801",
+        "text": "It is normally larger on left side"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "54ebab81-7fe7-4694-b61d-ae202191d801",
+          "text": "It is normally larger on left side",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The planum temporale is noted for its marked leftward volume asymmetry related to right-handedness.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": "ebbb1b9a-e574-4694-964b-4f10cc222d9c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a feature more likely to be seen in Pick's disease than other dementias?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0d5e1e02-332f-4ab7-9fa2-ea61308dbbf6",
+          "text": "Knife blade gyri",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "14cfc227-8473-4135-88d2-67d18646cbe9",
+          "text": "Tau proteins",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "552345dc-63ef-4b22-9e56-8b6a0b591463",
+          "text": "Reactive astrocytosis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "874f70ad-efb3-4089-beb8-f9721ae53c69",
+          "text": "Ventricular shrinkage",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b3007fb1-4712-4a17-921a-2944be50f2f1",
+          "text": "Gliosis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "0d5e1e02-332f-4ab7-9fa2-ea61308dbbf6",
+        "text": "Knife blade gyri"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "0d5e1e02-332f-4ab7-9fa2-ea61308dbbf6",
+          "text": "Knife blade gyri",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Pick's disease is associated with specific asymmetrical atrophy of frontal and anterior temporal lobes, leading to knife blade gyri.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": "311bd26b-5925-44dd-911c-a05dd25d984d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Alpha-synuclein is a major constituent of which of the following?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "02d028a9-bfa6-4ec0-9d93-4537539157e4",
+          "text": "Pick's bodies",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "135201bc-474f-48e0-83ec-b68ad7a7ba23",
+          "text": "Neurofibrillary tangles",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6295f664-3208-403b-bda5-f11b309b5e5c",
+          "text": "Lewy bodies",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "6399570c-cb4a-4145-abd0-8b236a1acbe1",
+          "text": "Prion particles",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a5e5d67d-5120-4545-b18b-c570b04893ed",
+          "text": "Neuritic plaques",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "6295f664-3208-403b-bda5-f11b309b5e5c",
+        "text": "Lewy bodies"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "6295f664-3208-403b-bda5-f11b309b5e5c",
+          "text": "Lewy bodies",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Lewy bodies contain accumulations of alpha-synuclein.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": "cc274a1d-bf18-4273-af2a-bb8de8dbc8f1",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Autopsy of an elderly man who suffered from marked tremors and a progressive cognitive decline shows cells negative for tau protein. What is the likely diagnosis?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0b3a9690-c7a4-461b-bb2b-fea8effdc3e7",
+          "text": "CJD",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "93be4476-b62f-4e4b-bdf9-47a64a4e6291",
+          "text": "Lewy body dementia",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "c84659a6-85f3-4142-9b39-d740344d287b",
+          "text": "Frontal lobe degeneration",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "dde6c41e-eac9-4639-af2d-e88fe79c33c3",
+          "text": "Alzheimer's dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "efd9d150-32d0-41a4-a948-9fa83b551732",
+          "text": "Vascular dementia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "93be4476-b62f-4e4b-bdf9-47a64a4e6291",
+        "text": "Lewy body dementia"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "93be4476-b62f-4e4b-bdf9-47a64a4e6291",
+          "text": "Lewy body dementia",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Lewy body dementia is characterized by marked tremors and presence of other features but without tau protein deposits.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": "c03a6daa-2faf-4a4e-a412-c9cadf9de6c8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 40-year-old woman was found wandering on streets after the recent funeral of her husband. She can give her personal demographic details and has no past psychiatric history. She has no physical injuries. Which of the following deficits is likely?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "13a404d2-a454-4e85-b59b-98d5f941f369",
+          "text": "Loss of semantic memory",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "27f045ff-8ded-4aea-b995-dba7e1d42b75",
+          "text": "Loss of new learning capacity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "61cb9c48-3933-41fe-9dec-c94eba367540",
+          "text": "Continuous anterograde amnesia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ba80ad5c-8b6f-423f-9643-4ce8bd80c3f0",
+          "text": "Loss of memory of personal events well rehearsed",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "fefa5318-707c-493b-9717-6c2faeebe686",
+          "text": "Loss of procedural memory",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "ba80ad5c-8b6f-423f-9643-4ce8bd80c3f0",
+        "text": "Loss of memory of personal events well rehearsed"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "ba80ad5c-8b6f-423f-9643-4ce8bd80c3f0",
+          "text": "Loss of memory of personal events well rehearsed",
+          "is_correct": true
+        }
+      ],
+      "explanation": "This describes dissociative amnesia where well-rehearsed personal events are lost.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": "a375341f-159a-468a-ba89-fafb403cc0ae",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Arteriosclerotic changes in major arteries are most commonly found in which of the following types of dementia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2cf460fa-9e53-4926-9411-78bfc30f9ed3",
+          "text": "Multi-infarct dementia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "36d0c1dd-1c54-47cb-b706-d02da6997bcb",
+          "text": "Alzheimer's dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6328045e-0d4a-48ad-ac41-599e51c5dcf5",
+          "text": "Parkinson's disease dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ab5f7082-9ec2-487a-9aeb-3bd9581b3673",
+          "text": "Lewy body dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c6b1f0ae-7672-4580-8f98-0a52b751eeea",
+          "text": "Normal Pressure Hydrocephalus",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "2cf460fa-9e53-4926-9411-78bfc30f9ed3",
+        "text": "Multi-infarct dementia"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "2cf460fa-9e53-4926-9411-78bfc30f9ed3",
+          "text": "Multi-infarct dementia",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In multi-infarct dementia, brain damage due to multiple cerebral infarcts leads to local or general brain atrophy and arteriosclerotic changes.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": "979be355-4b28-47bf-bfdd-7acad4aaa3b8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which disease can be studied by inducing 'autoimmune encephalomyelitis'?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "064237b2-2d91-45ac-ab65-c99a718aa535",
+          "text": "Huntington's disease",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "19b344a6-91c4-4ecb-8ec7-417cbc746135",
+          "text": "Acquired brain injury",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "31576a3b-bbb7-4920-8003-8e7eab55629a",
+          "text": "Parkinson's disease",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "3e34bc44-a43b-48d9-bf6a-708acbe43190",
+          "text": "Alzheimer's disease",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "53f5edae-d1b1-45f6-adcc-5a63863dbd24",
+          "text": "Multiple sclerosis",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "53f5edae-d1b1-45f6-adcc-5a63863dbd24",
+        "text": "Multiple sclerosis"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "53f5edae-d1b1-45f6-adcc-5a63863dbd24",
+          "text": "Multiple sclerosis",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Experimental autoimmune encephalomyelitis is used to study multiple sclerosis.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": "78964511-42d6-4ab3-8ef1-d5a9c30d2d13",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The neuropathological findings in Punch Drunk syndrome include which of the following changes?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1dd7729c-ead5-4f9a-9ae8-8516e35050f3",
+          "text": "Neurofibrillary tangles",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "3bdf885f-22c3-4434-8ac2-9c953d2ecdea",
+          "text": "Basal ganglia enlargement",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "47bcc594-7b46-408d-9fa8-7a8f17f1e344",
+          "text": "Pulvinar signs",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6b05a9eb-c887-4763-b428-0a6862073f5e",
+          "text": "Knife blade gyri",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "bb664973-3927-415e-951e-2cde8c88657b",
+          "text": "Caudate hypertrophy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "1dd7729c-ead5-4f9a-9ae8-8516e35050f3",
+        "text": "Neurofibrillary tangles"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "1dd7729c-ead5-4f9a-9ae8-8516e35050f3",
+          "text": "Neurofibrillary tangles",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Histological changes in Punch Drunk syndrome would include neuronal loss and neurofibrillary tangles.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": "8b5d519c-df94-47d2-aa81-ae2ed0c43c6f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The spongiform appearance of brain tissue in CJD is due to?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "036e37e1-d5b1-4987-af28-8c70cfb1cc91",
+          "text": "Excessive fibrosis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a3fb50a0-5ffb-4818-98e7-2b11f361c57f",
+          "text": "Apoptosis of neuronal cells",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b7d1b485-0b04-4587-a80c-12950277d252",
+          "text": "Demyelination",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c2d2e92d-b51b-466c-8389-673516b4e3af",
+          "text": "Neuropil vacuolation",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "f5287f12-fe25-422d-a4da-f05c695bc690",
+          "text": "Glial proliferation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "c2d2e92d-b51b-466c-8389-673516b4e3af",
+        "text": "Neuropil vacuolation"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "c2d2e92d-b51b-466c-8389-673516b4e3af",
+          "text": "Neuropil vacuolation",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Microscopically, CJD shows a spongiform encephalopathy secondary to neuropil vacuolation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": "1854d2c6-f181-4bd0-9836-c67dcd25256d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Depigmentation of the substantia nigra is seen in which of the following disorders?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0d77e13f-14d0-45c2-a18d-fa196f05c946",
+          "text": "Huntington's disease",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2df85dea-35e3-4674-8b3a-0187c4f4539a",
+          "text": "Parkinson's disease",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "63d532ac-7fe6-4f0c-bac5-6076bbc8b4e2",
+          "text": "Creutzfeldt-Jakob Disease",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6faf8adb-c0a3-4692-92de-6f849b7a25c9",
+          "text": "Alzheimers disease",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "8966ee66-b006-4914-98b8-c2c6ecc3b668",
+          "text": "Dandy-Walker malformation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "2df85dea-35e3-4674-8b3a-0187c4f4539a",
+        "text": "Parkinson's disease"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "2df85dea-35e3-4674-8b3a-0187c4f4539a",
+          "text": "Parkinson's disease",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Depigmentation of the substantia nigra is a feature of idiopathic Parkinson's disease.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": "5ca84e0a-8ae5-42eb-a1d5-b1c7c1e01b6e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Knife blade atrophy is seen in?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "63365a06-7b43-4912-b897-ed56ee0feeba",
+          "text": "Lewy body dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "67ce53a5-8991-4f0d-be75-653747603fd9",
+          "text": "Pick's disease",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "76b7a739-d58e-4fc7-b5fe-254c9f7a1bca",
+          "text": "Alzheimer's disease",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7d4bbd41-c408-48bb-a305-f5a186d7ba4f",
+          "text": "Progressive supranuclear palsy",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f939e5d4-5de3-4940-ad97-78048b87a8ed",
+          "text": "CJD",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "67ce53a5-8991-4f0d-be75-653747603fd9",
+        "text": "Pick's disease"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "67ce53a5-8991-4f0d-be75-653747603fd9",
+          "text": "Pick's disease",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Knife-blade type atrophy is characteristic of Pick's disease due to marked atrophy of the frontal and temporal lobes.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": "5bfd4c75-7d0a-410e-89e8-48e8263c2f29",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In which of the following conditions both balloon cells and Hirano bodies are seen?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "08414adb-6a4c-4636-9d4d-7d84f92a1baa",
+          "text": "Neurosyphilis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5fdd5057-b499-4dd2-a61d-35776a0ad16d",
+          "text": "Pick's disease",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "a6249771-ca0e-474d-89a7-b941f34aba33",
+          "text": "CJD",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d5b05296-6533-4527-851f-244e2136d99a",
+          "text": "Alzheimer's disease",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d7ba4e75-ab7f-48d7-9930-eed0922eb517",
+          "text": "HSE encephalitis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "5fdd5057-b499-4dd2-a61d-35776a0ad16d",
+        "text": "Pick's disease"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "5fdd5057-b499-4dd2-a61d-35776a0ad16d",
+          "text": "Pick's disease",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Both Hirano bodies and Balloon cells are seen together in Pick's disease.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": "55b9b269-ffc1-497e-b029-6ffba7ae51e8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following structures is larger on the left side compared to the right hemisphere in healthy right handed subjects?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "116da356-c54a-47e0-95f3-5328ba558512",
+          "text": "Superior colliculus",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "94284a3f-0a26-4134-bb6f-686ec63fa937",
+          "text": "Thalamus",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9dee59de-abc7-41ce-b550-6e881c50932c",
+          "text": "Amygdala",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a86aa9b3-c4be-461f-91c8-d8b17a51c77b",
+          "text": "Cingulate cortex",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e5e98c26-44f1-4d33-93bf-f50f381cd61a",
+          "text": "Planum temporale",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "e5e98c26-44f1-4d33-93bf-f50f381cd61a",
+        "text": "Planum temporale"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "e5e98c26-44f1-4d33-93bf-f50f381cd61a",
+          "text": "Planum temporale",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The planum temporale shows marked leftward volume asymmetry related to right-handedness.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

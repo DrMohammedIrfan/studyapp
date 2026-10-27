@@ -1,0 +1,2912 @@
+{
+  "chapter_id": "1f7e5bf8-d780-45d2-82d2-8ea5de835f33",
+  "chapter_name": "Pharmacodynamics",
+  "chapter_title": "Pharmacodynamics",
+  "resource_id": "d7e6b408-1793-402b-9890-ee18dbb216f6",
+  "resource_title": "SPMM I",
+  "subject_name": "SPMM I",
+  "chapter_number": 19,
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "4a27e58b-d619-4c3d-9497-740a71ead193",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following is the most sedative of tricyclic antidepressants?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "575c725d-7161-4b09-a2cc-4bab9a6fdefd",
+          "text": "Dothiepin",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "d7856546-6546-49f9-bde8-a9911c201846",
+          "text": "Nortriptyline",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b1fcd6e2-e862-4ad2-8dcf-86452321bbc7",
+          "text": "Lofepramine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "1a2dc0f3-f105-4e76-96e4-34652291b11f",
+          "text": "Clomipramine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "4775baa0-13ee-483d-b215-4194db3f6bf9",
+          "text": "Imipramine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "575c725d-7161-4b09-a2cc-4bab9a6fdefd",
+        "text": "Dothiepin"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "575c725d-7161-4b09-a2cc-4bab9a6fdefd",
+          "text": "Dothiepin",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Amitriptyline and dothiepin are more sedative, while clomipramine, imipramine, nortriptyline and lofepramine are less sedative.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": "c80e849a-e416-434b-a975-eeaf02ca8151",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which drug acts as a full agonist at the mu receptor and has a long half-life?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "57792b50-7145-4b2a-89f2-af726deae185",
+          "text": "Acamprosate",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b1fd159a-16db-4ee1-98c8-9177009253ec",
+          "text": "Buspirone",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "94879879-df41-492b-9aa2-1be7be1073d2",
+          "text": "Methadone",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "e0c0116a-9597-4557-bb2c-cffbb60a4351",
+          "text": "Buprenorphine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "aab9261f-9d65-481d-b210-ebe6c5b2a30b",
+          "text": "Disulfiram",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "94879879-df41-492b-9aa2-1be7be1073d2",
+        "text": "Methadone"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "94879879-df41-492b-9aa2-1be7be1073d2",
+          "text": "Methadone",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Methadone is a full agonist at mu opioid receptors and has a long half-life (24 hours).\nRef: Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry, 14th Edition. 2021. p. 478.\nSemple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 636.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "f290f23c-c829-43a1-9f00-8222c4338359",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "An important mechanism of action for sodium valproate is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e0a99b65-dc77-48c4-8d7d-afb87a258877",
+          "text": "Dopamine stabilisation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "fea53b61-7a00-4eb5-9a7a-1bec6f14a907",
+          "text": "NMDA antagonism",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "75cf4228-dce7-4160-b63e-cc1e1e0b172c",
+          "text": "Benzodiazepine antagonism",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "50552087-8464-45e9-af0e-876a4c534f25",
+          "text": "GABA potentiation",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "440fcb06-6af4-4fdd-aac6-34f0f29500d3",
+          "text": "Membrane stabilisation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "50552087-8464-45e9-af0e-876a4c534f25",
+        "text": "GABA potentiation"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "50552087-8464-45e9-af0e-876a4c534f25",
+          "text": "GABA potentiation",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Valproate’s mechanism of action is complex and not fully understood. It inhibits the catabolism of GABA (enhancing GABA activity), reduces the turnover of arachidonic acid, activates the extracellular signal-regulated kinase pathway thus altering synaptic plasticity, interferes with intracellular signalling, promotes brain-derived neurotrophic factor expression, and reduces levels of protein kinase C.\nTaylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry, 14th Edition. 2021. p. 257.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": "1a1e6590-f3c8-4822-99ad-74ff0f9b3fa2",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The therapeutic effects of conventional antipsychotics is mainly due to",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0c281b2b-cdf5-4837-aad4-303f263a26a6",
+          "text": "Blockade of dopamine-2 receptors in the mesocortical pathway",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "faf3f306-55af-45ad-9823-2082e2c465fc",
+          "text": "Blockade of alpha-1 receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2d9b26ed-f9e0-4b8f-87ea-8859a8c32879",
+          "text": "Blockade of dopamine-2 receptors in the nigrostriatal pathway",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8c9d483f-ad8a-4dc5-a970-446e2a5423f7",
+          "text": "Blockade of dopamine-2 receptors in the tuberoinfundibular pathway",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "418da111-ac74-453e-b3d8-654b2b16af56",
+          "text": "Blockade of dopamine-2 receptors in the mesolimbic pathway",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "418da111-ac74-453e-b3d8-654b2b16af56",
+        "text": "Blockade of dopamine-2 receptors in the mesolimbic pathway"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "418da111-ac74-453e-b3d8-654b2b16af56",
+          "text": "Blockade of dopamine-2 receptors in the mesolimbic pathway",
+          "is_correct": true
+        }
+      ],
+      "explanation": "By the 1970s it was widely recognised that the key pharmacological property of all ‘neuroleptics’ with antipsychotic properties was their ability to block D2 receptors, specifically those in the mesolimbic/mesostriatal dopamine pathway.\nBlockade of dopamine-2 receptors in the mesocortical pathway leads to production or worsening of negative symptoms. Blockade of dopamine-2 receptors in the nigrostriatal pathway leads to EPSEs. Blockade of dopamine-2 receptors in the tuberoinfundibular pathway leads features of hyperprolactinaemia such as galactorrhoea, sexual dysfunction, gynaecomastia, infertility, amenorrhoea, and possibly accelerated osteoporosis. Blockade of alpha-1 receptors leads to sedation, dizziness, orthostatic hypotension.\nRef: Stahl SM. Stahl’s Essential Psychopharmacology: Neuroscientific Basis and Practical Applications, 5th Edition. 2021. p. 162.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": "4549f9a4-7f51-4eda-b209-b860512a424e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "This is the basis of treating patients with neurodegenerative disorders with which of the following medications?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "cfd51500-273a-42d8-b607-9a85112ec069",
+          "text": "Selegiline",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a6dccffa-2a95-4585-994d-f4497cdbe7ac",
+          "text": "Donepezil",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "650597cc-546b-4393-88a1-74e634efdcf5",
+          "text": "Risperidone",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "fae50c03-1d9f-4df7-9300-76ef41f570e3",
+          "text": "Galantamine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "66e8d86f-6ade-4969-8122-b9a418db2db1",
+          "text": "Memantine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "66e8d86f-6ade-4969-8122-b9a418db2db1",
+        "text": "Memantine"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "66e8d86f-6ade-4969-8122-b9a418db2db1",
+          "text": "Memantine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Memantine is a non-competitive NMDA receptor antagonist that may be neuroprotective (protect neurons from glutamate-mediated excitotoxicity). It is licensed for moderate to severe Alzheimer dementia.\nRef: Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry, 14th Edition. 2021. pp. 605.606.\nO’Brien et al. Clinical practice with anti-dementia drugs: a revised (third) consensus statement from the British Association for Psychopharmacology. Journal of Psychopharmacology. 2017 Feb;31(2):147-68.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": "daf0660f-e704-48a9-8bbf-f43ac3e89d02",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The chronic administration of tricyclics results in",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "69995d5c-04ce-49d7-b753-41871d203bb7",
+          "text": "Up-regulation of beta-adrenergic receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5be4aa34-d337-4938-8b5e-c650607742f9",
+          "text": "Down-regulation of beta and alpha adrenergic receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2a9d1ed9-f635-4793-a3a8-24d742a13e25",
+          "text": "Up-regulation of alpha-adrenergic receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7223d7ad-c8ca-46df-9e1c-7204627660fc",
+          "text": "Down-regulation of alpha-adrenergic receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "cf9a906d-bb50-4701-aecf-a553d952edff",
+          "text": "Down-regulation of beta-adrenergic receptors",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "cf9a906d-bb50-4701-aecf-a553d952edff",
+        "text": "Down-regulation of beta-adrenergic receptors"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "cf9a906d-bb50-4701-aecf-a553d952edff",
+          "text": "Down-regulation of beta-adrenergic receptors",
+          "is_correct": true
+        }
+      ],
+      "explanation": "It has been consistently reported that chronic administration (2 to 4 weeks of treatment) of antidepressant drugs causes a down-regulation of beta receptors in rats. However, such effects are not observed after acute or single administration of these drugs. Since most of the antidepressant drugs tested thus far produce such effects, it has been suggested that down-regulation or decreased responsiveness of beta-adrenergic receptors may be related to the therapeutic effects manifested by antidepressant drugs. This is yet to be clarified.\nIn chronic users of tricyclics, the down-regulation of postsynaptic β-adrenergic receptors and their reduced responsiveness may explain hypotensive effects.\nRef: Calvi A, Fischetti I, Verzicco I, Murri MB, Zanetidou S, Volpi R, Coghi P, Tedeschi S, Amore M, Cabassi A. Antidepressant Drugs Effects on Blood Pressure. Frontiers in Cardiovascular Medicine. 2021;8.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": "de1e1c1a-1815-45d8-be56-0c987df7d1d9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The enzyme/s that metabolise/s most of the body dopamine:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "ed616180-fa69-4ada-a985-77ec2ec15fa7",
+          "text": "MAO-A and COMT",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a87e9aa0-cf5d-4fae-9476-374894d1f3ec",
+          "text": "COMT only",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "69df3881-a606-4e05-8834-ccfea420e8a5",
+          "text": "MAO-A and MAO-B",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "59687e6f-ae0b-4170-ba70-61e39c10f8fc",
+          "text": "MAO-B and COMT",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "a5a4b48e-55f1-48c2-b22e-ec02e4f0fefd",
+          "text": "MAO-A and Tyrosine hydroxylase",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "59687e6f-ae0b-4170-ba70-61e39c10f8fc",
+        "text": "MAO-B and COMT"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "59687e6f-ae0b-4170-ba70-61e39c10f8fc",
+          "text": "MAO-B and COMT",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Two enzymes that play significant roles in the degradation of catecholamines are monoamine oxidase and catechol-O-methyltransferase (COMT). Two MAO isoenzymes with differing substrate specificities have been identified: MAO-A, which preferentially deaminates serotonin and norepinephrine, and MAO-B, which deaminates dopamine, histamine, and a broad spectrum of phenylethylamines.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 958.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": "65bdb2dd-5306-4295-b84b-35472a3330b5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following has been postulated as the pharmacological basis of clozapine related hypersalivation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "19be0f42-c817-4947-883a-9ead36dc864c",
+          "text": "Reduced cholinesterase activity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b5a3c335-e23c-4502-93c1-669b6cf7ab78",
+          "text": "Activation of the swallowing reflex",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d57a3c00-7bd3-4849-baf6-b07907325f77",
+          "text": "Muscarinic M-4 antagonism",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b758b3c6-c8a6-4959-b20b-bb5d652b8e91",
+          "text": "Adrenergic alpha-2 stimulation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "85bd2393-e862-4989-a590-e35732ced566",
+          "text": "Muscarinic M-4 agonism",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "85bd2393-e862-4989-a590-e35732ced566",
+        "text": "Muscarinic M-4 agonism"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "85bd2393-e862-4989-a590-e35732ced566",
+          "text": "Muscarinic M-4 agonism",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The pharmacological basis of clozapine-related hypersalivation remains unclear. Suggested mechanisms include muscarinic M4 agonism, adrenergic alpha-2 antagonism, and inhibition of the swallowing reflex.\nRef: Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry, 14th Edition. 2021. p. 227.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": "f4696313-7ee0-4339-a400-2e7ef2a88167",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Endogenous substrates for monoamine oxidase (MAO) isoenzymes include",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "ea4b8502-7c54-4513-98e1-445eb358ce6e",
+          "text": "Tyramine, acetylcholine, and dopamine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3aafced0-db22-4a46-a0d1-f50b34c4edd0",
+          "text": "Acetylcholine, dopamine, and epinephrine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4ed492c7-8e6a-42c8-bcab-d8b2f00d87b6",
+          "text": "Epinephrine, dopamine, and serotonin",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "ee4d6324-8464-4a6f-8b4b-1d03c9c8c43d",
+          "text": "Tyramine, serotonin, and histamine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a48673f8-d396-452c-8110-60fe11171cf2",
+          "text": "Histamine, acetylcholine, and serotonin",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "4ed492c7-8e6a-42c8-bcab-d8b2f00d87b6",
+        "text": "Epinephrine, dopamine, and serotonin"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "4ed492c7-8e6a-42c8-bcab-d8b2f00d87b6",
+          "text": "Epinephrine, dopamine, and serotonin",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Two enzymes that play significant roles in the degradation of catecholamines are monoamine oxidase and catechol-O-methyltransferase (COMT). Two MAO isoenzymes with differing substrate specificities have been identified: MAO-A, which preferentially deaminates serotonin and norepinephrine, and MAO-B, which deaminates dopamine, histamine, and a broad spectrum of phenylethylamines.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 958.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": "03968a8c-b9c6-4335-acff-5999c120ee4a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following increases the risk of withdrawal reactions to therapeutic drugs?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a0974e27-be1d-45f0-be8f-e3ce37da1edc",
+          "text": "The drug having anticholinergic properties",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "99c17485-3a00-47f1-a3a3-72978830a6c6",
+          "text": "Taking the drug after food",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f453bd58-f11c-49d9-8b99-21f4f12c15e9",
+          "text": "Having multiple active metabolites with slow clearance",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ce7fe37c-0cd8-48e4-809b-5da992d54d91",
+          "text": "Slow withdrawal of the drug",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "49e33023-f7fd-474e-a8c2-4df8035a9ad5",
+          "text": "Drugs being a partial agonist instead of full agonist",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "a0974e27-be1d-45f0-be8f-e3ce37da1edc",
+        "text": "The drug having anticholinergic properties"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "a0974e27-be1d-45f0-be8f-e3ce37da1edc",
+          "text": "The drug having anticholinergic properties",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Psychotropics with potent anticholinergic adverse effects may be associated with discontinuation or withdrawal effects.\nRef: Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry, 14th Edition. 2021.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": "410caad6-a4a7-4ab9-a5ca-6d691a8f7eac",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "How much Zuclopenthixol depot is equivalent to 50mg of haloperidol given every four weeks?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4686c73e-af03-4b52-b315-a996612e0941",
+          "text": "200mg every 2-4 weeks",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "4013e975-3b61-434f-abdc-c2d7929e522e",
+          "text": "20 mg every 2-4 weeks",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "00ecee53-ae82-4e26-8b77-b276946814bb",
+          "text": "20mg every 3 weeks",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ff9a45fe-3690-42ae-8e2b-a2b40a9cb04c",
+          "text": "100mg every 2-4 weeks",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "26461cd7-99c8-4af2-947d-ce9500e1d9fc",
+          "text": "400mg every 2 weeks",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "4686c73e-af03-4b52-b315-a996612e0941",
+        "text": "200mg every 2-4 weeks"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "4686c73e-af03-4b52-b315-a996612e0941",
+          "text": "200mg every 2-4 weeks",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Using antipsychotic depot conversion chart from POMH (Prescribing Observatory for Mental Health), 200mg / 2 weeks or 400mg/4 weeks of zuclopentixol depot is equivalent to 50mg of haloperidol depot every 4 weeks.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": "f3ebdc17-0942-4def-918f-e58d4f9ea29f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a noradrenaline reuptake inhibitor?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "39ee336c-8bcc-4e27-ad16-cb5a531d8fd0",
+          "text": "Risperidone",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "892f4b16-fbed-4c93-a19c-ff576bedc3cb",
+          "text": "Reboxetine",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "6544da27-50a8-4b9d-9037-e3efbf93ce99",
+          "text": "Agomelatine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "1e071fa7-dc70-41b1-8db5-412b7b4496c8",
+          "text": "Fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "0592f0fd-860a-4611-ab4d-a4002e8102e1",
+          "text": "Paroxetine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "892f4b16-fbed-4c93-a19c-ff576bedc3cb",
+        "text": "Reboxetine"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "892f4b16-fbed-4c93-a19c-ff576bedc3cb",
+          "text": "Reboxetine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "As a noradrenaline reuptake inhibitor, reboxetine is an antidepressant with a novel mode of action. It blocks the norepinephrine reuptake pump (norepinephrine transporter) and presumably, this increases noradrenergic neurotransmission.\nRef: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 291.\nStahl SM. Stahl’s Essential Psychopharmacology: Prescriber’s Guide, 7th Edition. 2021. p. 681.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": "a472a0c6-5a6a-4437-9075-529d0bb6b99f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following antidementia drugs acts directly on nicotine receptors?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4d6e18e8-525f-4cff-bf35-41b252793a0f",
+          "text": "Donepezil",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "49fbf9c6-43b6-4af4-9582-ef85ccb5e882",
+          "text": "Tacrine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d8ab8660-c0bc-40f3-8403-de5242110a8f",
+          "text": "Rivastigmine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "264b6f84-d462-4658-a161-a3a7395e774a",
+          "text": "Galantamine",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "0e180069-0344-48e9-9ba9-879eb19c571d",
+          "text": "Memantine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "264b6f84-d462-4658-a161-a3a7395e774a",
+        "text": "Galantamine"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "264b6f84-d462-4658-a161-a3a7395e774a",
+          "text": "Galantamine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Galantamine, unlike the other anticholinesterases in clinical use, is derived from the alkaloids from the daffodil and snowdrop family. It is a reversible, competitive inhibitor of acetylcholinesterase. It is also an agonist at nicotinic receptor sites. Although a clinically effective drug, galantamine frequently causes gastrointestinal side effects.\nRef: Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry, 14th Edition. 2021. pp. 605-606.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": "cb380208-108a-4a9d-921e-ed8f91a655b8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Buspirone acts on",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f0720154-a9a3-4520-9646-75f4b08304bd",
+          "text": "GABA-b receptor complex",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "671f7b0e-b4d8-41ab-8907-04dc0a03ae63",
+          "text": "5HT2a receptor",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "931c7b51-b326-47cc-b949-8c12eb0502d6",
+          "text": "5HT1a and 5HT2a receptor",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "134d0c35-c595-4630-a23b-3fa250a5a851",
+          "text": "5HT1a receptor",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "e3315a3e-6a22-408f-97a8-233f98deb981",
+          "text": "GABA-a receptor complex",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "134d0c35-c595-4630-a23b-3fa250a5a851",
+        "text": "5HT1a receptor"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "134d0c35-c595-4630-a23b-3fa250a5a851",
+          "text": "5HT1a receptor",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Buspirone is classified as an azapirone (or azaspirone) and is chemically distinct from other psychotropic agents. It is a 5HT1A partial agonist. The potential anxiolytic actions of buspirone could theoretically be due to 5HT1A partial agonist actions at both presynaptic and postsynaptic 5HT1A receptors.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 672.\nStahl SM. Stahl’s Essential Psychopharmacology: Neuroscientific Basis and Practical Applications, 5th Edition. 2021. p. 370.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": "d6b0b25c-811c-4bb7-9572-f717cdd98e14",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following drugs is not suitable for treating acute mania?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d0865c72-025b-4fbb-b31d-597912d35ca5",
+          "text": "Topiramate",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "1bbf43f7-18a9-4283-9611-a62f0d56cef9",
+          "text": "Lithium",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "fab61ab5-2324-4ecc-af62-6f6577b5ec84",
+          "text": "Carbamazapine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0f6c25a8-5a77-4a9b-b8e8-446ac9613eb8",
+          "text": "Olanzapine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "91603a7d-adeb-4412-967b-2b2d185d7abc",
+          "text": "Valproate",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "d0865c72-025b-4fbb-b31d-597912d35ca5",
+        "text": "Topiramate"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "d0865c72-025b-4fbb-b31d-597912d35ca5",
+          "text": "Topiramate",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Meta-analysis does not support the use of lamotrigine, gabapentin, or topiramate for acute mania.\nRef: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 341.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": "052cef79-822a-4a02-a429-6e3cbd6a3d61",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A drug that is comparatively safe as an adjunctive to MAO inhibitors in treating depression is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "35f2b26b-18dc-4698-b1e5-f626c1915b4f",
+          "text": "Amitriptyline",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "152e1879-8e89-4fcd-ad63-dff0b040366c",
+          "text": "Clomipramine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "0cd02841-cf9e-4039-aefd-d539856b43c3",
+          "text": "Fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8e4937bc-19b9-4010-b1b8-6d337ba68cc0",
+          "text": "Fluvoxamine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f778e1a8-2b77-41d5-9e0d-690edfad34aa",
+          "text": "Paroxetine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "35f2b26b-18dc-4698-b1e5-f626c1915b4f",
+        "text": "Amitriptyline"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "35f2b26b-18dc-4698-b1e5-f626c1915b4f",
+          "text": "Amitriptyline",
+          "is_correct": true
+        }
+      ],
+      "explanation": "While combination treatments have been generally discouraged, emerging evidence supports combinations to be more effective than monotherapy without increasing drop-outs. Second, the combination of monoamine reuptake inhibitors (selective serotonin reuptake inhibitor, serotonin-norepinephrine reuptake inhibitor, or tricyclic antidepressant) and α2-adrenergic receptor antagonists (mianserin, mirtazapine, trazodone) seems to be the most effective and preferable antidepressant combination.\nMAOIs potentiate the actions of TCAs, with some evidence supporting the use of such a combination in the treatment of therapy-resistant depression. One serious interaction between MAOIs and TCAs is the excessive elevation of serotonin. Of the options listed here, amitriptyline has less serotonergic effect than others. Of the TCAs the one with the greatest likelihood for this interaction is clomipramine.\nRef: Henssler J, Alexander D, Schwarzer G, Bschor T, Baethge C. Combining Antidepressants vs Antidepressant Monotherapy for Treatment of Patients With Acute Depression: A Systematic Review and Meta-analysis. JAMA psychiatry. 2022 Feb 16.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": "7701a24c-4c2a-4a62-afc5-6ede2d930988",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a 5HT1A partial agonist?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c35c6134-081d-46c5-bd30-ac7eb6e4faff",
+          "text": "Buspirone",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "269ffb3c-6a5a-41e3-85b3-c2563b6518f1",
+          "text": "Pramipexole",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ad13f50f-b3c1-4fca-960e-136cdbddef50",
+          "text": "Amisulpride",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f2d9f669-53e1-436c-8816-216a29952511",
+          "text": "Risperidone",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e5c931e2-08a0-4e17-a49c-77cd16ff3c07",
+          "text": "Aripiprazole",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "c35c6134-081d-46c5-bd30-ac7eb6e4faff",
+        "text": "Buspirone"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "c35c6134-081d-46c5-bd30-ac7eb6e4faff",
+          "text": "Buspirone",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Buspirone is classified as an azapirone (or azaspirone) and is chemically distinct from other psychotropic agents. It is a 5HT1A partial agonist. The potential anxiolytic actions of buspirone could theoretically be due to 5HT1A partial agonist actions at both presynaptic and postsynaptic 5HT1A receptors.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 672.\nStahl SM. Stahl’s Essential Psychopharmacology: Neuroscientific Basis and Practical Applications, 5th Edition. 2021. p. 370.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": "e49a56f6-21ef-4d28-8bc0-40023d0fe7ef",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following has atypical antipsychotic activity?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "60c14322-94b6-4c8e-b6bf-cb1bb28e38fb",
+          "text": "Fluphenazine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f503e28a-7ca8-4703-abb2-46796e5d7031",
+          "text": "Promazine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "fe5437fc-53b2-4fed-aa33-65ede427c6b3",
+          "text": "Chlorpromazine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a085835d-a6ed-4af0-917b-8a65b19233f1",
+          "text": "Amoxapine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b483a13b-502d-4828-a00a-0d1241f4d3a4",
+          "text": "Amisulpride",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "b483a13b-502d-4828-a00a-0d1241f4d3a4",
+        "text": "Amisulpride"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "b483a13b-502d-4828-a00a-0d1241f4d3a4",
+          "text": "Amisulpride",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Amisulpride is an atypical, second-generation antipsychotic that has selective and equipotent antagonism for D2 and D3, with negligible affinity for other receptors. Its EPSEs are similar to placebo at lower doses, but it shows dose-dependent EPSEs and prolactinaemia at higher doses.\nRef: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 212.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": "5bb6ce45-8451-440b-b2d9-ff732566b61e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Mechanism of action of acamprosate is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c501ddcd-d357-460d-be4d-9c7533a9c04b",
+          "text": "Opioid antagonism",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a34a57b3-5d8f-4a72-b1f4-d299059769ab",
+          "text": "Glutamate antagonism",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "ad65a405-54b1-4344-83d7-402d093ba4ca",
+          "text": "Inhibits alcohol dehydrogenase",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "025cd3dc-28f2-4578-b867-a5990ab5a062",
+          "text": "Opioid agonism",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e6599edf-6b98-4415-8baa-1e30d43a4509",
+          "text": "Inhibits aldehyde dehydrogenase",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "a34a57b3-5d8f-4a72-b1f4-d299059769ab",
+        "text": "Glutamate antagonism"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "a34a57b3-5d8f-4a72-b1f4-d299059769ab",
+          "text": "Glutamate antagonism",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Acamprosate is a synthetic taurine analogue that acts as a functional glutaminergic NMDA antagonist and also increases GABA-ergic function.\nRef: Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry, 14th Edition. 2021. p. 463.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": "fe194cad-5ae1-406f-87b2-00ee00201d4d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The drug alprazolam acts on",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2f68ec24-51e9-4d7a-811b-da4b84db01cd",
+          "text": "NMDA receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "dfa9a9b8-6bb9-48d6-afdd-eb7b45967aa9",
+          "text": "GABA",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "95a1f095-6296-4e90-b868-e79cb1f031d7",
+          "text": "D1 receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "412772da-48b7-4f0f-96a7-45eee4e3eb7e",
+          "text": "Histaminergic receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "72c19e58-2212-42d1-be58-4765b1cef342",
+          "text": "M1 muscarinic receptors",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "dfa9a9b8-6bb9-48d6-afdd-eb7b45967aa9",
+        "text": "GABA"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "dfa9a9b8-6bb9-48d6-afdd-eb7b45967aa9",
+          "text": "GABA",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The benzodiazepines derive their name from their molecular structure. They share a common effect on receptors that have been termed benzodiazepine receptors, which in turn modulate GABA activity. The absorption, the attainment of peak concentrations, and the onset of action are quickest for diazepam, lorazepam, alprazolam, triazolam, and estazolam.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 669.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": "ba059a55-0f8f-4372-a6f8-7b4f99225ffd",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The pharmacological activity of benzodiazepines depends on its action on which of the following receptors?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c37c653e-4191-47d5-bbed-43d03e59e350",
+          "text": "Beta Adrenergic receptor complex",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3b983102-f802-45e2-a3e5-93dda6814118",
+          "text": "GABA-a and GABA-b receptor complex",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "db9ce366-7c43-47d5-9dc4-ea7bf4f2ff65",
+          "text": "5HT1-A receptor complex",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "4fc228b7-7981-4278-8e1c-e28640f4bd17",
+          "text": "GABA-b receptor complex",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "4d9b0f11-d0b0-40a7-96cd-c0b37b7f13df",
+          "text": "GABA-a receptor complex",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "4d9b0f11-d0b0-40a7-96cd-c0b37b7f13df",
+        "text": "GABA-a receptor complex"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "4d9b0f11-d0b0-40a7-96cd-c0b37b7f13df",
+          "text": "GABA-a receptor complex",
+          "is_correct": true
+        }
+      ],
+      "explanation": "There are many different subtypes of GABA-A receptors, depending upon which subunits are present. GABA-A receptors can be categorised into whether they are sensitive to benzodiazepines or insensitive to them. Benzodiazepine-sensitive GABA-A receptors have several structural and functional features that make them distinct from benzodiazepine-insensitive GABA-A receptors.\nRef: Stahl SM. Stahl’s Essential Psychopharmacology: Neuroscientific Basis and Practical Applications, 5th Edition. 2021. pp. 258-259.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": "34cc6ae3-2b28-4eff-afa5-d31c583a600a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements best describes the receptor profile of trazodone?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "53cfbd66-2a31-4466-8c44-bd5486c6a504",
+          "text": "It is a serotonin antagonist",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "17dbfb98-be9e-4b36-b6bb-a59b7808cd5e",
+          "text": "It is a mixed serotonin antagonist/agonist",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "f7663ff7-843a-46a6-ac1c-5e72d37bd136",
+          "text": "It is a serotonin, dopamine and norepinephrine antagonist",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "80a7638e-bd15-432f-969f-94f10037b927",
+          "text": "It is a serotonin, dopamine and norepinephrine agonist",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "40c7c22e-8400-4960-a10f-549a22059799",
+          "text": "It is a serotonin agonist",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "17dbfb98-be9e-4b36-b6bb-a59b7808cd5e",
+        "text": "It is a mixed serotonin antagonist/agonist"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "17dbfb98-be9e-4b36-b6bb-a59b7808cd5e",
+          "text": "It is a mixed serotonin antagonist/agonist",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The prototype drug that blocks serotonin 2A and 2C receptors as well as serotonin reuptake is trazodone, classified as a serotonin antagonist/reuptake inhibitor (SARI). The SARIs act by potent blockade of 5HT2A receptors as well as dose-dependent blockade of 5HT2C receptors and the serotonin transporter (SERT). Trazodone is a very interesting agent, since it acts like two different drugs, depending upon the dose and the formulation. Trazodone is famous for its effectiveness and utility at low doses as a hypnotic. Higher doses recruit additional known antidepressant receptor actions, including serotonin reuptake inhibition. The active metabolite of trazodone is mCPP, which is an agonist at 5-HT2C receptors.\nRef: Stahl SM. Stahl’s Essential Psychopharmacology: Neuroscientific Basis and Practical Applications, 5th Edition. 2021. pp. 311-314. Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 639.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": "994704ad-3bd7-40ed-99cf-f75c3a83eb71",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following has a stimulant effect?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "09de3ced-8be1-4f24-9c80-16a338388d89",
+          "text": "Dothiepin",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d10edb9c-c9b1-43f6-96d8-0f44e46d7005",
+          "text": "Lofepramine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "058e5ff0-215a-4e97-83c1-6660c7010a04",
+          "text": "Imipramine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "81949101-5430-4e40-94e0-dc28db8f111f",
+          "text": "Amitriptyline",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "47a99f2d-e837-4e21-a6d4-34d76b8a724a",
+          "text": "Desipramine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "47a99f2d-e837-4e21-a6d4-34d76b8a724a",
+        "text": "Desipramine"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "47a99f2d-e837-4e21-a6d4-34d76b8a724a",
+          "text": "Desipramine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Desipramine has a stimulant effect, and it is the TCA with most evidence for use in ADHD. Studies suggest that, in the short term, desipramine improves the core symptoms of ADHD. However, its effect on the cardiovascular system remains an important clinical concern. Thus, evidence supporting the clinical use of desipramine for the treatment of children with ADHD is low.\nRef: Otasowie J et al. Tricyclic antidepressants for attention deficit hyperactivity disorder (ADHD) in children and adolescents. Cochrane Database of Systematic Reviews. 2014(9).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": "24c34aa7-af88-44ff-8465-9577454c9e02",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following types of drug molecules mimic endogenous chemical transmission?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "bad686cc-b336-454a-b91e-d728d979a00b",
+          "text": "Antagonists",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f65f3c37-9cdb-440f-a255-6f11abc3ee60",
+          "text": "Agonists",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "7765ee2f-9b24-48d6-84b2-835f4ee38ea6",
+          "text": "Partial agonists",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "4de2a5c5-5ccc-47d8-a29f-a22a4e3be36d",
+          "text": "Non-competitive antagonists",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "8f19f1c2-38cb-4359-98ae-7bca85d9c831",
+          "text": "Irreversible enzyme inducers",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "f65f3c37-9cdb-440f-a255-6f11abc3ee60",
+        "text": "Agonists"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "f65f3c37-9cdb-440f-a255-6f11abc3ee60",
+          "text": "Agonists",
+          "is_correct": true
+        }
+      ],
+      "explanation": "An agonist (full agonist) is a drug that binds to a specific receptor producing an effect identical to that usually produced by the neurotransmitter affecting that receptor. Drugs are often designed as receptor agonists to treat a variety of diseases and disorders in which the original neurotransmitter is missing or diminished. A partial agonist is a compound that (even when fully occupying a receptor) possesses affinity for a receptor but elicits a partial pharmacological response at the receptor involved. Partial agonists are often structural analogs of agonist molecules. If neurotransmitter concentrations are low, partial agonists may behave as an agonist. Buprenorphine, buspirone and aripiprazole are all partial agonists.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 593.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": "5bfee5b7-b7c7-4a0e-9f52-0c44fd50b2cd",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The most appropriate intervention would be to initiate treatment with which of the following medications?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "fc7d9e1b-a5f1-4cc6-bf3d-a32de3666a02",
+          "text": "Aripiprazole",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "8a0b96c0-3222-47b5-9a7d-d58f8ad906ca",
+          "text": "Amisulpride",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "bd837649-6171-4707-bcde-7d5a6d23564c",
+          "text": "Olanzapine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7676d643-fc6f-4942-a012-e4333ae57f72",
+          "text": "Risperidone",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "00e34c2d-2fd6-4a42-acd9-b0a2564fedf2",
+          "text": "Quetiapine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "00e34c2d-2fd6-4a42-acd9-b0a2564fedf2",
+        "text": "Quetiapine"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "00e34c2d-2fd6-4a42-acd9-b0a2564fedf2",
+          "text": "Quetiapine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Low-dose quetiapine is best tolerated in Parkinson disease. Olanzapine, ziprasidone, and aripiprazole are likely to all have greater adverse effects on motor function than quetiapine. Risperidone and typical antipsychotics should be avoided completely.\nRef: Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry, 14th Edition. 2021. p. 815.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": "831d20d8-79b4-4197-8cd9-b4e53f378fa6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Poor response to lithium maintenance treatment is predicted by",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3adf8cf0-e473-4e6c-9950-a37c92aa3848",
+          "text": "classic mania",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "53ad4534-a006-4a2d-92c2-3e414a8c65d2",
+          "text": "family loading of bipolar spectrum disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8dfc4e55-a06b-4c9f-bde1-6ebcf611237c",
+          "text": "rapid cycling",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "1e594cfe-7250-475b-b1ea-d1a8d7b9d194",
+          "text": "secondary mania",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "6aaece83-ca0c-48aa-bde8-b21ae9274415",
+          "text": "obsessional symptoms",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "8dfc4e55-a06b-4c9f-bde1-6ebcf611237c",
+        "text": "rapid cycling"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "8dfc4e55-a06b-4c9f-bde1-6ebcf611237c",
+          "text": "rapid cycling",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Lithium remains the gold standard choice for maintenance treatment in patients with bipolar disorder, especially with a ‘classical’ course of illness. In contrast, rapid cycling is usually defined as bipolar disorder in which four or more episodes of (hypo)mania or depression (or four clear switches in polarity) occur in a 12-month period. It is generally held to be less responsive to drug treatment than non-rapid-cycling bipolar illness.\nRef: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 344.\nTaylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry, 14th Edition. 2021. p. 285.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": "4184e660-4ca0-419a-ac26-ef883775e717",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c2ca8ee2-8af2-4870-b40f-245946025d98",
+          "text": "Y has lesser affinity then X",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "6720faf9-1801-4620-98c4-9d1053a3f047",
+          "text": "X is less potent than Y",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9d73533e-a24d-46b1-a30b-8ca403c4c641",
+          "text": "X and Y are equally efficacious",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "83af0e2d-a537-4afe-9748-a09cac760dda",
+          "text": "X and Y have equal potency but different affinity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e9681635-34ea-4d34-83cf-9ab66b26a6d9",
+          "text": "X and Y have equal affinity but different potency",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "9d73533e-a24d-46b1-a30b-8ca403c4c641",
+        "text": "X and Y are equally efficacious"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "9d73533e-a24d-46b1-a30b-8ca403c4c641",
+          "text": "X and Y are equally efficacious",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Efficacy refers to how well the drug produces the expected response i.e. the maximum clinical response produced by a drug (‘productivity'). Efficacy depends on affinity, potency, duration of receptor action in some cases and kinetic properties such as half life, among other factors",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": "b5e3239c-34bf-4d43-b5b7-c3c66b0a5816",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a partial D2 agonist?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c66f8d98-84ef-47ff-9a13-49f104336769",
+          "text": "Risperidone",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "fecc7e6b-8e79-47e2-92d6-625aaae6f391",
+          "text": "Amisulpride",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9ab3a038-1f8f-4101-bd92-72fd9272d8cc",
+          "text": "Pramipexole",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "73c4427e-665c-4ec3-8a16-a83790411c5c",
+          "text": "Aripiprazole",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "f22d1fb2-1f50-4db6-a6fc-29e3f0fff71f",
+          "text": "Buspirone",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "73c4427e-665c-4ec3-8a16-a83790411c5c",
+        "text": "Aripiprazole"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "73c4427e-665c-4ec3-8a16-a83790411c5c",
+          "text": "Aripiprazole",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Aripiprazole is a D2 receptor partial agonist. It is also a partial agonist at 5-HT1A receptors, a high affinity antagonist at 5-HT2A receptors, and a low-/moderate affinity antagonist at H1 and alpha-1 receptors. It has no anticholinergic effect.\nRef: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 212.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": "10ea371c-9c1d-43cb-aeb8-d2d0ebec9fe3",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Tyramine gains neuronal access and releases stored catecholamines via which of the following routes?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f7249074-8b65-4fed-abbd-e02d7759b916",
+          "text": "GABA",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f0cb141c-871c-42eb-876a-e64f5fe4462a",
+          "text": "NMDA channel",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "187ba34a-6ad4-4d2a-8918-6083bc193e7c",
+          "text": "Calcium channels",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "2db7ba9b-a3ba-4a41-ab34-7a06ac9d15a9",
+          "text": "Sodium channels",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "3c0ba677-e8b6-451c-a585-8203d7d9209d",
+          "text": "Catecholamines reuptake channels",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "3c0ba677-e8b6-451c-a585-8203d7d9209d",
+        "text": "Catecholamines reuptake channels"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "3c0ba677-e8b6-451c-a585-8203d7d9209d",
+          "text": "Catecholamines reuptake channels",
+          "is_correct": true
+        }
+      ],
+      "explanation": "As with most indirect sympathomimetics, tyramine enters the presynaptic neuron through amine uptake pumps - the channels that are blocked by antidepressants such as TCAs.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": "769bf69e-b722-4bfd-891b-93a68877a24d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Receptor blockade in which dopaminergic pathway results in increased prolactin levels in the body?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "bf8204a2-e6fc-4875-a15a-92b91d4edde2",
+          "text": "Mesocortical pathway",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a4a53d55-2142-42c6-9e41-b41279599658",
+          "text": "Nigrostriatal pathway",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "904c6fcb-1315-4ba3-8d79-9ab703ec1186",
+          "text": "Mesolimbic pathway",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8fb1c10a-0d73-44e0-8f38-7cbadf128134",
+          "text": "Ultra short ganglionic pathway",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "93ac447c-c07f-43f8-baf4-44f714a51223",
+          "text": "Tuberoinfundibular pathway",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "93ac447c-c07f-43f8-baf4-44f714a51223",
+        "text": "Tuberoinfundibular pathway"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "93ac447c-c07f-43f8-baf4-44f714a51223",
+          "text": "Tuberoinfundibular pathway",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The dopamine neurons that project from hypothalamus to anterior pituitary gland are known as the tuberoinfundibular dopamine pathway. Normally, these neurons are tonically active and inhibit prolactin release. In the postpartum state, however, the activity of these dopamine neurons is decreased. Prolactin levels can therefore rise during breast feeding so that lactation will occur. If the functioning of the tuberoinfundibular dopamine neurons is disrupted by lesions or drugs, prolactin levels can also rise.\nBlockade of dopamine-2 receptors in the mesolimbic pathway leads to the therapeutic effects. Blockade of dopamine-2 receptors in the mesocortical pathway leads to production or worsening of negative symptoms. Blockade of dopamine-2 receptors in the nigrostriatal pathway leads to EPSEs.\nRef: Stahl SM. Stahl’s Essential Psychopharmacology: Neuroscientific Basis and Practical Applications, 5th Edition. 2021. p. 85.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": "bd835f6f-af9f-40c7-ba5d-a5658521b543",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following has antiepileptic activity?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "73293894-05ba-4dbe-bef1-b29cb66d74d2",
+          "text": "Fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c36d5374-b67e-4df1-88c1-9d2685be3404",
+          "text": "Buspirone",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "49a764d7-532e-4816-8c59-68b9b90a0d6f",
+          "text": "Mirtazapine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f0031041-70f5-4a8e-bda4-d90542fc0ca9",
+          "text": "Bupropion",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a3294396-e3cd-4ad0-bd4d-07b3ae303d31",
+          "text": "Gabapentin",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "a3294396-e3cd-4ad0-bd4d-07b3ae303d31",
+        "text": "Gabapentin"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "a3294396-e3cd-4ad0-bd4d-07b3ae303d31",
+          "text": "Gabapentin",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Gabapentin was first introduced as an antiepileptic drug and was found to have sedative effects that were useful in some psychiatric disorders, especially insomnia. It was also found to be beneficial in reducing neuropathic pain, including postherpetic neuralgia.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 664.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": "f8eb2c51-67ab-4146-8a86-b8092b88dede",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following has high D2/high 5HT2 activity?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "59288ede-1fc7-4808-9e57-635953bac584",
+          "text": "Clozapine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "63b932f4-d4c5-45b4-987f-ab97af5ca886",
+          "text": "Quetiapine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3cb999da-32f6-4c75-8407-556a6495d39f",
+          "text": "Risperidone",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "2ec6ff5e-f76e-4daf-8c9f-56d85b656472",
+          "text": "Haloperidol",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b6b18f7f-918d-41f9-a0df-e82f1a4a10cc",
+          "text": "Amisulpride",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "3cb999da-32f6-4c75-8407-556a6495d39f",
+        "text": "Risperidone"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "3cb999da-32f6-4c75-8407-556a6495d39f",
+          "text": "Risperidone",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Risperidone is an antagonist of the serotonin 5-HT2A, dopamine D2, alpha-1 adrenergic, alpha-2 adrenergic, and histamine H1 receptors. It is a potent antagonist of D2 receptors. Haloperidol has a high D2/low 5HT2 activity. High D2/high 5HT2 activity is characteristic of atypicals such as olanzapine, risperidone and also loxapine. Low D2/high 5HT2 is specific to clozapine while some argue that quetiapine has a lowD2/low 5HT2 activity.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 609.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": "11dbed9f-1737-49af-b18e-58aaa524708f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Disulfiram acts on",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "18c5f39d-b20a-431e-ab0f-54547b7c50b3",
+          "text": "Sigma receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "bd952d91-7ef7-4025-b752-5b75ed606ae7",
+          "text": "Alcohol dehydrogenase",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8d36a401-788f-4bbb-9f9b-da9fd7c77c47",
+          "text": "Glutamate dehydrogenase",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ba169805-1c97-42e4-8799-50d520422917",
+          "text": "Aldehyde dehydrogenase",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "c0e4380e-bfd6-469e-b0cf-07428e5baf80",
+          "text": "Nicotinic cholinergic system",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "ba169805-1c97-42e4-8799-50d520422917",
+        "text": "Aldehyde dehydrogenase"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "ba169805-1c97-42e4-8799-50d520422917",
+          "text": "Aldehyde dehydrogenase",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Disulfiram causes irreversible inhibition of aldehyde dehydrogenase, resulting in the accumulation of acetaldehyde. This leads to signs and symptoms such as flushing, nausea, vomiting, headache, tachycardia and palpitations if alcohol is consumed. The reaction is dose-dependent; if a large amount of alcohol is consumed, a more severe reaction may lead to hypertension, collapse, and even death. Disulfiram acts as a deterrent (not directly as aversion – in ‘aversion’, chemicals such as valeric acid or apomorphine are used to create nausea which is paired with alcohol). Disulfiram is most effective in patients who are supported by family or carers who can supervise disulfiram being taken daily. Disulfiram is no longer contraindicated in patients at risk of psychosis because recommended doses have been lowered. All patients require risk assessment and ongoing monitoring for suicidal behaviour. Patients must be prepared to avoid alcohol in all forms, including mouthwashes and hand gels.\nRef: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 598.\nTaylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry, 14th Edition. 2021. p. 465.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": "eda66e1e-a3eb-457f-a04e-688dccf3a614",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following groups of medications are associated with bruxism more often than the others listed?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c8412c71-6f93-4978-97c9-ee67c2c0caec",
+          "text": "Stimulants",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "800be556-8f70-4314-98f7-ac159b873b98",
+          "text": "Antidementia drugs",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "412b132d-a50e-4030-94dc-558c7b00e9ff",
+          "text": "Antidepressants",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "deafad7d-0b3e-419e-8992-7c37e9992f5e",
+          "text": "Antipsychotics",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "0cdf27b7-ca6b-446f-a8f6-adccedbcd152",
+          "text": "Benzodiazepines",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "c8412c71-6f93-4978-97c9-ee67c2c0caec",
+        "text": "Stimulants"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "c8412c71-6f93-4978-97c9-ee67c2c0caec",
+          "text": "Stimulants",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Bruxism may occur secondary to the use of psychostimulants.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 502.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": "6a849990-c5ab-4160-8046-8a0f12a39519",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The mechanism of action of cyproheptadine is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2afc1e78-8382-46e3-8eff-1d2349646b01",
+          "text": "Histamine H1 receptor blockade",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "0dac2605-72d1-474a-9635-6999a2e6b56e",
+          "text": "Serotonin 5HT3 receptor blockade",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9d1056a8-313c-4ef5-9e5f-cba9f343aea4",
+          "text": "Serotonin 5HT2 receptor stimulation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7ed8a355-3400-4e4d-a799-9561c7ae08c0",
+          "text": "Histamine H2 receptor blockade",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a06dae58-338f-4d5c-b859-f8753985fcad",
+          "text": "Histamine H1 receptor stimulation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "2afc1e78-8382-46e3-8eff-1d2349646b01",
+        "text": "Histamine H1 receptor blockade"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "2afc1e78-8382-46e3-8eff-1d2349646b01",
+          "text": "Histamine H1 receptor blockade",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Cyproheptadine is an antihistamine that is an antagonist of histamine H1 receptors. It is also a 5-HT2 antagonist. Cyproheptadine has been used in the treatment of sexual dysfunction caused by increased serotonin transmission (e.g. SSRIs), particularly anorgasmia. There is also some evidence to support its efficacy in the treatment of akathisia caused by antipsychotics (unlicensed use).\nTaylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry, 14th Edition. 2021. pp. 178, 640, 925.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": "67cbe01d-de8a-40a1-aad0-2467d3836078",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Weight gain caused by clozapine is possibly related to",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "8a840e79-ae11-40ed-b971-7b485c4e7aec",
+          "text": "Alpha-2 antagonistic activity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ddeb36f6-e3e8-4db4-a861-78261068054a",
+          "text": "5HT1-a receptor antagonistic activity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "35ecb377-a83e-408c-9304-d625b96172a5",
+          "text": "5HT2-a receptor antagonistic activity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5ddb22fa-3df5-48de-a656-94ff8f8d60c9",
+          "text": "5HT2-c receptor antagonistic activity",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "7765aa50-4cfd-4d55-9898-b80cb41de1f6",
+          "text": "5HT3 receptor antagonistic activity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "5ddb22fa-3df5-48de-a656-94ff8f8d60c9",
+        "text": "5HT2-c receptor antagonistic activity"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "5ddb22fa-3df5-48de-a656-94ff8f8d60c9",
+          "text": "5HT2-c receptor antagonistic activity",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Weight gain is a common side effect of antipsychotic medication. Suggested mechanisms include 5- HT2C antagonism, H1 antagonism, D2 antagonism, and increased serum leptin (leading to leptin desensitisation).\nRef: Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry, 14th Edition. 2021. p. 123.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": "a365aef8-14d4-4314-ab1d-73773cf3a0d3",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following actions can cause anorgasmia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "8eeab4ee-0d10-4e80-87fc-77c9e14605a6",
+          "text": "Beta agonism",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "68d59865-c22d-42f2-bc1a-6068f5226abd",
+          "text": "GABA-A agonism",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ad8e1ba5-229a-4fb4-811b-6fa197899487",
+          "text": "Alpha 1 agonism",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "2e9ebca9-23cc-47de-87a8-996e2fc7522b",
+          "text": "Antihistaminergic property",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "06851171-bd05-4dc3-a1a3-93e54027549b",
+          "text": "Alpha 1 antagonism",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "06851171-bd05-4dc3-a1a3-93e54027549b",
+        "text": "Alpha 1 antagonism"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "06851171-bd05-4dc3-a1a3-93e54027549b",
+          "text": "Alpha 1 antagonism",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Inhibition of orgasm may be caused by an increase in serotonin activity and raised prolactin, as well as alpha-1 blockade (antagonism).\nRef: Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry, 14th Edition. 2021. p. 172.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": "8a24205c-f6e7-43ed-b567-5677b94bf4b9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The mechanism of action of barbiturates is by",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "30ceeabf-aba8-4155-8b32-f400e1334963",
+          "text": "Increasing the frequency of chloride channels opening",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "740401ff-5347-4e25-b71a-264a91f99d6e",
+          "text": "Increasing the duration of chloride channel opening",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "32bea837-ab8a-4218-8557-a9d82139dbf1",
+          "text": "Closing down the potassium channels",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8fc72c1e-f73b-4a17-9fbe-126d132d842f",
+          "text": "Increasing the number of chloride channels",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "8f7c3e82-2e7e-47e1-85b9-39bc499e623c",
+          "text": "Closing down the sodium channels",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "740401ff-5347-4e25-b71a-264a91f99d6e",
+        "text": "Increasing the duration of chloride channel opening"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "740401ff-5347-4e25-b71a-264a91f99d6e",
+          "text": "Increasing the duration of chloride channel opening",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Barbiturates act on GABA receptors and serve to increase the duration of chloride channel opening.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": "8e79d987-2916-4195-9590-019ca59fc6f1",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The most appropriate intervention to manage the depression is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "72f2e2aa-af26-4561-a19b-89448b485891",
+          "text": "Add a benzodiazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "850a8ef3-24f0-4850-b79f-26977099b4fd",
+          "text": "Prescribe trazodone",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "dde49b44-3d4f-4934-8dc3-cca232cd284d",
+          "text": "Add mirtazapine",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "954dc728-f5d9-4c71-87c5-082495794474",
+          "text": "Trial of sertraline after stopping venlafaxine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d7b0ee29-a602-4f5b-9f28-8a771208f58e",
+          "text": "Electro convulsive therapy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "dde49b44-3d4f-4934-8dc3-cca232cd284d",
+        "text": "Add mirtazapine"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "dde49b44-3d4f-4934-8dc3-cca232cd284d",
+          "text": "Add mirtazapine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The alpha-2 antagonist mirtazapine is often combined with SNRIs (like venlafaxine) for treatment of cases that do not respond to an SNRI alone. This combination of mirtazapine with an SNRI is sometimes called ‘California rocket fuel’ because of these potentially powerful drugs blasting the patient out of the depths of depression.\nRef: Stahl SM. Stahl’s Essential Psychopharmacology: Neuroscientific Basis and Practical Applications, 5th Edition. 2021. p. 309.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": "c1bc5620-343c-4bc0-9b96-d6346adbfaec",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The mechanism of action of varenicline tartrate is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "72b9a00b-fded-480d-b1fa-8db976a856fc",
+          "text": "Nicotinic antagonism",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ba5dc690-e40c-4844-811c-90386d09b062",
+          "text": "Partial muscarinic agonism",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5531c2de-00ea-4de2-8fb4-9e498c61e1ec",
+          "text": "Inhibition of nitric oxide synthesis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f6952ce3-711e-49bf-bea3-0702e10758ed",
+          "text": "Phosphodiesterase inhibition",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "4db92832-872b-439d-9319-b0637292f102",
+          "text": "Partial nicotinic agonism",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "4db92832-872b-439d-9319-b0637292f102",
+        "text": "Partial nicotinic agonism"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "4db92832-872b-439d-9319-b0637292f102",
+          "text": "Partial nicotinic agonism",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Varenicline tartrate is a selective a4ß2 nicotinic acetylcholine receptor partial agonist recommended by NICE to aid with smoking cessation. It can reduce the dopaminergic reward that would occur if a patient did smoke (by competing with nicotine) but also reduce the withdrawal symptoms by stimulating at least some neurotransmission.\nRef: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 613.\nStahl SM. Stahl’s Essential Psychopharmacology: Neuroscientific Basis and Practical Applications, 5th Edition. 2021. p. 552.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": "ff620f80-1764-4644-90e5-687d6ea454b5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The endocrine effects of neuroleptics would include all except",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "24061d72-57d8-427e-93bd-f3ea0f215b6b",
+          "text": "Gynaecomastia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a53f51e3-03af-4b67-a2d5-868550852cc9",
+          "text": "Primary amenorrhoea",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "1d9a3061-b6a2-4d72-80e1-9947e0d43b2b",
+          "text": "Weight gain",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "730e949e-a23b-4c00-9150-25ec007f3681",
+          "text": "Lactorrhoea",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "2e674c4d-6d7c-4846-a65f-99f7da0a8a37",
+          "text": "Impotence",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "a53f51e3-03af-4b67-a2d5-868550852cc9",
+        "text": "Primary amenorrhoea"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "a53f51e3-03af-4b67-a2d5-868550852cc9",
+          "text": "Primary amenorrhoea",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Hyperprolactinaemia caused by antipsychotics can in turn cause secondary (not primary) amenorrhea in women and breast enlargement and galactorrhea in both men and women. Long-term adverse consequences of hyperprolactinaemia are reductions in bone mineral density and possible increase in the risk of breast cancer. Anticholinergic effects of antipsychotics can cause disorders of sexual arousal, and antipsychotics that block peripheral alpha-1 receptors cause particular problems with erection and ejaculation in men.\nRef: Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry, 14th Edition. 2021. pp. 168, 173.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": "2020f5ed-755b-4782-97b6-7344fd0503bd",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following medications has been found to be effective in patients with premature ejaculation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "fa543b86-4467-45ce-9306-252cd3b97b93",
+          "text": "Flunarizine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5f614c8d-c0ce-45f5-8ab4-441647470a88",
+          "text": "Fluoxetine",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "08a32fb4-b410-426e-ac61-df9362d78249",
+          "text": "Flupentixol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "bda5419e-795a-42b5-890f-7f8517e81e38",
+          "text": "Fluphenazine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "0b754b5d-3a60-4f7e-9658-e3babc898076",
+          "text": "Trifluoperazine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "5f614c8d-c0ce-45f5-8ab4-441647470a88",
+        "text": "Fluoxetine"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "5f614c8d-c0ce-45f5-8ab4-441647470a88",
+          "text": "Fluoxetine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The anorgasmic effects of SSRIs make them useful as a treatment for men with premature ejaculation. Fluoxetine and sertraline have been shown to be effective for this purpose.\nRef: Boland R, Verduin M. Kaplan and Sadock's Synopsis of Psychiatry, 12th Edition. 2022. p. 628.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": "31afb8f2-793b-48a8-8ad1-86ccf981c09b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following must be immediately checked?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "69a2a8aa-531c-491c-b363-6471367b44ea",
+          "text": "Liver function",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "9e4bf8c0-1d9a-4268-a030-051b8a9be6cc",
+          "text": "Differential count",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "ee8b2d37-c287-496f-8bf4-6167a9973a66",
+          "text": "Renal function",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d4aaeb37-b4cf-4ffc-bb25-65de8531ac99",
+          "text": "CSF profile",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "020654cb-f2cb-4ad1-bee9-8a3c35d0c6cf",
+          "text": "Blood glucose",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "9e4bf8c0-1d9a-4268-a030-051b8a9be6cc",
+        "text": "Differential count"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "9e4bf8c0-1d9a-4268-a030-051b8a9be6cc",
+          "text": "Differential count",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Mirtazapine has been associated with leucopenia and, rarely, agranulocytosis.\nRef: Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry, 14th Edition. 2021. p. 914.\nSemple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 290.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 44,
+      "question_id": "852a6eff-e67c-4f43-a5f0-2b1f1d1da69d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which neurotransmitter receptor is most likely being affected?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2eb8d067-efd3-4c16-adde-d1d135b14e2d",
+          "text": "Nicotinic receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ee7c73b7-4295-4923-a446-6c212e7e6c6d",
+          "text": "Histamine type 1 receptors",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "da17993e-56cf-4179-9e30-44bca21ca9cd",
+          "text": "5HT type 2 receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ffd1ba59-ebf6-4f3b-aae0-2b649ca58c9c",
+          "text": "Muscarinic type 1 receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ee711306-2be8-44ed-b87a-032310d67c56",
+          "text": "5HT type 3 receptors",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "ee7c73b7-4295-4923-a446-6c212e7e6c6d",
+        "text": "Histamine type 1 receptors"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "ee7c73b7-4295-4923-a446-6c212e7e6c6d",
+          "text": "Histamine type 1 receptors",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Both the histaminic and serotonergic effects of mirtazapine contribute to increased sedation. However, the dose of mirtazapine is critical to its effects on sleep. At low doses, mirtazapine preferentially blocks the histamine H1 receptor, since at lower plasma concentrations it has a higher affinity to histamine receptors than to serotonergic receptors. At higher doses, the antihistamine activity is offset by increased noradrenergic transmission, which reduces its sedating effect.\nRef: Leonard SD, Karlamangla A. Dose-dependent sedating and stimulating effects of mirtazapine. Proc UCLA Healthc. 2015;19:1-2.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 45,
+      "question_id": "3ec6cb71-d1d2-4e7f-97d6-cb1cda07b2fc",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Mechanism of action of buprenorphine is via partial agonism at",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "df501953-a126-4e7d-8504-84c65b5194c4",
+          "text": "ß-opioid receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "6c032a7a-9242-4430-bcfa-0ec076fd9ef5",
+          "text": "µ-opioid receptors",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "914a6cf5-1c8e-4b59-a4d5-2d7eebab5bc0",
+          "text": "Adrenergic receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e65c5bd4-732f-4b3d-a2de-095c25e585e3",
+          "text": "k-opioid receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "462a607c-c3eb-4dbc-99d8-a205d84337ff",
+          "text": "Cholinergic receptors",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "6c032a7a-9242-4430-bcfa-0ec076fd9ef5",
+        "text": "µ-opioid receptors"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "6c032a7a-9242-4430-bcfa-0ec076fd9ef5",
+          "text": "µ-opioid receptors",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Buprenorphine is a synthetic partial agonist with low intrinsic activity and high affinity at mu-opioid receptors.\nRef: Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry, 14th Edition. 2021. p. 483.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 46,
+      "question_id": "70d4cd27-8eaf-4210-bc55-66698db6086b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "If availability of glutamate at the receptor sites is increased experimentally after administering drug A, which of the following can happen?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9a70532c-8883-4773-be15-0c55c61093e2",
+          "text": "Effect of drug A is partially reversed",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "70b65fbf-acdf-43f8-94ee-4902db91e526",
+          "text": "Glutamate levels decrease",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4201857d-b942-41b2-bd4d-66f3733406f7",
+          "text": "No change takes place",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f993f0e9-dbd8-4a7d-81e8-b30de447d599",
+          "text": "Effect of drug A is reversed fully",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "54ac8234-8170-42b7-be2b-b938a46f4bde",
+          "text": "Effect of drug A increases",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "9a70532c-8883-4773-be15-0c55c61093e2",
+        "text": "Effect of drug A is partially reversed"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "9a70532c-8883-4773-be15-0c55c61093e2",
+          "text": "Effect of drug A is partially reversed",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Noncompetitive antagonists alter the receptor site in some way so the effects can be reversed only partially by increasing the dose of the agonist drug. Non-competitive antagonism reduces both the potency and the efficacy of agonists.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 47,
+      "question_id": "411e6a13-459d-4280-8c4b-06efd427bc53",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following is a predominant D2 antagonist at therapeutic doses?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "fadcddf6-b14d-4542-844f-f30bcc972f75",
+          "text": "Aripiprazole",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ea15b47b-763f-4418-85cf-edba608d2d71",
+          "text": "Clozapine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3edf15eb-c6b4-4e8a-a321-03e09c67576b",
+          "text": "Risperidone",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a0a68a99-8bdc-4928-bea3-6562e3f1163f",
+          "text": "Amisulpride",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c03190ad-f9dd-4870-abf4-c886483aec92",
+          "text": "Sulpiride",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "c03190ad-f9dd-4870-abf4-c886483aec92",
+        "text": "Sulpiride"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "c03190ad-f9dd-4870-abf4-c886483aec92",
+          "text": "Sulpiride",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Sulpiride is a predominant D2 antagonist with minimal D3 antagonist/partial agonist actions. Whereas, Amisulpride is a D2/D3 antagonist. At low doses, Amisulpride blocks autoreceptors thus increasing the synaptic dopamine levels. This may explain its therapeutic effects on negative symptoms. In the limbic region, blockade of postsynaptic D2/D3 receptors reduces positive symptoms.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 48,
+      "question_id": "ed066421-a46d-4d57-893e-43f6a95a1ca0",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following is a weak inhibitor of cytochrome P450?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e26dd065-2500-465e-bd96-839d9738af2a",
+          "text": "Duloxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d51b2554-291a-45af-88e4-90bfbe58e47f",
+          "text": "Fluvoxamine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6e1be707-6fc0-4f04-8b62-78becec827dd",
+          "text": "Citalopram",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "8c6ac070-e1b7-4a03-8e39-f87ac238f7db",
+          "text": "Paroxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e52b09c4-ba0e-489d-b1d9-3d2ca9e93bd7",
+          "text": "Fluoxetine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "6e1be707-6fc0-4f04-8b62-78becec827dd",
+        "text": "Citalopram"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "6e1be707-6fc0-4f04-8b62-78becec827dd",
+          "text": "Citalopram",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Citalopram and escitalopram are very weak inhibitors of CYP 1A2 and 2D6. Fluoxetine, fluvoxamine and paroxetine are potent inhibitors of several hepatic cytochrome enzymes. Sertraline is safer, while citalopram is the safest.\nRef: Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry, 14th Edition. 2021. p. 787.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 49,
+      "question_id": "0ed9e2b4-471a-4a41-8e03-1f8f67244778",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following street drugs is called a dissociative anaesthetic?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "dae7c0bc-5dd5-4e69-9464-b1f715267f31",
+          "text": "Ketamine",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "e5802950-7a14-4d69-96fc-6da9da0fe0a3",
+          "text": "Cannabis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "e5ed899d-b284-4118-8d27-6b6a53e9d697",
+          "text": "Heroin",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "db48b838-3b71-46bc-adf8-6c6f824bec41",
+          "text": "LSD",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "cba6f6c5-6c3c-4a19-bb4a-6902a5ec00b9",
+          "text": "Cocaine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "dae7c0bc-5dd5-4e69-9464-b1f715267f31",
+        "text": "Ketamine"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "dae7c0bc-5dd5-4e69-9464-b1f715267f31",
+          "text": "Ketamine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Ketamine is a compound structurally similar to PCP, used as an anaesthetic and in battlefield surgery. It is a unique anaesthetic, as it does not produce reticular activating system depression, but instead it prevents cortical awareness of painful stimuli. Small amounts can lead to a sense of dissociation. Larger amounts can lead to LSD-like synaesthesia and hallucinations.\nRef: Semple D, Smyth R. Oxford handbook of psychiatry. Oxford university press; 2019 Jul 30. p. 625.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 50,
+      "question_id": "c9c7fe2c-8e48-4c25-8272-940a2b6d7354",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements has no evidence-based support when prescribing the antidementia drug donepezil? It",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1a443530-13d0-4583-8967-85a9582526b9",
+          "text": "Reduces caregiver burden",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2bf6fbd9-6003-4f04-959d-4511a20e3599",
+          "text": "Improves the activities of daily living in some patients",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "bc51c135-73b9-4520-9c2a-38eb40d080d8",
+          "text": "Improves neuropsychiatric symptoms",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c491fc85-007f-4c0c-8329-59c98badc945",
+          "text": "Reverses the progression of neuropathological degeneration",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "41903da9-a559-47b6-b49c-39d3a35e9cf7",
+          "text": "Reduces time to institutionalisation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "c491fc85-007f-4c0c-8329-59c98badc945",
+        "text": "Reverses the progression of neuropathological degeneration"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "c491fc85-007f-4c0c-8329-59c98badc945",
+          "text": "Reverses the progression of neuropathological degeneration",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Donepezil may improve symptoms and slow progression of disease but does not reverse the degenerative process. Patients do not generally improve dramatically, although this can be observed in a significant minority of patients. Onset of behavioural problems and nursing home placement can be delayed. Functional outcomes, including activities of daily living, can be preserved. Caregiver burden and stress can be reduced.\nRef: Stahl SM. Stahl’s Essential Psychopharmacology: Prescriber’s Guide, 7th Edition. 2021. pp. 24 246.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

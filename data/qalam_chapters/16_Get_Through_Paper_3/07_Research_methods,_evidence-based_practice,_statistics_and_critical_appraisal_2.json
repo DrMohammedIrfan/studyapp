@@ -1,0 +1,3784 @@
+{
+  "chapter_id": "b2d9be53-7cd7-439d-9fa2-ca333ec37ce2",
+  "chapter_name": "Research methods, evidence-based practice, statistics and critical appraisal 2",
+  "chapter_title": "Research methods, evidence-based practice, statistics and critical appraisal 2",
+  "resource_id": "cf3f77f2-40cf-4dad-b8e0-33bb47816aad",
+  "resource_title": "Get Through Paper 3",
+  "subject_name": "Get Through Paper 3",
+  "chapter_number": 7,
+  "total_questions": 65,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "366716df-b303-4a9e-8a6d-e5dc8cbfda0f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not correct regarding the principles of causal inference?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "05b30810-1f30-4d1e-a759-97e4317f97a4",
+          "text": "Lack of temporal ambiguity means that the cause should precede the effect",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f15bdd5a-31c6-4acb-b30a-0ec96dcf6d2f",
+          "text": "A dose–response relationship means that the size of an effect should vary with the size of the cause",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "95d4f716-298d-48a9-a951-b279fdfb034b",
+          "text": "Coherence means that there is no biological or theoretical basis for the hypothesized cause and effect",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "a78cd53a-6464-4635-a263-5c7e8f0ed381",
+          "text": "Specificity means that the effects are associated primarily with one cause",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ae42fb47-a547-4e69-b79b-714ca0ce3112",
+          "text": "Consistency means that the same relationship is seen over many studies involving a wide range of other factors",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "95d4f716-298d-48a9-a951-b279fdfb034b",
+        "text": "Coherence means that there is no biological or theoretical basis for the hypothesized cause and effect"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "95d4f716-298d-48a9-a951-b279fdfb034b",
+          "text": "Coherence means that there is no biological or theoretical basis for the hypothesized cause and effect",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Coherence means that there is a theoretical, factual, biological and statistical basis for the proposed theory of cause and effect.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": "d8b40bab-cd23-477c-a587-97b4c4980570",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The height in centimetres of five medical students is 165, 175, 176, 159 and 170. Which of the following pairs are the median and mean of the sample?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "feb17359-0ec3-4309-b178-3afdf9081d35",
+          "text": "170, 169",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "e106ad5e-bfd5-4a89-87ed-37140f55f63a",
+          "text": "170, 170",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "61458aee-9ad5-45d8-84af-f5ff0b2fa904",
+          "text": "169, 170",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "44e8e6ce-7d1c-4f29-8b58-8cd934390359",
+          "text": "176, 169",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "3826c843-6b59-4fea-bcba-a020d91955b0",
+          "text": "176, 176",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "feb17359-0ec3-4309-b178-3afdf9081d35",
+        "text": "170, 169"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "feb17359-0ec3-4309-b178-3afdf9081d35",
+          "text": "170, 169",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Median is the middle value and 170 is the middle value of the five values given. The mean of the sample is the arithmetic mean and is calculated by adding the five values and dividing them by five: 165 +175+176+ 159+170=845; 845/5 =169.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "04a23cfd-d594-4128-aec2-9d0dd96f6c08",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The depression scores on the Hamilton Anxiety and Depression Scale administered to a group of 11 patients are as follows: 16, 18, 20, 20, 22, 24, 26, 26, 26, 28, 30. Which of the following pairs are the median and mode of the sample?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "861c43da-b476-4713-81f3-9bc5e572c0f4",
+          "text": "26, 20",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "98ef6400-9f23-44c9-91bf-c0c0950ee885",
+          "text": "24, 20",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "72a1e67b-1b7a-445e-9ecf-461649d649c3",
+          "text": "24, 26",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "1f48f038-9054-4153-8e7d-75bbeb341e29",
+          "text": "16, 30",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b34ba3cc-e984-4803-871f-42719c6d0812",
+          "text": "22, 26",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "72a1e67b-1b7a-445e-9ecf-461649d649c3",
+        "text": "24, 26"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "72a1e67b-1b7a-445e-9ecf-461649d649c3",
+          "text": "24, 26",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Median is the central value in the sample, which is 24, and mode is the most frequently occurring value in the sample, which is 26.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": "e99c217d-bfcb-4557-9390-c7954428a27d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In a large data set looking at the age of onset of schizophrenia in males, if the majority of ages are similar (18–20 years) but a few findings showing a very high age of around 50 years, how would the mean and median of these data compare and what would be the shape of the histogram?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "08e00e4b-6fdd-4906-9ec3-2a5e4cd60852",
+          "text": "The mean would be smaller than the median and the histogram would be skewed with a long left tail",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b425b556-84c0-48f6-944c-26dbe104de3d",
+          "text": "The mean would be larger than the median and the histogram would be skewed with a long right tail",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "72e60718-120c-4fa4-9e8a-652db24533b7",
+          "text": "The mean would be larger than the median and the histogram would be skewed with a long left tail",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "05f44fa9-9e60-4645-9ec5-934b77e17d90",
+          "text": "The mean would be smaller than the median and the histogram would be skewed with a long right tail",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "0c45a697-06e9-4f08-9b8d-b7f210d86dd9",
+          "text": "The mean would be equal to the median and the histogram would be symmetrical",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "b425b556-84c0-48f6-944c-26dbe104de3d",
+        "text": "The mean would be larger than the median and the histogram would be skewed with a long right tail"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "b425b556-84c0-48f6-944c-26dbe104de3d",
+          "text": "The mean would be larger than the median and the histogram would be skewed with a long right tail",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The mean would be larger than the median as the arithmetic mean is very sensitive to extreme values and the median represents the central value.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": "63b0d6da-db6b-48e3-9b87-2f69fe6fb400",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In skewed distributions, the median is preferred over the mean for most purposes because:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0e155d8d-3678-4e6e-bc46-576701a95b53",
+          "text": "The median is the most frequent number while the mean is most likely",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2e6f2729-e773-494f-9687-4bd82f0dc13d",
+          "text": "The mean may be too heavily influenced by a few extreme observations",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "47c4bae3-231a-4420-ab3b-0e5bb5a19ac5",
+          "text": "The median is less than the mean and smaller numbers are always appropriate for the centre",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "1bd9d0e5-de02-464f-b7cc-fba03cd5fa21",
+          "text": "The mean measures the spread in the data",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d357cc7c-8814-4390-bb79-4bc8833817e9",
+          "text": "The median measures the arithmetic average of the data excluding outliers",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "2e6f2729-e773-494f-9687-4bd82f0dc13d",
+        "text": "The mean may be too heavily influenced by a few extreme observations"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "2e6f2729-e773-494f-9687-4bd82f0dc13d",
+          "text": "The mean may be too heavily influenced by a few extreme observations",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In skewed distributions, a small number of extreme values can have a major effect on the mean, hence the preference for median.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": "b9338cab-2904-4cb5-be2e-5c56e68eee19",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements would in general be false?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9e3f5cc9-0c63-49c2-87c3-b75ad36ad069",
+          "text": "The sample mean is more sensitive to extreme values than the median",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "068c92f0-4c54-425c-b59b-c37a03dafeaa",
+          "text": "The standard deviation is a measure of spread around the mean",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6e7f140c-29f0-4b52-8232-ea222bdaf13c",
+          "text": "The range is more sensitive to extreme values than the standard deviation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ac11409b-6b21-4c36-a3fe-ccb9c8d6d3b2",
+          "text": "If a distribution is symmetrical then the mean will be equal to the median",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "4848d3a0-a326-4fc1-a6a6-5e3681a4a37c",
+          "text": "The standard deviation is a measure of central tendency around the median",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "4848d3a0-a326-4fc1-a6a6-5e3681a4a37c",
+        "text": "The standard deviation is a measure of central tendency around the median"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "4848d3a0-a326-4fc1-a6a6-5e3681a4a37c",
+          "text": "The standard deviation is a measure of central tendency around the median",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The standard deviation is not a measure of central tendency but a measure of dispersion.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": "8ed68938-76a2-49a2-b909-b0b1f1ce8f2d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The scores of 15 candidates taking an objective structured clinical examination (OSCE) are recorded by the examiners in ascending order as follows: 4, 7, 7, 9, 10, 11, 13, 15, 15, 15, 17, 17, 19, 19, 20. After calculating the mean, mode and median, an error is discovered by one of the examiners. One of the students, by mistake, has been given 15 instead of 17. Which of the three measures of central tendency (mean, mode and median) already calculated will have to be changed?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "592af27c-2d9b-4f12-9789-633459066a65",
+          "text": "Mean",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "64038e8a-b908-43ec-9798-37447e64e1b2",
+          "text": "Mode",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f6733087-3abd-4fa8-8ff9-341ba13e9fa3",
+          "text": "Median",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "cd547c8a-8dbd-4d2a-b716-99583740f396",
+          "text": "Mean and mode",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "e115f85d-f35f-4faa-9025-b63e871771b4",
+          "text": "All three",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "cd547c8a-8dbd-4d2a-b716-99583740f396",
+        "text": "Mean and mode"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "cd547c8a-8dbd-4d2a-b716-99583740f396",
+          "text": "Mean and mode",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The mean and mode will change but the median will stay the same.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": "12c6676d-2e4f-4091-ae90-d7f43e99e272",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is incorrect?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "aaefe3be-8b9c-4f49-8fbb-53faadf51e98",
+          "text": "In a symmetrical distribution, the mean and median are equal",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4b429a2f-c2da-4ec4-872b-ffc83c7ac865",
+          "text": "The first quartile is equal to the 25th percentile",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2e1bdfe0-0513-4e7c-99c6-bc0adc143ca4",
+          "text": "In asymmetric distribution, the median is halfway between the first and third quartile",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "bdc96927-2a40-40ec-a647-9db3152fa6f3",
+          "text": "The median is always greater than the mean",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "9d86b7f0-d9d9-4973-be74-7c333170e6d8",
+          "text": "The range is the difference between the largest and the smallest observation in the data set",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "bdc96927-2a40-40ec-a647-9db3152fa6f3",
+        "text": "The median is always greater than the mean"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "bdc96927-2a40-40ec-a647-9db3152fa6f3",
+          "text": "The median is always greater than the mean",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The median is not always greater than the mean, as the mean is sensitive to extreme values and can change with the changes in the data set.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": "13f31ecf-b6f6-42de-a43a-a143b45b385b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Regarding standard deviation, which of the following statements is false?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d619513d-f716-426f-ad49-8333f7c9bf60",
+          "text": "A data set with values 3, 3 and 3 has a standard deviation of 0",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "366b84e1-d4f6-4956-8a0e-baa3ff66369b",
+          "text": "A data set with values 3, 4 and 5 has the same standard deviation as a data set with values 103, 104 and 105",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4c440ee4-3418-4699-ac6e-8f5171561ceb",
+          "text": "The standard deviation is a measure of scatter around the centre of the data",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "75483b70-e23d-4df9-8426-48739e178154",
+          "text": "A data set with values 1, 5 and 9 has a smaller standard deviation than a data set with values 101, 105 and 109",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "a99a7534-09ba-4c5b-802f-dbd24f7c83ff",
+          "text": "The standard deviation is the square root of variance",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "75483b70-e23d-4df9-8426-48739e178154",
+        "text": "A data set with values 1, 5 and 9 has a smaller standard deviation than a data set with values 101, 105 and 109"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "75483b70-e23d-4df9-8426-48739e178154",
+          "text": "A data set with values 1, 5 and 9 has a smaller standard deviation than a data set with values 101, 105 and 109",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A data set with values 1, 5 and 9 will have the same standard deviation as a data set with values 101, 105 and 109.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": "188b90f3-87c4-4b1f-a61f-f0e39f15b3c6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Suppose you are working on a paediatric intensive care unit (PICU) ward and have been told that the chance of physical aggression by the patients is one in every three doctor–patient contacts. During the last nine days you have had one contact with a patient every day and have not had any episode of physical aggression. Today, the 10th day, you are going to interview a patient. What are the chances of physical aggression towards you?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3ba25400-02fa-4fde-9e60-5feca4b3b503",
+          "text": "Greater than one in three because you have not had any episodes in the last nine days",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "8090268c-d937-4a8e-84c5-3493cc189c7b",
+          "text": "Less than one in three because you have not had any episodes in the last nine days",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7b5f4005-7166-45a4-86ca-704abcfa42f8",
+          "text": "Still equal to one in three because the last nine days do not affect the probability",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "438bbe63-d157-4f0e-aa21-0e5bee053c87",
+          "text": "Equal to one in ten because you have not had any episodes in the last nine days",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "2f0b951f-d71b-41db-ab7e-540f32b6cdc6",
+          "text": "Equal to nine in ten because you have not had any episodes in the last nine days",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "7b5f4005-7166-45a4-86ca-704abcfa42f8",
+        "text": "Still equal to one in three because the last nine days do not affect the probability"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "7b5f4005-7166-45a4-86ca-704abcfa42f8",
+          "text": "Still equal to one in three because the last nine days do not affect the probability",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The probability of physical aggression remains the same and is not affected by the events of the last nine days.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": "5d7c3310-28b7-483d-acbf-50c05d39aeda",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Suppose the chance of patients developing depression after the diagnosis of Alzheimer's disease has been estimated to be 1 in 4. What does this mean?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1ef23554-d02d-4d70-b172-dfa0860b8131",
+          "text": "Every fourth patient will develop depression after being given the diagnosis of Alzheimer's disease in your clinic",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "87990e99-41d1-4f9c-8f36-9e2d672a61a5",
+          "text": "Of 1000 people diagnosed with Alzheimer's disease, exactly 250 will become depressed",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "36aefe60-6806-4dfc-a260-e34de3bd7826",
+          "text": "Of 200 people diagnosed with Alzheimer's disease, about 50 will become depressed",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "8b8f0d5f-dea8-4f74-906d-e4fe56ceb3e2",
+          "text": "In exactly 25% of all patients diagnosed with Alzheimer's disease, depression will occur",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "6b5dcead-aee8-4e8c-8bbd-b644aa908e97",
+          "text": "Out of 20 people diagnosed with Alzheimer's disease, it is very likely that exactly five people will become depressed",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "36aefe60-6806-4dfc-a260-e34de3bd7826",
+        "text": "Of 200 people diagnosed with Alzheimer's disease, about 50 will become depressed"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "36aefe60-6806-4dfc-a260-e34de3bd7826",
+          "text": "Of 200 people diagnosed with Alzheimer's disease, about 50 will become depressed",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A 1 in 4 chance of developing depression after diagnosis of Alzheimer's disease means that about 50 in 200 will develop depression.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": "2f3c7606-2d85-4703-8c1f-3632700d9741",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "An epidemiological study finds that about 20% of people between the ages of 18 and 25 have smoked cannabis over the last year. Which of the following statements is true in the light of this finding?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "67baa49e-6288-49a7-ae2f-87ce43e3edbd",
+          "text": "If five people of this age are randomly selected, one of them must have smoked cannabis in the last year",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "44e60fd1-ed8c-47b3-87f9-cdb2ab01475b",
+          "text": "If 20 people are randomly selected from this age group and 18 of them have smoked cannabis in the last year, the 19th person selected at random will have a lower probability of having smoked cannabis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c9d42bad-9972-4a1a-bed7-f8b9553d3f0c",
+          "text": "If 10 people are randomly selected from this age group and none of them have smoked cannabis over the last year, the next person selected will have a higher probability of having smoked cannabis in the last year",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "bdbab233-b179-42ae-8257-edf8ccde6610",
+          "text": "If 1000 people from this age group are randomly selected, it will not be unusual to find that around 200 of them have smoked cannabis in the last year",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "97c2658d-ab9f-4540-8a48-6b95e29262c4",
+          "text": "If 1000 000 people from this age group are randomly selected there must be exactly 200 000 of them who have smoked cannabis in the last year",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "bdbab233-b179-42ae-8257-edf8ccde6610",
+        "text": "If 1000 people from this age group are randomly selected, it will not be unusual to find that around 200 of them have smoked cannabis in the last year"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "bdbab233-b179-42ae-8257-edf8ccde6610",
+          "text": "If 1000 people from this age group are randomly selected, it will not be unusual to find that around 200 of them have smoked cannabis in the last year",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The 20% figure means that about 200 young people in a random sample of 1000 are likely to have smoked cannabis over the last 12 months.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": "61e4347a-ce97-4b33-a9f2-8dec5e07cb39",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Suppose the results of last year's MRCPsych examination paper 1 show that the marks obtained by candidates followed a normal distribution with a mean of 65 and a standard deviation of 12. With the pass mark being 50, approximately what percentage of candidates have failed that examination?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e6623b1e-0260-45b0-9809-802f1ce30adb",
+          "text": "11%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "26ca4766-6433-4688-9611-162f9f649151",
+          "text": "22%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5d028524-4fdf-4391-a91e-6bd9df6a28fe",
+          "text": "41%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "02519df0-d39c-472f-b4d6-a5dd70ac4927",
+          "text": "60%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d65a0bb0-bc59-4263-8236-e1b465368887",
+          "text": "89%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "e6623b1e-0260-45b0-9809-802f1ce30adb",
+        "text": "11%"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "e6623b1e-0260-45b0-9809-802f1ce30adb",
+          "text": "11%",
+          "is_correct": true
+        }
+      ],
+      "explanation": "If the mean score of candidates was 65 with a standard deviation of 12 then the proportion of candidates with scores below 50 is going to be around 11%.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": "89a8da9e-e932-4b34-8797-ca632a08a6b7",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A research team looking at use of recreational drugs by teenagers has decided to replicate a study they carried out a few years previously. The statistician advising the team has suggested increasing the size of the random sample of teenagers from 1500 to 4000. What is the likely effect of this increase in the size of sample?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6aff096f-2ea6-45bb-a303-30e3d0ce4811",
+          "text": "A reduction in the bias of the estimate",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "bcd22cf4-778d-42b9-9163-f58cc9ff4597",
+          "text": "An increase in the standard error of the estimate",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c0c612c9-b825-4636-9184-a77d21d7088e",
+          "text": "A reduction in the variability of the findings",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "741fc214-06d7-47ab-8ba7-33adaf0231af",
+          "text": "An increase in the chances of finding higher rates of drug use",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e95a7b23-5f21-4bb3-8193-57058e95d560",
+          "text": "It will have no effect because the population size is the same",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "c0c612c9-b825-4636-9184-a77d21d7088e",
+        "text": "A reduction in the variability of the findings"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "c0c612c9-b825-4636-9184-a77d21d7088e",
+          "text": "A reduction in the variability of the findings",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The increase in random sample size is likely to reduce the variability of the findings regarding use of recreational drugs by teenagers.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": "852462ee-d2ea-42df-b7da-f82f8a64f87f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true regarding the sampling distribution of the mean?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "629a421f-c0f2-47f6-9c5b-8a002f7fde49",
+          "text": "The standard error of the mean is a measure of the variability of the mean among repeated samples",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "57b39c2c-b4f4-40c8-a777-20420de5f66f",
+          "text": "The standard error of the mean will decrease as the sample size increases",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f150ba72-b302-48eb-8d4c-fdb280b88e9e",
+          "text": "The mean is unbiased for the true (unknown population) mean",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ef551a34-1fff-430e-bcdf-1cf2b5ebd9f6",
+          "text": "The sampling distribution shows how the sample was distributed around the mean",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "db6de2f3-82e4-4682-b83d-f466b0d80dbc",
+          "text": "The sampling distribution shows how the mean will vary among repeated samples",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "db6de2f3-82e4-4682-b83d-f466b0d80dbc",
+        "text": "The sampling distribution shows how the mean will vary among repeated samples"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "db6de2f3-82e4-4682-b83d-f466b0d80dbc",
+          "text": "The sampling distribution shows how the mean will vary among repeated samples",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The sampling distribution shows how the mean was distributed in a particular sample.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": "87c897f2-30c5-4724-8b78-68394e11e690",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements explains best the meaning of 'the sample mean is an unbiased estimator of the population mean'?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4905dd7f-3dda-4715-acf1-de9db0293f37",
+          "text": "The sample mean is always very close to the population mean",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ea30a951-07d1-4158-b3b4-2ff35380f784",
+          "text": "The sample mean is always equal to the population mean",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "90885d54-0682-4dae-9b96-a68c6a7273fa",
+          "text": "The sample mean will vary only a little from the population mean",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c9d32e85-5bba-4ce7-a7c4-b8703f872183",
+          "text": "The sample mean has a normal distribution",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "bc557944-4e99-4c15-9743-2de489f65f50",
+          "text": "The average sample mean, over all possible samples, equals the population mean",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "bc557944-4e99-4c15-9743-2de489f65f50",
+        "text": "The average sample mean, over all possible samples, equals the population mean"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "bc557944-4e99-4c15-9743-2de489f65f50",
+          "text": "The average sample mean, over all possible samples, equals the population mean",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The average sample mean, over all possible samples, equals the population mean.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": "6543c5bc-184a-4354-922e-ed2eeb3c3708",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true regarding sampling in an epidemiological survey?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "efebfe39-8f88-4c51-bca2-4b3f3c71f8a9",
+          "text": "If proper random sampling procedures are followed, every subject of the population has an equal chance of being selected",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "0423fb8d-0a1b-464e-83c7-2363a4a2b4a7",
+          "text": "The precision of the sample mean depends upon the sample size and not on the population size if proper random sampling procedures are followed",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "a398e473-fa58-4d44-986b-ee35d5e60da1",
+          "text": "The sampling distribution of the sample mean describes how the sample mean will vary among repeated samples",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6bceaaa1-5e27-4148-99b6-762b3119c47e",
+          "text": "Convenience sampling often leads to bias because the sample is often not representative of the population",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "665b4027-8607-42d2-8558-cec94c2d4636",
+          "text": "If a sample of 1000 families is randomly selected from a town with a total of 10 000 families, and the average family income from the sample is £50, then the true value of the family income for all the families in the town is known",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "665b4027-8607-42d2-8558-cec94c2d4636",
+        "text": "If a sample of 1000 families is randomly selected from a town with a total of 10 000 families, and the average family income from the sample is £50, then the true value of the family income for all the families in the town is known"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "665b4027-8607-42d2-8558-cec94c2d4636",
+          "text": "If a sample of 1000 families is randomly selected from a town with a total of 10 000 families, and the average family income from the sample is £50, then the true value of the family income for all the families in the town is known",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The average family income calculated from the sample cannot provide the true value of the family income for all the families in the town. It provides only the average family income, which will vary from one individual family to another in the town.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": "a88075ed-974b-479a-bbbb-aa260ac71e0e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A group of researchers decide to look at the possibility of mild to moderate depression in a group of elderly people attending a day hospital. They take a random sample of the subjects to administer a semi-structured interview for the diagnosis of depression. Which of the following statements is not true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6c366d86-e9aa-4a24-98c0-98033c42f448",
+          "text": "A convenience sample could be chosen by selecting the first 25 people entering the day hospital on that particular day",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "66186a76-7fe3-47f3-8c2b-208821dd62b7",
+          "text": "The subjects were selected randomly and this means that every person attending the day hospital on the particular day had an equal chance of being selected",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6fb0fc58-5ba0-4f90-80b6-ad615053b6b9",
+          "text": "The confidence interval calculated from the data refers to the proportion of subjects in the sample who were suffering from mild to moderate depression",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "1c0b2404-0523-4a76-972e-8df375ef5d62",
+          "text": "If another sample of subjects is selected, it is likely that a slightly different proportion of subjects with mild to moderate depression will be found",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b8a50fae-847f-43f9-b693-b1b7e5b704ff",
+          "text": "Even though the subjects were selected randomly, the sample may not be representative of the elderly people living in the community",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "6fb0fc58-5ba0-4f90-80b6-ad615053b6b9",
+        "text": "The confidence interval calculated from the data refers to the proportion of subjects in the sample who were suffering from mild to moderate depression"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "6fb0fc58-5ba0-4f90-80b6-ad615053b6b9",
+          "text": "The confidence interval calculated from the data refers to the proportion of subjects in the sample who were suffering from mild to moderate depression",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The confidence interval calculated refers to the likelihood of the mean depression score calculated from the sample being close to the true mean.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": "1e802428-60e8-4782-8aff-453fbbaffd19",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In a study of the proportion of inpatients on psychiatric units who are suicidal, which of the following statements is not true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "597f12b0-97c1-4ca0-a2bf-88c6c3a587d2",
+          "text": "Different researchers may get different values for the proportion of inpatients with suicidal ideas",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ae491006-510f-440d-babf-42f70156600b",
+          "text": "If the rules of random sampling are followed, the proportion of inpatients with suicidal ideas found from the study is an unbiased estimate of suicidal ideas in the total inpatient population",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "317a2e86-082f-4b0f-b1d3-a8b48d03d845",
+          "text": "A convenience sample of the first 20 inpatients may give a biased estimate of the proportion of patients with suicidal ideas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "3859cc15-f9a9-4201-9ad7-f5931ab45c28",
+          "text": "A convenience sample of 100 inpatients is always better than a properly drawn random sample of 20 patients",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "fa2acf7a-d1f0-4ec0-bd5b-914c35149cbc",
+          "text": "A random sample of 100 inpatients will give a more precise estimate of the proportion of patients with suicidal ideas than a sample of 20 inpatients",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "3859cc15-f9a9-4201-9ad7-f5931ab45c28",
+        "text": "A convenience sample of 100 inpatients is always better than a properly drawn random sample of 20 patients"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "3859cc15-f9a9-4201-9ad7-f5931ab45c28",
+          "text": "A convenience sample of 100 inpatients is always better than a properly drawn random sample of 20 patients",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A smaller but properly drawn random sample is better than a bigger convenience sample.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": "c6626f20-bac4-4af0-b87c-59c843735303",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true regarding sampling?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "736b8ca2-9ce7-44f6-9a55-3a99b7aa2043",
+          "text": "A large sample size always gives unbiased results, regardless of how the sample is selected",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "fbdf3d81-d954-4a05-9e92-a1b2fdfc8820",
+          "text": "The standard error measures how much the answer (outcome) may vary if a new sample of the same size is chosen using the same sampling method",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "63638a9f-aeb8-43a5-9929-66aee0bbea74",
+          "text": "The sampling distribution describes how the answer will vary if a new sample is taken",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "444baf6b-20a3-4f3a-8a9b-2b0998786701",
+          "text": "A randomly chosen larger sample will give answers that vary less from the true value than a randomly chosen smaller sample",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "4b59d43c-3453-4be3-bab9-3eef942301c8",
+          "text": "The standard deviation measures the variability of the values in a sample",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "736b8ca2-9ce7-44f6-9a55-3a99b7aa2043",
+        "text": "A large sample size always gives unbiased results, regardless of how the sample is selected"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "736b8ca2-9ce7-44f6-9a55-3a99b7aa2043",
+          "text": "A large sample size always gives unbiased results, regardless of how the sample is selected",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A large sample size does not necessarily give unbiased results if the sample is not chosen randomly.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": "47a22006-72f8-4ccc-9c87-2b3f6dae6673",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements best describes the 'null hypothesis'?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "bb23a854-35b1-4645-ba9a-df3ed10ac1fc",
+          "text": "It is the same as the primary hypothesis in a research protocol",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "7473becc-dd33-4cf2-8958-ffc053990906",
+          "text": "It states that any difference observed in the results of the study groups is not due to chance",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4245e639-09e2-4853-aa64-1b29f59dbab7",
+          "text": "It states that any difference observed in the results between the groups is due to chance",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "08525d3c-4fed-4dc3-b4d7-d9672bcaf12b",
+          "text": "A properly conducted study will always prove the null hypothesis to be incorrect",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "04ca7b83-1b38-459a-aee5-27951e0cb4c3",
+          "text": "A properly conducted study will always prove that the null hypothesis is correct",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "4245e639-09e2-4853-aa64-1b29f59dbab7",
+        "text": "It states that any difference observed in the results between the groups is due to chance"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "4245e639-09e2-4853-aa64-1b29f59dbab7",
+          "text": "It states that any difference observed in the results between the groups is due to chance",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The null hypothesis assumes that any differences observed between the groups are due to chance.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": "2f21e37f-05a9-4a80-8971-70b96e8529e1",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Generally, which of the following P values is accepted as a threshold for statistical significance?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "511bdf4f-15f7-4db4-a995-baaaf8b6798e",
+          "text": "Less than 0.10",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "97831374-2198-4562-badf-cf11342b758e",
+          "text": "Less than 0.09",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5c45b5fe-5e85-4c13-9909-1a3944ad2555",
+          "text": "Less than 0.07",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0c758663-c8d7-4077-b5dc-c7c51014f67d",
+          "text": "Less than 0.05",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "11ee69fc-6642-40e5-a5b3-65184115030c",
+          "text": "Less than 0.01",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "0c758663-c8d7-4077-b5dc-c7c51014f67d",
+        "text": "Less than 0.05"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "0c758663-c8d7-4077-b5dc-c7c51014f67d",
+          "text": "Less than 0.05",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A P value of less than 0.05 is generally accepted as a threshold for statistical significance.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": "21c2cf08-28b6-43d7-945e-7938e3fa9f50",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What does a P value of less than 0.05 mean?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4293e552-71ff-460b-be8a-c721cd847dce",
+          "text": "The probability of obtaining a given result by chance is less than 1 in 5",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ab9cdf0a-f217-4519-a388-7520c0573b26",
+          "text": "The probability of obtaining a given result by chance is less than 1 in 10",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "95faa0c6-a9a7-4274-9900-93dac254184f",
+          "text": "The probability of obtaining a given result by chance is less than 1 in 20",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "a2d45831-eaf6-41d1-89fd-c8bd4c273d44",
+          "text": "The probability of obtaining a given result is less than 1 in 50",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "2503100d-1eda-4978-8bf3-1c279f576e88",
+          "text": "None of the above",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "95faa0c6-a9a7-4274-9900-93dac254184f",
+        "text": "The probability of obtaining a given result by chance is less than 1 in 20"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "95faa0c6-a9a7-4274-9900-93dac254184f",
+          "text": "The probability of obtaining a given result by chance is less than 1 in 20",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A P value of less than 0.05 means that the probability of obtaining a given result by chance is less than 1 in 20.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": "a3b49978-78cc-4710-b689-295b2ed99390",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In a research paper on the effectiveness of a new antidepressant in the treatment of severe depression, the P value for the subjects on the active drug is 0.10. Which of the following statements is not true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "af0e8f92-9dc7-4826-a800-fdf5dd8218a9",
+          "text": "The results are not significant",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c25e9853-6c07-4c5d-be7c-61f4c631e28e",
+          "text": "The association between the use of the new drug and improvement in mood cannot be proved",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2bd17217-dfb7-4e93-9af0-1abeb7c8a8a3",
+          "text": "The probability of seeing an improvement in mood by chance is high",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "58791a9a-45f2-4216-b4e1-176d93808b61",
+          "text": "Null hypothesis is rejected",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "a5789c19-d366-44b2-8ad9-14c3a1c63294",
+          "text": "The P value is higher than the threshold of statistical significance",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "58791a9a-45f2-4216-b4e1-176d93808b61",
+        "text": "Null hypothesis is rejected"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "58791a9a-45f2-4216-b4e1-176d93808b61",
+          "text": "Null hypothesis is rejected",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In this case the null hypothesis is accepted, as the results are more likely to be explained by chance alone.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": "91994a5c-4963-4406-88fb-655261c56a94",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true regarding type I errors?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "af0b22c9-fe18-4b6e-852d-9b30b8cb2e7f",
+          "text": "They are a false positive result",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ee0e4300-57b8-4709-9bfc-07f9e8a2a23c",
+          "text": "They can be caused by bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4d620164-4fa6-4456-b6c1-e57def82bb70",
+          "text": "They can be caused by confounding factors",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6d3551c9-698c-4fba-b563-2562a9150730",
+          "text": "They occur when a true null hypothesis is rejected on the basis of results",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b040bd6a-29fb-470d-88de-9a1005c39b8f",
+          "text": "They occur when a true null hypothesis is accepted on the basis of results",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "b040bd6a-29fb-470d-88de-9a1005c39b8f",
+        "text": "They occur when a true null hypothesis is accepted on the basis of results"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "b040bd6a-29fb-470d-88de-9a1005c39b8f",
+          "text": "They occur when a true null hypothesis is accepted on the basis of results",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A type I error occurs when the null hypothesis is rejected on the basis of results when it is actually true.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": "9c7e8627-530c-4328-9620-d4d58e474793",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Suppose you have read a research paper on the use of a new antipsychotic. The results reveal that the group of patients treated by the new antipsychotic showed a statistically significant improvement in symptoms, with a P value of 0.05. What are the chances that a type I error occurred, or in other words an erroneous rejection of the null hypothesis?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1f84573c-040e-4aa9-913b-21ab729d550e",
+          "text": "5%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "566e342f-6d1d-4e64-b5c6-bf7c1a199122",
+          "text": "20%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "a911295b-1d8b-4c4d-a9ab-a462a5082a15",
+          "text": "50%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8a03f14e-e327-4f57-abe3-2988c799aa39",
+          "text": "0.5%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "aab1957b-b791-4bb6-9d7d-bc0411032947",
+          "text": "0.05%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "1f84573c-040e-4aa9-913b-21ab729d550e",
+        "text": "5%"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "1f84573c-040e-4aa9-913b-21ab729d550e",
+          "text": "5%",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The probability of making a type I error is equal to the P value; in this particular example, a P value of 0.05 means that there is only a 5% chance of a false positive result or a type I error.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": "52866402-885a-4016-ba9f-ecba8f05a8d3",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true regarding type II errors?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "13d4f27b-a868-4391-a5fb-ebbbea52b427",
+          "text": "They are a false negative result",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e9c55d98-7369-46fb-a403-9f4610232bd2",
+          "text": "The null hypothesis is accepted when it is actually false",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "af8d80f9-0c2f-4c43-8604-e4d4520880f7",
+          "text": "They can be avoided by doing a power calculation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "2598d1a8-48ae-43f5-aac6-98d996b9e1b2",
+          "text": "The sample size is too large",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "1d38e6e8-7ce2-47ea-ab4d-97e3ec93c9e6",
+          "text": "The sample size is not large enough",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "2598d1a8-48ae-43f5-aac6-98d996b9e1b2",
+        "text": "The sample size is too large"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "2598d1a8-48ae-43f5-aac6-98d996b9e1b2",
+          "text": "The sample size is too large",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Type II errors occur when, due to a small sample size, a study fails to uncover a difference between the groups that actually exists.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": "dfc46005-adde-426a-86ad-d5d5f394bbba",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements best describes the 'power' of a study?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b40ad2e7-eb12-4453-a754-0e8cbd179898",
+          "text": "It increases the impact of the results of the study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "fef37c32-5c19-4422-bb64-3444ff79598e",
+          "text": "It gives the probability that a type I error will not be made",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "e35bcdb1-9735-43e5-83c1-f25c646c8dcb",
+          "text": "It gives the probability that a type II error will not be made",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "4689f9a3-d096-4d14-a059-04f2087998af",
+          "text": "It should be calculated at the time of the data analysis of a study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "1a8c3d3e-cfcb-46e2-a52f-3d2d1c6fd29c",
+          "text": "It does not have any impact on the number of subjects recruited for a study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "e35bcdb1-9735-43e5-83c1-f25c646c8dcb",
+        "text": "It gives the probability that a type II error will not be made"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "e35bcdb1-9735-43e5-83c1-f25c646c8dcb",
+          "text": "It gives the probability that a type II error will not be made",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The power of a study gives the probability that a type II error will not be made and ensures that the study sample is large enough to detect a statistically significant result.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": "641413c7-67ff-4e4c-a813-1088082fcdfe",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "While planning a study, you consult a statistician colleague, who advises that the power of the study should be 0.8. What does this mean?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e872154c-37d0-497f-8342-1795d7f97fc8",
+          "text": "8% probability of finding a statistically significant difference if it exists",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b1a1144b-5db2-468f-90c5-ade54cbb8498",
+          "text": "10% probability of finding a statistically significant difference if it exists",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "692b6b0d-ad08-4aa2-9600-b5c4009e36a2",
+          "text": "20% probability of finding a statistically significant difference if it exists",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b758a14e-a1c4-47b7-a31b-cf97d8fcb98c",
+          "text": "80% probability of finding a statistically significant difference if it exists",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "c148fcfc-ae0c-4c66-b737-8c005a4f0b4a",
+          "text": "0.8% probability of finding a statistically significant difference if it exists",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "b758a14e-a1c4-47b7-a31b-cf97d8fcb98c",
+        "text": "80% probability of finding a statistically significant difference if it exists"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "b758a14e-a1c4-47b7-a31b-cf97d8fcb98c",
+          "text": "80% probability of finding a statistically significant difference if it exists",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A power of 0.8 means that there is an 80% probability of getting a statistically significant difference with a particular sample size if a real difference does exist.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": "280e3fea-b5b7-4675-9bcd-4df16d294853",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "All of the following statistical tests can be used for data that are not normally distributed, except:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6febf08d-be12-47d0-89dc-736c88c4b4c5",
+          "text": "Fisher's test",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "0e321eb1-046f-4977-bf17-8547d69af22b",
+          "text": "Wilcoxon rank-sum test",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "85296623-7043-42ab-86ae-33e5542f12ed",
+          "text": "Mann–Whitney Utest",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "36a1d455-263f-44a7-b90d-d5037cab4a34",
+          "text": "Kruskal–Wallis test",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "cf933bb3-6639-46b4-93c8-40ee8cd304a4",
+          "text": "Friedman test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "6febf08d-be12-47d0-89dc-736c88c4b4c5",
+        "text": "Fisher's test"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "6febf08d-be12-47d0-89dc-736c88c4b4c5",
+          "text": "Fisher's test",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Fisher's test is used for normally distributed data.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": "6e5fb7ce-75ad-4032-953c-9b94f880aa9b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is incorrect regarding parametric and non-parametric tests?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "fea3e587-46d8-47c7-9b34-0a75b7c5a168",
+          "text": "Parametric tests are used for normally distributed data",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4c19e673-03c1-4d8d-9407-f80532ee6187",
+          "text": "Non-parametric tests are used for non-normally distributed data",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "00addb73-fa3b-4559-801b-e750049b8b71",
+          "text": "A t-test is a parametric test",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b3447316-6341-4470-beff-9203b6fbb845",
+          "text": "Analysis of variance (ANOVA) is a non-parametric test",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "170681e7-09bc-4e52-8f72-71416e31bb5c",
+          "text": "The Mann–Whitney U test is a non-parametric test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "b3447316-6341-4470-beff-9203b6fbb845",
+        "text": "Analysis of variance (ANOVA) is a non-parametric test"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "b3447316-6341-4470-beff-9203b6fbb845",
+          "text": "Analysis of variance (ANOVA) is a non-parametric test",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Analysis of variance (ANOVA) is used for parametric data.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": "460075d2-2d7f-4700-9ea4-1ad93bb72b68",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Statistical significance can be measured by all of the following tests, except:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "74da7136-7feb-4891-9390-df12449f8aa6",
+          "text": "Probability tests",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "8b911173-34f0-4a32-8011-146f109552e6",
+          "text": "Validity tests",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "57a53727-3ee0-492f-b694-7aa08fdf727f",
+          "text": "t-test",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "afb90a43-6276-4e09-b94e-823eeaf4012d",
+          "text": "Chi-square test",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "5452f722-5dec-421a-967b-50576ab2199c",
+          "text": "ANOVA",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "8b911173-34f0-4a32-8011-146f109552e6",
+        "text": "Validity tests"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "8b911173-34f0-4a32-8011-146f109552e6",
+          "text": "Validity tests",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Validity tests are used to measure the validity of a particular instrument. They do not measure statistical significance.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": "699c5bd5-6b21-4bfe-9564-17f1ca964030",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statistical tests is not used in the comparison of data from two or more groups?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "87ceb55e-7526-470f-8d53-6eccdf8a348c",
+          "text": "McNemar's test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "435aba77-591c-4d2e-b577-c2485029ffb5",
+          "text": "Fisher's test",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "70bd60f1-c7f8-42db-9bf4-56c89820621f",
+          "text": "Mann–Whitney U test",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "66e127e8-0c2e-40b9-b470-d844e8fe92fe",
+          "text": "Friedman test",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "1c83e100-3654-4252-9a4d-64282bd10d93",
+          "text": "Kruskal–Wallis ANOVA",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "435aba77-591c-4d2e-b577-c2485029ffb5",
+        "text": "Fisher's test"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "435aba77-591c-4d2e-b577-c2485029ffb5",
+          "text": "Fisher's test",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Fisher's test is not used to compare data from two or more groups.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": "865e33d6-c5ef-4e9a-9f9e-5193abba67a7",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statistical tests would be suitable for comparing more than two groups if the data are non-parametric?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "55da0e77-eb29-4853-b53e-db1936db64f5",
+          "text": "Chi-square test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4bba68ac-1739-43ff-b527-f19eb7f855eb",
+          "text": "Wilcoxon signed rank test",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6f8f9a81-ce12-4ff6-87bb-3681ace867d9",
+          "text": "Wilcoxon rank-sum test",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a808ed14-0b12-432f-ba43-087d50e8836c",
+          "text": "t-test",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ba07ad0f-5ec4-4fdc-a345-8f79dade8472",
+          "text": "Friedman test",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "ba07ad0f-5ec4-4fdc-a345-8f79dade8472",
+        "text": "Friedman test"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "ba07ad0f-5ec4-4fdc-a345-8f79dade8472",
+          "text": "Friedman test",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The Friedman test would be most suitable to compare non-parametric data for more than two groups.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": "16ea6337-d27b-4e99-af63-8bd48a1974a8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is incorrect regarding hypothesis testing?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5247c73d-7fb5-4f9b-931d-53de8f20c342",
+          "text": "The power of a study refers to the probability that a type I error will not be made",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "a32e1248-e52d-4783-bd47-1b0113ed3312",
+          "text": "The larger the study sample, the higher is its power for detecting a true difference between two groups",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d820537c-3384-4ff0-a260-2094676211c0",
+          "text": "Failure to reject a false null hypothesis is called a type II error",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "20cd442e-92df-439a-8e64-f83cbc4882c5",
+          "text": "Falsely rejecting a true null hypothesis is called a type I error",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "877412b5-0b22-433a-ac71-6d895651625e",
+          "text": "The null hypothesis is generally rejected if the P value is less than 0.05",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "5247c73d-7fb5-4f9b-931d-53de8f20c342",
+        "text": "The power of a study refers to the probability that a type I error will not be made"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "5247c73d-7fb5-4f9b-931d-53de8f20c342",
+          "text": "The power of a study refers to the probability that a type I error will not be made",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The power of a study refers to the probability that a type II error will not be made.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": "3112bcde-ad0e-43b2-93c5-09e64e361c80",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is true regarding the t-test?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d981757e-4842-49bf-b295-f4ce6963c37b",
+          "text": "It is a non-parametric test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "0a349cc9-ff32-4621-a19d-3b7dbc4080cf",
+          "text": "It can be used both on one sample and in comparison of two groups",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "edf8265b-f09c-4b27-a38f-d57772abd021",
+          "text": "It is used for data which are not normally distributed",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8e5db293-b93d-4c44-984a-1d3392a5efc9",
+          "text": "If it is used for comparing two groups, they have to be of equal size",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "9eaf0edd-c9b6-4f19-b6f0-95959b72c9a2",
+          "text": "It can be used for positively skewed data",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "0a349cc9-ff32-4621-a19d-3b7dbc4080cf",
+        "text": "It can be used both on one sample and in comparison of two groups"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "0a349cc9-ff32-4621-a19d-3b7dbc4080cf",
+          "text": "It can be used both on one sample and in comparison of two groups",
+          "is_correct": true
+        }
+      ],
+      "explanation": "At-test is used for normally distributed parametric data.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": "b79aa3a6-5f47-449a-8bc6-844d2ea3b14e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements best describes a normal distribution curve?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4394ad5a-d258-4a34-8eb7-738c5653b683",
+          "text": "The tail is to the left",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4e172c69-f77a-4c9b-91ff-220017c70fd2",
+          "text": "The tail is to the right",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "56ac1949-10ee-4e6d-80b8-9ae1f306ccd0",
+          "text": "The mean always lies to the left of the mode",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "bca3e925-9329-4ca4-8f99-0a41e455ba12",
+          "text": "The median, mode and arithmetic mean coincide",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "83c20c48-139b-4372-b6db-a71331cfcf09",
+          "text": "The normal distribution curves from different data have different shapes and characteristics",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "bca3e925-9329-4ca4-8f99-0a41e455ba12",
+        "text": "The median, mode and arithmetic mean coincide"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "bca3e925-9329-4ca4-8f99-0a41e455ba12",
+          "text": "The median, mode and arithmetic mean coincide",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In a normal distribution curve, the median, mode and arithmetic mean coincide.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": "7b7d9c10-20d7-4d77-992b-b28f5d02d3c7",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is true regarding standard deviation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d96031de-59c1-4d0b-b767-36492ada9e5b",
+          "text": "It is an index of the reliability of the mean",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "de06cfa4-3ba8-48ae-91ba-56e930db45b2",
+          "text": "It is generally smaller than the standard error of the mean",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9371e587-1787-4529-a122-d76b17e0dd13",
+          "text": "One of its advantages is that it can be manipulated mathematically",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "1da784b6-3ea4-487c-8b94-f7c5774f7c9b",
+          "text": "The standard deviation can be a negative value",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c5d296e4-13d1-424d-aa11-c78f96820969",
+          "text": "It is equal to the sum of the differences between all the values and the mean",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "9371e587-1787-4529-a122-d76b17e0dd13",
+        "text": "One of its advantages is that it can be manipulated mathematically"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "9371e587-1787-4529-a122-d76b17e0dd13",
+          "text": "One of its advantages is that it can be manipulated mathematically",
+          "is_correct": true
+        }
+      ],
+      "explanation": "One of the advantages of the standard deviation is that it can be manipulated mathematically.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": "91341bdf-2bb8-43a6-8b8f-14198786a644",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "There is a positive association between the number of suicides and the prescription of antidepressant medication. This is an example of an association likely to be caused by which of the following?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "bf4288bc-cfb7-430e-9baa-a7a4c9a9de75",
+          "text": "A common cause",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "eda8350f-310a-4c22-9da0-98ef6c1d13a3",
+          "text": "Confounding factor",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "97d04bcc-5eb4-4826-85c2-a178ade296ab",
+          "text": "Cause and effect relationship",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "43d2fdb3-9ccd-42bc-b390-d9b2ad25de3d",
+          "text": "Coincidence",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f372ba4a-e6d1-46a4-9a72-1e3408a5ef86",
+          "text": "None of the above",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "bf4288bc-cfb7-430e-9baa-a7a4c9a9de75",
+        "text": "A common cause"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "bf4288bc-cfb7-430e-9baa-a7a4c9a9de75",
+          "text": "A common cause",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A positive association between suicide and prescription of antidepressants is likely to be due to a common cause (depression).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": "c7ce67b9-2f96-4a84-a1ac-cbeb75a7eded",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A newly developed antidepressant is given to a group of 25 patients suffering from depression. Five days after taking the new antidepressant, 20 of the subjects report marked improvements in their mood. Which of the following conclusions can be reached from this information?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5c288e65-22c6-4888-ad1b-4d78662c171b",
+          "text": "The new antidepressant is effective for the treatment of depression",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "8225adf1-2b1d-4b47-9c65-cf27b9a5f857",
+          "text": "Nothing, because the sample size was too small",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6ce734b3-ae9b-4efd-95f6-ac3ee1fd5d2e",
+          "text": "Nothing, because there was no control group for comparison",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "e3ab2bff-3639-411d-8112-567794f34ad1",
+          "text": "The new antidepressant is better than the old ones",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "42ee17a0-74b4-4f2d-84cc-a735ef533231",
+          "text": "The new antidepressant is not effective for the treatment of depression",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "6ce734b3-ae9b-4efd-95f6-ac3ee1fd5d2e",
+        "text": "Nothing, because there was no control group for comparison"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "6ce734b3-ae9b-4efd-95f6-ac3ee1fd5d2e",
+          "text": "Nothing, because there was no control group for comparison",
+          "is_correct": true
+        }
+      ],
+      "explanation": "From the given information we cannot reach any conclusion about the effectiveness of the newly developed antidepressant as there was no control group for comparison.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": "5e2e0517-7cc8-4688-8037-2490a9c1ff12",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A drug company wants to investigate if a newly developed antipsychotic is effective in reducing the length and severity of psychosis. They recruit the first 20 patients attending a GP surgery with psychotic symptoms. The participants are administered a structured interview to confirm the diagnosis. The patients are prescribed the newly developed antipsychotic and are informed about its effects and side-effects. After 4 weeks, the patients are assessed again, and 15 patients out of the 20 report a reduction in the severity of psychotic symptoms, which is confirmed by administering a structured interview. Which of the following statements is not true about this study?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "989d02cc-a498-4734-a6e1-2c3d5eea86f8",
+          "text": "This is not a well designed study as there was no control group. We do not know how many patients would feel better in 4 weeks without treatment",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "47ac3f63-0949-42db-968d-96d47400021d",
+          "text": "This is not a well designed study as it was not double blinded. The patients might have felt better because they thought the drug should work",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8b600cca-c3ec-47b2-81ec-9c2492d4cd20",
+          "text": "This is not a well designed study because the sample size is likely to be too small to detect anything but a change in symptoms in a small group of patients",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0e51d00b-c589-44c1-b559-d8a36f0a1e07",
+          "text": "This is not a well designed study because the new antipsychotic was not given to people without psychotic symptoms to assess its effect in a control group",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "2d57d3db-4780-4867-8674-9e0f05af3c9c",
+          "text": "This is not a well designed study because a convenience sample was selected. Patients who come to the GP surgery with psychotic symptoms may have more severe symptoms than people who do not come to the surgery",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "0e51d00b-c589-44c1-b559-d8a36f0a1e07",
+        "text": "This is not a well designed study because the new antipsychotic was not given to people without psychotic symptoms to assess its effect in a control group"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "0e51d00b-c589-44c1-b559-d8a36f0a1e07",
+          "text": "This is not a well designed study because the new antipsychotic was not given to people without psychotic symptoms to assess its effect in a control group",
+          "is_correct": true
+        }
+      ],
+      "explanation": "This is not a well designed study because a convenience sample was selected. Patients who come to the GP surgery with psychotic symptoms may have more severe symptoms than people who do not come to the surgery.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": "03b56ee4-20ec-4640-a254-d48b0281d3b0",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Regarding sampling, which of the following statements is true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "523a3255-8991-47b7-8313-43fc629b9581",
+          "text": "In random samples, the randomization ensures that precise and accurate estimates are obtained",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "600a3b3c-9620-454c-8005-58d6f426a3ac",
+          "text": "In a properly chosen sample, an estimate will be less variable with a large sample size and hence more precise",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "f2bf8723-ff9c-406d-b8a8-34bd6d592a26",
+          "text": "If all of the things are equal, a large sample size is needed for a larger population",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "1b6fb2b9-e9f5-424d-a772-ae72866bd39f",
+          "text": "A large sample size always ensures that the sample is representative of the population",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "3d904ab5-290e-42e5-8bc0-6fcf9e578268",
+          "text": "It is not necessary to randomize if the sample size is sufficiently large",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "600a3b3c-9620-454c-8005-58d6f426a3ac",
+        "text": "In a properly chosen sample, an estimate will be less variable with a large sample size and hence more precise"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "600a3b3c-9620-454c-8005-58d6f426a3ac",
+          "text": "In a properly chosen sample, an estimate will be less variable with a large sample size and hence more precise",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In a properly chosen sample, a large sample size ensures less variability of an estimate.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": "3a93a54e-88b7-4d76-90bc-322a4186b1dc",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A properly conducted random survey selects 1000 Asians (from a population of 10 million) and 1000 Caucasians (from a total population of 100 million). Which of the following statements is not true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b59fecfc-12ef-441b-9891-9db5a17bf823",
+          "text": "Randomization ensures that both samples are representative of their respective populations",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c287f815-86b9-4ee2-8a84-2754721197f6",
+          "text": "The precision is determined by the ratio of the sample size to the total population size",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "0d15e419-d633-4269-961f-6578e74db5a1",
+          "text": "A smaller proportion of the Caucasian population has been chosen. Therefore, a particular person has a smaller chance of being selected from the Caucasian population as compared with the Asian population",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "02639dec-8e7a-403d-8684-aa2fe14e2460",
+          "text": "The samples are likely to be representative of their respective populations",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "270672ad-b0fb-4601-83a4-35ef2daf760f",
+          "text": "None of the above",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "c287f815-86b9-4ee2-8a84-2754721197f6",
+        "text": "The precision is determined by the ratio of the sample size to the total population size"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "c287f815-86b9-4ee2-8a84-2754721197f6",
+          "text": "The precision is determined by the ratio of the sample size to the total population size",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The precision is determined mainly by the sample size and not the ratio of the sample size to the total population.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 44,
+      "question_id": "42fd3bed-4f0a-4f3d-84bd-d1ad31165907",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A team of epidemiologists decides to conduct a survey on the contribution of the mental health services to the NHS. A questionnaire is circulated to 100 academics whom the team decides 'are the most likely to know how important mental health services are for the NHS'. Which of the following is the main problem with using data from this survey to draw conclusions?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a7c10ede-0003-415c-8a26-7fbd6200093f",
+          "text": "Interviewer bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "340375ce-0d54-493c-9117-83a783f3f9b8",
+          "text": "Non-response bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ba59d2b0-73da-4e28-8b72-5e61bc92cb67",
+          "text": "No control group",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b69e57cc-abce-47d1-a658-f4c0f3b01149",
+          "text": "Insufficient attention to the placebo effect",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "cc99d4b5-d20e-44d3-ae8b-5a39cc6e250a",
+          "text": "Selection bias",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "cc99d4b5-d20e-44d3-ae8b-5a39cc6e250a",
+        "text": "Selection bias"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "cc99d4b5-d20e-44d3-ae8b-5a39cc6e250a",
+          "text": "Selection bias",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Selection bias is the main problem here, as the respondents have not been chosen randomly.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 45,
+      "question_id": "f92125aa-02d9-46f9-bd77-db7ea95f51b6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "While administering a depression questionnaire to a patient in accident and emergency, the duty doctor notices that the patient has scored high on risk of suicide. If the patient is admitted, he will take up the only bed left on the ward. If the patient is not admitted, then he may commit suicide. In this situation what would be the appropriate null hypothesis and a type I error?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4521f033-3a30-4bfa-9f02-0cf858f9f684",
+          "text": "Null hypothesis is assuming that the suicidal warning can be ignored. Type I error is deciding to admit the patient when the patient is not suicidal",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "0b84d61e-8559-444a-8e26-1ab672995909",
+          "text": "Null hypothesis is assuming the suicide warning can be ignored. Type I error is deciding not to admit the patient when the patient is suicidal",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "54b8fa55-e4ce-4fa0-97c5-8bff58da38bd",
+          "text": "Null hypothesis is assuming that all patients scoring high on the questionnaire should be admitted. Type I error is deciding to ignore the warning when the patient is suicidal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "66c69428-8dca-48a9-ae1a-21875054f481",
+          "text": "Null hypothesis is assuming that all patients scoring high on the questionnaire should be admitted. Type I error is deciding to admit the patient when the patient is not suicidal",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "53337512-b356-48d0-933e-3793cdf5fffc",
+          "text": "Null hypothesis is assuming that all that depressed patients should be admitted. Type I error is demanding unlimited beds for depressed patients coming to A&E",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "4521f033-3a30-4bfa-9f02-0cf858f9f684",
+        "text": "Null hypothesis is assuming that the suicidal warning can be ignored. Type I error is deciding to admit the patient when the patient is not suicidal"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "4521f033-3a30-4bfa-9f02-0cf858f9f684",
+          "text": "Null hypothesis is assuming that the suicidal warning can be ignored. Type I error is deciding to admit the patient when the patient is not suicidal",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Null hypothesis is assuming the suicide warning can be ignored. Type I error is deciding not to admit the patient when the patient is suicidal.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 46,
+      "question_id": "f38aa571-412d-46e9-9a53-8b62a4f7e0a4",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "79727ae0-bd65-4193-8393-5f799bead794",
+          "text": "The P value measures the probability that the null hypothesis is true",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "fa2e810e-5193-4cfd-9fe7-4c64f9e27a5e",
+          "text": "The power of a test depends upon the sample size and the distance between the null and alternative hypotheses",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9a850a4f-2735-4b3c-9d7d-4949b5e7ddd5",
+          "text": "A probability of a type II error is controlled by the sample size",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "1904b9cf-5708-4706-b707-1e0e5446d225",
+          "text": "The probability of a type I error is controlled by the selection of the alpha level",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "57b98515-1e39-45f3-a5a6-a490868df0e6",
+          "text": "The rejection region is controlled by the alpha level and the alternative hypothesis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "79727ae0-bd65-4193-8393-5f799bead794",
+        "text": "The P value measures the probability that the null hypothesis is true"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "79727ae0-bd65-4193-8393-5f799bead794",
+          "text": "The P value measures the probability that the null hypothesis is true",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The null hypothesis assumes that the findings were due to chance and the P value measures the probability that the findings were not due to chance, or in other words 'the null hypothesis is not true'.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 47,
+      "question_id": "1ee19244-5f66-422a-9b61-b7d119233bf8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A research study on treatment of Alzheimer's disease is carried out on a random sample of 30 patients. On data analysis, a test of significance is conducted under appropriate null and alternative hypotheses and the P value is calculated to be 0.03. What does this result mean?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "276499d1-9ddf-4bec-8b66-4c6d28fbf7d8",
+          "text": "This result is statistically significant at the 0.01 level",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "34a5e12e-f7aa-4195-ba39-985b07fc99d5",
+          "text": "The probability of being wrong in this situation is only 0.03",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "43376149-e573-47f8-ac43-e742943538fe",
+          "text": "There is some reason to believe that the null hypothesis is incorrect",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "cfc751f4-922a-4273-83cd-fcd5089a17d5",
+          "text": "If the study were repeated, 3% of the time the same result would be obtained",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "81e758df-49a4-4ebf-8a30-83c74119ff1f",
+          "text": "The sample is so small that little confidence can be placed on the result",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "43376149-e573-47f8-ac43-e742943538fe",
+        "text": "There is some reason to believe that the null hypothesis is incorrect"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "43376149-e573-47f8-ac43-e742943538fe",
+          "text": "There is some reason to believe that the null hypothesis is incorrect",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In this very small study, although the P value is statistically significant (<0.05), it is safe to conclude that there is some evidence to suggest that the null hypothesis is incorrect.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 48,
+      "question_id": "be3ba161-af76-4d08-9461-8fa2b4f30cee",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is true regarding the P value?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e3ab6fe1-6168-4d27-9d2c-9c3faa5ba307",
+          "text": "An extremely small P value indicates that the actual data differ markedly from that expected if the null hypothesis were true",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "90094cdc-9318-4ae8-a225-c74b39f8d957",
+          "text": "The P value measures the probability that the hypothesis is true",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "81ee725d-6e32-4d08-99e8-f14951d8209a",
+          "text": "The P value measures the probability of making a type II error",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "9da83673-67b0-453f-a409-ae21d1906539",
+          "text": "The larger the P value, the stronger is the evidence against the null hypothesis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "85479935-eada-4f76-b32a-26905d081d89",
+          "text": "A large P value indicates that the data are inconsistent with the alternative hypothesis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "e3ab6fe1-6168-4d27-9d2c-9c3faa5ba307",
+        "text": "An extremely small P value indicates that the actual data differ markedly from that expected if the null hypothesis were true"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "e3ab6fe1-6168-4d27-9d2c-9c3faa5ba307",
+          "text": "An extremely small P value indicates that the actual data differ markedly from that expected if the null hypothesis were true",
+          "is_correct": true
+        }
+      ],
+      "explanation": "If the P value is extremely small, then it indicates that the actual data differ significantly from the result expected if the null hypothesis were true.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 49,
+      "question_id": "0eacf738-0a63-4bd9-b0b9-05ca387ac542",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A study is carried out to investigate the effectiveness of a new anxiolytic drug. 1000 subjects participate in the study, with 500 being randomly assigned to the treatment group and the other 500 to the control group. A statistically significant difference with a P value of 0.005 is reported between the responses of the two groups. Which of the following statements best explains the results of the study?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d18c981a-bffc-4fec-a8c9-b058c714d2f6",
+          "text": "There is evidence of a strong treatment effect",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "30898be5-97e7-4b91-8485-1c25012301cb",
+          "text": "There is little evidence that the treatment has any effect",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7404d497-1310-4f8a-ae7e-ac461962df5a",
+          "text": "There is strong evidence that there is some difference in effect between the treatment and the placebo",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "7d11386b-ba5a-4481-bbc5-daf63fed25f5",
+          "text": "There is strong evidence that the treatment is very effective",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a87c606d-1033-4e23-9197-9390e405f0b9",
+          "text": "There is a large difference between the effects of treatment and placebo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "7404d497-1310-4f8a-ae7e-ac461962df5a",
+        "text": "There is strong evidence that there is some difference in effect between the treatment and the placebo"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "7404d497-1310-4f8a-ae7e-ac461962df5a",
+          "text": "There is strong evidence that there is some difference in effect between the treatment and the placebo",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The very low P value in this study gives strong evidence that there is some difference in effect between the treatment and placebo.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 50,
+      "question_id": "93a8c175-5012-4430-b419-8dd729c350a6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "You are planning to conduct a trial to compare two antidepressants: a newly developed one with an old one. You want to see whether there is sufficient evidence to say that the new antidepressant is better than the old one. While conducting the trial you will commit a type I error if:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "8c5d71d9-e004-44f5-92d8-9812eb419946",
+          "text": "You conclude that the drugs are equal in effectiveness when in fact the new drug is better",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3b68564b-0e80-44df-89ad-d4e587f114ff",
+          "text": "You conclude that the drugs are equal in effectiveness when in fact the old drug is better",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d4cfab28-0a83-44ad-9f42-837f4608a97d",
+          "text": "You conclude that the old drug is better when in fact the new drug is better",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "05869c16-5e74-4e70-94c2-e5abfee76bef",
+          "text": "You conclude that the new drug is better when in fact the drugs are equal in effectiveness",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "fdc70cd7-bca2-4649-9d1b-b19ba4be5c1a",
+          "text": "You conclude that the old drug is better when in fact the drugs are equal in effectiveness",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "05869c16-5e74-4e70-94c2-e5abfee76bef",
+        "text": "You conclude that the new drug is better when in fact the drugs are equal in effectiveness"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "05869c16-5e74-4e70-94c2-e5abfee76bef",
+          "text": "You conclude that the new drug is better when in fact the drugs are equal in effectiveness",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A type I error (false positive) would be committed if you concluded that the new drug is better when in fact both drugs are equally effective.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 51,
+      "question_id": "4c523db2-1334-4b5f-b6d9-6eb1c40661e0",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In a study plan to investigate the efficacy of different antidepressant medications, which of the following statements is the best argument for assigning the treatment randomly between different groups?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2ee70902-4e19-409e-955d-563c4c96eeca",
+          "text": "Randomization makes the trial easy to conduct",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f000b04f-4e8e-40f8-b637-8777e9d607ef",
+          "text": "Randomization tends to average out the uncontrolled factors that may confound the treatment effect",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "7d534e8a-19cd-40e6-b2a8-6f74ddf21573",
+          "text": "Randomization makes the data analysis easier",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8fb8e154-a613-48f1-9430-f028ae87967c",
+          "text": "Randomization is a requirement for statisticians before starting a trial",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "24275f7d-8c0e-4c02-934b-f4443c460f6f",
+          "text": "Randomization means that it is not necessary to be careful when assigning treatment groups",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "f000b04f-4e8e-40f8-b637-8777e9d607ef",
+        "text": "Randomization tends to average out the uncontrolled factors that may confound the treatment effect"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "f000b04f-4e8e-40f8-b637-8777e9d607ef",
+          "text": "Randomization tends to average out the uncontrolled factors that may confound the treatment effect",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Randomization averages out the uncontrolled factors that might act as confounders.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 52,
+      "question_id": "ae9ae215-9a29-4fdb-bd51-c833042463b4",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Suppose that in 1990 a smoking survey on 350 adult females revealed that 148 smoked and that in 2000 a similar survey on 488 adult females showed that 163 smoked. From an analysis comparing the two results, the P value was found to be 0.053. Which of the following statements best describes this result?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c6506bf1-4cf1-4f39-b932-ed7be9f4d311",
+          "text": "The probability that the proportion of smokers has not changed is 0.053",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "9f275f75-4a65-461e-bac6-4c168ec7488e",
+          "text": "The proportion of smokers has definitely decreased",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "24c10292-6bae-4798-9e2b-aacd7eea0d1a",
+          "text": "There is some, but not overwhelming, evidence that the proportion of smokers has decreased",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "c2cf3b45-ab53-4cc6-96c4-9fa67df14d0e",
+          "text": "There is no evidence that the proportion of smokers is the same in both years",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ee0b852c-abdd-4ce3-a5ec-eb7d7dbd2c2d",
+          "text": "There is overwhelming evidence that the proportion of smokers has stayed the same",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "24c10292-6bae-4798-9e2b-aacd7eea0d1a",
+        "text": "There is some, but not overwhelming, evidence that the proportion of smokers has decreased"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "24c10292-6bae-4798-9e2b-aacd7eea0d1a",
+          "text": "There is some, but not overwhelming, evidence that the proportion of smokers has decreased",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The study looking at a possible reduction in the proportion of smokers has revealed a P value of 0.053, which shows that there is some evidence of a decrease in the proportion of smokers.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 53,
+      "question_id": "d4049fa9-4059-4090-82ed-dce90c94381d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "When using the analysis of variance technique, which of the following is not a necessary assumption?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "96d6648d-8f2f-4bfb-958e-eafc861e2fb4",
+          "text": "The samples are independent and randomly selected",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "32757996-768d-4931-8b75-b3de126558e4",
+          "text": "The populations are normally distributed",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7e611322-0293-4395-8b72-00b9a6093a54",
+          "text": "The variances of populations are the same",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "79b98bc6-4786-440e-badd-a384a9525ad2",
+          "text": "The means of the populations are the same",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "89d134ba-78d6-4b3f-9b52-a1b306349da7",
+          "text": "All of the above",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "79b98bc6-4786-440e-badd-a384a9525ad2",
+        "text": "The means of the populations are the same"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "79b98bc6-4786-440e-badd-a384a9525ad2",
+          "text": "The means of the populations are the same",
+          "is_correct": true
+        }
+      ],
+      "explanation": "While using ANOVA we cannot assume that the means of the populations are the same.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 54,
+      "question_id": "2203f0c6-3887-4f26-990d-b2c14c2b2f0e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A research study has reported that there is a correlation of R=−0.57 between the hair colour (black, blonde, red) of people and the amount of alcohol that is fatal when consumed. What is the best possible explanation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0d0f8d59-ade6-4f4a-90b3-c82b32664de4",
+          "text": "The lethal dose of alcohol goes down as the hair colour changes",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "65812c90-75fe-43a9-a376-9fe292e241d3",
+          "text": "Alcohol is less harmful to one hair colour than the other",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3b9af6bd-5e25-4f06-b1a5-619b57550025",
+          "text": "Doctors must always consider hair colour while treating patients with alcohol overdose",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "209a5e8d-d7a1-45a5-96b5-20d628723c82",
+          "text": "The researchers of the study need to further explain the causes of this negative correlation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a99fb5dd-383d-4e96-b988-5bce8b2f7e1e",
+          "text": "The researchers need to take a course in statistics because correlation is not an appropriate measure of association in this situation",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "a99fb5dd-383d-4e96-b988-5bce8b2f7e1e",
+        "text": "The researchers need to take a course in statistics because correlation is not an appropriate measure of association in this situation"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "a99fb5dd-383d-4e96-b988-5bce8b2f7e1e",
+          "text": "The researchers need to take a course in statistics because correlation is not an appropriate measure of association in this situation",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Correlation is not an appropriate measure in this situation as it cannot be computed with nominal variables.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 55,
+      "question_id": "d709fdc4-baf4-4ed6-b90d-e18016f5dab8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The summary of an epidemiological study states the following: 'There is a high and positive correlation between body weight and annual income.' Which of the following best explains this statement?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1f33b940-1876-4895-9c00-933422f87fe5",
+          "text": "High income causes people to gain weight",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4f9a38e8-4acf-496d-8f0b-53a86d420e0e",
+          "text": "People with high income tend to spend a bigger proportion of their income on food than people with low income, on average",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "1f8f20fe-6d65-4cf9-82a2-c26a3239b23e",
+          "text": "Low income leads people to eat less food",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e2434dca-813b-47f1-b6f6-8641f8862148",
+          "text": "People with higher income tend to be heavier than people with low income, on average",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "5456b9ac-6d63-409a-af5c-3de89d12001e",
+          "text": "High income causes people to eat more food",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "e2434dca-813b-47f1-b6f6-8641f8862148",
+        "text": "People with higher income tend to be heavier than people with low income, on average"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "e2434dca-813b-47f1-b6f6-8641f8862148",
+          "text": "People with higher income tend to be heavier than people with low income, on average",
+          "is_correct": true
+        }
+      ],
+      "explanation": "We cannot make any causal connections between income and weight gain from these findings; the only plausible inference would be that, on average, people with higher income tend to be heavier than people with low income.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 56,
+      "question_id": "2e231f11-3588-4c1c-9019-873435d7ed23",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "You have been asked to review the findings of a study that has reported a correlation of R=−0.45 between gender (male or female) and income. Which of the following statements is most likely to be your response?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0de1e756-f8c5-4999-bef7-af93a88022a3",
+          "text": "On average, women earn more than men",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "992730f1-f3d7-4a01-adf0-e3145f85c6e7",
+          "text": "There has been an error as R cannot be negative in this scenario",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "88b0b49f-31ed-4e06-b76f-a50d4b1ba2de",
+          "text": "None of the above",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "342cde05-0ca0-49d9-b6b4-7f107dfd2ef2",
+          "text": "On average, women earn less than men",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "58281d27-8303-4482-ba29-12832eef14bb",
+          "text": "The statistician has got it totally wrong",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "58281d27-8303-4482-ba29-12832eef14bb",
+        "text": "The statistician has got it totally wrong"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "58281d27-8303-4482-ba29-12832eef14bb",
+          "text": "The statistician has got it totally wrong",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Correlation is not an appropriate measure of association in this scenario.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 57,
+      "question_id": "b0a6071c-7460-48a2-8eb2-dd55b0f67d98",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements best defines correlation coefficient?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "8c785a2f-dd9c-4b41-a946-8f2747245b63",
+          "text": "It measures the strength of the linear association between two quantitative variables",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "d6d1652c-8f5a-42d2-a67c-46c46fba27a9",
+          "text": "It measures the strength of the linear association between two categorical variables",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9fc2ae47-2b07-4614-8e97-b5bc76fa5622",
+          "text": "It measures the extent to which changes in one variable cause changes in another variable",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e97419b6-b562-4023-a6c1-e1ab67012685",
+          "text": "It is a measure of the strength of association between two categorical variables",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a550698e-e810-43f8-83d1-7ea138ea0598",
+          "text": "It is a measure of the strength of the linear association between a quantitative variable and a categorical variable",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "8c785a2f-dd9c-4b41-a946-8f2747245b63",
+        "text": "It measures the strength of the linear association between two quantitative variables"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "8c785a2f-dd9c-4b41-a946-8f2747245b63",
+          "text": "It measures the strength of the linear association between two quantitative variables",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The correlation coefficient is defined as a measure of the strength of the linear association between two quantitative variables.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 58,
+      "question_id": "32753ddf-ee92-4988-a9ab-6482754b5ff7",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A study of blood pressure variations in depressed patients randomly selects 20 inpatients and records their blood pressures in the morning and at bedtime. It then looks at the correlation between the morning and night-time blood pressure recordings. What might be the most appropriate expectation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b9ba0b4d-357d-4ecd-b3da-71f4cde35476",
+          "text": "Correlation to be near 0 as the morning and night-time readings should be independent of one another",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "dbac13a9-94ce-4d68-9a9c-d5c96f0544f3",
+          "text": "Correlation to be high and positive as those patients with a high reading in the morning will tend to have a higher reading in the evening",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "9a504fd7-e4b0-476a-ba4f-978ba7824c08",
+          "text": "Correlation to be high and negative as those with a high reading in the morning will tend to have a low reading in the evening",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "4fa5b900-0e5f-44ea-ac0c-bac9826c47ce",
+          "text": "Correlation to be near 0 as correlation measures the strength of linear association",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "010857a3-500d-4252-8ab8-3e419b3e35de",
+          "text": "Correlation to be near 0 as blood-pressure reading should follow approximately a normal distribution",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "dbac13a9-94ce-4d68-9a9c-d5c96f0544f3",
+        "text": "Correlation to be high and positive as those patients with a high reading in the morning will tend to have a higher reading in the evening"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "dbac13a9-94ce-4d68-9a9c-d5c96f0544f3",
+          "text": "Correlation to be high and positive as those patients with a high reading in the morning will tend to have a higher reading in the evening",
+          "is_correct": true
+        }
+      ],
+      "explanation": "As hypertension presents with constantly elevated blood pressure readings then the reasonable expectation would be a high and positive correlation between the morning and evening recordings.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 59,
+      "question_id": "5f82a566-8389-4ca3-a92c-60c70fdc0707",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In a study on gender and colour preference, each participant (male or female) in a random sample is asked to state his or her preferred colour out of red, blue and green. The following frequencies are reported. Sex Red Green Blue Men 3 6 11 Women 17 2 11 Which of the following statements is not true regarding these data?",
+      "table": null,
+      "images": [
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/mcq-images/gt3-c7-59.png"
+      ],
+      "image_url": "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/mcq-images/gt3-c7-59.png",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9f9dac1b-a099-4e7d-822d-424b97f5bbd0",
+          "text": "About 15% of the participants are male",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "562a4911-b7b7-4085-9d6a-93932f686e48",
+          "text": "About 55% of males prefer blue",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "0c6b94c3-8b02-4388-8aee-fa34101478c5",
+          "text": "A lower percentage of females prefer blue than do males",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "254823fa-4972-480d-a623-78f18c76c5c2",
+          "text": "A higher percentage of females prefer red",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f6213cba-4ff5-4531-b3c8-b3801a11febc",
+          "text": "Of those participants who prefer green, about 75% are males",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "9f9dac1b-a099-4e7d-822d-424b97f5bbd0",
+        "text": "About 15% of the participants are male"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "9f9dac1b-a099-4e7d-822d-424b97f5bbd0",
+          "text": "About 15% of the participants are male",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A total of 20 males and 30 females participated in the study, which brings the male participant percentage to 40%.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 60,
+      "question_id": "e448bb34-223b-46b0-bde7-c2c1d0ddb854",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following would be classified as quantitative data?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "96ddaa2c-306d-4d00-a95a-6a30f85ae8c8",
+          "text": "Nominal data",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "9d11e3d4-e117-4ef8-969d-ed129b4880c6",
+          "text": "Ordinal data",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "1190b249-ae0e-49ce-b0d4-1cebf1e40286",
+          "text": "Binary data",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f76f4e7c-5ba4-4be6-9c46-1b9b883605fa",
+          "text": "Multicategory data",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b547faa2-a6b3-4111-99ce-6e3a3aa427b1",
+          "text": "Discrete numerical data",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "b547faa2-a6b3-4111-99ce-6e3a3aa427b1",
+        "text": "Discrete numerical data"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "b547faa2-a6b3-4111-99ce-6e3a3aa427b1",
+          "text": "Discrete numerical data",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Quantitative data are numerical and can be subdivided into discrete numerical data and continuous numerical data.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 61,
+      "question_id": "5c998e97-9849-4b9a-8beb-635f27c4d9bf",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "On looking at a data set, you see the body-temperature recordings of all the inpatients on a psychiatric unit. What type of data are these?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "7e8475c9-e8b2-4667-a09b-29dca5f6fea9",
+          "text": "Nominal data",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "14934eeb-0ec4-4fd0-99ae-571ebae52407",
+          "text": "Discrete numerical data",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "fda3edfc-5339-41e0-9035-733b30ad60d0",
+          "text": "Continuous numerical data",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "f26f5f17-4c67-4142-b848-370adfcfee48",
+          "text": "Categorical data",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fd1c1e81-2b91-4dd7-a7fa-cfa20e2cb7e5",
+          "text": "Binary categorical data",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "fda3edfc-5339-41e0-9035-733b30ad60d0",
+        "text": "Continuous numerical data"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "fda3edfc-5339-41e0-9035-733b30ad60d0",
+          "text": "Continuous numerical data",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Body temperatures are continuous numerical data as they can be measured; they are a subtype of quantitative data.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 62,
+      "question_id": "79d8f85f-8ad4-4dbc-a6fd-cfb6fcadfddd",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements best defines the term 'standard error'?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "122bf505-420e-4dc2-b85b-d15915b2db23",
+          "text": "The expected statistical error while calculating the mean",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5d5970e8-d53c-4030-a49c-748c7ca6eeb6",
+          "text": "The error in the sample mean",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "752e39fc-4c18-42ba-b83d-123b67cd4ecd",
+          "text": "Another name for confidence interval",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "388ac259-178d-4dc4-bdf4-21d0e44ab32a",
+          "text": "The standard deviation of the sample mean",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "16272e55-f683-4970-8b43-1fc7fccd061b",
+          "text": "None of the above",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "388ac259-178d-4dc4-bdf4-21d0e44ab32a",
+        "text": "The standard deviation of the sample mean"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "388ac259-178d-4dc4-bdf4-21d0e44ab32a",
+          "text": "The standard deviation of the sample mean",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The standard deviation of the sample means is known as the standard error and is calculated by the following equation: standard error (sample size, n)=standard deviation divided by square root of n.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 63,
+      "question_id": "42b8fa1c-c805-465f-8ddf-d23202afba16",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true regarding confidence intervals?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "35c8a5bf-df68-4973-b894-e2516ee87e3f",
+          "text": "They express the degree of uncertainty around a particular estimate",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "8c366617-d3e6-42e0-bb73-d0dc5b804bf5",
+          "text": "The width of confidence interval indicates the precision of the estimate",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "80984600-01d6-4804-8078-b883dfbee153",
+          "text": "The greater the width of the confidence interval, the more confidence one can have about the accuracy",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "75a02eaf-aecb-46bf-8812-d3e414e354fc",
+          "text": "95% confidence intervals are routinely reported",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "bff81634-1343-4a4e-90f3-a621b712c635",
+          "text": "The larger the sample size, the narrower is the confidence interval",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "80984600-01d6-4804-8078-b883dfbee153",
+        "text": "The greater the width of the confidence interval, the more confidence one can have about the accuracy"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "80984600-01d6-4804-8078-b883dfbee153",
+          "text": "The greater the width of the confidence interval, the more confidence one can have about the accuracy",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The confidence in making inferences about the population increases as the confidence interval becomes narrower.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 64,
+      "question_id": "77842c7a-1ffc-4a25-8ad0-2d820eb8a1de",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements best describes the alternative hypothesis?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d368e5be-54d5-463e-a2ee-57ddd683a1b6",
+          "text": "It is the same as null hypothesis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f76b5c7d-14c7-4fb0-b368-0c7a38908445",
+          "text": "It states that any difference observed between the groups is due to chance",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f3e6d500-3dd0-4ea1-8c3f-e05764a10237",
+          "text": "It states that the difference observed between the groups is not due to chance",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "32680161-ffc6-40f6-a181-541adfa0f68d",
+          "text": "If the alternative hypothesis is accepted, then it does not reject the null hypothesis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "da16eec9-b978-41a3-ab75-6f149e304850",
+          "text": "A statistically significant result for differences between groups rejects the alternative hypothesis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "f3e6d500-3dd0-4ea1-8c3f-e05764a10237",
+        "text": "It states that the difference observed between the groups is not due to chance"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "f3e6d500-3dd0-4ea1-8c3f-e05764a10237",
+          "text": "It states that the difference observed between the groups is not due to chance",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The alternative hypothesis states that the differences observed between the groups is not due to chance.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 65,
+      "question_id": "e84c34ba-93a8-488f-a777-25fa174e2e9c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements is not true regarding a statistically significant result?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4a5a07e9-3627-40e9-a17e-65a52416e84c",
+          "text": "Null hypothesis is rejected",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f863fa79-42d6-4f3e-b2f8-697c07dc425d",
+          "text": "Alternative hypothesis is accepted",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "e44b45d9-51b7-4366-ba63-b9bc5d99cb28",
+          "text": "P value is less than 0.05",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5bc36591-94c0-4393-ae95-10f1f7314f0a",
+          "text": "It is the same as clinical significance",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "ad1a0582-6d6e-418f-ab3d-af6585c3b4d8",
+          "text": "It might not be clinically useful",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "5bc36591-94c0-4393-ae95-10f1f7314f0a",
+        "text": "It is the same as clinical significance"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "5bc36591-94c0-4393-ae95-10f1f7314f0a",
+          "text": "It is the same as clinical significance",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Statistical significance is not the same as clinical significance, as a statistically significant result might not be meaningful or practically useful in everyday clinical practice.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

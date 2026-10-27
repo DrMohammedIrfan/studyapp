@@ -1,0 +1,882 @@
+{
+  "chapter_id": "85e28d1e-76df-4e3e-9ec6-59ce51a48bc9",
+  "chapter_name": "Laboratory Testing and Imaging Studies in Psychiatry",
+  "chapter_title": "Laboratory Testing and Imaging Studies in Psychiatry",
+  "resource_id": "f2dd012b-20ad-4ed0-a1ac-6d42165e7b52",
+  "resource_title": "APA Study Guide To Psychiatry",
+  "subject_name": "APA Study Guide To Psychiatry",
+  "chapter_number": 4,
+  "total_questions": 15,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "091c945e-40ef-4d7f-953d-cc28c6e79315",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "According to currently available data, which of the following screening tests is correctly matched to the clinical picture?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "8c046291-1248-4f9d-9cd8-db9786f428c8",
+          "text": "A head computed tomography (CT) scan for a 23-year-old man presenting with a first episode of depression, with a normal neurological exam.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5dee046f-46ab-45bf-8fdf-4659d8a83795",
+          "text": "Thyroid-stimulating hormone (TSH) serum level for a 56-year-old woman presenting with a first episode of delusional disorder.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "e2d77207-930a-4927-b888-db74b976fa65",
+          "text": "A magnetic resonance imaging (MRI) of the brain for a 16-year-old girl diagnosed with bulimia nervosa.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "088a04d3-00da-4961-9e2f-8a44ee515ef7",
+          "text": "TSH serum level for a 21-year-old man with new-onset phobic disorder.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "edffd546-0288-4bb8-95a2-50f2d843ec9c",
+          "text": "An electroencephalogram (EEG) for a 27-year-old man with a first episode of major depressive disorder (MDD).",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "5dee046f-46ab-45bf-8fdf-4659d8a83795",
+        "text": "Thyroid-stimulating hormone (TSH) serum level for a 56-year-old woman presenting with a first episode of delusional disorder."
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "5dee046f-46ab-45bf-8fdf-4659d8a83795",
+          "text": "Thyroid-stimulating hormone (TSH) serum level for a 56-year-old woman presenting with a first episode of delusional disorder.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "TSH screening is recommended for cases of new-onset psychosis. In regard to CT or MRI scanning, the evidence to date suggests that routine screening with structural neuroimaging in patients younger than age 65 years is unlikely to disclose findings that are not also evident from a full clinical history and neurological examination, and that, in the majority of cases, such screening would not alter clinical management (Albon et al. 2008). An EEG can be very useful when a patient has altered mental status, such as in delirium or encephalopathy, but not for a first episode of MDD. An elevated TSH would not result in the development of a phobic disorder.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": "a384c408-26e3-4471-a9b9-2b5522b7a8a1",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In regard to recommended screening prior to initiating pharmacotherapy and at regular intervals during maintenance treatment, which of the following screening tests is correctly matched to the clinical picture?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e65ee7bc-63bf-43fe-85ac-e049f2cd461b",
+          "text": "Potassium level in a 25-year-old man being started on carbamazepine.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "8c0c9561-9d75-4d57-a50d-6c6ce92538ca",
+          "text": "Complete blood count (CBC) for a 48-year-old woman being treated with fluoxetine.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ee692c1a-d136-4332-b432-1d69e25f0468",
+          "text": "Electrocardiogram (ECG) for a 30-year-old man without any medical history being started on nortriptyline.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "28db2373-be62-4900-926e-0061c582ce56",
+          "text": "Blood urea nitrogen (BUN) and creatinine for a 68-year-old man being treated with valproate.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "08c8739a-8648-441d-b281-54f7b40a2109",
+          "text": "Follow-up CBC for a 13-year-old girl with bipolar disorder being treated with carbamazepine.",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "08c8739a-8648-441d-b281-54f7b40a2109",
+        "text": "Follow-up CBC for a 13-year-old girl with bipolar disorder being treated with carbamazepine."
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "08c8739a-8648-441d-b281-54f7b40a2109",
+          "text": "Follow-up CBC for a 13-year-old girl with bipolar disorder being treated with carbamazepine.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Carbamazepine treatment screening tests initially include a CBC with platelets, liver function tests (LFTs), and BUN/creatinine. Follow-up CBC with platelets, LFTs, and BUN/creatinine are needed once a maintenance dose is achieved. Potassium is not specifically monitored for patients on carbamazepine. A CBC is not needed for a patient on fluoxetine. Nortriptyline, as is true for all tricyclic antidepressants (TCAs), requires an ECG in a patient older than 40 years or with preexisting cardiac disease prior to initiation of treatment. Before starting a patient on valproate, a CBC with platelets, LFTs, and beta–human chorionic gonadotropin, if appropriate, should be obtained. Once on the valproate, LFTs and a CBC are recommended every 6 months.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "90f5974f-2ac6-4528-a2de-80bc295274dd",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In which of the following options is the recommended laboratory test correctly matched to the medication scenario?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c370a9d9-1f5f-4cfa-8e15-4bdf63f0d5bd",
+          "text": "Liver function test (LFT) for monitoring lithium therapy.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d9703643-7221-4575-9ed0-a14873e1f94e",
+          "text": "Renal function panel for monitoring valproate therapy.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "da82c7dc-6aa7-410f-bf3c-882120634ebf",
+          "text": "Serum level for assessing clinical response to nortriptyline therapy.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "b952abb4-fef3-4794-a456-3e47ecfc02f8",
+          "text": "Serum level for assessing clinical response to risperidone therapy.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "43a22966-7bda-448d-9874-ec97da152706",
+          "text": "Electrocardiogram (ECG) for monitoring carbamazepine therapy.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "da82c7dc-6aa7-410f-bf3c-882120634ebf",
+        "text": "Serum level for assessing clinical response to nortriptyline therapy."
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "da82c7dc-6aa7-410f-bf3c-882120634ebf",
+          "text": "Serum level for assessing clinical response to nortriptyline therapy.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Nortriptyline is one of the tricyclic antidepressants (TCAs) for which the relationship of drug levels to therapeutic response is known. Nortriptyline appears to have a specific therapeutic window between 50 and 150 ng/ mL and poor clinical response occurs both above and below that window. At initiation of treatment, lithium requires laboratory values for sodium, potassium, calcium, phosphate, blood urea nitrogen (BUN), creatinine, thyroidstimulating hormone (TSH), thyroxine (T4), complete blood count (CBC), uri-nalysis, beta–human chorionic gonadotropin if appropriate, and an ECG in a patient older than 40 years or with a preexisting cardiac condition, but LFTs are not required. Renal function does not need to be monitored for patients on valproate. The monitoring of blood levels for antipsychotics is not routinely used in clinical practice. An ECG is not required for carbamazepine monitoring.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": "86f718e4-0072-4270-b566-284a92fc45f9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following screening tests could be helpful in determining the etiology of altered mental status in a 40-year-old man?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9c8cd5df-b730-4cfe-8894-213ce5e3c589",
+          "text": "Protein-specific antigen (PSA).",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "39b0afef-9677-4c71-99a2-73b0b428fe2e",
+          "text": "Alkaline phosphatase (ALP).",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "77046553-f089-40eb-9f39-d71b47269751",
+          "text": "Rheumatoid factor.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "1d272526-4b2c-4497-86be-038bbea7a672",
+          "text": "Lyme antibody.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "2b31151b-deec-4520-af04-fd425675e2f4",
+          "text": "Lead level.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "77046553-f089-40eb-9f39-d71b47269751",
+        "text": "Rheumatoid factor."
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "77046553-f089-40eb-9f39-d71b47269751",
+          "text": "Rheumatoid factor.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Testing for rheumatoid factor (RF), antinuclear antibody (ANA), and erythrocyte sedimentation rate (ESR) could assist in diagnosis of an inflammatory disorder leading to altered mental status. PSA, ALP, Lyme antibodies, and lead levels do not correlate with any organic pathology in this case resulting in altered mental status.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": "5b332189-f84c-4030-ab5e-76fed8fa280b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In which of the following options is the appropriate laboratory test matched to the medication scenario?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d5ff814b-dd5e-4ca2-8764-6999cb229342",
+          "text": "Complete blood count (CBC) monitoring during carbamazepine treatment.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "eb0d8407-ee97-4e53-a437-c1b0e2c8a286",
+          "text": "Holter monitoring during monoamine oxidase inhibitor (MAOI) treatment.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f1f8da79-1506-4f8d-b24c-71d267370837",
+          "text": "Echocardiogram before starting a tricyclic antidepressant (TCA).",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d9811b54-a7bb-4296-8c81-ea27e2583665",
+          "text": "Liver function test (LFT) monitoring during lithium treatment.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e611fbf0-7d5e-420a-9288-9d2084a6f656",
+          "text": "Electroencephalogram (EEG) before starting valproate.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "d5ff814b-dd5e-4ca2-8764-6999cb229342",
+        "text": "Complete blood count (CBC) monitoring during carbamazepine treatment."
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "d5ff814b-dd5e-4ca2-8764-6999cb229342",
+          "text": "Complete blood count (CBC) monitoring during carbamazepine treatment.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A CBC screen is necessary in monitoring carbamazepine treatment because of the possible side effect of leukopenia. There is no indication for Holter monitoring during MAOI treatment, an echocardiogram before starting a TCA, LFT monitoring during lithium treatment, or an EEG prior to starting valproate.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": "a6ce5448-e2ee-4fc8-80f2-e75113967efa",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following tests could be helpful in evaluation of new-onset anxiety in a 40-year-old woman?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "8c6a6b22-cc1e-4259-8e3d-3650f6c06d26",
+          "text": "Electromyogram.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f03e7635-ddae-4242-b49d-fec746c40d49",
+          "text": "Brain magnetic resonance imaging.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3748b1e9-6f23-44d7-99ed-6291704769b1",
+          "text": "Aldosterone level.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "97bc8c9f-b22f-4065-8b1f-e7ae2feeb6fd",
+          "text": "Echocardiogram.",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "194f4367-0c0f-4c42-bee2-b5b727edc6ee",
+          "text": "Cardiac enzymes.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "97bc8c9f-b22f-4065-8b1f-e7ae2feeb6fd",
+        "text": "Echocardiogram."
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "97bc8c9f-b22f-4065-8b1f-e7ae2feeb6fd",
+          "text": "Echocardiogram.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A cardiac workup is important for a patient with new-onset anxiety because cardiac symptoms can masquerade as panic attacks and may be misdiagnosed as such, especially in female patients. Therefore, electrocardiography, Holter monitoring, stress testing, and/or echocardiography may be necessary. None of the other tests are indicated for this clinical situation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": "07b1545f-788d-47da-aab5-7d1f3d6c3b06",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following tests is routinely recommended as part of the initial diagnostic workup of a patient presenting with acute mental status changes?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "73dbeab6-89b1-4abe-8000-00d3d91cfa9d",
+          "text": "Ceruloplasmin.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "90e86684-6256-4a41-af20-701c8d284446",
+          "text": "Lead level.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "e5405a53-3a1c-49c8-99b9-da346498508a",
+          "text": "Electromyogram.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "50967885-5ddf-44fc-aef1-5d7606574059",
+          "text": "Positron emission tomography scan.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f83083f2-f12a-46e7-9119-2180419a338f",
+          "text": "HIV test.",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "f83083f2-f12a-46e7-9119-2180419a338f",
+        "text": "HIV test."
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "f83083f2-f12a-46e7-9119-2180419a338f",
+          "text": "HIV test.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "HIV is one of the tests in an initial workup of a patient with acute mental status changes. The other tests are not indicated unless and until further evaluation suggests their necessity",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": "5ef49f11-8464-49e3-9a46-4b6e0b82e6f8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 48-year-old British man is admitted to the inpatient unit for progressive cognitive decline and abnormal jerky movements in his left leg over the last 2 months. The clinician suspects Creutzfeldt-Jakob disease (CJD). Which of the following laboratory studies could be helpful in confirming the diagnosis?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d875fde5-cd16-45d6-8cfa-db7a846b5018",
+          "text": "Lumbar puncture and cerebrospinal fluid biomarkers.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "58e48914-5308-4c67-ac48-edce6d620ed2",
+          "text": "Serum iron level.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9837553b-53b4-45d7-b803-2a8731ff53b9",
+          "text": "Liver function tests.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ed8a5536-c020-4b00-8a9c-134d5b2e7ae5",
+          "text": "Lumbar puncture and culture.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f5e7728f-22da-49f2-b198-a37f7d95008f",
+          "text": "Urinalysis.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "d875fde5-cd16-45d6-8cfa-db7a846b5018",
+        "text": "Lumbar puncture and cerebrospinal fluid biomarkers."
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "d875fde5-cd16-45d6-8cfa-db7a846b5018",
+          "text": "Lumbar puncture and cerebrospinal fluid biomarkers.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The cerebrospinal fluid 14-3-3 protein is useful for confirmation of CJD in a patient with rapidly progressive dementia and pathognomonic neurological symptoms (i.e., myoclonic jerks). The other options are not helpful in the diagnosis of CJD.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": "accb1961-fd66-43c7-a80d-7eb785ca7b35",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In regard to recommended dosage adjustments of psychotropic medications based on patient cytochrome P450 (CYP) metabolizer status, which of the following options lists the appropriate medication decision for the specific clinical presentation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5adaf5d2-c5e0-4fff-ab4f-db7fb9075cde",
+          "text": "Decrease dosage of citalopram by 20% in a poor metabolizer of CYP2C19.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "72966bbf-d29e-4daf-beb1-56ce639bdcff",
+          "text": "Decrease dosage of a tricyclic antidepressant (TCA) by 50% in a poor metabolizer of CYP2D6 or CYP2C19.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "d0ad9f77-f89e-4588-a880-c5a1593b788c",
+          "text": "Increase dosage of clozapine by 200% in an ultrarapid metabolizer of CYP2C19.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "de366daf-49ea-468a-9cac-bc2d40c17993",
+          "text": "Decrease dosage of risperidone by 10% in an extensive metabolizer of CYP2D6.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "332e911e-7224-4297-ad15-809fa6878516",
+          "text": "Avoid prescribing any psychotropic medication in a poor metabolizer of CYP2D6.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "72966bbf-d29e-4daf-beb1-56ce639bdcff",
+        "text": "Decrease dosage of a tricyclic antidepressant (TCA) by 50% in a poor metabolizer of CYP2D6 or CYP2C19."
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "72966bbf-d29e-4daf-beb1-56ce639bdcff",
+          "text": "Decrease dosage of a tricyclic antidepressant (TCA) by 50% in a poor metabolizer of CYP2D6 or CYP2C19.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In general, dosages of TCAs are reduced by 50% for poor metabolizers of CYP2D6 or CYP2C19 substrates, with less dramatic dosage reductions for selective serotonin reuptake inhibitors (de Leon 2006; Kirchheiner et al. 2001). A very small proportion of poor metabolizers lack functional alleles for both CYP2D6 and CYP2C19. These patients are likely to have adverse reactions to most available antidepressant medications. Thus, the use of antidepressant medications such as bupropion and mirtazapine, which are not dependent on these metabolic pathways, would be prudent in these patients (de Leon et al. 2006). Similar practical guidelines for dosage adjustment of antipsychotic medications have yet to be defined, largely because data on their clinical efficacy based on CYP genotyping are extremely limited. A conservative approach would be to lower the dosage of typical antipsychotics and risperidone by one-",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": "e74a7381-b31c-4e64-9c89-61376f151590",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements about use of electroencephalography (EEG) in psychiatric diagnosis is true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6f58e240-dea5-421b-89f1-d2aec4963a5d",
+          "text": "An EEG is essential in evaluating a first episode of depression.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e7e79039-302e-4c44-81ee-068736458990",
+          "text": "An EEG is useful in the diagnosis of bipolar disorder.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "e4a9d077-4fa4-4497-8824-3f0cf0349298",
+          "text": "An EEG can always diagnose epilepsy.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6bccce1c-3c98-4406-b7c8-b7414cda7e46",
+          "text": "An EEG can be helpful in diagnosing sleep disorders.",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "7c812805-af7d-4bd7-a549-9e8d789e66af",
+          "text": "An EEG can help in differentiating types of dementias.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "6bccce1c-3c98-4406-b7c8-b7414cda7e46",
+        "text": "An EEG can be helpful in diagnosing sleep disorders."
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "6bccce1c-3c98-4406-b7c8-b7414cda7e46",
+          "text": "An EEG can be helpful in diagnosing sleep disorders.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "An abnormal EEG will consist of one or more of the following: 1) paroxysmal activity indicative of transient, episodic neuronal discharges as seen in epilepsy; 2) nonparoxysmal slowing of activity, as seen in delirium; 3) asymmetric activity as observed with mass lesions or infarction; or 4) sleep abnormalities consistent with sleep-wake disorders including sleep apneas, narcolepsy, and parasomnias such as rapid eye movement sleep behavior disorder. An EEG is not an essential test in the evaluation of a first episode of depression. It would be prudent to obtain an EEG in a patient with new-onset psychosis, episodic behavioral disturbance, or altered mental status. A normal EEG does not rule out the possibility of epilepsy; 20% of patients with epilepsy will have normal EEGs, and 2% of patients without epilepsy will have spike and wave formations. Despite the fact that EEGs are widely available, noninvasive, inexpensive, and useful for diagnosing neurological disorders, EEGs have fairly limited utility in the differentiation of psychiatric disorders.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": "fb869bd3-16ea-43dd-8095-cf318fc0ae59",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements correctly describes an advantage of computed tomography (CT) over magnetic resonance imaging (MRI)?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "686ba305-f0b5-4b16-8f15-7348fffe84d0",
+          "text": "CT can acquire images in the axial, coronal, and sagittal planes, whereas MRI can acquire them only in the coronal and axial planes.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b53216f7-51c6-4234-b076-0d6e2f6daa67",
+          "text": "CT has smaller slice thickness than MRI.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "33e2698a-471a-4edf-9c6b-0990d2357df9",
+          "text": "CT can be used in patients with pacemakers, whereas MRI is contraindicated in such patients.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "1141eba0-470f-4917-9783-86896d7eea4a",
+          "text": "There is less radiation exposure with CT than with MRI.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "1484d02d-3005-4bfc-b7dd-cad99edd76fe",
+          "text": "CT provides better visualization of the posterior fossa than does MRI.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "33e2698a-471a-4edf-9c6b-0990d2357df9",
+        "text": "CT can be used in patients with pacemakers, whereas MRI is contraindicated in such patients."
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "33e2698a-471a-4edf-9c6b-0990d2357df9",
+          "text": "CT can be used in patients with pacemakers, whereas MRI is contraindicated in such patients.",
+          "is_correct": true
+        }
+      ],
+      "explanation": ": MRI has many advantages over CT. First and foremost, it has superior visualization of brain tissue, providing enhanced gray/white matter discrimination compared with that of CT and allowing quantitative or volumetric measurement of brain regions. Deep brain structures such as the cerebellum and brain stem are better visualized with MRI. Furthermore, axial, coronal, and sagittal images may be acquired. MRI image acquisition is complex and, depending on parameters, can produce T1-, T2-, or PD-weighted images, spin-echo, and inversion-recovery images. Patients with pacemakers cannot have MRIs.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": "b8b2d852-de60-4763-ae30-851fcdd81412",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In which of the following options is the appropriate imaging study matched to the clinical presentation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c26ead5a-0bd4-4ce7-83cf-61341657fdb5",
+          "text": "Magnetic resonance imaging (MRI) of the brain in a 60-year-old man with new-onset dementia.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "235b76a6-57c3-47f5-8289-f5ffb1a5bfb5",
+          "text": "A head computed tomography (CT) scan in a 25-year-old man with new-onset depression.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "10f2c1c9-fbd6-45b8-8fd0-26843504ebd6",
+          "text": "Magnetic resonance spectroscopy (MRS) in a 35-year-old woman with a first psychotic episode.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "86ce2ee5-52a0-4e28-b8cf-f3101e0106fe",
+          "text": "A head CT scan with contrast in a 45-year-old woman with a suspected infarct.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "722f4fd1-5e19-4b0a-8294-f70c7279bed0",
+          "text": "Diffusion tensor imaging (DTI) in the evaluation of depression.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "c26ead5a-0bd4-4ce7-83cf-61341657fdb5",
+        "text": "Magnetic resonance imaging (MRI) of the brain in a 60-year-old man with new-onset dementia."
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "c26ead5a-0bd4-4ce7-83cf-61341657fdb5",
+          "text": "Magnetic resonance imaging (MRI) of the brain in a 60-year-old man with new-onset dementia.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The clinical utility of MRI in the evaluation of adult psychiatric patients was studied by Hollister and Shah (1996). In a study of CT and MRI scans ordered in a psychiatric hospital over a 2-year period, 17% (12 of 68) of scans were abnormal (Hollister and Shah 1996). The authors concluded that brain imaging scans are indicated for psychiatric patients with cognitive impairment (to evaluate for neurocognitive disorder), a first psychotic break, personality change in a patient older than 50 years, or new or unexplained focal neurological signs. Routine screening with a head CT scan is unlikely to be helpful for the evaluation of psychiatric patients without neurological signs on clinical examination (Agzarian et al. 2006; Moles et al. 1998). MRS has been used extensively to research numerous psychiatric disorders and is even used to assess pharmacokinetics and pharmacodynamics of psychotropic medications. Its clinical use iscurrently somewhat limited for primary psychiatric disorders. DTI, a fairly new imaging technique, is the subject of intense psychiatric and neurological research, including neurocognitive disorders, schizophrenia, mood and anxiety disorders, substance-related disorders, and brain injury. At this time, the clinical utility of DTI is limited.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": "5d01b829-0f5a-488a-85f9-012fbe741be4",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements about the clinical utility of single positron emission computer tomography (SPECT) and positron emission tomography (PET) is false?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a0b2bfdf-c22e-479b-b36c-d28042edf30a",
+          "text": "PET and SPECT can be helpful in the workup of a patient who is experiencing cognitive decline but shows normal or nonspecific brain structural changes on magnetic resonance imaging (MRI).",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "9a98281e-3383-483e-89f2-922482adfd86",
+          "text": "PET and SPECT can help differentiate between Alzheimer's disease and frontotemporal dementia.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "1e4f77df-e2e8-4b19-aab3-c90fb85c15bc",
+          "text": "PET and SPECT can readily be used in children and adolescents.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "f54878f6-df82-4aca-9561-733b815aba2c",
+          "text": "PET and SPECT can help differentiate between vascular neurocognitive disorder and depression with a pseudodementia presentation.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e41dba5f-5135-42a8-8695-b4701dc51196",
+          "text": "PET and SPECT can provide clues as to the type of early or mild neurocognitive disorder that may be present.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "1e4f77df-e2e8-4b19-aab3-c90fb85c15bc",
+        "text": "PET and SPECT can readily be used in children and adolescents."
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "1e4f77df-e2e8-4b19-aab3-c90fb85c15bc",
+          "text": "PET and SPECT can readily be used in children and adolescents.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The use of radioactivity in SPECT and PET frequently limits its application mostly to adults because of safety concerns in children and adolescents, despite a relatively low absorbed dose. Functional imaging techniques such as SPECT and PET are playing an increasingly prominent role in the evaluation of cognitive decline and neurocognitive disorders. SPECT and PET can be helpful in the workup of a patient who is experiencing cognitive decline but shows normal or nonspecific brain structural changes on magnetic resonance imaging (MRI). Functional imaging can be particularly useful for providing clues regarding anatomical areas of involvement and thus clues as to the type of early or mild neurocognitive disorder that may be present. In this case, PET or SPECT can reveal areas of reduced brain metabolic activity in areas that the MRI suggests are structurally normal. PET and SPECT can be particularly useful to the clinician for differentiating between neurocognitive disorders such as Alzheimer’s disease and frontotemporal neurocognitive disorder (also termed “frontotemporal dementia”). Alzheimer’s disease is often associated with bilateral, symmetric, posterior temporal, and parietal lobe perfusion defects, whereas frontotemporal dementia is generally associated with reduced perfusion of the frontal and/or lateraltemporal lobes bilaterally. In contrast, patients with vascular neurocognitive disorder (also termed “multi-infarct dementia”) may show patchy perfusion defects corresponding to the site of strokes, whereas patients with depression, which may take the form of a pseudodementia, may show normal brain perfusion or only mildly reduced prefrontal perfusion.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": "9d2f9601-7416-4b2e-96c5-17ecf4c2b55c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In which of the following options is the appropriate neuroimaging test ordered for the clinical presentation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5a688aff-ad60-4a38-af41-6b8ac3b55caf",
+          "text": "Single positron emission computed tomography (SPECT) scan in a 55-year-old man with hypertension and signs of a stroke.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f91af9b0-bf99-47d0-bdfe-e00c25287f6b",
+          "text": "Magnetic resonance imaging (MRI) in a 30-year-old man with mild traumatic brain injury.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f77dbdca-7b46-4c3a-88ff-c13bc110c268",
+          "text": "Positron emission tomography (PET) and SPECT in a 23-year-old woman with a suspected brain tumor.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a36254db-4753-47a0-b145-4f7818078def",
+          "text": "Head computed tomography (CT) scan with contrast in a 46-year-old woman with a history of chronic renal failure and a suspected brain hemorrhage after a hypertensive crisis.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "3c07f921-cdac-4101-b4bd-f94441847f7d",
+          "text": "PET scan in a 60-year-old man with a history of diabetes mellitus and suspected frontotemporal dementia.",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "3c07f921-cdac-4101-b4bd-f94441847f7d",
+        "text": "PET scan in a 60-year-old man with a history of diabetes mellitus and suspected frontotemporal dementia."
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "3c07f921-cdac-4101-b4bd-f94441847f7d",
+          "text": "PET scan in a 60-year-old man with a history of diabetes mellitus and suspected frontotemporal dementia.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Frontotemporal dementia is generally associated with reduced perfusion of the frontal and/or lateral temporal lobes bilaterally. A SPECT scan is an extremely sensitive test for stroke: it is able to visualize perfusion defects and define the size of the stroke. However, a head CT scan is still used in the acute setting because it is quick and easy to obtain. In addition, CT is superior to SPECT in differentiating between hemorrhagic and nonhemorrhagic stroke, which is essential to know prior to starting thrombolytic medications. Using contrast material in a patient with chronic renal failure is contraindicated. Patients with mild traumatic brain injuries often complain of persistent neuropsychiatric symptoms despite having normal CT or MRI scans. Because of its increased sensitivity, SPECT may show regional cerebral blood flow hypoperfusion despite normal CT or MRI scans. SPECT and PET scans are not used for localizing tumors.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": "d0bfc3cb-cb18-40b4-96a6-04d668272910",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In which of the following options is the screening test correctly matched to the clinical presentation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "554622cd-c4fd-4688-9fba-89b7d4469167",
+          "text": "Thyroid-stimulating hormone (TSH) screening for a 27-year-old man with anhedonia, suicidal ideation, and newly diagnosed major depressive disorder (MDD).",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c7d09c20-3d18-48bb-b4c7-ab78096d8a5d",
+          "text": "Chest radiograph (CXR) for a 55-year-old woman with first-episode delusions of jealousy.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "e9c499d6-0891-4dc6-936b-b2563d304f9b",
+          "text": "Electrocardiogram (ECG) for a 39-year-old woman starting on citalopram for anxiety.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "9f5f69e8-6378-4a75-8ea4-20a559198995",
+          "text": "Electroencephalogram (EEG) for a 22-year-old woman with recurrent mania.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "bde7095d-62f3-45c7-8e49-eba1f18edbf6",
+          "text": "Head computed tomography (CT) scan for a 70-year-old woman with a first episode of atypical depression.",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "bde7095d-62f3-45c7-8e49-eba1f18edbf6",
+        "text": "Head computed tomography (CT) scan for a 70-year-old woman with a first episode of atypical depression."
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "bde7095d-62f3-45c7-8e49-eba1f18edbf6",
+          "text": "Head computed tomography (CT) scan for a 70-year-old woman with a first episode of atypical depression.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A screening head CT scan is very easy to perform, takes only a few minutes, produces little discomfort, and has a fairly high resolution and sensitivity. It can thus be easily performed on any psychiatric patient admitted with clinical features that do not appear to be classic for the disorder diagnosed. For example, if a patient has late-onset depression or mood disorder, then a head CT scan can be useful for screening for vascular disease, demyelinating disease, subdural hematoma, and subarachnoid hemorrhage. The screening of female psychiatric patients older than 50 years, especially those with mood symptoms, may be justified due to a high prevalence of hypothyroidism in these patients. Thyroid screening of men and younger women, among whom the prevalence of thyroid dysfunction is estimated to be 0.1%, should be limited to patients with two or more clinical signs of hypothyroidism (Anfinson and Stoudemire 2000). A routine screening chest radiograph is not indicated for a person being evaluated for the presence of a psychiatric disorder. Several studies have shown that routine screening ECGs are unnecessary in young, medically healthy psychiatric patients who do not have cardiovascular symptoms. An EEG is helpful in the diagnosis of delirium and cognitive disorders, but it is not indicated in this case of recurrent mania.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

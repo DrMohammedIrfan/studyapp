@@ -1,0 +1,3909 @@
+{
+  "chapter_id": 97,
+  "chapter_name": "Basic Epidemiology_5",
+  "subject_name": "Basic Epidemiology",
+  "total_questions": 83,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 7426,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A psychiatric researcher wants to assess the validity of a new screening tool for bipolar disorder compared to clinical diagnosis. Which study design is most appropriate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37164,
+          "text": "Prospective cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37165,
+          "text": "Case-control study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37166,
+          "text": "Cross-sectional comparison to gold standard",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37167,
+          "text": "Ecological study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37168,
+          "text": "Experimental trial",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37166,
+        "text": "Cross-sectional comparison to gold standard"
+      },
+      "explanation": "The table in the source specifies that Diagnostic assessment (evaluating a new tool) requires cross-sectional comparison to gold standard. This allows calculation of sensitivity, specificity, and other validity measures by comparing the new tool to the established diagnostic standard at a single time point. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": 7470,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A prospective longitudinal study examining risk factors for first-episode psychosis follows 1000 at-risk individuals annually for 5 years. Which outcome can be calculated that descriptive studies cannot?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37384,
+          "text": "Prevalence of psychosis in the sample",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37385,
+          "text": "Incidence rate of psychosis in the population",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37386,
+          "text": "Cross-sectional distribution of symptoms",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37387,
+          "text": "Point estimates of illness characteristics",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37388,
+          "text": "Snapshot description of the cohort at baseline",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37385,
+        "text": "Incidence rate of psychosis in the population"
+      },
+      "explanation": "Longitudinal prospective studies measure incidence (new cases) over time, allowing calculation of incidence rates. Descriptive and cross-sectional studies measure prevalence (existing cases) at a single timepoint. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": 7451,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Longitudinal studies are ideal for investigating which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37289,
+          "text": "Prevalence of a condition at a single timepoint",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37290,
+          "text": "Natural course of illness and incidence rates",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37291,
+          "text": "Effectiveness of a new diagnostic tool",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37292,
+          "text": "Cost-effectiveness of an intervention",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37293,
+          "text": "Group-level population characteristics",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37290,
+        "text": "Natural course of illness and incidence rates"
+      },
+      "explanation": "That prospective longitudinal studies with repeated observations over prolonged time are helpful to study natural course of illness, study risk factors, and find out incidence rates. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": 7450,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A census is a special type of which study design category?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37284,
+          "text": "Analytical study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37285,
+          "text": "Experimental study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37286,
+          "text": "Cross-sectional study",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37287,
+          "text": "Longitudinal study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37288,
+          "text": "Ecological study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37286,
+        "text": "Cross-sectional study"
+      },
+      "explanation": "A census is specifically defined as a special cross-sectional study where the sample includes the whole population rather than a subset. It represents a complete prevalence snapshot at one timepoint. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": 7461,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which study design is most appropriate for evaluating the accuracy of a newly developed screening questionnaire for bipolar disorder?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37339,
+          "text": "Prospective cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37340,
+          "text": "Case-control study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37341,
+          "text": "Cross-sectional comparison to gold standard",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37342,
+          "text": "Ecological study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37343,
+          "text": "Pragmatic randomised controlled trial",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37341,
+        "text": "Cross-sectional comparison to gold standard"
+      },
+      "explanation": "For diagnostic assessment (evaluating a new tool), the source specifies that a cross-sectional comparison to gold standard is the best design. This allows direct comparison of the new tool against established diagnostic criteria. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": 7435,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a case-control study of depression, strict diagnostic criteria must be applied to define cases because:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37209,
+          "text": "Controls do not require definition",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37210,
+          "text": "Precise case definition is crucial for study validity and prevents misclassification",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37211,
+          "text": "Cases must be prospectively followed over time",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37212,
+          "text": "Diagnostic criteria allow calculation of relative risk",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37213,
+          "text": "Cases must be randomly selected from the population",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37210,
+        "text": "Precise case definition is crucial for study validity and prevents misclassification"
+      },
+      "explanation": "That defining a case is crucial with strict diagnostic criteria and eligibility criteria that must be followed. This is essential for ensuring study validity and preventing misclassification bias. Option A is false (controls must also be clearly defined), C describes cohort studies, D is incorrect (case-control studies measure odds ratio), and E contradicts the retrospective nature of case-control studies. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": 7398,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher wants to know the most effective psychological intervention for anxiety disorders in routine clinical practice. Which study design best answers this question?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37024,
+          "text": "Experimental RCT under strict protocol conditions",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37025,
+          "text": "Pragmatic RCT in real-world practice settings",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37026,
+          "text": "Case-control study comparing treated and untreated patients",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37027,
+          "text": "Ecological study comparing treatment availability across regions",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37028,
+          "text": "Case report series documenting treatment outcomes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37025,
+        "text": "Pragmatic RCT in real-world practice settings"
+      },
+      "explanation": "The source lists Pragmatic RCT (or systematic reviews) as the best design for Treatment effectiveness questions—assessing interventions in real-world clinical conditions rather than controlled experimental settings. Option A tests efficacy (ideal conditions). Options C, D, and E lack the necessary intervention assignment and comparison structure of a pragmatic RCT.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": 7442,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which study design is most suitable to determine whether a newly developed anxiety screening tool accurately identifies patients with generalized anxiety disorder?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37244,
+          "text": "Ecological study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37245,
+          "text": "Case-control study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37246,
+          "text": "Cross-sectional comparison to gold standard",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37247,
+          "text": "Prospective cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37248,
+          "text": "Experimental RCT",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37246,
+        "text": "Cross-sectional comparison to gold standard"
+      },
+      "explanation": "The source table specifies that diagnostic assessment (evaluating a new tool) requires cross-sectional comparison to gold standard, which allows measurement of sensitivity, specificity, and other validity indices. This simultaneously measures both the new tool and the gold standard diagnostic criterion at one time point. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": 7404,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A psychiatric epidemiologist conducts a cross-sectional study measuring depression and unemployment in a city sample at one point in time and finds an association. Which causal relationship can be definitively concluded?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37054,
+          "text": "Unemployment causes depression",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37055,
+          "text": "Depression causes unemployment",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37056,
+          "text": "Both variables are associated at the time of measurement, but the temporal direction cannot be determined from this design alone",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37057,
+          "text": "Neither unemployment nor depression causes the other",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37058,
+          "text": "A third variable must be causing both unemployment and depression",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37056,
+        "text": "Both variables are associated at the time of measurement, but the temporal direction cannot be determined from this design alone"
+      },
+      "explanation": "Cross-sectional studies measure exposure and outcome simultaneously at a single point in time, making temporal direction impossible to establish. Association exists, but causality requires knowing which preceded which. Options A and B assume temporal direction not established by design. Options D and E make conclusions beyond what the design can support.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": 7411,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the maximum control-to-case ratio that meaningfully increases statistical power in a case-control study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37089,
+          "text": "2:1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37090,
+          "text": "3:1",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37091,
+          "text": "4:1",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37092,
+          "text": "5:1",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37093,
+          "text": "10:1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37091,
+        "text": "4:1"
+      },
+      "explanation": "Up to a ratio of 4:1, increasing the number of controls increases the power of a case-control study. However, beyond this 4:1 ratio, further increases in controls do not proportionally increase study power, making the additional controls inefficient in terms of resource allocation. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": 7412,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is a key disadvantage of case-control studies compared to cohort studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37094,
+          "text": "Case-control studies cannot investigate multiple etiological factors",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37095,
+          "text": "Case-control studies are unable to establish temporality with certainty",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37096,
+          "text": "Case-control studies require larger sample sizes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37097,
+          "text": "Case-control studies cannot be used for rare diseases",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37098,
+          "text": "Case-control studies demand longer follow-up periods",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37095,
+        "text": "Case-control studies are unable to establish temporality with certainty"
+      },
+      "explanation": "A major disadvantage of case-control studies is difficulty determining temporality retrospectively—it is challenging to establish whether the exposure truly preceded the disease outcome. While case-control studies can investigate multiple factors (contradicts A), are efficient for rare diseases (contradicts D), and require smaller samples (contradicts C), the retrospective nature creates temporal ambiguity. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": 7458,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which advantage of case-control studies makes them suitable for investigating suspected psychiatric associations in resource-limited settings?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37324,
+          "text": "Subjects are not exposed to any new risks",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37325,
+          "text": "Less time-consuming and less expensive",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37326,
+          "text": "Incidence can be measured directly",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37327,
+          "text": "Causality can be proven definitively",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37328,
+          "text": "No attrition or follow-up problems occur",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37325,
+        "text": "Less time-consuming and less expensive"
+      },
+      "explanation": "Specific advantages of case-control studies include being easy to carry out, less time-consuming, and less expensive, making them ideal for resource-limited settings. Options C and D are disadvantages, not advantages. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": 7481,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a case-control study, selecting cases from multiple sources (hospital, clinic, community) while selecting controls from a single source introduces which type of error?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37439,
+          "text": "Recall bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37440,
+          "text": "Selection bias",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37441,
+          "text": "Information bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37442,
+          "text": "Measurement bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37443,
+          "text": "Detection bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37440,
+        "text": "Selection bias"
+      },
+      "explanation": "Controls must be recruited from the same source population as cases. Selecting cases from multiple sources but controls from one source means controls are not representative of the population from which all cases arose, creating selection bias. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": 7403,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a prospective cohort study investigating childhood trauma as a risk factor for adult psychosis, researchers follow non-psychotic children with and without trauma exposure for 20 years. What can this design definitively establish?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37049,
+          "text": "That childhood trauma causes psychosis in all exposed individuals",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37050,
+          "text": "The temporal sequence of exposure before outcome and the relative risk of psychosis given trauma exposure",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37051,
+          "text": "The prevalence of trauma exposure in the general population",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37052,
+          "text": "That childhood trauma is the only cause of adult psychosis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37053,
+          "text": "The odds ratio of psychosis given trauma exposure",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37050,
+        "text": "The temporal sequence of exposure before outcome and the relative risk of psychosis given trauma exposure"
+      },
+      "explanation": "Cohort studies prospectively follow subjects forward, establishing temporal sequence (exposure before outcome) and can calculate relative risk through incidence measurement. This allows assessment of risk but not proof of causality alone (option A) or unique causality (option D). Option C requires population data. Option E is case-control terminology.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": 7405,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A case-control study of maternal infections and autism spectrum disorder enrolls cases with autism and population controls without autism, then measures maternal infection history from medical records. Which measurement property does this approach improve?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37059,
+          "text": "Eliminates selection bias in case identification",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37060,
+          "text": "Reduces recall bias compared to maternal self-report of infections",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37061,
+          "text": "Establishes causality between infection and autism",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37062,
+          "text": "Allows measurement of incidence rates of autism",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37063,
+          "text": "Ensures control group selection is independent of exposure",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37060,
+        "text": "Reduces recall bias compared to maternal self-report of infections"
+      },
+      "explanation": "Using medical records rather than maternal memory reduces reliance on recall and thus decreases recall bias—a major limitation of case-control studies. Option A addresses case definition, not measurement. Option C is incorrect (design cannot prove causality). Option D is impossible in case-control studies. Option E relates to control recruitment, not this measurement choice.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": 7454,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the maximum control-to-case ratio that provides optimal study power in a case-control study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37304,
+          "text": "1:1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37305,
+          "text": "2:1",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37306,
+          "text": "3:1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37307,
+          "text": "4:1",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 37308,
+          "text": "5:1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 37307,
+        "text": "4:1"
+      },
+      "explanation": "That up to a ratio of 4:1, when the number of controls is increased, the power of a study increases. But not after exceeding this ratio, indicating 4:1 is the optimal maximum. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": 7434,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher notices that countries with lower religious attachment have higher suicide rates and concludes that lack of religiosity causes suicide. This reasoning exemplifies:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37204,
+          "text": "Confounding bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37205,
+          "text": "Selection bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37206,
+          "text": "Ecological fallacy",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37207,
+          "text": "Temporal ambiguity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37208,
+          "text": "Attrition bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37206,
+        "text": "Ecological fallacy"
+      },
+      "explanation": "This is the specific example of ecological fallacy given in the source: concluding that low religious attachment is related to high suicide rates based on country-level data. The conclusion incorrectly applies group-level observations to individuals, disregarding within-group differences. Those individuals who commit suicide may or may not be religious, regardless of national trends. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": 7425,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Why are control group selection and recruitment particularly challenging in case-control studies compared to cohort studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37159,
+          "text": "Controls must be truly representative of the non-diseased population",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37160,
+          "text": "Controls must be selected independently of exposure status yet remain comparable to cases",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37161,
+          "text": "Controls require prospective follow-up like in cohort studies",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37162,
+          "text": "Controls must be matched to cases on all possible confounding variables",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37163,
+          "text": "Controls cannot be selected from hospital settings",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37160,
+        "text": "Controls must be selected independently of exposure status yet remain comparable to cases"
+      },
+      "explanation": "That controls must be identical to cases except for the presence or absence of disease and must be recruited independently of exposure status. This balance is difficult because controls must match cases on relevant variables while remaining independent of exposure—failure to achieve this introduces selection bias. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": 7449,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which study design is most appropriate for investigating the aetiology of a psychiatric disorder?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37279,
+          "text": "Cross-sectional survey",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37280,
+          "text": "Ecological study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37281,
+          "text": "Case report",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37282,
+          "text": "Cohort or case-control study",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 37283,
+          "text": "Descriptive case series",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 37282,
+        "text": "Cohort or case-control study"
+      },
+      "explanation": "The source explicitly states that for causation (aetiology), the best study designs are cohort or case-control studies. These analytical designs test hypotheses about causal relationships between risk factors and outcomes. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": 7474,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which limitation of case-control studies is most problematic when investigating the temporal relationship between childhood adversity and adult schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37404,
+          "text": "Cases may be difficult to define strictly",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37405,
+          "text": "Recall bias may distort reports of childhood experiences",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37406,
+          "text": "Controls cannot be adequately matched on age",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37407,
+          "text": "Selection bias is inevitable in case recruitment",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37408,
+          "text": "Incidence cannot be measured accurately",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37405,
+        "text": "Recall bias may distort reports of childhood experiences"
+      },
+      "explanation": "Temporality is difficult to determine retrospectively in case-control studies. Recall bias is particularly problematic when asking cases and controls to report distant past exposures; cases with schizophrenia may have poor insight or cognitive impairment affecting accuracy. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": 7471,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which statement best describes why case-control studies cannot directly calculate relative risk?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37389,
+          "text": "They do not recruit exposed and unexposed groups",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37390,
+          "text": "They cannot measure incidence because they start from outcome, not exposure",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37391,
+          "text": "Odds ratios are always identical to relative risks",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37392,
+          "text": "Selection bias always inflates relative risk estimates",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37393,
+          "text": "Controls are never truly comparable to cases",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37390,
+        "text": "They cannot measure incidence because they start from outcome, not exposure"
+      },
+      "explanation": "Relative risk requires knowledge of incidence in exposed and non-exposed groups. Case-control studies begin with outcome (cases vs controls) rather than exposure, so incidence cannot be measured. Only odds ratios can be calculated. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": 7437,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The odds ratio derived from a case-control study estimates:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37219,
+          "text": "The absolute risk of disease in exposed individuals",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37220,
+          "text": "The incidence rate of disease in the population",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37221,
+          "text": "The approximation of relative risk in rare disease conditions",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37222,
+          "text": "The prevalence of disease in the exposed group",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37223,
+          "text": "The number of exposed individuals needed to prevent one case",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37221,
+        "text": "The approximation of relative risk in rare disease conditions"
+      },
+      "explanation": "The odds ratio from case-control studies approximates relative risk, particularly when the disease is rare. Since incidence cannot be directly measured in case-control studies, the odds ratio serves as an estimate of association. Options A and D describe different measures, B requires prospective data, and E describes number needed to treat. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": 7433,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A longitudinal study follows 500 first-episode psychosis patients for 5 years to determine predictors of functional recovery. What does this design specifically allow researchers to determine?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37199,
+          "text": "The prevalence of psychosis in the community",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37200,
+          "text": "The natural course of illness and incidence of recovery",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37201,
+          "text": "The efficacy of a new antipsychotic medication",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37202,
+          "text": "The odds ratio between specific risk factors and psychosis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37203,
+          "text": "Whether psychosis causes social decline in individuals",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37200,
+        "text": "The natural course of illness and incidence of recovery"
+      },
+      "explanation": "Prospective longitudinal studies are helpful to study the natural course of illness, study risk factors, and find incidence rates by following the same population over time and making repeated observations. Option A describes prevalence (cross-sectional), C requires experimental design, D could be calculated but doesn't require longitudinal follow-up, and E requires experimental intervention. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": 7420,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A census is best defined as:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37134,
+          "text": "A cross-sectional study of a representative sample",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37135,
+          "text": "A descriptive study measuring population characteristics at one time point",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37136,
+          "text": "A special cross-sectional study including the whole population rather than a subset",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37137,
+          "text": "A prospective longitudinal study of all community members",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37138,
+          "text": "An ecological study examining group-level associations",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37136,
+        "text": "A special cross-sectional study including the whole population rather than a subset"
+      },
+      "explanation": "A census is a special type of cross-sectional study where, instead of studying a subset (sample), the entire population is included. It remains descriptive and measures characteristics at a single point in time, but differs from surveys by virtue of studying the whole population. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": 7399,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is a correct pairing of clinical question with optimal study design?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37029,
+          "text": "What causes this disease? – Cross-sectional study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37030,
+          "text": "How common is this condition? – Case-control study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37031,
+          "text": "What are the effects of this risk factor? – Cohort study",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37032,
+          "text": "What is the nature of this sample? – Cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37033,
+          "text": "How likely is this outcome given current disease? – Case-control study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37031,
+        "text": "What are the effects of this risk factor? – Cohort study"
+      },
+      "explanation": "The source explicitly pairs What are the effects of this risk factor/exposure? with Cohort study. Option A should pair with case-control. Option B should pair with cross-sectional study. Option D should pair with cross-sectional study. Option E should pair with cohort (prognosis).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": 7466,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Case reports and case series are classified as which category of research design?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37364,
+          "text": "Analytical studies",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37365,
+          "text": "Descriptive studies",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37366,
+          "text": "Experimental studies",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37367,
+          "text": "Ecological studies",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37368,
+          "text": "Longitudinal studies",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37365,
+        "text": "Descriptive studies"
+      },
+      "explanation": "The source explicitly states that The simplest forms of descriptive studies are case reports and case series, classifying them within the descriptive study category. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": 7406,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the primary purpose of a descriptive study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37064,
+          "text": "To compare two groups and measure association between variables",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37065,
+          "text": "To describe characteristics of a group at a single point in time",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37066,
+          "text": "To determine causality through experimental manipulation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37067,
+          "text": "To follow exposed subjects prospectively for outcome development",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37068,
+          "text": "To assess the effectiveness of a new diagnostic tool",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37065,
+        "text": "To describe characteristics of a group at a single point in time"
+      },
+      "explanation": "Descriptive studies aim to describe the characteristics of a group of subjects without testing causal hypotheses or comparisons with other groups. Cross-sectional studies are a special type of descriptive study that capture a snapshot at a single point in time. Option A describes analytical studies, C describes experimental studies, D describes cohort studies, and E describes diagnostic assessment studies. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": 7402,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Why would an investigator choose a case-control design over a cohort design to study psychiatric medication side effects in a rare condition?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37044,
+          "text": "Case-control studies measure incidence directly",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37045,
+          "text": "Case-control studies have no attrition problems compared to cohort studies",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37046,
+          "text": "Case-control studies are less expensive and time-consuming while still suitable for rare outcomes",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37047,
+          "text": "Case-control studies eliminate recall bias completely",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37048,
+          "text": "Case-control studies can prove causality definitively",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37046,
+        "text": "Case-control studies are less expensive and time-consuming while still suitable for rare outcomes"
+      },
+      "explanation": "Case-control studies are listed as suitable for investigating rare diseases, easy to carry out, less time-consuming, less expensive, and have no attrition problems—making them practical for rare conditions. Option A is false (case-control cannot measure incidence). Option B is true but not the primary reason for choice. Options D and E are false (prone to recall bias; cannot prove causality).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": 7478,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study measures depression severity and alcohol consumption simultaneously in 500 outpatients at a single clinic visit. This cross-sectional snapshot can best answer which research question?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37424,
+          "text": "Does alcohol consumption cause depression?",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37425,
+          "text": "Does depression predict future alcohol misuse?",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37426,
+          "text": "What is the association between depression and alcohol use at this timepoint?",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37427,
+          "text": "What is the incidence of comorbid depression-alcohol disorders?",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37428,
+          "text": "Which condition develops first in individuals with both conditions?",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37426,
+        "text": "What is the association between depression and alcohol use at this timepoint?"
+      },
+      "explanation": "Cross-sectional studies measure exposure and outcome simultaneously at one timepoint. They can describe associations and suggest putative relationships but cannot establish causality, temporality, or incidence due to lack of temporal separation. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": 7409,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher wants to determine the incidence rate of a psychiatric disorder. Which study design cannot provide this measure directly?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37079,
+          "text": "Prospective cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37080,
+          "text": "Cross-sectional survey",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37081,
+          "text": "Case-control study",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37082,
+          "text": "Longitudinal observational study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37083,
+          "text": "Clinical trial with prospective follow-up",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37081,
+        "text": "Case-control study"
+      },
+      "explanation": "Case-control studies cannot measure incidence because they start with cases and controls already defined, making it impossible to determine how many exposed individuals develop the disease. The odds ratio is the appropriate measure for case-control studies, not relative risk. All other options are prospective and can measure incidence. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": 7438,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher investigates whether depression diagnosis causes reduced medication adherence by enrolling 300 depressed patients and 300 non-depressed patients, then measuring adherence. What is the primary limitation of this approach?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37224,
+          "text": "It uses a case-control design that cannot measure incidence",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37225,
+          "text": "It measures both variables at the same time point, precluding temporal determination",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37226,
+          "text": "It requires experimental manipulation of depression",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37227,
+          "text": "It cannot be conducted with psychiatric populations",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37228,
+          "text": "It will inevitably show no association between depression and adherence",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37225,
+        "text": "It measures both variables at the same time point, precluding temporal determination"
+      },
+      "explanation": "This is a cross-sectional design measuring both depression and adherence simultaneously, making it impossible to determine temporal precedence—did depression cause poor adherence, or does poor adherence lead to depression? Temporal ambiguity is a fundamental limitation here. Option A describes case-control limitations (though this is cross-sectional), C describes experimental designs, D is incorrect, and E is not logically necessary. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": 7444,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A case-control study investigates whether maternal use of selective serotonin reuptake inhibitors (SSRIs) during pregnancy is associated with autism spectrum disorder (ASD) in offspring. Why is case-control design particularly suitable for this research question despite its limitations?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37254,
+          "text": "It is the only design that can establish causality in psychiatry",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37255,
+          "text": "ASD is relatively rare, and case-control studies are efficient for rare outcomes; prospective cohort studies would require prohibitively large samples",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37256,
+          "text": "It eliminates the need for control group selection",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37257,
+          "text": "It allows direct measurement of relative risk",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37258,
+          "text": "It requires less rigorous diagnostic criteria than other designs",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37255,
+        "text": "ASD is relatively rare, and case-control studies are efficient for rare outcomes; prospective cohort studies would require prohibitively large samples"
+      },
+      "explanation": "Case-control studies are particularly useful for rare diseases/outcomes because they are efficient—they start with identified cases and compare their exposure history to controls. A prospective cohort study to investigate rare ASD would require enormous sample sizes to accumulate sufficient cases. The source explicitly states case-control studies are suitable when disease occurs in a small proportion, making them ideal for rare conditions despite other limitations.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": 7436,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A hospital-based case-control study of bipolar disorder recruits cases from inpatient psychiatric units and controls from the same hospital who are being treated for diabetes. What type of controls are these, and what is a potential limitation?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37214,
+          "text": "General population controls; they are too healthy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37215,
+          "text": "Neighbourhood controls; they may have unmeasured exposures",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37216,
+          "text": "Hospital controls; they may have the same risk factors for psychiatric illness as cases",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37217,
+          "text": "Relative controls; they are too similar to cases",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37218,
+          "text": "Matched controls; they eliminate confounding",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37216,
+        "text": "Hospital controls; they may have the same risk factors for psychiatric illness as cases"
+      },
+      "explanation": "These are hospital controls selected from the same hospital setting but with different diagnoses. A limitation is that hospital patients generally have different risk factor profiles than the general population, and hospital-based controls may share many risk factors with psychiatric cases due to their hospitalization. While hospital controls are convenient, this introduces potential selection bias and confounding. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": 7476,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Ecological studies are particularly vulnerable to which statistical phenomenon that undermines individual-level inference?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37414,
+          "text": "Type I error",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37415,
+          "text": "Confounding bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37416,
+          "text": "Ecological fallacy",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37417,
+          "text": "Sampling error",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37418,
+          "text": "Regression toward the mean",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37416,
+        "text": "Ecological fallacy"
+      },
+      "explanation": "Ecological fallacy is the specific term for drawing subject-level conclusions from group-level data in ecological studies. This occurs because population-level correlations may not reflect individual-level relationships due to within-group heterogeneity. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": 7432,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which characteristic most fundamentally distinguishes analytical studies from descriptive studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37194,
+          "text": "Analytical studies use larger sample sizes",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37195,
+          "text": "Analytical studies involve comparison between groups to measure associations",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37196,
+          "text": "Analytical studies are always prospective",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37197,
+          "text": "Analytical studies require experimental intervention",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37198,
+          "text": "Analytical studies collect qualitative data",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37195,
+        "text": "Analytical studies involve comparison between groups to measure associations"
+      },
+      "explanation": "The defining feature of analytical studies is comparative analysis of two groups to measure association between variables. Descriptive studies describe characteristics without comparison or hypothesis testing. Options A, C, D are not fundamental distinctions (some descriptive studies use large samples, some analytical studies are retrospective, experimental studies are separate category), and E is not characteristic of analytical studies. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": 7419,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What does the term temporality refer to in epidemiological studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37129,
+          "text": "The duration of a study's follow-up period",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37130,
+          "text": "The requirement that exposure precedes the outcome in time",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37131,
+          "text": "The simultaneous measurement of multiple variables",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37132,
+          "text": "The retrospective collection of historical data",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37133,
+          "text": "The matching process in case-control recruitment",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37130,
+        "text": "The requirement that exposure precedes the outcome in time"
+      },
+      "explanation": "Temporality requires that the exposure must occur before the outcome develops. Case-control studies have difficulty establishing temporality because they are retrospective. This is a fundamental criterion for establishing causality. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": 7464,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Why are attrition and loss-to-follow-up not primary concerns in case-control studies compared to longitudinal cohort studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37354,
+          "text": "Cases and controls are more motivated to participate",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37355,
+          "text": "Both exposure and disease have already occurred",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37356,
+          "text": "Matching eliminates all potential confounding variables",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37357,
+          "text": "Retrospective data collection does not require ongoing participation",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 37358,
+          "text": "Selection bias is eliminated in case-control designs",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 37357,
+        "text": "Retrospective data collection does not require ongoing participation"
+      },
+      "explanation": "Case-control studies collect data retrospectively at a single timepoint (or over short duration), so subjects are not lost to follow-up over time. Longitudinal cohort studies require sustained participation, making attrition a significant problem. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": 7408,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which study design is most appropriate to investigate a suspected causal association when investigating rare diseases?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37074,
+          "text": "Cross-sectional survey",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37075,
+          "text": "Prospective cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37076,
+          "text": "Case-control study",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37077,
+          "text": "Ecological study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37078,
+          "text": "Uncontrolled trial",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37076,
+        "text": "Case-control study"
+      },
+      "explanation": "Case-control studies are particularly useful for investigating rare diseases because they are efficient when the disease occurs in only a small proportion of exposed subjects. They are easy to carry out, less time-consuming, and less expensive than cohort studies. Option B would be inefficient for rare diseases due to the large sample size needed. Options A, D, and E are not specifically designed for rare disease investigation. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": 7410,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In case-control studies, the odds ratio is preferred over relative risk because:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37084,
+          "text": "Odds ratio is more intuitive to clinicians",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37085,
+          "text": "Incidence cannot be directly measured in case-control design",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37086,
+          "text": "Odds ratio is always more accurate than relative risk",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37087,
+          "text": "Case-control studies can only measure odds ratios mathematically",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37088,
+          "text": "Relative risk requires experimental manipulation of exposure",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37085,
+        "text": "Incidence cannot be directly measured in case-control design"
+      },
+      "explanation": "Incidence cannot be measured in case-control studies because the study begins with already-diseased (cases) and non-diseased (controls) subjects. Therefore, relative risk cannot be calculated; instead, the odds ratio (cross-product ratio) estimates the association between exposure and disease. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": 7447,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A case-control study examining antipsychotic use and metabolic syndrome enrolls hospital controls with diabetes. Why is this control selection problematic?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37269,
+          "text": "Controls are too similar in age to cases",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37270,
+          "text": "Controls may share the exposure (antipsychotic use) due to metabolic risk",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37271,
+          "text": "Controls are difficult to match on sex variables",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37272,
+          "text": "The hospital setting increases attrition rates",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37273,
+          "text": "Neighbourhood controls would require more resources",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37270,
+        "text": "Controls may share the exposure (antipsychotic use) due to metabolic risk"
+      },
+      "explanation": "Controls must be identical to cases except for presence or absence of disease and recruited independently of exposure status. Hospital patients with diabetes may also be on antipsychotics, confounding the association. General population or neighbourhood controls would be preferable. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": 7421,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Prospective longitudinal studies are particularly costly and time-consuming because:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37139,
+          "text": "They require matching of cases and controls",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37140,
+          "text": "Observations must be repeated in the same population over a prolonged period",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37141,
+          "text": "They necessitate experimental manipulation of exposure",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37142,
+          "text": "They involve collection of retrospective data from all participants",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37143,
+          "text": "They require individual-level data collection on entire populations",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37140,
+        "text": "Observations must be repeated in the same population over a prolonged period"
+      },
+      "explanation": "Prospective longitudinal studies repeat observations in the same population over prolonged time periods, making them costly, time-consuming, and prone to attrition. This is the explicit disadvantage mentioned in the source. Options A and C describe other study designs, D describes retrospective designs, and E is not specifically why longitudinal studies are costly. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": 7472,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study of treatment efficacy using an explanatory randomised controlled trial with strict inclusion criteria and controlled conditions tests which type of question?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37394,
+          "text": "Will this intervention work under real-world conditions?",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37395,
+          "text": "Does this intervention work under ideal experimental conditions?",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37396,
+          "text": "What is the natural history of this disorder?",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37397,
+          "text": "What factors predict treatment response?",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37398,
+          "text": "What are patients' experiences of treatment?",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37395,
+        "text": "Does this intervention work under ideal experimental conditions?"
+      },
+      "explanation": "Experimental RCTs test treatment efficacy – whether an intervention works under controlled, ideal conditions. Pragmatic RCTs test effectiveness under real-world conditions. Strict inclusion criteria and controlled conditions define explanatory trials. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": 7440,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A case-control study of post-traumatic stress disorder (PTSD) selects cases from a PTSD clinic and uses neighbourhood controls matched on age and sex. Which type of bias is this study particularly vulnerable to?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37234,
+          "text": "Attrition bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37235,
+          "text": "Recall bias regarding trauma exposure",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37236,
+          "text": "Detection bias in outcome measurement",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37237,
+          "text": "Performance bias in intervention delivery",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37238,
+          "text": "Publication bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37235,
+        "text": "Recall bias regarding trauma exposure"
+      },
+      "explanation": "Case-control studies are highly prone to recall bias because they rely on retrospective reporting of past exposures. In PTSD research, participants with the disorder may have different or more vivid memories of traumatic exposures compared to neighbourhood controls without PTSD. The source lists recall bias as a major disadvantage of case-control studies. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 44,
+      "question_id": 7469,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Why are neighbourhood controls preferable to hospital controls with an unrelated diagnosis in a case-control study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37379,
+          "text": "Neighbourhood controls are always perfectly matched on age",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37380,
+          "text": "Neighbourhood controls are less likely to share exposures unrelated to the disease",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37381,
+          "text": "Hospital controls are always from a different population stratum",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37382,
+          "text": "Neighbourhood controls eliminate recall bias completely",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37383,
+          "text": "Hospital controls introduce selection bias by definition",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37380,
+        "text": "Neighbourhood controls are less likely to share exposures unrelated to the disease"
+      },
+      "explanation": "Hospital patients with different diagnoses may still share exposures (e.g., medications, comorbidities) that confound the association. Neighbourhood controls are recruited from the same population but lack the disease of interest, reducing confounding. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 45,
+      "question_id": 7463,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Multiple different aetiological factors for a single psychiatric diagnosis can be studied efficiently using which design?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37349,
+          "text": "Single case report",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37350,
+          "text": "Ecological study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37351,
+          "text": "Cross-sectional survey",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37352,
+          "text": "Case-control study",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 37353,
+          "text": "Longitudinal cohort study only",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 37352,
+        "text": "Case-control study"
+      },
+      "explanation": "An advantage of case-control studies is that several different aetiological factors for single disease can be studied, making them efficient for investigating multiple potential risk factors for one outcome. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 46,
+      "question_id": 7415,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the primary advantage of matching in case-control study recruitment?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37109,
+          "text": "It eliminates the need for statistical analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37110,
+          "text": "It ensures comparability between cases and controls for selected variables",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37111,
+          "text": "It guarantees that causality can be proven",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37112,
+          "text": "It allows measurement of relative risk directly",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37113,
+          "text": "It removes the possibility of confounding",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37110,
+        "text": "It ensures comparability between cases and controls for selected variables"
+      },
+      "explanation": "Matching ensures comparability between cases and controls by selecting matched variables such as age and sex during recruitment. This reduces confounding for those specific variables. Option A is incorrect (matching doesn't eliminate analysis), C is incorrect (case-control studies cannot prove causality), D is incorrect (matching doesn't allow relative risk calculation), and E is incorrect (matching controls for specific confounders but doesn't eliminate all confounding). ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 47,
+      "question_id": 7401,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A longitudinal prospective cohort study of smoking and lung cancer would measure which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37039,
+          "text": "Odds ratio of lung cancer given smoking exposure",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37040,
+          "text": "Incidence rate of lung cancer among smokers vs. non-smokers",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37041,
+          "text": "Prevalence of smoking in patients with lung cancer",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37042,
+          "text": "Ecological relationship between regional smoking rates and cancer mortality",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37043,
+          "text": "Association between smoking and cancer without establishing temporal order",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37040,
+        "text": "Incidence rate of lung cancer among smokers vs. non-smokers"
+      },
+      "explanation": "Cohort studies prospectively follow exposed and unexposed groups forward, allowing direct measurement of incidence—the number of new disease cases occurring. Option A describes case-control findings. Option C describes cross-sectional or retrospective data. Option D describes ecological studies. Option E contradicts cohort design (temporal order is established).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 48,
+      "question_id": 7475,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An uncontrolled trial administers a novel antidepressant to 50 patients with depression and documents symptom improvement. Which key comparison is absent that limits causal inference?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37409,
+          "text": "Comparison to age-matched controls",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37410,
+          "text": "Comparison to a placebo or standard treatment control group",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37411,
+          "text": "Comparison to baseline symptoms (pre-post)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37412,
+          "text": "Comparison to other antidepressant classes",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37413,
+          "text": "Comparison to historical case series data",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37410,
+        "text": "Comparison to a placebo or standard treatment control group"
+      },
+      "explanation": "Uncontrolled trials lack a control group for comparison, making it impossible to determine if improvement is due to the intervention, placebo effect, or natural remission. A controlled trial requires a comparison group. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 49,
+      "question_id": 7429,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Why might a researcher choose to conduct a survey rather than a census when investigating the prevalence of specific mental health symptoms in a community?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37179,
+          "text": "Surveys allow prospective measurement of outcomes",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37180,
+          "text": "Surveys provide experimental manipulation of variables",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37181,
+          "text": "Surveys are more efficient and cost-effective while providing representative data",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37182,
+          "text": "Surveys can establish causality through comparison groups",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37183,
+          "text": "Surveys are the only design that measures prevalence",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37181,
+        "text": "Surveys are more efficient and cost-effective while providing representative data"
+      },
+      "explanation": "Surveys are cross-sectional studies using a subset (sample) of the population, making them more efficient and cost-effective than a census which studies the entire population. Both measure prevalence at a single point in time, but surveys allow practical resource allocation. Options A and D describe different study types, and option E is incorrect because census also measures prevalence. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 50,
+      "question_id": 7439,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In case-control studies, why is the ratio of controls to cases typically recommended not to exceed 4:1?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37229,
+          "text": "Mathematical constraints of odds ratio calculation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37230,
+          "text": "Ethical concerns about enrolling excessive controls",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37231,
+          "text": "Increasing power diminishes after this ratio; resources are better allocated elsewhere",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37232,
+          "text": "Controls cannot be reliably matched beyond 4:1",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37233,
+          "text": "The law of diminishing returns in statistical power increases computational burden",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37231,
+        "text": "Increasing power diminishes after this ratio; resources are better allocated elsewhere"
+      },
+      "explanation": "The source explicitly states that up to a 4:1 ratio, power increases, but not after exceeding this ratio. This represents the point of diminishing returns—increasing controls beyond 4:1 does not proportionally increase statistical power, making such recruitment inefficient resource allocation. Options A, B, D, and E are not supported by the source. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 51,
+      "question_id": 7400,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A case-control study must define cases strictly using diagnostic criteria. What is the primary reason for this requirement?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37034,
+          "text": "To maximize the size of the case group",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37035,
+          "text": "To minimize costs of case identification",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37036,
+          "text": "To ensure cases truly have the outcome of interest and are comparable, allowing valid measurement of exposure differences",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37037,
+          "text": "To ensure cases are matched to controls on all variables",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37038,
+          "text": "To eliminate the need for a control group",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37036,
+        "text": "To ensure cases truly have the outcome of interest and are comparable, allowing valid measurement of exposure differences"
+      },
+      "explanation": "Defining a case is crucial—strict diagnostic criteria and eligibility criteria must be followed. Clear case definition ensures the group studied genuinely has the condition, making exposure comparisons valid and meaningful. Option A contradicts strictness. Option B is not the primary reason. Options D and E misrepresent case definition purposes.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 52,
+      "question_id": 7418,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which study design would be most appropriate to evaluate the efficacy of a new antipsychotic medication?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37124,
+          "text": "Cross-sectional survey",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37125,
+          "text": "Case-control study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37126,
+          "text": "Ecological study",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37127,
+          "text": "Experimental RCT",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 37128,
+          "text": "Retrospective cohort study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 37127,
+        "text": "Experimental RCT"
+      },
+      "explanation": "Experimental RCTs (randomized controlled trials) are designed to test treatment efficacy through deliberate manipulation and experimental assignment of intervention. The table in the source specifies that treatment efficacy is best answered by experimental RCTs (or systematic reviews). Other designs cannot establish causality with the same strength. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 53,
+      "question_id": 7423,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a prospective cohort study of depression risk factors, 50% of initially enrolled participants are lost to follow-up. What is the primary consequence of this attrition?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37149,
+          "text": "It proves that the exposure is not a true risk factor",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37150,
+          "text": "It introduces attrition bias and reduces study power",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37151,
+          "text": "It eliminates the possibility of confounding",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37152,
+          "text": "It strengthens the evidence for causality",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37153,
+          "text": "It converts the study into a case-control design",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37150,
+        "text": "It introduces attrition bias and reduces study power"
+      },
+      "explanation": "High attrition in prospective studies creates attrition bias, reduces statistical power, and may introduce selection bias if dropouts differ systematically from those who remain. Case-control studies are listed as having no attrition problems as an advantage, implying prospective studies are vulnerable to this issue. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 54,
+      "question_id": 7443,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a prospective cohort study of antipsychotic medication side effects, exposed subjects are those taking typical antipsychotics while unexposed subjects take atypical antipsychotics. Both groups are followed for metabolic abnormalities. What critical measure can be directly calculated?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37249,
+          "text": "Odds ratio of metabolic abnormalities",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37250,
+          "text": "Relative risk comparing metabolic abnormality rates between groups",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37251,
+          "text": "Attributable risk in the unexposed population",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37252,
+          "text": "Population attributable risk for all exposed individuals",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37253,
+          "text": "Sensitivity of metabolic screening tests",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37250,
+        "text": "Relative risk comparing metabolic abnormality rates between groups"
+      },
+      "explanation": "Cohort studies follow exposed and unexposed groups prospectively and allow direct calculation of relative risk by comparing the incidence (or rate) of the outcome in both groups. Odds ratio is calculated in case-control studies. Attributable risk and population attributable risk can be derived from relative risk, but relative risk is the direct primary measure. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 55,
+      "question_id": 7428,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A case-control study examines the association between childhood trauma and adult anxiety disorders by recruiting 200 adults with anxiety and 200 without anxiety, then assessing past trauma exposure. Which of the following is a valid criticism of this design?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37174,
+          "text": "It cannot establish the temporal relationship between trauma and anxiety with certainty",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 37175,
+          "text": "It requires prospective follow-up of participants",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37176,
+          "text": "It cannot investigate multiple etiological factors",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37177,
+          "text": "It will inevitably prove causality",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37178,
+          "text": "It is unsuitable for psychiatric outcomes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 37174,
+        "text": "It cannot establish the temporal relationship between trauma and anxiety with certainty"
+      },
+      "explanation": "Case-control studies have difficulty establishing temporality retrospectively because both exposure and outcome have already occurred. While participants may recall childhood trauma, the retrospective nature makes it difficult to definitively establish that trauma preceded the anxiety disorder, not vice versa. Options B, C, and E contradict the known advantages of case-control studies, and option D is impossible (case-control studies cannot prove causality). ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 56,
+      "question_id": 7416,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Overzealous matching in case-control studies may inadvertently:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37114,
+          "text": "Increase the sample size requirement",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37115,
+          "text": "Reduce the risk difference between groups",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37116,
+          "text": "Eliminate selection bias entirely",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37117,
+          "text": "Allow direct measurement of incidence",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37118,
+          "text": "Strengthen the evidence for causality",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37115,
+        "text": "Reduce the risk difference between groups"
+      },
+      "explanation": "Overzealous matching can reduce the risk difference between the two groups and may inadvertently match for putative causal factors, thereby obscuring true associations and making recruitment of controls difficult. This weakens rather than strengthens the study's ability to detect associations. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 57,
+      "question_id": 7467,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An ecological study examines the correlation between antipsychotic prescription rates and hospitalisation rates across 20 psychiatric trusts. A researcher concludes that antipsychotics prevent hospitalisation in individual patients. This conclusion reflects:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37369,
+          "text": "A valid causal inference based on population-level data",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37370,
+          "text": "An ecological fallacy due to disregarding within-group differences",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37371,
+          "text": "Appropriate use of ecological data for individual-level predictions",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37372,
+          "text": "A necessary limitation of cross-sectional studies",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37373,
+          "text": "Legitimate extrapolation from group to individual level",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37370,
+        "text": "An ecological fallacy due to disregarding within-group differences"
+      },
+      "explanation": "That ecological studies gather data about groups rather than individuals, and drawing subject-level conclusions from group-level observations is termed ecological fallacy. This disregards that individual trust members may have different exposures and risks than the trust aggregate suggests. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 58,
+      "question_id": 7445,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following best defines a cross-sectional study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37259,
+          "text": "Data collection at multiple timepoints over several years",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37260,
+          "text": "Measurement of exposure and outcome at a single point in time",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37261,
+          "text": "Retrospective collection of data from medical records",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37262,
+          "text": "Prospective follow-up of exposed and non-exposed groups",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37263,
+          "text": "Experimental manipulation of an intervention variable",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37260,
+        "text": "Measurement of exposure and outcome at a single point in time"
+      },
+      "explanation": "Cross-sectional studies are snapshot investigations where exposure and outcome are measured simultaneously. They are also called prevalence studies. Option A describes longitudinal studies; C describes case-control studies; D describes cohort studies; E describes experimental studies. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 59,
+      "question_id": 7446,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher investigates the relationship between low religious attachment and suicide rates across 15 countries. She concludes that low religious attachment causes suicide in individuals. Which term describes this methodological error?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37264,
+          "text": "Confounding bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37265,
+          "text": "Ecological fallacy",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37266,
+          "text": "Selection bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37267,
+          "text": "Recall bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37268,
+          "text": "Attrition bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37265,
+        "text": "Ecological fallacy"
+      },
+      "explanation": "Drawing subject-level conclusions from group-level observations in an ecological study is termed ecological fallacy. The source explicitly warns that concluding low religious attachment causes individual suicide from country-level data is invalid because it disregards within-group differences. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 60,
+      "question_id": 7480,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A cohort study of antipsychotic use and metabolic syndrome recruits 1000 patients starting antipsychotics and 1000 matched non-users, following both groups for 3 years. This design allows direct calculation of which measure?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37434,
+          "text": "Odds ratio of metabolic syndrome in antipsychotic users",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37435,
+          "text": "Relative risk of metabolic syndrome in antipsychotic users",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37436,
+          "text": "Population attributable fraction of metabolic syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37437,
+          "text": "Sensitivity and specificity of antipsychotics as a diagnostic test",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37438,
+          "text": "Diagnostic odds ratio for metabolic syndrome",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37435,
+        "text": "Relative risk of metabolic syndrome in antipsychotic users"
+      },
+      "explanation": "Cohort studies measure incidence of the outcome (metabolic syndrome) in exposed (antipsychotics) and non-exposed groups, allowing direct calculation of relative risk. Case-control studies would yield only odds ratios. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 61,
+      "question_id": 7457,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A case-control study is particularly useful when investigating:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37319,
+          "text": "Risk factors for common diseases with high incidence",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37320,
+          "text": "Rare diseases with small disease prevalence",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37321,
+          "text": "Temporal relationship between exposure and outcome",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37322,
+          "text": "Incidence rates in a defined population",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37323,
+          "text": "Effectiveness of a preventive intervention",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37320,
+        "text": "Rare diseases with small disease prevalence"
+      },
+      "explanation": "That case-control studies are mostly useful in diseases where exposure is common, but the disease occurs only in a small proportion of those exposed – this describes rare diseases. They are cost-efficient for rare outcomes. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 62,
+      "question_id": 7460,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A case-control study examining childhood trauma and adult depression finds that 60% of depressed cases were exposed to trauma versus 25% of controls. The odds of exposure in cases versus controls supports which inference?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37334,
+          "text": "Trauma causes depression in 60% of individuals",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37335,
+          "text": "An association between trauma and depression exists",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37336,
+          "text": "The incidence rate of depression is higher in exposed groups",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37337,
+          "text": "Relative risk of depression given trauma exposure",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37338,
+          "text": "The temporal sequence from trauma to depression",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37335,
+        "text": "An association between trauma and depression exists"
+      },
+      "explanation": "A higher proportion of exposed subjects among cases than controls supports the hypothesis of a putative causal relationship, but case-control studies cannot prove causality or determine temporality definitively due to their retrospective nature (see disadvantages listed). ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 63,
+      "question_id": 7441,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An experimental RCT randomizes 200 patients with depression to either cognitive behavioral therapy (CBT) or standard care and measures depressive symptoms at 12 weeks. What is the primary advantage of randomization in this design?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37239,
+          "text": "It eliminates the need for outcome measurement",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37240,
+          "text": "It distributes both measured and unmeasured confounding variables equally between groups",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37241,
+          "text": "It measures the natural course of illness",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37242,
+          "text": "It allows calculation of odds ratios",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37243,
+          "text": "It removes the researcher's bias in patient selection",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37240,
+        "text": "It distributes both measured and unmeasured confounding variables equally between groups"
+      },
+      "explanation": "Randomization is the defining feature of experimental design that distributes confounding variables (both measured and unmeasured) equally between treatment groups, allowing causal inference. This is the key advantage over observational studies. Options A and D are incorrect statements, C describes cohort studies, and E describes selection bias prevention (randomization does this, but that's not the primary advantage for causal inference). ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 64,
+      "question_id": 7417,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A cohort study follows 1,000 smokers and 1,000 non-smokers over 10 years to determine lung cancer incidence. This design allows direct measurement of which epidemiological measure?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37119,
+          "text": "Odds ratio",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37120,
+          "text": "Relative risk",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37121,
+          "text": "Population attributable risk",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37122,
+          "text": "Sensitivity and specificity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37123,
+          "text": "Prevalence ratio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37120,
+        "text": "Relative risk"
+      },
+      "explanation": "Cohort studies allow direct measurement of relative risk because incidence can be calculated in both exposed and non-exposed groups (disease in smokers / disease in non-smokers). Odds ratio is used when incidence cannot be measured (case-control studies). Options C, D, and E require additional calculations or different study designs. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 65,
+      "question_id": 7431,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Incidence and relative risk can be directly calculated in which study design?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37189,
+          "text": "Case-control study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37190,
+          "text": "Cross-sectional study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37191,
+          "text": "Ecological study",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37192,
+          "text": "Prospective cohort study",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 37193,
+          "text": "Retrospective case series",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 37192,
+        "text": "Prospective cohort study"
+      },
+      "explanation": "Only prospective cohort studies allow direct calculation of incidence (new cases developing in exposed and unexposed groups) and thus relative risk. Case-control studies calculate odds ratio because incidence cannot be measured. Cross-sectional studies measure prevalence at a single point. Ecological and retrospective studies have additional limitations for measuring incidence. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 66,
+      "question_id": 7407,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a case-control study, which temporal relationship characterizes the design?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37069,
+          "text": "Exposure assigned prospectively; outcome measured after intervention",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37070,
+          "text": "Both exposure and disease have occurred before the study begins",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37071,
+          "text": "Exposure and outcome measured simultaneously at one time point",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37072,
+          "text": "Exposed subjects followed over time to detect future outcomes",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37073,
+          "text": "Population-level data collected without individual measurement",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37070,
+        "text": "Both exposure and disease have occurred before the study begins"
+      },
+      "explanation": "Case-control design is retrospective; both exposure and disease have already occurred before the onset of the study. The researcher starts with defined cases and controls and then collects retrospective data on exposure. Option A describes RCTs, C describes cross-sectional studies, D describes cohort studies, and E describes ecological studies. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 67,
+      "question_id": 7473,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a case-control study examining psychiatric hospitalisations, researchers select controls from patients visiting general practice with non-psychiatric illnesses. This approach assumes controls are:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37399,
+          "text": "Identical to cases except for presence of psychiatric illness",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37400,
+          "text": "Representative of the source population from which cases arose",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37401,
+          "text": "Free from all potential confounding exposures",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37402,
+          "text": "Matched on at least five demographic variables",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37403,
+          "text": "More valid than neighbourhood controls by definition",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37400,
+        "text": "Representative of the source population from which cases arose"
+      },
+      "explanation": "Controls must be recruited from the same source population as cases and be comparable except for disease status. General practice attendees represent the population from which psychiatric cases would arise, making them a valid comparison group. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 68,
+      "question_id": 7459,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a cohort study examining cannabis use and psychotic symptoms, researchers follow both exposed and unexposed individuals forward in time. This design allows researchers to directly measure:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37329,
+          "text": "Odds ratios and attributable risk",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37330,
+          "text": "Incidence and relative risk",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37331,
+          "text": "Prevalence and cross-product ratio",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37332,
+          "text": "Population attributable fraction only",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37333,
+          "text": "Diagnostic sensitivity and specificity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37330,
+        "text": "Incidence and relative risk"
+      },
+      "explanation": "Cohort studies are prospective, allowing direct measurement of incidence (new cases) in exposed and non-exposed groups. From this, relative risk can be calculated directly, unlike in case-control studies. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 69,
+      "question_id": 7413,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An ecological study observes that countries with higher alcohol consumption have higher rates of depression. What is the critical limitation of concluding that alcohol consumption causes depression based on this finding?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37099,
+          "text": "The study design is prospective rather than retrospective",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37100,
+          "text": "Ecological fallacy—group-level conclusions cannot be applied to individuals",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37101,
+          "text": "The study lacks a control group for comparison",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37102,
+          "text": "Individual-level data would show different correlations",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37103,
+          "text": "The outcome is measured before the exposure",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37100,
+        "text": "Ecological fallacy—group-level conclusions cannot be applied to individuals"
+      },
+      "explanation": "Ecological fallacy occurs when subject-level conclusions are drawn from group-level observations. Just because countries with high alcohol consumption have high depression rates does not mean that individuals who consume more alcohol become depressed—within-group differences are disregarded in ecological studies. This is the fundamental limitation of ecological studies. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 70,
+      "question_id": 7453,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher matches cases and controls on age and sex in a case-control study. After matching, she discovers both groups have identical rates of prior antidepressant use. This represents:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37299,
+          "text": "Successful matching strategy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37300,
+          "text": "Overzealous matching",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37301,
+          "text": "Recall bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37302,
+          "text": "Selection bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37303,
+          "text": "Adequate control group selection",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37300,
+        "text": "Overzealous matching"
+      },
+      "explanation": "Overzealous matching may inadvertently result in matching for putative causal factors as well, which would reduce risk difference between groups and mask the association. Matching on a confounding variable (age, sex) is appropriate, but if prior antidepressant use is related to the exposure of interest, this suggests over-matching. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 71,
+      "question_id": 7456,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following questions is best answered by a pragmatic randomised controlled trial?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37314,
+          "text": "What are the causes of depression relapse?",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37315,
+          "text": "What is the effect of this intervention under real-world conditions?",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37316,
+          "text": "What percentage of patients have untreated psychosis?",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37317,
+          "text": "What is the natural history of bipolar disorder?",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37318,
+          "text": "How do individuals experience recovery from mental illness?",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37315,
+        "text": "What is the effect of this intervention under real-world conditions?"
+      },
+      "explanation": "That for treatment effectiveness, the best study design is pragmatic RCT (or systematic reviews). Pragmatic trials test interventions in real-world settings, answering questions about effectiveness in clinical practice. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 72,
+      "question_id": 7427,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In analytical studies, the central research question involves:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37169,
+          "text": "Describing characteristics present in a study group",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37170,
+          "text": "Measuring the association between a disease and a risk factor",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37171,
+          "text": "Experimentally assigning exposure to observe effects",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37172,
+          "text": "Collecting snapshots of population health status",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37173,
+          "text": "Determining population-level group characteristics",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37170,
+        "text": "Measuring the association between a disease and a risk factor"
+      },
+      "explanation": "Analytical studies involve comparative analysis of two groups to measure the association between variables of interest (e.g., disease and risk factor, or exposure and outcome). This contrasts with descriptive studies (A, D, E) and experimental studies (C). ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 73,
+      "question_id": 7468,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In matching cases and controls, which approach is more time-consuming but potentially more rigorous?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37374,
+          "text": "Groupwise matching",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37375,
+          "text": "Pairwise matching",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37376,
+          "text": "Frequency matching",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37377,
+          "text": "Stratified matching",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37378,
+          "text": "Ratio matching",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37375,
+        "text": "Pairwise matching"
+      },
+      "explanation": "That matching can be done in groupwise or pairwise fashion, the latter being more time consuming. Pairwise matching matches individual case-control pairs on specific variables. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 74,
+      "question_id": 7455,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An experimental study differs from a cohort study primarily in which aspect?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37309,
+          "text": "Direction of investigation (prospective vs retrospective)",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37310,
+          "text": "Use of matched controls",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37311,
+          "text": "Deliberate manipulation of exposure or intervention",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37312,
+          "text": "Ability to measure relative risk",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37313,
+          "text": "Recruitment of a homogeneous study population",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37311,
+        "text": "Deliberate manipulation of exposure or intervention"
+      },
+      "explanation": "Experimental studies are generally prospective cohort studies where deliberate manipulation of exposure (intervention) takes place, unlike observational cohort studies where researchers passively observe natural exposures. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 75,
+      "question_id": 7424,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A patient with obsessive-compulsive disorder asks about prognosis after starting sertraline. Which study design would best answer this clinical question about long-term outcomes?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37154,
+          "text": "Cross-sectional survey",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37155,
+          "text": "Case-control study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37156,
+          "text": "Cohort study",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37157,
+          "text": "Ecological study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37158,
+          "text": "Case report",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37156,
+        "text": "Cohort study"
+      },
+      "explanation": "The table in the source specifies that Prognosis questions are best answered by cohort studies. These follow patients over time to observe the natural course of illness and outcomes. Cross-sectional studies provide snapshots, case-control studies are retrospective, and case reports describe single cases. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 76,
+      "question_id": 7452,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a case-control study of psychotic disorders, strict diagnostic criteria are essential during case recruitment because:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37294,
+          "text": "Controls may otherwise recall exposures inaccurately",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37295,
+          "text": "Defining a case is crucial for ensuring homogeneity of cases",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37296,
+          "text": "It reduces the need for matching on age and sex",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37297,
+          "text": "It allows for measurement of relative risk",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37298,
+          "text": "It eliminates selection bias in case selection",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37295,
+        "text": "Defining a case is crucial for ensuring homogeneity of cases"
+      },
+      "explanation": "The source explicitly states Defining a case is crucial – strict diagnostic criteria and eligibility criteria must be followed. This ensures cases are truly homogeneous and comparable, reducing heterogeneity within the case group. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 77,
+      "question_id": 7479,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Why is a pragmatic RCT design recommended for evaluating antipsychotic effectiveness in real-world clinical practice rather than an explanatory RCT?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37429,
+          "text": "Pragmatic trials measure efficacy under ideal conditions",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37430,
+          "text": "Pragmatic trials include diverse patients and settings reflecting clinical reality",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37431,
+          "text": "Pragmatic trials eliminate all selection bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37432,
+          "text": "Pragmatic trials are more scientifically rigorous",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37433,
+          "text": "Pragmatic trials are always shorter in duration",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37430,
+        "text": "Pragmatic trials include diverse patients and settings reflecting clinical reality"
+      },
+      "explanation": "Pragmatic RCTs test treatment effectiveness under real-world conditions with diverse populations and settings. Explanatory RCTs use strict inclusion criteria and controlled conditions to measure efficacy. Pragmatic designs are appropriate for evaluating clinical utility. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 78,
+      "question_id": 7414,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A cross-sectional study is best described as which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37104,
+          "text": "A prospective follow-up of exposed subjects",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37105,
+          "text": "A retrospective inquiry starting from diseased individuals",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37106,
+          "text": "A snapshot assessment of exposure and outcome at a single time point",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 37107,
+          "text": "An experimental study with deliberate manipulation of intervention",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37108,
+          "text": "A population-level analysis without individual measurements",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 37106,
+        "text": "A snapshot assessment of exposure and outcome at a single time point"
+      },
+      "explanation": "Cross-sectional studies (also called prevalence studies) measure both exposure and outcome at a single point in time, providing a snapshot. They suggest putative relationships but cannot establish causality or temporality. Option A describes cohort studies, B describes case-control studies, D describes experimental studies, and E describes ecological studies. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 79,
+      "question_id": 7465,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A descriptive study of psychiatric symptoms in a sample of 200 patients with depression documents the prevalence of insomnia, anhedonia, and guilt. This study lacks which essential element of analytical research?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37359,
+          "text": "Clear inclusion and exclusion criteria",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37360,
+          "text": "Comparison with another group to test hypotheses",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37361,
+          "text": "Use of validated assessment instruments",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37362,
+          "text": "Detailed characterisation of the sample",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37363,
+          "text": "Prospective data collection methodology",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37360,
+        "text": "Comparison with another group to test hypotheses"
+      },
+      "explanation": "Descriptive studies aim to describe characteristics without testing causal hypotheses or comparing groups. Analytical studies require comparative analysis of two groups to measure associations between variables. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 80,
+      "question_id": 7430,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A case-control study of schizophrenia risk finds that cases were more likely to have experienced prenatal influenza exposure than controls. The key limitation preventing firm causal conclusion is:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37184,
+          "text": "The study design is analytical rather than experimental",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37185,
+          "text": "Recall bias in reporting past exposures",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37186,
+          "text": "The inability to randomize participants",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37187,
+          "text": "The lack of a prospective follow-up component",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37188,
+          "text": "The small number of control groups used",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37185,
+        "text": "Recall bias in reporting past exposures"
+      },
+      "explanation": "Recall bias is a critical disadvantage of case-control studies listed in the source. Participants with schizophrenia may differentially recall or report prenatal exposures compared to controls, and this is highly prone to bias in retrospective designs. While A, C, and D are true limitations, they are general limitations of observational designs. Option E misrepresents the design (controls are not a separate group repeated multiple times). ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 81,
+      "question_id": 7477,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "When increasing the number of controls per case in a case-control study from 2:1 to 3:1, which change occurs?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37419,
+          "text": "Statistical power continues to increase substantially",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37420,
+          "text": "Statistical power increases but with diminishing returns",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37421,
+          "text": "Study validity decreases due to overzealous matching",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37422,
+          "text": "Cost-effectiveness improves proportionally",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37423,
+          "text": "Selection bias is automatically reduced",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37420,
+        "text": "Statistical power increases but with diminishing returns"
+      },
+      "explanation": "Beyond the optimal 4:1 ratio, increasing controls further yields diminishing returns in power gain. Evidence shows power increases up to a ratio of 4:1 but not after exceeding this ratio, implying reduced benefit from further increases. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 82,
+      "question_id": 7448,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a prospective cohort study examining stress as a risk factor for depression, researchers follow 500 unexposed and 500 exposed individuals. Which outcome measure can they calculate that case-control studies cannot?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37274,
+          "text": "Odds ratio only",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37275,
+          "text": "Relative risk",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 37276,
+          "text": "Cross-product ratio",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37277,
+          "text": "Attributable risk percentage",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 37278,
+          "text": "Standardised mortality ratio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 37275,
+        "text": "Relative risk"
+      },
+      "explanation": "Cohort studies measure incidence and can calculate relative risk directly. Case-control studies cannot measure incidence (they start with outcome), so only odds ratios can be calculated, not relative risk. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 83,
+      "question_id": 7462,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A retrospective analysis of medical records identifies patients with schizophrenia and searches backward for prior antecedent exposures. This describes which study design?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 37344,
+          "text": "Prospective cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 37345,
+          "text": "Cross-sectional survey",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 37346,
+          "text": "Ecological study",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 37347,
+          "text": "Case-control study",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 37348,
+          "text": "Experimental trial",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 37347,
+        "text": "Case-control study"
+      },
+      "explanation": "Case-control studies are explicitly defined as retrospective designs that start from defined groups of cases and controls, then retrospectively collect data on exposure. Both exposure and disease have occurred before study onset. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    }
+  ]
+}

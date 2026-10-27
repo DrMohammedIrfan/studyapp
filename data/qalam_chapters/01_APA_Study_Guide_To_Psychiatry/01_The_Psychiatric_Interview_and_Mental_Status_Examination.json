@@ -1,0 +1,708 @@
+{
+  "chapter_id": "b5a1d3b8-0e0b-4cbe-9a70-4390632eb56e",
+  "chapter_name": "The Psychiatric Interview and Mental Status Examination",
+  "chapter_title": "The Psychiatric Interview and Mental Status Examination",
+  "resource_id": "f2dd012b-20ad-4ed0-a1ac-6d42165e7b52",
+  "resource_title": "APA Study Guide To Psychiatry",
+  "subject_name": "APA Study Guide To Psychiatry",
+  "chapter_number": 1,
+  "total_questions": 12,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "f1a7a968-4aa1-47fa-af72-2ede4ccda5bb",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is an example of a chief complaint in the psychiatric interview?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f471d6e7-0caa-40f4-812f-1e9fe662cf23",
+          "text": "The patient was brought to the hospital by his mother.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "95bd37af-f65a-430b-b8e0-12b8fe931c95",
+          "text": "The patient is a 26-year-old Caucasian man with schizoaffective disorder.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "bc27125b-378d-4163-9265-7be69f0a26f0",
+          "text": "The patient has been on multiple antidepressants, and all have failed.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0b3c4129-9491-4449-a87c-1c119ac85995",
+          "text": "\"I feel hopeless and need help.\"",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "edabe748-3454-49c8-81fe-3c5345154288",
+          "text": "The patient's mother reports that he has not been taking his medications.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "0b3c4129-9491-4449-a87c-1c119ac85995",
+        "text": "\"I feel hopeless and need help.\""
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "0b3c4129-9491-4449-a87c-1c119ac85995",
+          "text": "\"I feel hopeless and need help.\"",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The chief complaint is intended to be the patient’s primary psychiatric concern and is generally written as a quotation. It is, therefore, not the spouse’s biggest complaint, or the prior therapist’s biggest concern, or the interviewer’s assessment of what should be the chief complaint. This brief section belongs to the patient. Quoting nonsensical or tangential responses can provide an excellent window into the patient’s mental status. Clearly marking the patient’s priority is crucial because later treatment plans that do not explicitly address the patient’s concerns are likely to founder.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": "5cfc96f8-a8f7-4e10-9789-d91f5e9a58e6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "During the mental status examination, how is attention tested?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "8420c998-6d40-40e4-8052-18fbe0f93676",
+          "text": "By asking patients to name all the animals they can think of in 1 minute.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "050f99e8-0241-480d-add8-3dff6911e216",
+          "text": "By asking patients to recall three words following a 5-minute distraction.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f0845259-6b49-4ae3-81bf-d3b533d5d15f",
+          "text": "By asking patients simple logic questions, such as \"Does a stone float on water?\"",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "386df290-1a39-4709-841c-1684cc992b98",
+          "text": "By asking patients to subtract 7 from 100, and to keep subtracting 7 from the result for five responses.",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "8d0c5452-3650-46fe-a27b-7d34f3e44061",
+          "text": "By asking patients to perform a three-step command, such as \"touch your right ear with your left hand and stick out your tongue.\"",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "386df290-1a39-4709-841c-1684cc992b98",
+        "text": "By asking patients to subtract 7 from 100, and to keep subtracting 7 from the result for five responses."
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "386df290-1a39-4709-841c-1684cc992b98",
+          "text": "By asking patients to subtract 7 from 100, and to keep subtracting 7 from the result for five responses.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Attention refers to the ability to sustain interest in a stimulus, whereas concentration involves the ability to maintain mental effort. Counting backward by 7s (serial 7s) requires that the patient retain interest in the task, recall the last number, subtract 7, and then continue to the next number. The task also requires competence at math. Spelling world backward is a similarly good screening test of attention and concentration, but only for people who are fairly good spellers. For other patients, it is preferable to use a test that is less dependent on education, such as reciting the months backward.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "674f4f44-129c-4d01-9e40-fefde98fcd2b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "How should a psychiatrist assess for suicidality and homicidality during the psychiatric interview?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "09e562db-adfb-410d-add0-64df9ac51102",
+          "text": "By asking the patient about ideation, intent, and plan as well as access to any weapons.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "ada1c20c-eb65-4c90-b7f7-c7e78caa065d",
+          "text": "Cautiously so as not to cause the patient to become suicidal.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d210036b-ebcc-4f94-838d-bc16f0ac2ed9",
+          "text": "By threatening the patient with involuntary hospitalization.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a00ed6c0-1d2b-4231-b187-90333be01799",
+          "text": "By relying on the patient's close friends and family rather than directly asking the patient.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "6ffd651c-b9fc-46e3-bf66-4d5de1a102e9",
+          "text": "By asking the patient about perceptual disturbances.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "09e562db-adfb-410d-add0-64df9ac51102",
+        "text": "By asking the patient about ideation, intent, and plan as well as access to any weapons."
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "09e562db-adfb-410d-add0-64df9ac51102",
+          "text": "By asking the patient about ideation, intent, and plan as well as access to any weapons.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Suicidality and homicidality are integral to the evaluation of thought content. For both, the interviewer should assess for ideation, intent, and plan, as well as access to weapons. Interviewers will sometimes shy away from such exploration, perhaps fearing that introduction of the topic will cause the patient to become irritable, offended, or destructive or that any mention of suicidality or homicidality will inevitably lead to psychiatric admission. Such concerns are generally unwarranted. Passive suicidal and homicidal thoughts are common, and discussion can often lead to a deepening of the alliance. Furthermore, most such thoughts do not lead to involuntary treatment. More importantly, people who do eventually kill themselves or others have often sent out clear warnings beforehand. Although assessments are imperfect, the psychiatric interview is a crucial time to identify people at risk (Fowler 2012).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": "5b7c6d30-2e71-415c-9007-7139ed9beb29",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following terms refers to anything that prevents a patient from talking openly to an interviewer?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1e74dbd1-c324-4e7e-ab04-e2d42fc815f5",
+          "text": "Resistance.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "57049204-c58a-4979-b651-7464a2b7ec70",
+          "text": "Countertransference.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "670955ac-e044-45e0-9272-fa161e3a766f",
+          "text": "Catatonia.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "186c5824-f6b9-41d2-9392-fb9f11d130cb",
+          "text": "Affect.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "1b67394d-f9ef-45cb-81bf-0c41e165881f",
+          "text": "Mood.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "1e74dbd1-c324-4e7e-ab04-e2d42fc815f5",
+        "text": "Resistance."
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "1e74dbd1-c324-4e7e-ab04-e2d42fc815f5",
+          "text": "Resistance.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The psychiatric interviewer will frequently encounter resistance, which refers to anything that prevents the patient from talking openly to the interviewer. Conscious resistance occurs when the patient knowingly neglects, distorts, or makes up important information. Unconscious resistance leads to similarly incomplete stories, but the mechanism is assessed to be out of the patient’s awareness.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": "77016136-c295-4529-b904-90ddeb818423",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Gender, age, and patient demographics are a part of which component of the psychiatric interview?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9b6e56b2-4cbf-4d8f-bf7c-4c6bf5234718",
+          "text": "History of present illness.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d014a153-8b4f-43f8-92eb-35f5c9ceabf2",
+          "text": "Chief complaint.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f7e68c61-a1bb-4bc4-b974-23ccdb3b4ddc",
+          "text": "Identifying information.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "f95e11bd-7b70-409b-a40a-26a612f4f59a",
+          "text": "Mental status exam.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "280ee57c-6fc2-4413-a2d5-83dc101ba709",
+          "text": "Past medical history.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "f7e68c61-a1bb-4bc4-b974-23ccdb3b4ddc",
+        "text": "Identifying information."
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "f7e68c61-a1bb-4bc4-b974-23ccdb3b4ddc",
+          "text": "Identifying information.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Identifying information can either be limited to gender and age or include a lengthy list of potentially important demographics. For most purposes, it is useful to target variables that are pertinent to the particular interview. For example, if an urgent situation calls for an abbreviated clinical summary, it would probably not be appropriate to begin the written or oral summary with a list of all known demographic variables, most of which will be distracting red herrings.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": "93d0191c-e61c-499f-aa2b-d0d99964cbee",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following components of a psychiatric write-up focuses on a cross-sectional assessment of a patient?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "aacd6de7-46ba-4dc9-8e23-6679d0558a3e",
+          "text": "History of present illness.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ff65f3c8-b07a-4498-a471-886bda57b463",
+          "text": "Past psychiatric history.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "78c48744-448f-4f2f-b134-dc19d6c8cdd5",
+          "text": "Treatment plan.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d7dacb02-985a-436c-a050-5fb80cd9c3ce",
+          "text": "Mental status examination.",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "06e7d2cd-cd7f-48c7-a57e-925dd81cc7c6",
+          "text": "Past medical history.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "d7dacb02-985a-436c-a050-5fb80cd9c3ce",
+        "text": "Mental status examination."
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "d7dacb02-985a-436c-a050-5fb80cd9c3ce",
+          "text": "Mental status examination.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "To a psychiatrist, the mental status examination is as important as the physical examination is to the general internist. As a relatively objective cross-sectional evaluation, it plays a key role in shaping and informing the history, labs, collateral information, and eventual treatment strategy. The assessment of mental status begins the moment the interviewer sees the patient, and most of it can be accomplished casually and outside the patient’s awareness.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": "b0159eb5-58a9-4e66-b85a-64f26b7dc2c2",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "\"Misperceptions of actual sensory inputs\" describes which of the following?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3411d829-2643-4ab1-99dd-ec986a575137",
+          "text": "Hallucinations.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "28c2f38c-1d58-4546-9a34-52211fd890e1",
+          "text": "Derealization.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2caff278-1180-48b2-8068-4027cfa0dc6e",
+          "text": "Illusions.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "65d5ddd8-b924-4f32-8771-6a0961ff94b2",
+          "text": "Depersonalization.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ce325f50-acc2-4a8d-b23e-5b07e13538cc",
+          "text": "Delusions.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "2caff278-1180-48b2-8068-4027cfa0dc6e",
+        "text": "Illusions."
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "2caff278-1180-48b2-8068-4027cfa0dc6e",
+          "text": "Illusions.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Illusions are misperceptions of actual sensory inputs. For example, a delirious patient might misinterpret the shadows on a television screen as crawling bugs. Hallucinations have the clarity and impact of true perceptions but without the pertinent sensory input. Depersonalization refers to a sense of being detached from one’s own thoughts, body, or actions, whereas derealization refers to detachment from one’s own surroundings. Delusions—unusual, preoccupying, or dangerous ideas—relate to thought content rather than sensory perceptions.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": "622e092d-f048-432e-a52e-eb431d9884be",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What is being measured when a clinician asks a patient to recall, after a few minutes, three unrelated objects, such as a penny, an apple, and a chair?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "28cb2341-1596-4ab5-aa58-564b46ad39b2",
+          "text": "Short-term memory.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "8775e179-b04c-40d5-a319-1f5168a64ef9",
+          "text": "Orientation.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "133dba22-314b-4584-9a85-77983811836c",
+          "text": "Long-term memory.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "cfc6b425-e322-47fa-aaaa-45af8113497f",
+          "text": "Judgment.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f2a11864-de6c-4792-802a-af5a39d832fe",
+          "text": "Immediate recall.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "28cb2341-1596-4ab5-aa58-564b46ad39b2",
+        "text": "Short-term memory."
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "28cb2341-1596-4ab5-aa58-564b46ad39b2",
+          "text": "Short-term memory.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A brief mental status examination screens for three types of memory dysfunction. Immediate recall is essentially an assessment of attention and is most often tested by asking patients to repeat the names of three unrelated objects (e.g., apple, table, penny). Recent or short-term memory is typically tested by asking the patient to recall after a few minutes the three objects repeated as part of the test for immediate recall. Long-term memory is generally assessed during the course of the interview through the patient’s ability to accurately recall events in recent months and throughout the course of a lifetime. Orientation is generally assessed by the patient’s accurate recitation of name, location, and date (i.e., orientation to person, place, and time). Judgment is often extrapolated from recent behavior or by asking such questions as “If you were in a movie theater and smelled smoke, what would you do?”",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": "eb8a14aa-31c5-4fba-9ee9-d424845fe959",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "When interviewing a patient in the emergency room (ER), which of the following would be a primary goal?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4cebff00-50d0-47f0-aff3-964fd5181204",
+          "text": "Obtaining collateral information from family members.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "346e9eb0-dc25-43a8-85dc-4df3e55397aa",
+          "text": "Conducting a careful assessment for cognitive decline.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d3c43b10-c7f3-4ec0-ac76-5ef96adf5d19",
+          "text": "Fleshing out a detailed social history.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b6a37811-f0c2-4251-b6fb-c8bfbad6a0d8",
+          "text": "Determining whether the patient is safe to leave the ER.",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "82157d97-0ac0-4a21-9e77-3b08f7344ab2",
+          "text": "Fine-tuning the diagnosis.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "b6a37811-f0c2-4251-b6fb-c8bfbad6a0d8",
+        "text": "Determining whether the patient is safe to leave the ER."
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "b6a37811-f0c2-4251-b6fb-c8bfbad6a0d8",
+          "text": "Determining whether the patient is safe to leave the ER.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "There are many types of interviews, each with a different goal and a different primary concern. For example, when interviewing an elderly man presenting to the ER with cognitive decline, agitation, and depression, the interviewer would likely be aiming to do a solid interview and presentation, but her primary goals would be safety (determining whether the patient is suicidal, homicidal, or unable to care for himself) and triage (considering whether the patient should be admitted, discharged, transferred to medicine, or held overnight). If the interviewer decides that the patient has a mild cognitive decline, a serious depression, and an inability to care for himself, the patient is likely to be admitted to psychiatry. If that same patient is deemed to be safe— perhaps because of excellent social supports—but with the same psychiatric diagnoses, he will likely be discharged to outpatient treatment. In the ER setting, definitive diagnosis becomes less important than the triage decision.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": "2882ecf2-7f44-4bae-8e84-90cdc8c68209",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "When interviewing a \"revved-up\" patient, what is the first step in the evaluation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4606a63f-897c-49af-8df6-24ac7e1acf12",
+          "text": "Ask open-ended questions that encourage the patient's self-expression.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "23591d41-dfc4-44a1-911c-369c200ed959",
+          "text": "Immediately medicate the patient by injection.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "a137c4c4-eb83-4711-a501-05989e0f68ae",
+          "text": "Demand that the patient calm down at once.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "eba0b141-9b3d-4f3e-ab91-6cab09090712",
+          "text": "Ensure the safety of all staff members.",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "6084ea51-4545-4a58-9c27-6bf1dbb8a2a8",
+          "text": "Avoid premature attempts at alliance building.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "eba0b141-9b3d-4f3e-ab91-6cab09090712",
+        "text": "Ensure the safety of all staff members."
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "eba0b141-9b3d-4f3e-ab91-6cab09090712",
+          "text": "Ensure the safety of all staff members.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Revved-up patients appear excited or high and tend to display psychomotor agitation. Likely diagnoses include mania, psychosis, hyperactive delirium, withdrawal, and/or intoxication. There are two stages to the evaluation of such patients. First, the interviewer and other staff should ensure safety. In addition to being watchful for dangers to the staff, the interviewer needs to be alert to the possibility that the revved-up patient could hurt herself or could be withdrawing from a substance like alcohol. Pursuit of more routine information generally needs to be deferred when safety is at stake. Second, the interviewer will need to be primed to shift to an unusually active approach (Freed and Barnhill 2008). Instead of offering a wide-open time for the agitated, threatening patient to clarify her complaints, the interviewer will likely shift to a series of binary choices: “You are too excited now to be safe, so I would like to offer you a choice. Would you like to go to your room and remain quiet, or would you like medication?” This question would likely be followed by, “Would you like to take these medications by mouth or by a shot?” The interview is also adapted for revved-up patients who are not dangerous. Revvedup patients should prompt the interviewer to be especially clear, soft spoken, and calming. The patient might pull for humor and banter—and these can be used judiciously to develop an alliance—but they can further rev up the patient and distract the interview. In addition, the revved-up presentation should motivate the interviewer to focus on likely diagnoses (e.g., mania, substance use, delirium), potentially at the expense of other aspects of the interview.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": "92af3fee-e08b-4bb3-ade8-2a16ef05d76c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following interviewing techniques would be categorized as non-directive?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "daaedf80-125b-49bc-ae1d-e508cc17a9a0",
+          "text": "Neutrality.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "db27a692-3510-4521-bc4a-f3e3ae65609b",
+          "text": "Therapeutic alliance.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "977b5934-15c2-4c45-beb7-6692f7af5973",
+          "text": "Limit setting and transitions.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e08fb4b7-2bdc-4335-bd2d-73919899d93e",
+          "text": "Closed-ended questions.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d19a224d-a13b-4fe9-acb1-6e9e3cb770d2",
+          "text": "Open-ended questions.",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "d19a224d-a13b-4fe9-acb1-6e9e3cb770d2",
+        "text": "Open-ended questions."
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "d19a224d-a13b-4fe9-acb1-6e9e3cb770d2",
+          "text": "Open-ended questions.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Open-ended questions usually elicit an extensive response (e.g., “Could you tell me more about your marriage?”) and would be considered a nondirective interview technique. Verbal and nonverbal communications are central to the psychiatric interview and can be divided into three overlapping types. Nonspecific interview techniques (e.g., neutrality, therapeutic alliance) are used throughout the interview to enhance the patient’s experience and lay the groundwork for an alliance and a more productive interview. Nondirective techniques (e.g., open-ended questions, repetition and restatement) encourage the patient to continue on a train of thought. Directive techniques (e.g., closed-ended questions, limit setting and transitions) narrow the focus, perhaps to a factual answer or a topic change.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": "5f2d89da-7e0d-4eea-8eec-a593823c20d6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following interviewing techniques would be categorized as non-specific?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2becff43-15bb-44b2-aac3-2f11ec05f265",
+          "text": "Therapeutic alliance.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "3cd29af0-22f3-4e52-9d42-3b96839fa05e",
+          "text": "Limit setting and transitions.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "cd45b0c8-ede4-41f2-9f80-3760b50a0a31",
+          "text": "Closed-ended questions.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "94cfe53a-0a72-45b0-9f3d-cf739828f28c",
+          "text": "Open-ended questions.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e7c2800c-196d-4f25-99c2-04022752f025",
+          "text": "Reflecting content and feelings.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "2becff43-15bb-44b2-aac3-2f11ec05f265",
+        "text": "Therapeutic alliance."
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "2becff43-15bb-44b2-aac3-2f11ec05f265",
+          "text": "Therapeutic alliance.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The therapeutic alliance develops as the patient and clinician work together to understand the presenting problem and create a treatment plan; it would be considered a nonspecific interview technique. Verbal and nonverbal communications are central to the psychiatric interview and can be divided into three overlapping types. Nonspecific interview techniques (e.g., neutrality, therapeutic alliance) are used throughout the interview to enhance the patient’s experience and lay the groundwork for an alliance and a more productive interview. Nondirective techniques (e.g., open-ended questions, repetition and restatement) encourage the patient to continue on a train of thought. Directive techniques (e.g., closed-ended questions, limit setting and transitions) narrow the focus, perhaps to a factual answer or a topic change.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

@@ -1,0 +1,3709 @@
+{
+  "chapter_id": 104,
+  "chapter_name": "Basic Health Economics",
+  "subject_name": "Statistics and Critical appraisal",
+  "total_questions": 79,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 22247,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among the following options, which statistics would calculate whether the percentage of responders in the rTMS group was statistically superior relative to those who received sham rTMS?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111543,
+          "text": "A diagnosis of chisquare",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111544,
+          "text": "A diagnosis of pearson’s r",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111545,
+          "text": "A diagnosis of paired ttest",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111546,
+          "text": "A diagnosis of hazard ratio",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111547,
+          "text": "A diagnosis of relative risk",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111543,
+        "text": "A diagnosis of chisquare"
+      },
+      "explanation": "Chisquare tests can be used to compare the statistical differences in proportions (presented here) between two or more groups. Pearson’s r calculates correlations between two continuous variables. A ttest can determine whether there is a statistical difference between two sets of continuous variables. Hazards are the expected number of events over a given time period, so a hazard ratio compares the hazards of two independent groups. Relative risk is the comparison of one rate with another but does not describe a statistical test of hypothesis testing. y BoaRd REviEw",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": 22317,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Randomization does which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111892,
+          "text": "Improves generalizability of results",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111893,
+          "text": "Ensures that each group is equivalent",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111894,
+          "text": "Allows for more sensitive statistical comparisons",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111895,
+          "text": "Enhances the effect size of the studied treatment",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111896,
+          "text": "Attempts to distribute unmeasured variables equally",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 111896,
+        "text": "Attempts to distribute unmeasured variables equally"
+      },
+      "explanation": "The unique value of randomization is to allocate unmeasured variables as equally as possible. Measured variables can be accounted for using statistical analysis (such as a multivariable regression analysis), but unmeasured variables by definition cannot be controlled. Randomization clarifies the unique effect between the exposure and outcome. Generalizability hinges on sampling, not randomization. Although randomization attempts to distribute baseline characteristics equally among groups, randomization can fail. This tends to occur among smaller studies. Effect size is not influenced by randomization.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": 8000,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher wishes to compare two treatment approaches for bipolar disorder by measuring quality-adjusted life years gained and total healthcare costs for each approach. Which study design or analytical framework is most appropriate for answering this health economics question?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 40034,
+          "text": "Case-control study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 40035,
+          "text": "Cohort study with parallel cost tracking",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 40036,
+          "text": "Cost-effectiveness study",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 40037,
+          "text": "Cross-sectional prevalence survey",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 40038,
+          "text": "Ecological comparison of regional programs",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 40036,
+        "text": "Cost-effectiveness study"
+      },
+      "explanation": "A cost-effectiveness (or cost-utility) analysis is the appropriate framework when comparing two interventions on both cost and a health outcome metric such as QALYs, generating an incremental cost-effectiveness ratio (ICER). This is the most widely used health economic evaluation method and the approach mandated by NICE for technology appraisals. A cohort study with parallel cost tracking is the empirical vehicle that may generate the data, but it is not the economic evaluation design itself. Case-control, cross-sectional, and ecological designs do not support the prospective, comparative cost and outcome measurement required for cost-effectiveness analysis.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": 22269,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Systolic blood pressure is known to be normally distributed across the population with a mean of 120 mmHg and standard deviation of 10 mmHg. How many out of 100 individuals in a population will have systolic blood pressure between 120 and 130 mmHg?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111652,
+          "text": "68",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111653,
+          "text": "97",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111654,
+          "text": "48",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111655,
+          "text": "17",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111656,
+          "text": "34",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 111656,
+        "text": "34"
+      },
+      "explanation": "In the above question, the mean is given as 120 mmHg. Assuming normal distribution with a standard deviation of 10 mmHg, we can fi nd out the proportion of the population that will fall between two observed values. For values between –1 and +1 standard deviation from the mean, this will be nearly 68%. Nearly 34% will have values between the mean and 1 standard deviation. In other words 34% will have systolic blood pressure between 120 mmHg and 130 mmHg. Lawrie SM, McIntosh AM, and Rao S. Critical Appraisal for Psychiatry. Churchill Livingstone, 2000, p. 60.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": 22256,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Power is the ability of a study to detect an effect that truly exists. Power can also be defi ned as",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111587,
+          "text": "Probability of avoiding type 1 error",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111588,
+          "text": "Probability of committing type 1 error",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111589,
+          "text": "Probability of committing type 2 error",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111590,
+          "text": "Probability of detecting a type 2 error",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111591,
+          "text": "Probability of avoiding type 2 error",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 111591,
+        "text": "Probability of avoiding type 2 error"
+      },
+      "explanation": "Power refers to the probability of avoiding a type 2 error. To calculate power, one needs to know four variables. 1. sample size 2. magnitude of a clinically signifi cant difference 3. probability of type 1 error (signifi cance level from which p value is derived) 4. variance of the measure in the study sample. Underpowered trials are those that enrol too few participants to identify differences between interventions (arbitrarily taken as at least 80% of the time) when such differences truly exist. Underpowered RCTs are prone to false-negative conclusions (type 2 errors). Somewhat controversially, underpowered trials are considered to be unethical, as they expose participants to the ordeals of research without providing an adequate contribution to clinical development. Jones S, Carley S, and Harrison M. An introduction to power and sample size estimation. Emergency Medicine Journal 2003; 20: 453–458.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": 22299,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A new clinician-administered test for assessing suicidal risk is studied in a prison population in Canada, where a high suicide rate of 1 in 25 has been recorded. Which of the following indicate that this test is NOT suitable for your clinical population?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111802,
+          "text": "The positive predictive value is 80%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111803,
+          "text": "The likelihood ratio for a positive test is 14",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111804,
+          "text": "The prevalence of suicide in your clinical sample is 1 in 890",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111805,
+          "text": "The inter-rater reliability (kappa) of the test is 0.8",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111806,
+          "text": "The literacy rate of the prison population is very low but comparable with your clinical sample",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111804,
+        "text": "The prevalence of suicide in your clinical sample is 1 in 890"
+      },
+      "explanation": "Having a high positive predictive value, a likelihood ratio more than 10, and good inter- rater reliability as measured by kappa are desirable properties of an instrument. But when the same instrument is applied to a population with much lower prevalence of suicide (the studied phenomenon), the post-test probability decreases substantially. Post-test probability is a measure of positive predictive value in the target population; it depends on pretest probability, i.e. the prevalence and likelihood ratio. Guyatt G and Rennie D, eds. Users’ Guides to the Medical Literature. A Manual for Evidence–Based Clinical Practice. AMA Press, 2002, p. 130.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": 22314,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What study design is most commonly used to evaluate factors linked to very rare outcomes such as teratogenicity of lithium?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111877,
+          "text": "A diagnosis of randomized trial",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111878,
+          "text": "Prospective cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111879,
+          "text": "Case control study",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111880,
+          "text": "A diagnosis of case series",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111881,
+          "text": "A diagnosis of case reports",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111879,
+        "text": "Case control study"
+      },
+      "explanation": "Subjects in case control studies are enrolled based on outcomes, so this would be the most appropriate study design. In cohort studies, subjects are enrolled based on exposure. More recently retrospective cohort studies have been used, but these typically involve the use of national registries in order to obtain sufficient power to detect even a few cases of the outcome of interest. Randomized clinical trials are not feasible because one might have to enroll thousands of subjects to obtain a sufficient number of the outcome of interest. Case series and case reports are descriptive, rather than assessing a hypothesis of cause and effect.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": 22346,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 24-week RCT of memantine in moderate–severe Alzheimer’s dementia was reported. The investigators recruited 126 subjects for the memantine arm and 126 for the placebo arm, out of which 100 in the memantine group and 100 in the placebo group completed the study. Using a categorical measure of treatment response it was shown that 40% of the individuals in the memantine group responded while only 20% in placebo group showed a response. Calculate the relative risk reduction of using memantine",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112037,
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 112038,
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 112039,
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 112040,
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 112041,
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 112040,
+        "text": "1"
+      },
+      "explanation": "Relative risk reduction (or relative benefi t increase) is calculated using the following expression: relative risk reduction = absolute risk reduction/control event rate (RRR = ARR/ CER) The control event rate is 20%; the experimental event rate is 40%. Absolute risk reduction is the difference between the two event rates, i.e. 40 – 20 = 20% RRR = 20/20 = 1 Guyatt G and Rennie D, eds. Users’ Guides to the Medical Literature. A Manual for Evidence-based Clinical Practice. AMA Press, 2002, p. 660.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": 22279,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "During the same placebo controlled trial described in question 4, 20% of people on X developed active suicidal ideas, while only 10% of individuals on placebo developed the same side effect. What is the number needed to harm (NNH) linked to the suicidal ideas from the trial data?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111702,
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111703,
+          "text": "10",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111704,
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111705,
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111706,
+          "text": "25",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111703,
+        "text": "10"
+      },
+      "explanation": "NNH is similar to the NNT. NNH is the number of patients who need to take the experimental treatment for one additional patient to experience an adverse effect. In the question, 20% of participants on X experienced suicidal ideas compared with 10% on placebo. Put in other words, the drug is responsible for suicidal ideas in an extra 10% of patients. So, if 100 patients receive the drug, 10 extra patients will experience suicidal ideas. That is, for every 10 people treated, one additional patient will experience suicidal ideas. Hence the NNH is 100/10 = 10. This obviously can be calculated from the formula NNH = 1/ARI (absolute risk increase) = 1/10% = 10. It is highly unlikely that X was marketed by the company. Guyatt GH, Juniper EF, Walter SD, et al. Interpreting treatment effects in randomised trials. British Medical Journal 1998; 316: 690–693.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": 22333,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The concept of a complex disease considers the interplay of the environment and which factor?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111972,
+          "text": "Comorbidities",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111973,
+          "text": "Economic factors",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111974,
+          "text": "Social relations",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111975,
+          "text": "The genome",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 111976,
+          "text": "Treatment",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 111975,
+        "text": "The genome"
+      },
+      "explanation": "The concept of complex disease replaced the term, “multifactorial” as an etiologic category for common disorders. It considers the interplay of the genome and environment.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": 22308,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A trial is conducted to evaluate the effi cacy of lamotrigine in individuals with symptoms of recurrent depersonalization. While calculating the number of individuals needed in the trial to demonstrate a meaningful effect, α level is set at 0.05. Which of the following is true regarding alpha (α)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111847,
+          "text": "It is the probability of a type 2 error",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111848,
+          "text": "It is the threshold for defi ning clinical signifi cance",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111849,
+          "text": "If α = 0.05, there is a 5% chance that the null hypothesis is rejected wrongly",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111850,
+          "text": "If α = 0.05, then 5% of treated subjects will show absence of treatment effect.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111851,
+          "text": "None of the listed alternatives",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111849,
+        "text": "If α = 0.05, there is a 5% chance that the null hypothesis is rejected wrongly"
+      },
+      "explanation": "Α is the probability of type 1 error. It is used to set the threshold for statistical (not clinical) signifi cance, often arbitrarily set as p = 0.01–0.05 (α = 1–5%). If α = 0.05, there is a 1 in 20 or 5% chance that the null hypothesis is rejected wrongly. Lawrie SM, McIntosh AM, and Rao S. Critical Appraisal for Psychiatry. Churchill Livingstone, 2000, p. 64.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": 7999,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In evaluating the health economics of a new antidepressant medication, the most appropriate study design would be:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 40029,
+          "text": "Case report describing treatment response",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 40030,
+          "text": "Ecological study of medication costs across populations",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 40031,
+          "text": "Cross-sectional survey of prescription rates",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 40032,
+          "text": "Cost-effectiveness study",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 40033,
+          "text": "Cohort study of adverse events",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 40032,
+        "text": "Cost-effectiveness study"
+      },
+      "explanation": "The source's clinical enquiry table explicitly designates cost-effectiveness studies as the appropriate design for health economics questions. Case reports are descriptive (option A). Ecological studies examine population associations (option B). Cross-sectional surveys measure prevalence (option C). Cohort studies examine prognosis/natural course (option E), not economic value.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": 22341,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A pharmaceutical company developed a new antidepressant ‘X’. They conducted a randomized double-blind placebo controlled trial of the drug. The study had two arms: an active medication arm and a placebo arm. Each arm had 100 subjects. Over a 4-week period, a 50% drop in Hamilton depression scale (HAMD) scores were seen in 40 subjects in the active medication arm, while a similar drop was seen only in 20 subjects in the placebo arm. What is the number needed to treat (NNT) from this trial for the new antidepressant?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112012,
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 112013,
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 112014,
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 112015,
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 112016,
+          "text": "5",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 112016,
+        "text": "5"
+      },
+      "explanation": "The NNT is the number of patients who will need the experimental treatment (X) for one additional patient to benefi t compared with the control treatment. In the given trial, the response rate is characterized by a 50% drop in HAMD from baseline. Forty per cent of those taking drug X achieve this response. In contrast, this rate is 20% for the placebo. This means that 20% (40 – 20%) additional patients responded to the drug compared with placebo. In other words, if we treat another 100 patients with X, 20 extra patients will respond to X than those treated with a placebo. So we need to treat at least fi ve people in order to see a benefi t in one additional patient. This value fi ve is known as the NNT. This can be calculated in another way. As you read further, you will note that 20% is the absolute benefi t increase (ABI = EER – CER). And from the formula, NNT = 1/ABI, we get 1/20% = 5. Cook RJ and Sackett DL. The number needed to treat: a clinically useful measure of treatment effect. British Medical Journal 1995; 310: 452–454.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": 7985,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A patient with schizophrenia, with a future life expectancy of 40 years, is residing in a residential accommodation for the last 10 years. It is estimated that this residential placement offers a QALY of 0.5 and costs £900 a week, while an alternative option across the road can improve the QALY to 0.7, but costs £1100 a week. What type of economic analysis is being conducted?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 39959,
+          "text": "Cost consequences",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 39960,
+          "text": "Cost effectiveness",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 39961,
+          "text": "Cost minimisation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 39962,
+          "text": "Cost utility",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 39963,
+          "text": "Cost benefit",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 39962,
+        "text": "Cost utility"
+      },
+      "explanation": "Cost-utility analysis uses QALYs (Quality-Adjusted Life Years) as the common unit to measure outcomes. When QALYs are used along with the costs of interventions to compare different healthcare options, this represents cost-utility analysis. This type of analysis allows comparison of interventions with different types of outcomes by converting them to a common metric (QALYs).",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": 22242,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher wants to determine which factors predict delirium diagnosis (as a dichotomous outcome). What type of regression would be appropriate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111518,
+          "text": "A diagnosis of cox regression",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111519,
+          "text": "Single linear regression",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111520,
+          "text": "Multiple linear regression",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111521,
+          "text": "A diagnosis of bayesian regression",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111522,
+          "text": "A diagnosis of logistic regression",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 111522,
+        "text": "A diagnosis of logistic regression"
+      },
+      "explanation": "Logistic regression involves dichotomous outcomes and can incorporate one (single logistic) or several (multiple logistic) independent variables (predictors) for the dependent, iCs, aNd REsEaRCh dEsigN • 309 dichotomous outcome of interest. Linear regression can also be single or multiple but differs from logistic regression in that the outcome variable is continuous. Cox regression often involves hazard ratios or Meier– Kaplan survival curves and evaluates whether a particular outcome happens more rapidly in one sample relative to another. Bayesian regression is not a formal regression model.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": 7988,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An economic evaluation expresses outcomes in terms of quality-adjusted life years (QALYs). What type of economic analysis is this?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 39974,
+          "text": "Cost-benefit analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 39975,
+          "text": "Cost-effectiveness analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 39976,
+          "text": "Cost-utility analysis",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 39977,
+          "text": "Cost-minimization analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 39978,
+          "text": "Budget impact analysis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 39976,
+        "text": "Cost-utility analysis"
+      },
+      "explanation": "Cost-utility analysis uses QALYs as the outcome measure, allowing comparison across different conditions and interventions.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": 22270,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a study comparing drug A and a placebo control, 20 out of 200 individuals taking drug A die after 3 years. Twenty-fi ve out of 225 individuals taking the placebo die after 3 years. If death is the outcome of interest, the control event rate is given by",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111657,
+          "text": "25/225",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111658,
+          "text": "20/200",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111659,
+          "text": "(25 – 20)/200",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111660,
+          "text": "(25 – 20)/225",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111661,
+          "text": "25",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111657,
+        "text": "25/225"
+      },
+      "explanation": "Drawing a 2 × 2 table will help answering this question Death No death Total Drug A 20 200 Placebo 25 225 Total Further information can be fi lled in as below: Death No death Total Drug A 20 180 200 Placebo 25 200 225 Total 45 380 425 Control event rate is the rate of death (‘event’ of interest) in the control group = 25/225 Guyatt G and Rennie D, eds. Users’ Guides to the Medical Literature. A Manual for Evidence-based Clinical Practice. AMA Press, 2002, p. 660.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": 7982,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which analysis describes outcomes in units of QALYs?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 39944,
+          "text": "Cost Consequence Analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 39945,
+          "text": "Cost Utility Analysis",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 39946,
+          "text": "Cost Benefit Analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 39947,
+          "text": "Cost Effectiveness Analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 39948,
+          "text": "Budget Impact Analysis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 39945,
+        "text": "Cost Utility Analysis"
+      },
+      "explanation": "Cost-utility analysis specifically measures health outcomes in QALYs (Quality-Adjusted Life Years) and is used to compare interventions across different conditions.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": 7983,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Cost-benefit analysis is best described as:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 39949,
+          "text": "Comparing costs of intervention to control for same outcome",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 39950,
+          "text": "Reducing costs while maintaining the same outcome",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 39951,
+          "text": "Measuring costs against benefits expressed in monetary terms",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 39952,
+          "text": "Determining cost per unit of health outcome",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 39953,
+          "text": "Analyzing total costs to society",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 39951,
+        "text": "Measuring costs against benefits expressed in monetary terms"
+      },
+      "explanation": "Cost-benefit analysis monetizes both costs and benefits, allowing comparison of different types of interventions through a common monetary metric.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": 7996,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A health economist is tasked with comparing the monetary cost and health benefits of two antipsychotic medications to determine which provides better value. Which type of study is most appropriate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 40014,
+          "text": "Randomized controlled trial",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 40015,
+          "text": "Cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 40016,
+          "text": "Cost-effectiveness study",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 40017,
+          "text": "Ecological study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 40018,
+          "text": "Case-control study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 40016,
+        "text": "Cost-effectiveness study"
+      },
+      "explanation": "The source explicitly identifies cost-effectiveness studies as appropriate for health economics questions. While RCTs can provide efficacy data and cohort studies can provide effectiveness data, the specific question of cost and benefit comparison requires a cost-effectiveness study design. This design integrates both economic and clinical outcomes.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": 22286,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The probability of detecting the magnitude of a treatment effect from a study when such an effect actually exists is called",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111737,
+          "text": "Validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111738,
+          "text": "Precision",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111739,
+          "text": "Accuracy",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111740,
+          "text": "Power",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 111741,
+          "text": "Yield",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 111740,
+        "text": "Power"
+      },
+      "explanation": "The power of a study refers to the ability of the study to show the difference in outcome between studied groups if such a difference actually exists. The term power calculation is often used while referring to sample size estimation before a study is undertaken. In order to carry out power calculation one has to know the expected precision and variance of measurements within the study sample (obtained from a literature search or pilot studies), the magnitude of a clinically signifi cant difference, the certainty of avoiding type 1 error as refl ected by the chosen p value, and the type of statistical test one will be performing. There is no point in calculating the statistical power once the results of a study are known. On completion of trials, measures such as confi dence intervals indicate the power of a study and the precision of results. Jones S, Carley S, and Harrison M. An introduction to power and sample size estimation. Emergency Medicine Journal 2003; 20: 453–458.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": 22264,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The prevalence of depression in individuals with mild cognitive impairment is 10%. On applying a depression rating scale with the likelihood ratio of a positive test (LR+) equal to 10, a individual with mild cognitive impairment becomes test positive. The probability that this individual is depressed is equal to",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111627,
+          "text": "15%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111628,
+          "text": "32%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111629,
+          "text": "52%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111630,
+          "text": "85%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111631,
+          "text": "100%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111629,
+        "text": "52%"
+      },
+      "explanation": "This question tests one’s ability to calculate post-test probability from likelihood ratios. The probability of having a disease after testing positive with a diagnostic test depends on two factors: (a) the prevalence of the disease, (b) the likelihood of a positive test result using the instrument. It is important to remember that baseline prevalence of a disease for which a diagnostic instrument is being tested is taken as the pretest probability. So pretest probability = 10% Now, post-test odds = likelihood ratio × pretest odds From a given probability odds can be calculated using the formula odds = (probability)/(1 – probability) Here pretest odds = (10%)/(1 – 10%) = 10/90 = 1/9. Now post-test odds = likelihood ratio × pretest odds = 10 × 1/9 = 10/9 Using the formula probability = odds/(1 + odds) post-test probability = (10/9)/[1 + (10/9)] = 10/19 = 52.3% Guyatt G and Rennie D, eds. Users’ Guides to the Medical Literature. A Manual for Evidence-based Clinical Practice. AMA Press, 2002, p. 660.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": 22284,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Confi dence intervals are used to describe the range of uncertainty around the estimated value of an outcome from the sample studied. Which of the following statements about confi dence intervals is incorrect?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111727,
+          "text": "Sample size is used in calculating confi dence intervals",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111728,
+          "text": "It includes a range of values above and below the point estimate",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111729,
+          "text": "If the confi dence interval includes a null treatment effect, the null hypothesis can be rejected",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111730,
+          "text": "95% confi dence interval is often used in clinical studies",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111731,
+          "text": "When the estimated outcome is a ratio, a positive treatment effect is shown by confi dence intervals remaining above one.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111729,
+        "text": "If the confi dence interval includes a null treatment effect, the null hypothesis can be rejected"
+      },
+      "explanation": "If the confi dence interval includes a null treatment effect, the null hypothesis cannot be rejected within the set levels of confi dence limits. Confi dence intervals provide a measure of dispersion of the point estimate within stipulated confi dence limits (arbitrarily 95% corresponds to a p value of 5%). In other words, confi dence intervals provide the assured range within which the true value may lie. Confi dence intervals are a measure of precision of the results obtained from a study. The larger the sample studied, the narrower the intervals. If the confi dence intervals cross the value ‘0’ for the difference between means then the results are statistically not signifi cant. If it crosses the value ‘1’ for ratio measures such as the odds ratio, it is not signifi cant. If it crosses infi nity for inverse ratios such as NNT then it is not signifi cant. Johnstone EC, et al., eds. Companion to Psychiatric Studies, 7th edn. Churchill Livingstone, 2004, p. 192.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": 7984,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the Incremental Cost-Effectiveness Ratio (ICER)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 39954,
+          "text": "The cost of intervention compared to control for the same outcome",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 39955,
+          "text": "The ratio between cost and benefit in terms of quality of life",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 39956,
+          "text": "The additional cost per unit of additional health outcome gained",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 39957,
+          "text": "The total cost divided by total benefit",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 39958,
+          "text": "The difference in cost between two interventions",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 39956,
+        "text": "The additional cost per unit of additional health outcome gained"
+      },
+      "explanation": "ICER is calculated as the difference in cost divided by the difference in health outcome (such as QALYs) between two interventions, representing cost per unit of additional benefit.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": 22268,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The pretest probability of the overall two-item screen is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111647,
+          "text": "49%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111648,
+          "text": "91%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111649,
+          "text": "67%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111650,
+          "text": "25%",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 111651,
+          "text": "95%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 111650,
+        "text": "25%"
+      },
+      "explanation": "The prevalence, also known as the pretest probability or base rate, refers to the proportion of people who have the disorder = (A + C)/N, i.e. 43/167 = 25.74%. Streiner D and Geddes J. Some useful concepts and terms used in articles about diagnosis. Evidence-Based Mental Health 1998; 1: 6–8.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": 7989,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A health economist is conducting a cost-benefit analysis comparing two interventions delivered at different time points. The costs and benefits occur over a 10-year period. Which method should be used to account for the different timing of costs and benefits?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 39979,
+          "text": "Sensitivity analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 39980,
+          "text": "Discounting",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 39981,
+          "text": "Incremental cost-effectiveness ratio",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 39982,
+          "text": "Quality-adjusted life years",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 39983,
+          "text": "Markov modeling",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 39980,
+        "text": "Discounting"
+      },
+      "explanation": "Discounting adjusts for time value; costs/benefits at different times compared appropriately.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": 22282,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The most clinically useful measure that helps to inform the likelihood of having a disease in a individual with positive results from a diagnostic test is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111717,
+          "text": "Accuracy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111718,
+          "text": "Positive predictive value",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111719,
+          "text": "Sensitivity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111720,
+          "text": "Specifi city",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111721,
+          "text": "Reliability",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111718,
+        "text": "Positive predictive value"
+      },
+      "explanation": "The probability that a test will provide a correct diagnosis is not given by the sensitivity or specifi city of the test. Sensitivity and specifi city are properties of the test instrument – they are not functions of the target population/clinical sample. On the other hand, positive and negative predictive values are functions of the population studied; they provide much more clinically useful information. Predictive values observed in one study do not apply universally. Positive predictive value increases with increasing prevalence of the disease; negative predictive value decreases with increasing prevalence. Sensitivity and specifi city, being properties of the instrument used, do not vary with prevalence. Altman DG and Bland JM. Diagnostic tests. 2. predictive values. British Medical Journal 1994; 309: 102.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": 22259,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What would be the below graph called?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111602,
+          "text": "Scatter plot",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111603,
+          "text": "Funnel plot",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111604,
+          "text": "Receiver operator characteristics curve",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111605,
+          "text": "Galbraith plot",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111606,
+          "text": "Forest plot",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111604,
+        "text": "Receiver operator characteristics curve"
+      },
+      "explanation": "An ROC (Receiver Operating Characteristic) curve plots sensitivity (true positive rate) on the y-axis against 1-specificity (false positive rate) on the x-axis. The diagonal line from bottom-left to top-right represents chance prediction. The closer the curve follows the left-hand border and then the top border, the more accurate the test; the area under the curve (AUC) quantifies test accuracy. A funnel plot depicts effect size vs. precision in a meta-analysis; a forest plot (blobbogram) displays individual study effects with confidence intervals; a Galbraith plot plots 1/SE on the x-axis and effect/SE on the y-axis; a scatter plot shows the relationship between two continuous variables without the specific axes of an ROC curve.",
+      "image_url": "https://kdpsychacademy.com/wp-content/uploads/2026/08/Q010133.jpg",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": 22311,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Results from the National Epidemiologic Survey on Alcohol and Related Conditions, a large epidemiological study in the United States, which targeted clivilian adults 18 years and older in household and selected group quarters, indicatewhich of the following? (Select all that apply.)",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111862,
+          "text": "Twelvemonth occurrence rate of alcohol use disorder is about 14%.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111863,
+          "text": "Alcohol use disorder is significantly linked to anxiety disorders.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111864,
+          "text": "Lifetime occurrence rate of alcohol use disorder is about 30%.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111865,
+          "text": "Lower income has an inverse relationship with occurrence rate of alcohol use disorder.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111866,
+          "text": "Significant associations were found between 12month and lifetime occurrence rate of alcohol use disorder and other substance use disorders, major depression, bipolar I disorders, and antisocial and borderline personality disorders.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111862,
+        "text": "Twelvemonth occurrence rate of alcohol use disorder is about 14%."
+      },
+      "explanation": ", C, E A recent epidemiological study, known as the National Epidemiologic Survey on Alcohol and related ConditionsIII (NESARCIII), aimed to identify the prevalence and correlates of DSM5 substance use disorders. 36,309 inperson interviews were conducted on US civilians 18, years and older of households and selected group residential quarters. The 12month and lifetime prevalence of alcohol use disorder was estimated at 13.9% and 29.1%, respectively. The 12month and lifetime prevalences of severe alcohol use disorder was greatest among respondents with the lowest income level. Significant associations were found between 12month and lifetime alcohol use disorder and other substance use disorders, major depressive and bipolar I disorders, and antisocial and borderline personality disorders. Associations between alcohol use disorder and panic disorder, specific phobia, and generalized anxiety disorder were modest.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": 22296,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among the following, which properties of a screening test increases with increasing disease prevalence in the population?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111787,
+          "text": "Negative predictive value",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111788,
+          "text": "Sensitivity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111789,
+          "text": "Specifi city",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111790,
+          "text": "Accuracy",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111791,
+          "text": "Positive predictive value",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 111791,
+        "text": "Positive predictive value"
+      },
+      "explanation": "Sensitivity, specifi city, and accuracy are measures that refl ect the characteristics of the test instrument. These measures do not vary with changes in the disease prevalence. Positive predictive value increases while negative predictive value decreases with rising population prevalence of the disease studied. The prevalence can be interpreted as the probability before the test is carried out that the subject has the disease, known as the prior probability of disease. The positive and negative predictive values are the revised estimates of the same probability for those subjects who are positive and negative on the test, and are known as posterior probabilities. Thus the difference between the prior and posterior probabilities is one way of assessing the usefulness of the test. Altman DG and Bland MJ. Statistics Notes: Diagnostic tests 2: predictive values British Medical Journal 1994; 309:102.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": 22302,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A clinical study evaluates the diagnostic accuracy of a novel 2-item screening test for depression compared to a gold-standard psychiatric interview. Out of 224 participants, 91 patients with confirmed depression screen positive, and 9 patients with confirmed depression screen negative. Among those without depression, 84 screen negative and 40 screen positive. What is the sensitivity of this screening test?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111817,
+          "text": "32%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111818,
+          "text": "9%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111819,
+          "text": "91%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111820,
+          "text": "67%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111821,
+          "text": "25%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111819,
+        "text": "91%"
+      },
+      "explanation": "Rationale:\r\nSensitivity measures the proportion of patients with the disease who are correctly identified by a positive test result. It is calculated using the formula: True Positives (TP) / Total Patients with the Disease (TP + FN).\r\n\r\nTrue Positives (TP): Patients with confirmed depression who screened positive = 91\r\n\r\nFalse Negatives (FN): Patients with confirmed depression who screened negative = 9\r\n\r\nTotal Disease Present: 91 + 9 = 100\r\n\r\nCalculation: 91 / 100 = 0.91 or 91.0%",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": 8003,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Withdrawal of a medication from the market due to risk of serious cardiac adverse events primarily reflects which ethical principle?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 40049,
+          "text": "Autonomy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 40050,
+          "text": "Justice",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 40051,
+          "text": "Beneficence",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 40052,
+          "text": "Non-maleficence",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 40053,
+          "text": "Veracity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 40052,
+        "text": "Non-maleficence"
+      },
+      "explanation": "Non-maleficence, the principle of do no harm",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": 22360,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "When searching medical databases, the term MeSH refers to",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112107,
+          "text": "Software that distributes all indexed articles",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 112108,
+          "text": "A keyword that will retrieve all published articles by an author",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 112109,
+          "text": "A thesaurus of medical subject headings",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 112110,
+          "text": "A keyword that stops ongoing search process",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 112111,
+          "text": "A database of mental health and social care topics",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 112109,
+        "text": "A thesaurus of medical subject headings"
+      },
+      "explanation": "MeSH stands for medical subject headings. It is a thesaurus embedded in the Pubmed–Medline interface and can be used to search literature more effectively using recognized key words. Greenhalgh T. How to read a paper: the Medline database. British Medical Journal 1997; 315: 180–183.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": 22283,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A new rating scale being evaluated for anxiety has a sensitivity of 80% and specifi city of 90% against the standard ICD-10 diagnosis. The likelihood ratio of a positive result is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111722,
+          "text": "Nearly 2",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111723,
+          "text": "Nearly 0.2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111724,
+          "text": "0.08",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111725,
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 111726,
+          "text": "0.5",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 111725,
+        "text": "8"
+      },
+      "explanation": "The likelihood ratio of a positive test (LR+) is the ratio between the probability of a positive test in a person with disease and the probability of a positive test in a person without disease. It can also be expressed as LR+ = sensitivity/(1 – specifi city) Here, sensitivity = 0.8; specifi city = 0.9. Hence LR+ = 0.8/1 – 0.9 = 8. Lawrie SM, McIntosh AM and Rao S. Critical Appraisal for Psychiatry. Churchill Livingstone, 2000. p. 97.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": 22326,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher is interested in studying whether maternal smoking increases the risk of school refusal in children. Which one of the following is the correct null hypothesis for the above research question?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111937,
+          "text": "School refusal increases the risk of maternal smoking",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111938,
+          "text": "Maternal smoking decreases the risk of school refusal",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111939,
+          "text": "Maternal smoking does not increase the risk of school refusal",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111940,
+          "text": "Maternal smoking increases the risk of school refusal",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111941,
+          "text": "None of the listed alternatives",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111939,
+        "text": "Maternal smoking does not increase the risk of school refusal"
+      },
+      "explanation": "In scientifi c research, nothing can be proven; we can only disprove presumed facts. If one wants to prove maternal smoking causes school refusal, it is best to assume that maternal smoking does not cause school refusal to start with and then proceed to disprove this statement. Such statements waiting to be disproved during the course of a research study are called the null hypotheses. The converse of the null hypothesis is called the alternative hypothesis. Research question: Does maternal smoking increase risk of school refusal? Null hypothesis: Maternal smoking does not increase risk of school refusal Alternative hypothesis: Maternal smoking increases the risk of school refusal. Guyatt G and Rennie D, eds. Users’ Guides to the Medical Literature. A Manual for Evidence-based Clinical Practice. AMA Press, 2002, p. 680.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": 22252,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher conducts a randomised controlled trial comparing a new antidepressant with placebo. The study finds no statistically significant difference between the two groups, yet a true difference actually exists. Which term best describes this statistical error?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111567,
+          "text": "Incorrectly rejecting the null hypothesis when it is actually true",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111568,
+          "text": "Type 2 error",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111569,
+          "text": "Type 1 error",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111570,
+          "text": "A false positive result",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111571,
+          "text": "An error caused by insufficient statistical power due to excessively large sample size",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111568,
+        "text": "Type 2 error"
+      },
+      "explanation": "Type 2 error (beta error) occurs when a study fails to reject the null hypothesis even though a true difference between groups exists  a false negative. It is distinct from Type 1 error (alpha error), which is incorrectly rejecting the null hypothesis when it is actually true (a false positive). Type 2 error is related to insufficient statistical power, often due to small sample size or high variance. Selection bias is a systematic error in participant selection and is unrelated to this concept.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": 22290,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a study evaluating a two-item screening tool, the results were as follows: of 88 individuals who tested negative on the screen, 84 truly did not have the disorder and 4 did have the disorder (false negatives). What is the negative predictive value (NPV) of this two-item screen?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111757,
+          "text": "49%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111758,
+          "text": "91%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111759,
+          "text": "67%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111760,
+          "text": "25%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111761,
+          "text": "95%",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 111761,
+        "text": "95%"
+      },
+      "explanation": "Negative predictive value (NPV) answers the question ‘Of those people who have been found to be ‘disease negative’ on the test, how many actually do not have the disorder?’ It is calculated using the formula, NPV = D/(C + D) = 84/88 = 95.45%, i.e. 95.45% of people diagnosed ‘normal’ on the test don’t have the disorder.",
+      "image_url": "https://kdpsychacademy.com/wp-content/uploads/2026/08/Q010142.jpg",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": 22277,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Two continuous variables A and B are found to be correlated in a non-linear fashion. Which ONE of the following statistical techniques is designed for use when the dependent variable is binary, and is therefore NOT suitable for examining the non-linear relationship between these two continuous variables?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111692,
+          "text": "Curvilinear regression",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111693,
+          "text": "Logistic regression",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111694,
+          "text": "Multiple linear regression",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111695,
+          "text": "Polynomial regression",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111696,
+          "text": "Exponential regression",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111693,
+        "text": "Logistic regression"
+      },
+      "explanation": "Logistic regression is specifically designed to be used when the dependent variable is binary (categorical with two possible outcomes, like yes/no or 0/1). Therefore, it is not suitable for examining the relationship between two continuous variables. The other options listed (curvilinear, polynomial, and exponential regression) are methods used to model non-linear relationships between continuous variables.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": 22253,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Two observers are rating MRI scans for the presence or absence of white matter hyperintensities. On a particular day from the records, they are observed to have an agreement of 78%. If they could be expected to agree 50% of the time, even if the process of detecting hyperintensities is by pure chance, then the value of kappa statistics is given by",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111572,
+          "text": "50%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111573,
+          "text": "44%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111574,
+          "text": "56%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111575,
+          "text": "78%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111576,
+          "text": "22%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111574,
+        "text": "56%"
+      },
+      "explanation": "Agreement between different observers can be measured using the kappa (κ) statistic for categorical measures such as the one highlighted in this question (presence or absence of MRI hyperintensities). Kappa is a measure of the level of agreement in excess of that which would be expected by chance. It is calculated as the observed agreement in excess of chance, expressed as a proportion of the maximum possible agreement in excess of chance. In other words kappa = the difference between observed and expected agreement/(1 – expected agreement). In this example, the observed agreement is 78%. The expected agreement is 50%. Hence kappa = (0.78 – 0.50)/(1 – 0.50) = 0.28/0.50 = 56%. Silman AJ and Macfarlane GJ. Epidemiological studies: A Practical Guide, 2nd edn. Cambridge University Press, 2004 p.125.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": 22272,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Data collected for a study on antidepressant effi cacy show the outcome as observations of the number of days needed to achieve remission. The standard deviation for such observations will be measured in which of the following units?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111667,
+          "text": "No units",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111668,
+          "text": "Days",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111669,
+          "text": "Square root of days",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111670,
+          "text": "Days square",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111671,
+          "text": "Person-years",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111668,
+        "text": "Days"
+      },
+      "explanation": "The standard deviation has the same units as the primary variable. This is an advantage of standard deviation compared with variance, which is also a measure of dispersion. Lawrie SM, McIntosh AM, and Rao S. Critical Appraisal for Psychiatry. Churchill Livingstone, 2000, p. 60.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": 22258,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A new diagnostic test detects 60 out of 100 schizophrenia individuals correctly. It does not wrongly diagnose anyone in a sample of 100 controls. How accurate is this test in detecting schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111597,
+          "text": "100%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111598,
+          "text": "80%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111599,
+          "text": "60%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111600,
+          "text": "40%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111601,
+          "text": "70%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111598,
+        "text": "80%"
+      },
+      "explanation": "Using the table from question 14, Schizophrenia Controls Total Test positive 60 (true positive) 0 (false positive) 60 Test negative 40 (false negative) 100 (true negative) 140 Total 100 100 200 Accuracy = all true observations/total population studied = (100 + 60)/200 = 160/200 = 80% Guyatt G and Rennie D, eds. Users’ Guides to the Medical Literature. A Manual for Evidence-based Clinical Practice. AMA Press, 2002, p. 661.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": 7991,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A health economic analysis categorizes different types of costs associated with mental illness. Which category best describes money spent by healthcare settings on treatment?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 39989,
+          "text": "Direct costs",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 39990,
+          "text": "Indirect costs",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 39991,
+          "text": "Intangible costs",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 39992,
+          "text": "Opportunity costs",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 39993,
+          "text": "Fixed costs",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 39989,
+        "text": "Direct costs"
+      },
+      "explanation": "Direct costs: money spent directly on healthcare services and treatment.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": 22244,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Suppose that this questionnaire has the same sensitivity and specificity in a second sample of individuals, and that sample has twice the rate of major depression as the first (in the initial vignette). How does this influence positive and negative predictive values in this second sample?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111528,
+          "text": "Positive predictive value increases, negative predictive value decreases.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111529,
+          "text": "Positive predictive value increases, negative predictive value increases.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111530,
+          "text": "Positive predictive value decreases, negative predictive value decreases.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111531,
+          "text": "Positive predictive value decreases, negative predictive value increases.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111532,
+          "text": "Positive and negative predictive values remain the same.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111528,
+        "text": "Positive predictive value increases, negative predictive value decreases."
+      },
+      "explanation": "Positive and negative predictive values are affected by prevalence, whereas sensitivity and specificity are unique to the test and independent of prevalence. Broadly speaking, with greater prevalence, the likelihood that any patient would be positive is greater. As a result, the positive predictive value of a positive test increases, whereas the negative predictive value decreases. Compare Table 30.1 screen positive 64 15 79 screen negative 16 105 121 Totals 80 120 200 308 • PsyChiatRy with Table 30.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 44,
+      "question_id": 22293,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The number of days that a series of fi ve individuals had to wait before starting cognitive behavioural treatment (CBT) at a psychotherapy unit is as follows: 12, 12, 14, 16, and 21. The median waiting time to get CBT is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111772,
+          "text": "15 days",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111773,
+          "text": "12 days",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111774,
+          "text": "14 days",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111775,
+          "text": "21 days",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111776,
+          "text": "13 days",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111774,
+        "text": "14 days"
+      },
+      "explanation": "The median is calculated by placing observations in a rank order (either ascending or descending) and picking up the most central value. If the number of observations is even (multiples of two), then the median is taken as the arithmetic mean of the two middle values. Lawrie SM, McIntosh AM, Rao S. Critical Appraisal for Psychiatry. Churchill Livingstone, 2000, p. 60.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 45,
+      "question_id": 22275,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A screening study for postnatal depression was conducted in a primary care sample. The Edinburgh Postnatal Depression Scale (EPDS) was used. Of 500 women screened, 80 had true postnatal depression (prevalence 16%). Using the overall screen, the test had a sensitivity of 70% and specificity of 94%. What is the positive predictive value (PPV) of the overall screen?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111682,
+          "text": "49%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111683,
+          "text": "91%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111684,
+          "text": "69%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111685,
+          "text": "25%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111686,
+          "text": "95%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111684,
+        "text": "69%"
+      },
+      "explanation": "PPV (positive predictive value) = true positives / (true positives + false positives) = A / (A + B). Its value depends on the sensitivity and specificity of the test and the prevalence of the condition in the tested population.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 46,
+      "question_id": 7992,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which category describes costs due to lost productivity as a result of illness?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 39994,
+          "text": "Direct costs",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 39995,
+          "text": "Indirect costs",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 39996,
+          "text": "Intangible costs",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 39997,
+          "text": "Opportunity costs",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 39998,
+          "text": "Variable costs",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 39995,
+        "text": "Indirect costs"
+      },
+      "explanation": "Indirect costs: productivity losses, absenteeism, reduced work capacity.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 47,
+      "question_id": 7981,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An esketamine study showed improved QALYs of 0.07 at costs of 16,600 (community) and 16,900 (hospital). Which statement is true?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 39939,
+          "text": "Esketamine was more expensive and not effective",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 39940,
+          "text": "A DEAR curve must be examined before making a decision",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 39941,
+          "text": "The cost-effectiveness ratio must be compared to willingness-to-pay threshold",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 39942,
+          "text": "Esketamine is clearly cost-effective",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 39943,
+          "text": "Further trials are needed",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 39941,
+        "text": "The cost-effectiveness ratio must be compared to willingness-to-pay threshold"
+      },
+      "explanation": "The ICER (cost per QALY gained) must be compared to the willingness-to-pay threshold to determine cost-effectiveness; without this threshold, no conclusion can be drawn.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 48,
+      "question_id": 7997,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher plans to investigate cost-effectiveness of two psychotherapies for anxiety. Which study design is most appropriate for this health economics question?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 40019,
+          "text": "Case-control study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 40020,
+          "text": "Ecological study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 40021,
+          "text": "Cost-effectiveness study",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 40022,
+          "text": "Diagnostic accuracy study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 40023,
+          "text": "Qualitative study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 40021,
+        "text": "Cost-effectiveness study"
+      },
+      "explanation": "The source table explicitly states that health economics questions, including cost-effectiveness, are best answered by cost-effectiveness studies. While other designs can collect economic data, the dedicated cost-effectiveness study design is specifically structured to compare treatment costs against clinical outcomes. ---",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 49,
+      "question_id": 8002,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In medical ethics, choosing a treatment option that benefits the greatest number of people would primarily reflect which ethical principle?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 40044,
+          "text": "Autonomy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 40045,
+          "text": "Justice",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 40046,
+          "text": "Utilitarianism",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 40047,
+          "text": "Beneficence",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 40048,
+          "text": "Non-maleficence",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 40046,
+        "text": "Utilitarianism"
+      },
+      "explanation": "Utilitarianism emphasizes maximizing overall benefit and selecting actions that produce the greatest good for the greatest number of people.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 50,
+      "question_id": 22353,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The last observation carried forward (LOCF) method is not suitable for processing the data for which of the following RCTs with intention to treat analysis?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112072,
+          "text": "A diagnosis of benzodiazepines for anxiety",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 112073,
+          "text": "A diagnosis of sSRIs for depression",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 112074,
+          "text": "Venlafaxine for generalized anxiety disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 112075,
+          "text": "A diagnosis of memantine for Alzheimer’s disease",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 112076,
+          "text": "A diagnosis of risperidone for bipolar disorder",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 112075,
+        "text": "A diagnosis of memantine for Alzheimer’s disease"
+      },
+      "explanation": "In most drug trials, patients drop-out because of non-effi cacy or adverse events. If we think that a number of participants drop-out because of non-effi cacy, dropping them out of the analysis would project a favourable outcome for the drug in question. Hence the LOCF method takes the last observation and utilizes it in the analysis. For illustration, we take two subjects, in a trial of antidepressants. Antidepressant trial Montgomery–Asberg depression rating scale (MADRS) Subject 1 Subject 2 Baseline 30 30 Week 1 20 30 Week 2 10 30 (drop-out due to non effi cacy) Week 3 5 30 Final score 1 30 Subject 1, improves signifi cantly over the 4 weeks, his MADRS score has dropped to 1 from a baseline of 30, while Subject 2 dropped out of the study in the second week, due to non-effi cacy. If we remove subject 2 from the analysis, the mean score at the end would be 1 (an whopping improvement of 29 points on the MADRS), while if we carry forward his last observation score (week 2) of 30 to the end and took the mean of the two scores (15.05), the drop is only 15 points from the mean baseline score of 30. Trials of Alzheimer’s disease interventions are different, since we do not expect (although we most defi nitely would like to see) improvement in the cognitive score, but a rather slow decline in scores over time, in spite of the medications, due to the progressive nature of the illness. If a patient drops out early because of the experience of adverse effects, carrying forward his score to the endpoint analysis will falsely project a favourable outcome. Again to illustrate, let us consider a trial of cholinesterase inhibitors. ChI trial MMSE Subject 1 Subject 2 Baseline 20 20 Week 1 20 20 (drops out because of side effects) Week 2 10 20 Week 3 5 20 Final score 1 20 Subject 1 experienced a decline of 19 points over 4 weeks, while the second subject dropped out the fi rst week, when his MMSE had not declined. If we carry forward his last observation of 20, it will look like there was no deterioration at all, and the difference in the mean scores over time would be diluted to 10, rather than a drop of 19. As a corollary, the reason for drop-out is another important issue. In trials of Alzheimer’s disease interventions, early drop-outs are most probably due to adverse effects, while late drop-outs are due to non-effi cacy. This can again project a favourable outcome for the drug. Streiner DL. The case of the missing data: methods of dealing with dropouts and other research vagaries. Can J Psychiatry 2002; 47:68–75.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 51,
+      "question_id": 22240,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A new psychiatric screening questionnaire is evaluated in a sample of 200 patients. Its sensitivity is 72% and specificity is 91% (positive predictive value 85%, negative predictive value 82%). Based on these test performance characteristics, would this instrument be more appropriate as a screening tool or as a confirmatory (rule-in) diagnostic test?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111509,
+          "text": "Screening instrument",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111510,
+          "text": "Confirmatory  test",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111511,
+          "text": "Both equally",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111512,
+          "text": "Neither",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111510,
+        "text": "Confirmatory  test"
+      },
+      "explanation": "A test with high specificity and lower sensitivity is more appropriate as a confirmatory (rule-in) test, because a positive result in a highly specific test strongly indicates true disease (SpIn mnemonic). Conversely, a test with high sensitivity is preferred for screening to minimise false negatives.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 52,
+      "question_id": 7993,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which category describes costs associated with stigma and reduced quality of life?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 39999,
+          "text": "Direct costs",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 40000,
+          "text": "Indirect costs",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 40001,
+          "text": "Intangible costs",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 40002,
+          "text": "Opportunity costs",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 40003,
+          "text": "Social costs",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 40001,
+        "text": "Intangible costs"
+      },
+      "explanation": "Intangible costs: pain, suffering, stigma—difficult to quantify financially.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 53,
+      "question_id": 7990,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 55-year-old man with paraplegia following an accident states that 10 years living like this is equivalent to 1 year of living a full life. Using the time trade-off method, what QALY value best represents his current health state?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 39984,
+          "text": "0.1",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 39985,
+          "text": "0.2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 39986,
+          "text": "0.5",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 39987,
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 39988,
+          "text": "0",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 39984,
+        "text": "0.1"
+      },
+      "explanation": "Using the time trade-off (TTO) method, QALY utility is calculated as the ratio of years in full health to years in the current health state that the patient considers equivalent. Here, 1 year of full health = 10 years with paraplegia, so QALY = 1/10 = 0.1 (Option A).",
+      "image_url": null,
+      "explanation_image_url": "https://kdpsychacademy.com/wp-content/uploads/2026/07/Comparing_QALY_and_DALY_Metrics.jpg"
+    },
+    {
+      "question_number": 54,
+      "question_id": 22248,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Provided the screening questionnaire yields a continuous value from 0 to 10, which of the following could be used to depict the tradeoff between sensitivity and specificity at different cutoff values?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111548,
+          "text": "A diagnosis of normal distribution",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111549,
+          "text": "A diagnosis of gaussian distribution",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111550,
+          "text": "A nomogram of likelihood ratios",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111551,
+          "text": "Receiver operating characteristic",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 111552,
+          "text": "Positive predictive value plotted against negative predictive value",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 111551,
+        "text": "Receiver operating characteristic"
+      },
+      "explanation": "The receiver operating characteristic (ROC) is a graphical plot of true positive rate (sensitivity) versus false positive rate (1 − specificity) that is often used to determine discrimination thresholds of screening tests. It is a visual representation of how well a particular test predicts a condition of interest at each cutoff value. An ROC may be depicted as a graph, or the area under the ROC may be reported numerically. An area under the ROC of 50% means that a test has no predictive iCs, aNd REsEaRCh dEsigN • 307 value (i.e., a positive or negative value remains a 5050 tossup) with higher values being more robust tools for predicting the condition of interest. Normal distribution and Gaussian distribution refer to the same probability distribution often depicted as a bell curve, which presumes a random distribution of variables. A nomogram may be used to predict posttest probability. Positive and negative predictive values are not synonymous with sensitivity and specificity.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 55,
+      "question_id": 22262,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among the options below, which one measures is used in correlation analysis for non-parametric data?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111617,
+          "text": "Kappa statistics",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111618,
+          "text": "Pearson’s correlation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111619,
+          "text": "Spearman’s correlation",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111620,
+          "text": "Cohen’s d",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111621,
+          "text": "Cronbach’s alpha",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111619,
+        "text": "Spearman’s correlation"
+      },
+      "explanation": "Spearman’s correlation is used for non-parametric correlation analysis. It is also called the rank correlation test. It can be used when one or both variables to be correlated consist of ranks (ordinal) or if they exist as quantitative data but do not have normal distribution. Pearson’s correlation is used for parametric correlation. Kappa is a measure of agreement not correlation. Cohen’s d is used to calculate effect size. The internal consistency of an instrument is tested using Cronbach’s alpha. Lawrie SM, McIntosh AM, and Rao S. Critical Appraisal for Psychiatry. Churchill Livingstone, 2000, pp. 72 and 75.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 56,
+      "question_id": 22280,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a Receiver Operating Characteristic (ROC) curve diagram, the diagonal 45-degree line running from the lower-left to the upper-right corner of the graph is shown as a dotted reference line. What does this dotted line represent?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111707,
+          "text": "It is the curve of the test that best discriminates depressed from non-depressed people",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111708,
+          "text": "It is the curve of a test that partially discriminates depressed from non-depressed people",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111709,
+          "text": "It is the curve of a test that does not discriminate depressed from non-depressed people",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111710,
+          "text": "It is the curve representing the application of the current screening instrument to the whole population",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111711,
+          "text": "It is the curve of a test with maximum sensitivity but minimum specifi city",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111709,
+        "text": "It is the curve of a test that does not discriminate depressed from non-depressed people"
+      },
+      "explanation": "In an ROC curve diagram, the dotted 45-degree diagonal line running from the lower-left to the upper-right corner of the graph is the \\'chance line\\' or reference line, representing a test with no discriminatory ability whatsoever (i.e., true positive rate equals false positive rate at every threshold).",
+      "image_url": "https://kdpsychacademy.com/wp-content/uploads/2026/08/Q010162.jpg",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 57,
+      "question_id": 22367,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The federal insurance program for persons of all ages whose income and resources are insufficient to pay for health care is known as which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 112142,
+          "text": "A diagnosis of medicare",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 112143,
+          "text": "A diagnosis of medicaid",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 112144,
+          "text": "TRICARE for military dependents",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 112145,
+          "text": "individual Protection and Affordable Care Act",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 112146,
+          "text": "Indian Health Service",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 112143,
+        "text": "A diagnosis of medicaid"
+      },
+      "explanation": "The Health Insurance Association of America describes Medicaid as a “government insurance program for persons of all ages whose income and resources are insufficient to pay for health care.” The Patient Protection and Affordable Care Act, also known as Obamacare, is an expansion of Medicaid’s eligibility that started in 2014 in which people with income up to 133% of the poverty line would qualify for coverage. The Veterans Health Administration and the Federal Employees Health Benefit Program are programs 22 • PSYCHIATRY that provide medical assistance and health benefits to veterans and government employees, respectively.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 58,
+      "question_id": 22320,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among the following options, which mental health disorders is the MOST prevalent in the general population?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111907,
+          "text": "A diagnosis of developmental disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111908,
+          "text": "A diagnosis of anxiety disorders",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111909,
+          "text": "A diagnosis of mood disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111910,
+          "text": "A diagnosis of psychotic disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111911,
+          "text": "Substance use disorders",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111908,
+        "text": "A diagnosis of anxiety disorders"
+      },
+      "explanation": "Anxiety disorders are the most prevalent class of mental health disorders. Re FeRe NCe Merikangas, K. R., &amp; Kalaydjian, A. E. (2009). Anxiety disorders. In B. J. Sadock, V. A. Sadock, P. Ruiz, &amp; H. I. Kaplan (Eds.), Kaplan and Sadock’s comprehensive textbook of psychiatry (9th ed., p. 1856). Philadelphia, PA: Wolters Kluwer Health/ Lippincott Williams and Wilkins.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 59,
+      "question_id": 22246,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among the following options, which correctly describes the interpretation of a p value?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111538,
+          "text": "The p value measures whether an observed result can be attributed to chance.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111539,
+          "text": "A p value of less .01 proves that the alternative hypothesis is Inaccurate.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111540,
+          "text": "Higher p values indicate greater likelihood that the hypothesis is Accurate.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111541,
+          "text": "A p value of .01 indicates a 1% chance the result is Inaccurate.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111542,
+          "text": "Lower p values indicate greater practical relevance of results.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111538,
+        "text": "The p value measures whether an observed result can be attributed to chance."
+      },
+      "explanation": "A p value measures whether an observed result can be attributed to chance.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 60,
+      "question_id": 22285,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A clinical researcher is examining the incidence of akathisia in two groups of individuals. One group (n = 35) has been prescribed benzodiazepine for use as required while the other group (n = 35) is free from any benzodiazepine exposure. The outcome is measured as percentage of individuals who develop akathisia in a dichotomous scale. Akathisia develops in 10 individuals without benzodiazepines and in 20 individuals with benzodiazepines. Which of the following statistical tests is best suited to analyse the statistical signifi cance of the difference between the two groups?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111732,
+          "text": "Chi square test",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111733,
+          "text": "Paired t test",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111734,
+          "text": "Multiple regression analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111735,
+          "text": "Wilcoxon rank sum test",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111736,
+          "text": "Pearson coeffi cient test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111732,
+        "text": "Chi square test"
+      },
+      "explanation": "In this study, the dependent variable is treated as a categorical outcome. In other words, the population has been categorized into ‘akathisia present’ or ‘akathisia absent’. This type of outcome yields frequency counts or proportions that can be analysed for signifi cance using the chi square test. The t test is used for comparing means. The Wilcoxon rank sum test is a non-parametric equivalent of the t test. Pearson coeffi cients are used to analyse correlation. Regression analyses are used to predict one variable from another when they are correlated. Johnstone EC, et al., eds. Companion to Psychiatric Studies, 7th edn. Churchill Livingstone, 2004, p. 193.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 61,
+      "question_id": 22267,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Using the above study results calculate the number needed to treat (NNT) for individuals receiving memantine compared with placebo",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111642,
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111643,
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111644,
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111645,
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111646,
+          "text": "7",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111643,
+        "text": "5"
+      },
+      "explanation": "The NNT can be calculated from the absolute risk reduction (ARR). NNT = 1/ARR NNT = 1/0.2 = 5 Five subjects must be treated with memantine to have one additional response. Guyatt G and Rennie D, eds. Users’ Guides to the Medical Literature. A Manual for Evidence-based Clinical Practice. AMA Press, 2002, p. 660.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 62,
+      "question_id": 22251,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among the following options, which describes positive predictive value?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111563,
+          "text": "The probability of having the disease when screening negative",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111564,
+          "text": "The probability of having the disease when screening positive",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111565,
+          "text": "The probability of screening positive when not having the disease",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111566,
+          "text": "The probability of screening negative when having the disease",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111564,
+        "text": "The probability of having the disease when screening positive"
+      },
+      "explanation": "Positive predictive value is the probability that someone with a positive screening test truly has the disease. Positive predictive value is the proportion of positive tests that are true positives. Unlike sensitivity and specificity, positive (and negative) predictive value is dependent on disease prevalence. Where disease prevalence is very low, even tests with relatively high specificity will have modest positive predictive value at best.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 63,
+      "question_id": 22276,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a normal distribution curve, 99% of observations will fall within which of the following values of standard deviation (SD)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111687,
+          "text": "–2 SD to +2 SD",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111688,
+          "text": "–3 SD to +3 SD",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111689,
+          "text": "–1 SD to +2 SD",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111690,
+          "text": "–1 SD to +1 SD",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111691,
+          "text": "+1 SD to +3SD",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111688,
+        "text": "–3 SD to +3 SD"
+      },
+      "explanation": "An important property of the normal distribution curve is the relationship between the SD of normally distributed observations and probability. Normal distribution curves are symmetric and bell-shaped. Nearly 68.5% of the sampled population will lie within 1 SD of the mean on either side of the curve, 95.5% within 2 SDs, and 99% within 3 SDs. In other words, there is a 1% chance that an observation will fall outside +3 SD to –3 SD; a 5% chance that it will fall outside +2SD to –2SD and nearly 30% chance that it will occur outside +1SD and –1SD. Johnstone EC, et al., eds. Companion to Psychiatric Studies, 7th edn. Churchill Livingstone, 2004, p. 189.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 64,
+      "question_id": 22263,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A ROC curve is plotted for a psychiatric screening tool at five different cut-off points, with the following sensitivity and specificity values. Which cut-off point provides the best acceptable combination of sensitivity and specificity?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111622,
+          "text": "cut-off value A",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111623,
+          "text": "cut-off value B",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111624,
+          "text": "cut-off value C",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111625,
+          "text": "cut-off value D",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111626,
+          "text": "cut-off value E",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111624,
+        "text": "cut-off value C"
+      },
+      "explanation": "The optimal cut-off point on an ROC curve is the \\'knee or elbow\\' — the point that provides the best balance between sensitivity and specificity, minimising both false positives and false negatives. This is the point closest to the upper-left corner of ROC space.",
+      "image_url": "https://kdpsychacademy.com/wp-content/uploads/2026/08/Q010171.jpg",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 65,
+      "question_id": 22287,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A multi-centre double blind pragmatic randomized controlled trial (RCT) reported remission rates for depression of 65% for fl uoxetine and 60% for dosulepin. The number of individuals that must receive fl uoxetine for one individual to achieve the demonstrated benefi cial effect is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111742,
+          "text": "60",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111743,
+          "text": "20",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111744,
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111745,
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111746,
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111743,
+        "text": "20"
+      },
+      "explanation": "This question tests one’s knowledge of the NNT (number needed to treat) concept. NNT is given by the inverse ratio of the absolute benefi t increase (ABI) in therapeutic trials. ABI is the difference between benefi t due to experimental intervention and the compared standard/ placebo. Here it is given by 65% – 60% = 5%. If ABI = 5%, NNT = 100/5 = 20. Guyatt G. and Rennie, D eds. Users’ Guides to the Medical Literature. A Manual for Evidence-based Clinical Practice. AMA Press, 2002, p. 660.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 66,
+      "question_id": 8001,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An epidemiologist wishes to conduct a health economics analysis comparing costs and clinical outcomes of two antidepressants. Which type of economic evaluation is most appropriate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 40039,
+          "text": "Randomized controlled trial",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 40040,
+          "text": "Cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 40041,
+          "text": "Cost-effectiveness analysis (CEA)",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 40042,
+          "text": "Ecological study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 40043,
+          "text": "Case report",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 40041,
+        "text": "Cost-effectiveness analysis (CEA)"
+      },
+      "explanation": "Cost-effectiveness analysis (CEA) is the most appropriate economic evaluation framework for comparing the costs and clinical outcomes of two interventions such as antidepressants, as it measures costs alongside outcomes recognised by clinicians (e.g. symptom change, response rates). It is the most popular economic evaluation method in health care (SPMM p.539). While an RCT provides the ideal underlying data source, it is a study design rather than a health economics analytic method. Ecological studies and case reports cannot generate the individual-level cost and outcome data required, and cohort studies are suboptimal compared to experimental designs for this purpose.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 67,
+      "question_id": 7998,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which study design is indicated to assess whether a health intervention reduces costs while maintaining clinical effectiveness?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 40024,
+          "text": "Qualitative study",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 40025,
+          "text": "Cost-effectiveness study",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 40026,
+          "text": "Cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 40027,
+          "text": "Cross-sectional study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 40028,
+          "text": "Case series",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 40025,
+        "text": "Cost-effectiveness study"
+      },
+      "explanation": "The source explicitly lists Health economics — Cost-effectiveness study as the appropriate design to answer economic questions about interventions. Cost-effectiveness studies compare both costs and health outcomes. Qualitative studies address meaning and experience, not economic outcomes. Cohort and cross-sectional studies measure associations, not economic efficiency. Case series describe cases without comparison.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 68,
+      "question_id": 22337,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "All of the below options apply methods are used to assess heterogeneity in a meta-analysis with the exception of",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111992,
+          "text": "Q statistic",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111993,
+          "text": "I squared statistic",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111994,
+          "text": "Galbraith plot",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111995,
+          "text": "L’Abbé plot",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111996,
+          "text": "Paired t statistics",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 111996,
+        "text": "Paired t statistics"
+      },
+      "explanation": "Meta-analysis is generally done to combine the results of different trials, as individual clinical trials are often too small and hence underpowered to detect treatment effects reliably. Meta-analysis increases the power of statistical analyses by pooling the results of all available trials. But this comes at a small cost. Although similar studies are taken to be included in the meta-analysis, it is likely that each trial is different from each other just by chance. Sometimes the difference can occur due to foreseeable situations, e.g. the dosage of medication tested, the mean ages of the population tested, difference in the scales used, etc, may differ among studies. To measure if this heterogeneity is more than the random heterogeneity we expect, statisticians resort to certain tests of heterogeneity. They are statistical as in the chi-square test (or Q statistic), which tests the ‘null hypothesis’’ of homogeneity and the I-squared test (which measures the amount of variability due to heterogeneity). Galbraith’s plot and l’Abbé plot are pictorial representations of heterogeneity. A paired t test is generally not used to calculate the heterogeneity. Perera R, and Heneghan C. Interpreting meta-analysis in systematic reviews. Evidence-Based Medicine 2008;13: 67–69. Lam RW. Using metaanalysis to evaluate evidence: practical tips and traps. Canadian Journal of Psychiatry 50: 167–174.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 69,
+      "question_id": 22250,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A p value of .03 means that there is a 3% chance of which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111558,
+          "text": "The effect is “real.”",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111559,
+          "text": "The result is a Inaccurate positive.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111560,
+          "text": "The null hypothesis is Accurate.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111561,
+          "text": "The alternative hypothesis is Accurate.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111562,
+          "text": "The results occurred by chance if the null is Accurate.",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 111562,
+        "text": "The results occurred by chance if the null is Accurate."
+      },
+      "explanation": "A null hypothesis assumes there is no significant relationship between studied groups. In hypothesis testing, a p value 310 • PsyChiatRy is the likelihood of obtaining a particular result presuming the null hypothesis is true.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 70,
+      "question_id": 22305,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The number of days that a series of fi ve individuals had to wait before starting CBT at a psychotherapy unit is as follows: 12, 12, 14, 16, and 21. The mean waiting time to get CBT is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111832,
+          "text": "15 days",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111833,
+          "text": "12 days",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111834,
+          "text": "14 days",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111835,
+          "text": "21 days",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111836,
+          "text": "13 days",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111832,
+        "text": "15 days"
+      },
+      "explanation": "The arithmetic mean is calculated from the sum of all individual observations divided by the number of observations. Here the number of observations = 5. The sum of individual observations = 12 + 12 + 14 + 16 + 21 = 75. The average = 75/5 = 15. Lawrie SM, McIntosh AM, Rao S. Critical Appraisal for Psychiatry. Churchill Livingstone, 2000, p. 60.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 71,
+      "question_id": 22323,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Among the following options, which is accurate about casecontrol studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111922,
+          "text": "Case identification occurs before exposure assessment",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111923,
+          "text": "They are not suitable for rare diseases.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111924,
+          "text": "They are efficient for evaluating multiple exposures.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111925,
+          "text": "They are susceptible to selection bias.",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 111926,
+          "text": "None of the listed alternatives",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 111925,
+        "text": "They are susceptible to selection bias."
+      },
+      "explanation": "Casecontrol studies are particularly susceptible to selection bias. These studies are population based, and participants should be representative of their respective populations. Casecontrol studies often recruit as part of a convenience sample, such as hospitalized patients who are solicited for study enrollment. These “cases” may then be compared with a similar convenience control of “willing volunteers.” Disease status is determined before exposure status. Casecontrol studies, however, are suitable for rare disease or those for which the time between exposure and disease onset is relatively long.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 72,
+      "question_id": 22281,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "If the area under the curve (AUC) for the new test was found to be 0.5, what does it mean?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111712,
+          "text": "The test can discriminate a depressed from a non-depressed person with high accuracy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111713,
+          "text": "The test can discriminate a depressed from a non-depressed person with moderate accuracy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111714,
+          "text": "The test cannot discriminate a depressed from a non-depressed person",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 111715,
+          "text": "The test is half as good as the reference standard test",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111716,
+          "text": "The test can identify 50% of depressed individuals correctly. 97–99 A meta-analysis of seven RCTs that compared a new antidepressant X with placebo was conducted. Effect size analysis for the change in HAMD scores are shown in the graph above. With respect to the graph below, answer Questions 97–99. Trial 1 Trial 2 Trial 3 Trial 4 Trial 5 Trial 6 Trial 7 Pooled fixed effects −2.0 −1.5 −1.0 −0.5 0 0.5 X better Placebo better",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 111714,
+        "text": "The test cannot discriminate a depressed from a non-depressed person"
+      },
+      "explanation": "The primary statistical measure obtained from the ROC is the AUC. The AUC value can be used to compare with the AUC value of a curve corresponding to the null hypothesis. The null hypothesis is represented by a curve that could be obtained if the test has no usefulness in discriminating those with the diagnosis and those without. This hypothetical curve will then have an AUC of 0.50, which corresponds to the area in the graph that falls below the dotted line. The difference in the two AUC consists of the area of the graph between the dotted line and the curve. The AUC can be interpreted in another very useful way. AUC is the probability that the test will show a higher value for a randomly chosen individual with depression than for a randomly chosen individual without depression. That means, if we fi nd the AUC for this particular test was 0.9 and take two individuals at random, one with and one without depression, the probability that the fi rst individual will have a higher score than the second is nearly 90%. Fortunately, the AUC, the sensitivities and specifi cities, and the whole ROC are calculated by statistical software, sparing us of the burden. Streiner DL and Cairney J. What’s under the ROC? An introduction to receiver operating characteristics curves. Canadian Journal of Psychiatry 2007; 52: 121–128.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 73,
+      "question_id": 22271,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a study investigating the mean cholesterol levels in 36 individuals taking olanzapine, the mean was found to be 262 mg/dL. The standard deviation of this observation was 15 mg/dL. The 95% confi dence interval for this observation is are",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111662,
+          "text": "232–292 mg/dL",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111663,
+          "text": "247–277 mg/dL",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111664,
+          "text": "259.5–264.5 mg/dL",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111665,
+          "text": "257–267 mg/dL",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 111666,
+          "text": "226–298 mg/dL",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 111665,
+        "text": "257–267 mg/dL"
+      },
+      "explanation": "95% confi dence limits of means of a sample are nothing but the range between an observation less than approximately two standard error units less than mean value and an observation two standard error units more than the mean value. Using mathematical expression, 95% confi dence limits = mean ± (2 × standard error of mean). Standard error of mean is calculated as SE = standard deviation/√sample size. SE = 15/√36 = 15/6 = 2.5 in this question. Hence 95% confi dence limits are 262 ± (2 × 2.5) = 262 ± 5 = 257, 267. Bland, M. An Introduction to Medical Statistics, 3rd edn. Oxford University Press, 2000. P. 126.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 74,
+      "question_id": 7986,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Due to the difficulty in recruiting a full-time nurse for the ECT clinic, your hospital decides to provide the nurse who works at pain clinic to attend the ECT service on 'secondment'. Select the term that best describes the costs incurred by patients due to the absence of a nurse at the pain clinic as a result of this arrangement.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 39964,
+          "text": "Indirect cost",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 39965,
+          "text": "Direct cost",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 39966,
+          "text": "Zero-sum cost",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 39967,
+          "text": "Intangible cost",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 39968,
+          "text": "Opportunity cost",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 39968,
+        "text": "Opportunity cost"
+      },
+      "explanation": "The opportunity cost is defined as the benefits that must be foregone when making any resource allocation decision. It refers to the fact that expending resources on one healthcare issue inevitably reduces the investment that could be made elsewhere. The opportunity cost of employing an ECT nurse is the benefit foregone by being unable to support the pain clinic adequately.",
+      "image_url": null,
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 75,
+      "question_id": 22265,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a palliative care unit, the prevalence of depression is 29% (pre-test probability). The two-item Whooley depression screening test has a positive likelihood ratio (LR+) of approximately 2.4. Using the Fagan nomogram for Bayes theorem, what is the post-test probability of depression following a positive test result?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111632,
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111633,
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111634,
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111635,
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111636,
+          "text": "50",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": 111636,
+        "text": "50"
+      },
+      "explanation": "Using the Fagan nomogram: if pre-test probability (prevalence of depression in the palliative care unit) and the LR+ for the two-item screen are used as anchor points on the nomogram, a line drawn between them crosses the post-test probability axis at approximately 50%. This reflects the substantial increase in diagnostic certainty when a sensitive screening test is positive in a moderate-to-high prevalence population.",
+      "image_url": "https://kdpsychacademy.com/wp-content/uploads/2026/08/Q010183.jpg",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 76,
+      "question_id": 22273,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Considering normal distribution, which one of the following statements is incorrect?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111672,
+          "text": "It is a continuous distribution",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111673,
+          "text": "It is symmetrical in shape",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111674,
+          "text": "The mean, median, and mode are identical",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111675,
+          "text": "The shape of the distribution depends on the number of observations made",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 111676,
+          "text": "Both tails of the distribution extend to infi nity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 111675,
+        "text": "The shape of the distribution depends on the number of observations made"
+      },
+      "explanation": "Irrespective of the number of observations made, the shape of a normally distributed curve is symmetric and bell shaped. The exact shape of the normal distribution is defi ned by a function that has only two parameters: mean and standard deviation. For a given range of scores, when the standard deviation is small, the curve becomes leptokurtic, i.e. thin but still symmetric. When the standard deviation is larger, it becomes platykurtic. Lawrie SM, McIntosh AM, and Rao S. Critical Appraisal for Psychiatry. Churchill Livingstone, 2000, p. 255.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 77,
+      "question_id": 22261,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 2 × 2 contingency table is constructed to analyse the main outcome data of a trial. The degrees of freedom to use chi-square statistics is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111612,
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111613,
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111614,
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111615,
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111616,
+          "text": "–4",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111612,
+        "text": "1"
+      },
+      "explanation": "‘Degree of freedom’ is defi ned as the number of values in the fi nal calculation of statistics that are free to vary. In a two-way chi-square test, this is given by Degrees of freedom (d.f.) = (number of rows – 1) × (number of columns – 1) In this question, for a 2 × 2 table, there are 2 rows and 2 columns. Hence d.f. = (2 – 1) × (2 – 1) = 1 × 1 = 1. Degrees of freedom cannot take negative values. Starr M and Chalmers I. The evolution of The Cochrane Library, 1988–2003. Update Software: Oxford (Accessed 6 September 2008 www.update–software.com/history/clibhist.htm).",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 78,
+      "question_id": 22260,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A drug representative presents data on a new trial. The data show that drug A prevents annual hospitalization in 20% more dementia individuals than placebo. You are very impressed but your consultant wants to know how many individuals you need to treat to prevent one hospitalization. The correct answer is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111607,
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 111608,
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 111609,
+          "text": "80",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111610,
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111611,
+          "text": "100",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 111608,
+        "text": "5"
+      },
+      "explanation": "The answer to this question can be found by calculating the number needed to treat (NNT). The absolute increase in benefi t (ABI) is given by the difference in outcome between two groups. This is 20% as quoted by the drug representative. Hence NNT = 100/20 = 5. You need to treat fi ve patients with the new drug to prevent one annual hospitalization. How small must the NNT be to be clinically impressive? This depends on the availability of other interventions and their NNTs, incremental cost of the proposed intervention, and tolerability of the intervention. The last one can be partly deciphered by calculating the number needed to harm for a notable side-effect of the intervention. Guyatt G. and Rennie D, eds. Users’ Guides to the Medical Literature. A Manual for Evidence-based Clinical Practice. AMA Press, 2002, p. 660.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 79,
+      "question_id": 22245,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The percentage of all positive results that are “Accurate positive” is known as:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 111533,
+          "text": "Positive predictive value",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 111534,
+          "text": "Negative predictive value",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 111535,
+          "text": "A diagnosis of sensitivity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 111536,
+          "text": "A diagnosis of specificity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 111537,
+          "text": "A diagnosis of efficiency",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": 111533,
+        "text": "Positive predictive value"
+      },
+      "explanation": "The positive predictive value is “true positives” divided by “all positives.” The negative predictive value is the proportion of y BoaRd REviEw all negative test results that are true negatives. Sensitivity is the true positive rate. Specificity is the true negative rate. Efficiency is the percentage of all results that are true results (positive or negative).",
+      "image_url": "",
+      "explanation_image_url": null
+    }
+  ]
+}

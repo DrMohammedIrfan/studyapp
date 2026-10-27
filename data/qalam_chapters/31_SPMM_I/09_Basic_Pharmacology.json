@@ -1,0 +1,3268 @@
+{
+  "chapter_id": "cf68c6b9-b37a-4c98-9b00-c1814c87713c",
+  "chapter_name": "Basic Pharmacology",
+  "chapter_title": "Basic Pharmacology",
+  "resource_id": "d7e6b408-1793-402b-9890-ee18dbb216f6",
+  "resource_title": "SPMM I",
+  "subject_name": "SPMM I",
+  "chapter_number": 9,
+  "total_questions": 56,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "f48866c5-c951-47da-8bb1-d0b08d623096",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following can be called a major tranquilliser?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "ae9e3ee6-450d-4e52-9f5a-3e9f3457180a",
+          "text": "Risperidone",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "55b97397-5d48-4750-93b6-621454b3e04a",
+          "text": "Chlorpromazine",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "9ecf0206-c610-4876-a437-f250025a27a8",
+          "text": "Propofol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "cfd55c8a-4a7d-482f-b732-7611a4a44d45",
+          "text": "Chlordiazepoxide",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "26d7c189-67a8-44bf-96d0-52736b9af9ad",
+          "text": "Secobarbital",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "55b97397-5d48-4750-93b6-621454b3e04a",
+        "text": "Chlorpromazine"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "55b97397-5d48-4750-93b6-621454b3e04a",
+          "text": "Chlorpromazine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Historically, antipsychotics were known as major tranquillisers, while benzodiazepines and barbiturates were known as minor tranquillisers. Delay and Deniker developed the first antipsychotic agent, chlorpromazine, at the Rhône-Poulenc Pharmaceutical Company, under the direction of Paul Charpentier. First studied by a French military surgeon for trauma, psychiatrists soon adapted it for its 'tranquilising' effects.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": "521176a8-b527-4392-ab08-b3772f32a4c8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 45-year-old man with paranoid schizophrenia is started on a thienobenzodiazepine. Which of the following drugs is prescribed here?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "7e267cda-1b51-4977-9f16-75d9ffb6208f",
+          "text": "Paliperidone",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "43c8530f-c8ee-44a3-8fb2-c7669a838d16",
+          "text": "Piperazine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8156f853-7aa9-4f74-8cb7-197f31d7ecf2",
+          "text": "Olanzapine",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "03ab1a72-bd9f-4b05-a7ce-05aab64b55c5",
+          "text": "Quetiapine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "12eddb11-542f-4eee-9c24-adac8786bae2",
+          "text": "Clozapine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "8156f853-7aa9-4f74-8cb7-197f31d7ecf2",
+        "text": "Olanzapine"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "8156f853-7aa9-4f74-8cb7-197f31d7ecf2",
+          "text": "Olanzapine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Olanzapine is a thienobenzodiazepine with antagonism for multiple receptors. Thienobenzodiazepines are characterised as multi-receptor-targeted-acting-agents. Olanzapine is an atypical antipsychotic agent that is structurally related to clozapine.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "b2a162cf-455f-452b-9b5b-fb821c0ff484",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Select the reason why clozapine was initially withdrawn before Kane's landmark trial:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "403776ff-cbed-402f-a4e3-f8f7bb682cbe",
+          "text": "High costs",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4164839b-32ce-4843-8e39-e82c2b546d42",
+          "text": "Fatality due to agranulocytosis",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "584200ac-feb4-4703-a96a-bfd638a5898e",
+          "text": "Lack of efficacy",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "22adc0c2-3518-4f10-b3b8-9befac6b4749",
+          "text": "Unclear dosing schedule",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "2cec198f-62f2-4d80-875e-ef4891e3069d",
+          "text": "Excessive sedation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "4164839b-32ce-4843-8e39-e82c2b546d42",
+        "text": "Fatality due to agranulocytosis"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "4164839b-32ce-4843-8e39-e82c2b546d42",
+          "text": "Fatality due to agranulocytosis",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Clozapine is a dibenzodiazepine derivative. Shortly after its introduction to clinical practice in the mid-1970s, it was withdrawn because of several episodes of fatal agranulocytosis in patients on treatment. It was thought to have special efficacy in treatment-resistant schizophrenia, and this clinical belief was supported by an important trial by Kane et al. (1988), leading to its reintroduction in psychiatric practice, albeit with strict limitations to its prescription.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": "a513f949-d6f5-430a-9c84-ed36a102302d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What is cyproterone acetate?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "7985a082-b523-4686-8eb7-e4056e5b4220",
+          "text": "Glucocorticoid analogue",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3e4eb7c0-b5ef-4f71-a090-9e0b6878ab5a",
+          "text": "Testosterone antagonist",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "a664d10b-ec6f-4f4e-bddc-df95af5bb0f8",
+          "text": "Mineralocorticoid antagonist",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "416cc07a-aa25-4aa6-acfc-8d4695f30fd8",
+          "text": "Progesterone antagonist",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "21e298ba-6b2a-4ba7-bc59-57f0c0a80901",
+          "text": "Testosterone partial agonist",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "3e4eb7c0-b5ef-4f71-a090-9e0b6878ab5a",
+        "text": "Testosterone antagonist"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "3e4eb7c0-b5ef-4f71-a090-9e0b6878ab5a",
+          "text": "Testosterone antagonist",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Cyproterone acetate is an anti-androgen. There is evidence for its efficacy in the treatment of hypersexuality and paraphilias. It works by preventing testosterone from binding to the receptors (antagonist).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": "752a3e0e-b6c4-4d25-9c94-86541794c70c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which drug is useful for the treatment of OCD?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a0be94bd-0798-44a1-ad4e-21f490fda36c",
+          "text": "Trazadone",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3d883360-b85b-47c5-a62e-25d57dd330bf",
+          "text": "Duloxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4966d7a9-c6b0-4a07-ab7a-b3d869946d26",
+          "text": "Phenelzine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a67eb7e8-56a0-4a0f-9e94-580317bb85f9",
+          "text": "Venlafaxine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c1855bf2-c0f7-4aef-a1f9-6dae888b5574",
+          "text": "Sertraline",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "c1855bf2-c0f7-4aef-a1f9-6dae888b5574",
+        "text": "Sertraline"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "c1855bf2-c0f7-4aef-a1f9-6dae888b5574",
+          "text": "Sertraline",
+          "is_correct": true
+        }
+      ],
+      "explanation": "SSRIs should be considered first-line in the treatment of OCD (no clear superiority of any one agent, high doses usually needed, at least 12 weeks for treatment response, long-term therapy).",
+      "explanation_images": [
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/9.%20Basic%20Pharmacology/5/explanation_image-752a3e0e-b6c4-4d25-9c94-86541794c70c-1788623770486.jpeg"
+      ],
+      "explanation_image_url": "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/9.%20Basic%20Pharmacology/5/explanation_image-752a3e0e-b6c4-4d25-9c94-86541794c70c-1788623770486.jpeg"
+    },
+    {
+      "question_number": 6,
+      "question_id": "a9141982-b5ef-47a7-9c50-d8030e418ff2",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is true about placebo response in drug trials?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "817a8ca5-fdf0-4102-8f20-400b388d8682",
+          "text": "No placebo response is seen in personality disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "be42c26d-8921-44e5-9b4f-c5ec0f37e700",
+          "text": "A group of 'placebo reactors' with stereotyped personality can be identified",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6fab090e-e9ae-47e8-af99-70faa82ab30c",
+          "text": "Degree of placebo response is similar irrespective of the treatment studied",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "905124df-c705-4069-b1e2-925620f92438",
+          "text": "Opioids may have a role to play in placebo response",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "842870d9-edde-46cb-97e9-a5c299026fc0",
+          "text": "Placebo response in depression is gradual but persistent",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "905124df-c705-4069-b1e2-925620f92438",
+        "text": "Opioids may have a role to play in placebo response"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "905124df-c705-4069-b1e2-925620f92438",
+          "text": "Opioids may have a role to play in placebo response",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Placebo effects have been shown to be associated with the release of substances such as endogenous opioids, endocannabinoids, dopamine, oxytocin, and vasopressin.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": "9c1e65e8-ee58-44df-8668-3cff4c9b383d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The drug alprazolam belongs to which of the following class of psychotropics?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e4d6cdfd-d5fc-4e6c-8590-abcdf7a577e6",
+          "text": "Stimulants",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d9fe4dc2-e9dd-406e-9836-37cdffae64b7",
+          "text": "Antipsychotics",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "1e94498b-2b6b-415b-a05a-0d26adc73ee4",
+          "text": "Anticholinesterases",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c71a333f-721d-4038-be01-7b51eed89670",
+          "text": "Benzodiazepines",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "8aac53e7-9b79-4712-acff-f090070e5bcb",
+          "text": "Antidepressants",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "c71a333f-721d-4038-be01-7b51eed89670",
+        "text": "Benzodiazepines"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "c71a333f-721d-4038-be01-7b51eed89670",
+          "text": "Benzodiazepines",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The benzodiazepines derive their name from their molecular structure. They share a common effect on receptors that have been termed benzodiazepine receptors, which in turn modulate GABA activity. The absorption, the attainment of peak concentrations, and the onset of action are quickest for diazepam, lorazepam, alprazolam, triazolam, and estazolam.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": "b0e9711b-8bc0-4922-bf78-d70876bbb445",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Choose the correct match from the following pairs:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "88016061-0c64-429e-b093-5b2609f80ab7",
+          "text": "Risperidone: dibenzoxapine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a299bb65-4f22-4f4f-aa35-5a69665ea1a0",
+          "text": "Droperidol: butyrophenone",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "cfa758ef-8298-425d-814c-caefff5e7e74",
+          "text": "Aripiprazole: benzisothiazole",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c385cf6b-251c-4c86-9696-d6292ecc7472",
+          "text": "Thioridazine: diphenyl butyl piperidine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f269fcc2-d973-419c-9252-536bae09bd48",
+          "text": "Flupentixol: dihydroindole",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "a299bb65-4f22-4f4f-aa35-5a69665ea1a0",
+        "text": "Droperidol: butyrophenone"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "a299bb65-4f22-4f4f-aa35-5a69665ea1a0",
+          "text": "Droperidol: butyrophenone",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Haloperidol, droperidol, and benperidol are butyrophenones. They are high potency, with the potential for troublesome extra-pyramidal side effects.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": "e19532ea-a5a0-4b30-a7f8-b669cf594bfd",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following drugs is correctly matched with its metabolite?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "743a660a-4555-49ca-a3f9-a707958584bb",
+          "text": "naloxone - naltrexone",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "1503b010-ff8f-4096-accc-c4ac58886057",
+          "text": "imipramine - nomifensine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "89169366-b7de-4256-860b-d3d155147703",
+          "text": "citalopram - escitalopram",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a599747f-dec4-4abe-83bc-5563d357054b",
+          "text": "risperidone - paliperidone",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "dd630935-3b39-4b87-9202-0b5403caf87e",
+          "text": "fluoxetine - duloxetine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "a599747f-dec4-4abe-83bc-5563d357054b",
+        "text": "risperidone - paliperidone"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "a599747f-dec4-4abe-83bc-5563d357054b",
+          "text": "risperidone - paliperidone",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Paliperidone is a benzisoxazole derivative and is the major active metabolite of risperidone. Escitalopram is not a metabolite of citalopram but is comprised of only the pure S enantiomer.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": "c7f062c9-38e8-4daa-92e1-444c53cb73d4",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Discovery of tranquilising properties of chlorpromazine is associated with",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f0deec2c-226c-4e19-bdab-411b950c659d",
+          "text": "Delay and Deniker",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "74872532-dfa0-42a9-971d-21728b0029b7",
+          "text": "Bleuler",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "17d03029-028d-4ea6-b91c-355c7e72d394",
+          "text": "Cade",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7df2a7c5-e158-4cc3-8556-e278a50b16f3",
+          "text": "Sen and Ghose",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "5e89b5b3-17d6-42e8-970e-b7d55343e504",
+          "text": "Kane",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "f0deec2c-226c-4e19-bdab-411b950c659d",
+        "text": "Delay and Deniker"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "f0deec2c-226c-4e19-bdab-411b950c659d",
+          "text": "Delay and Deniker",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Early in their Vietnam War (late 1940s and early 1950s), French pharmacologists employed a combination of the antihistamine phenergan and an opioid medication in the wounded, facilitating analgesia, alleviating fear, and opposing shock. While working on similar compounds, Delay and Deniker developed the first antipsychotic agent, chlorpromazine, at the Rhône-Poulenc Pharmaceutical Company, under the direction of Paul Charpentier. First studied by a French military surgeon for trauma, psychiatrists soon adapted it for its 'tranquilising' effects.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": "40dd37ac-b54d-4f0e-9985-a532c25f124a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 15-year-old boy has not been to his school for last few weeks as he has been disturbed by derogatory auditory hallucinations. He has been hearing voices in the third person for two months and is receiving messages from the television. The most likely treatment option is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "ae9fe978-c4d3-4c66-859d-b5a3c0a7c89f",
+          "text": "Parental training",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c111c99a-3703-41e0-a997-01261c0862e3",
+          "text": "Family therapy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2b0956ea-dc83-4a3d-904c-42571950e9bc",
+          "text": "Fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "13f1ab1c-3998-431f-9fe0-6892e5ae7f61",
+          "text": "Cognitive behavioural therapy for anxiety",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "40770d91-66d4-4b4f-aceb-38b2916d0c07",
+          "text": "Low dose risperidone",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "40770d91-66d4-4b4f-aceb-38b2916d0c07",
+        "text": "Low dose risperidone"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "40770d91-66d4-4b4f-aceb-38b2916d0c07",
+          "text": "Low dose risperidone",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Antipsychotic medication is first-line treatment for first-episode psychosis. Olanzapine, amisulpride, and risperidone may be marginally better than other options. Determine the choice of medication together with the patient, considering the adverse effect profile.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": "7533caf3-3b70-4e18-b42d-67267ed2e350",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Ethnic differences in psychiatric drug effects are noted in which of the following pharmacological actions?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a36c9782-de4c-4857-a016-acb4fa096a2f",
+          "text": "Blood levels of haloperidol",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "dcdcd9e6-4d08-4fee-8c9d-53b148e26783",
+          "text": "Hydroxylation of tricyclics",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "fe0fef5e-923c-4ed3-aeb0-c57c4ffda3cd",
+          "text": "Alcohol metabolism",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a3eefe4f-6674-4db5-ba3c-1b156060cdd4",
+          "text": "Prolactin response to antipsychotics",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "0c3cf4a6-caa9-44a2-88aa-2427abfa7b21",
+          "text": "All of the listed options",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "0c3cf4a6-caa9-44a2-88aa-2427abfa7b21",
+        "text": "All of the listed options"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "0c3cf4a6-caa9-44a2-88aa-2427abfa7b21",
+          "text": "All of the listed options",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Maximal haloperidol concentration in plasma after rapid tranquillisation is significantly high for Asians than Caucasians. Nearly 40% Asians and around 60% South American Native Indians lack Aldehyde dehydrogenase enzyme in sufficient amounts to metabolise alcohol. Caucasians appear to have lower plasma levels of tricyclic antidepressants and attain plasma peaks later when compared with Asians (of Far Eastern ancestry as well as those from the Indian subcontinent). These differences have been attributed to a greater incidence of slow hydroxylation among Asians when compared with Caucasians. On administration of antipsychotics, Asian subjects were reported to produce greater serum prolactin levels than Caucasian subjects. (Bhugra, D., & Bhui, K. (1999). Ethnic and cultural factors in psychopharmacology. Advances in Psychiatric Treatment, 5, 89-95.)",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": "8a9126a0-c94d-4ffd-b5c9-40f6767c414e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a substituted benzamide used as an antipsychotic?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "7f3280b7-f632-4f64-9ab3-061832f39d4e",
+          "text": "Amisulpride",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "94f05974-94ab-4d6e-b9da-a7f77c5a16cf",
+          "text": "Benzhedrine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d1dfc1fe-4006-44c9-b9dd-2473d444505d",
+          "text": "Paliperidone",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b6e97c93-df1c-4f97-a2fc-64eca9f77007",
+          "text": "Risperidone",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "6130e242-7ae0-4ac0-8c4a-a33d56aa786a",
+          "text": "Olanzapine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "7f3280b7-f632-4f64-9ab3-061832f39d4e",
+        "text": "Amisulpride"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "7f3280b7-f632-4f64-9ab3-061832f39d4e",
+          "text": "Amisulpride",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Sulpiride and amisulpride are substituted benzamides that are used as antipsychotics.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": "e085bc6e-1242-4fb2-9210-4ca96113a28a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Discovery of psychotropic use of lithium is associated with",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3fd0e9a8-6b74-4d46-8ef3-f358925e9ad8",
+          "text": "Sen and Ghose",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c5b2695d-fa69-4e64-8fcc-04cf1598f187",
+          "text": "Bleuler",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "70e2b01f-9b43-44ee-acd7-e8172c0b0446",
+          "text": "Delay and Deniker",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5e6aaf10-6ae3-47d3-b445-a19fb6315f66",
+          "text": "Cade",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "42423a3f-57a5-486c-849c-5d555194d8c2",
+          "text": "Kane",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "5e6aaf10-6ae3-47d3-b445-a19fb6315f66",
+        "text": "Cade"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "5e6aaf10-6ae3-47d3-b445-a19fb6315f66",
+          "text": "Cade",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The use of lithium in psychiatry goes back to the mid-19th century. Early work, however, was soon forgotten, and John Cade is credited with reintroducing lithium to psychiatry for mania in 1949.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": "f7406601-e080-473b-bb2d-c8b32ca1c34f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Zopiclone belongs to the chemical class of",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "626c331b-6543-4a74-855c-926a773cf20b",
+          "text": "Butyrophenone",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "062bfed8-9bd4-4492-8267-55d2a939b6a7",
+          "text": "Cyclopyrrolones",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "b5119919-a4b4-4a40-9250-1a4a9b58320f",
+          "text": "Imidazopyridine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "1e946d83-7e04-4c66-9cca-0826dbc097c9",
+          "text": "Pyrazopyrimidine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "0361600a-8ea4-4b15-a837-27c6fd88552b",
+          "text": "Azaspirones",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "062bfed8-9bd4-4492-8267-55d2a939b6a7",
+        "text": "Cyclopyrrolones"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "062bfed8-9bd4-4492-8267-55d2a939b6a7",
+          "text": "Cyclopyrrolones",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Zopiclone- cyclopyrrolone Zolpidem-imidazopyridine Zaleplon-pyrazopyrimidine",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": "8a73e0b0-ea18-4540-a247-42d0107e3daf",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is linked with intentional nonadherence?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "492684b9-51ea-438c-b645-4328048cbb4b",
+          "text": "Missed doses after long period on treatment",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d2fccf4b-26e0-411c-a2d3-7b0b44148006",
+          "text": "High degree of trust in the treating doctor",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "81ffa8c6-391d-42ec-9535-d09dc6b557dc",
+          "text": "Low degree of self-efficacy",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "a3f85eb6-5c57-4f55-848f-3c86f4d20b1e",
+          "text": "Receipt of adequate levels of drug information",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "85bb67c4-559d-43df-8e95-af697baa5f78",
+          "text": "Higher severity of illness",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "81ffa8c6-391d-42ec-9535-d09dc6b557dc",
+        "text": "Low degree of self-efficacy"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "81ffa8c6-391d-42ec-9535-d09dc6b557dc",
+          "text": "Low degree of self-efficacy",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Patients with poor insight may still take medications, though lack of insight is the most common cause of poor adherence. The relationship between dose strength and adherence is probably curvilinear, with very low doses being associated with poor efficacy and very high doses with excessive side-effects. High levels of self-efficacy and internal health locus of control are consistently found to promote medication adherence. (Nafradi et al. 2017)",
+      "explanation_images": [
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/9.%20Basic%20Pharmacology/16/explanation_image-8a73e0b0-ea18-4540-a247-42d0107e3daf-1788623812096.jpeg"
+      ],
+      "explanation_image_url": "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/9.%20Basic%20Pharmacology/16/explanation_image-8a73e0b0-ea18-4540-a247-42d0107e3daf-1788623812096.jpeg"
+    },
+    {
+      "question_number": 17,
+      "question_id": "ecaca334-5c83-4d4a-a54a-a4e718939743",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Buspirone is a",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "990b686f-a88f-4397-a94c-a8566a663458",
+          "text": "GABA agonist",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "07017136-dbac-4a43-9066-5cf812f0f990",
+          "text": "5-HT1A partial agonist",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "80152d9b-e1d1-4b26-8a37-0a9859351784",
+          "text": "5-HT1A agonist",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "3462af58-9565-480e-a7ae-795b573ee42e",
+          "text": "5-HT1A antagonist",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "4ff49a3a-ba8a-4f07-99a0-ea65569bf12b",
+          "text": "GABA antagonist",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "07017136-dbac-4a43-9066-5cf812f0f990",
+        "text": "5-HT1A partial agonist"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "07017136-dbac-4a43-9066-5cf812f0f990",
+          "text": "5-HT1A partial agonist",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Buspirone is classified as an azapirone (or azaspirone) and is chemically distinct from other psychotropic agents. It is a 5-HT1A partial agonist.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": "33f075fe-52d8-4513-a443-4e1c4d862910",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is termed as a norepinephrine and dopamine re-uptake inhibitor?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d59be417-03c4-4ca4-b6c1-cdaf1a06c4b6",
+          "text": "Varenicline",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "0c1d394e-bf9e-4cf7-831e-d69b9225a366",
+          "text": "Nefazadone",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "051790ef-49de-4794-b6d0-77951d327435",
+          "text": "Buspirone",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c1f636a8-6a5d-44e2-b6d7-8e1212c23ca4",
+          "text": "Mirtazapine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "3d386c57-3cda-469d-921a-b3d9eeb5105f",
+          "text": "Bupropion",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "3d386c57-3cda-469d-921a-b3d9eeb5105f",
+        "text": "Bupropion"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "3d386c57-3cda-469d-921a-b3d9eeb5105f",
+          "text": "Bupropion",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Bupropion is a noradrenergic and dopaminergic reuptake inhibitor. It is indicated for depression but is only licensed in the UK for treatment of nicotine dependence.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": "2912876a-d38e-43dd-869d-83c440e9bc6e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A placebo is best described as which one of the following?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6183adbe-cb8e-4ef3-b214-f82e411a6aca",
+          "text": "A preparation of active compound without a label",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "78ec7f77-43c7-4b36-97ec-8cea69a7ddf1",
+          "text": "An active preparation of precursor molecules",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5171c7cc-9c17-4c0e-967e-6a6e3329ca9c",
+          "text": "A preparation with higher than average propensity to cause side effects",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "64b042a3-5107-4002-9910-52a7d3c5446f",
+          "text": "A compound that is active for an unrelated disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "19eec7a5-7beb-432c-baba-1572d8190910",
+          "text": "A dummy preparation of inactive compound",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "19eec7a5-7beb-432c-baba-1572d8190910",
+        "text": "A dummy preparation of inactive compound"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "19eec7a5-7beb-432c-baba-1572d8190910",
+          "text": "A dummy preparation of inactive compound",
+          "is_correct": true
+        }
+      ],
+      "explanation": "'Placebo' from latin 'placare', 'to please', entered the medical lexicon in Hooper's Medical Dictionary in 1811 as 'an epithet given to any medicine adopted to please rather than benefit the patient'. Modern study of the 'placebo effect' began when the anaesthetist Henry Beecher described patient responses to oral analgesics and later discussed 'the powerful placebo'; he found that around 30% of the clinical effect could be attributed to the effect of placebo. Placebo and nocebo effects are the effect of patients' positive and negative expectations, respectively, concerning their state of health. These effects occur in many clinical contexts, including treatment with an active agent or placebo in clinical practice or a clinical trial, the informed-consent process, the provision of information about medical treatments, and public health campaigns. Placebo effects cause beneficial outcomes, and nocebo effects cause harmful and dangerous outcomes. Placebos can be pharmacologically active or inert substances. An 'active placebo' has some activity, but not against the treated condition. In clinical trials, active placebos contain ingredients that cause some of the adverse effects of the active intervention; they are more difficult to distinguish from the active intervention than an inert placebo, leading to more successful blinding, less expectation bias, and a more accurate (usually smaller) estimate of apparent benefit of the active interventions.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": "d2c5bc7c-5e56-4bc2-9757-52f39d686697",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following drugs is not correctly paired with its proponents?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "bccfd88b-b9ed-4481-880f-a5e205cb11ba",
+          "text": "Chlorpromazine-Delay and Deniker",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5e10db6a-c35f-467a-9930-8bde275d7e7d",
+          "text": "Imipramine-Kuhn",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "fdc7d142-a190-4b33-a91d-7de8b2ad483d",
+          "text": "Clozapine-Bowden",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "460d6695-2e92-4ed1-a26a-3c2b8db1d89d",
+          "text": "Lithium-John Cade",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "db5cf1cf-dcad-4afe-82f3-6323e4890876",
+          "text": "Haloperidol-Janssen",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "fdc7d142-a190-4b33-a91d-7de8b2ad483d",
+        "text": "Clozapine-Bowden"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "fdc7d142-a190-4b33-a91d-7de8b2ad483d",
+          "text": "Clozapine-Bowden",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Shortly after the introduction of clozapine to clinical practice in the mid-1970s, it was withdrawn because of several episodes of fatal agranulocytosis in patients on treatment. It was thought to have special efficacy in treatment-resistant schizophrenia, and this clinical belief was supported by an important trial by Kane et al. (1988), leading to its reintroduction in psychiatric practice, albeit with strict limitations to its prescription. Bowden led the first randomised study on valproate (in the form of divalproex) in acutely manic patients (published in 1994).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": "fcf5583c-0a91-490c-82c4-42e17a10f519",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which drug could be used for the treatment of mixed affective episodes of bipolar disorder?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6d65eebc-3b5c-4b65-964e-2fbd5df4f094",
+          "text": "Carbamazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d1543f36-825f-4010-81d4-a0f24ffd8489",
+          "text": "Gabapentin",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f8134cda-aaf0-4b6e-82b1-0627c4ca7d58",
+          "text": "Sodium Valproate",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "ac991d08-dcca-443f-b61b-78823bc43190",
+          "text": "Clonazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "644e430c-5984-4567-aa87-c31191b7e98b",
+          "text": "Lamotrigine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "f8134cda-aaf0-4b6e-82b1-0627c4ca7d58",
+        "text": "Sodium Valproate"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "f8134cda-aaf0-4b6e-82b1-0627c4ca7d58",
+          "text": "Sodium Valproate",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Mixed affective states are characterised by combinations of manic and depressive symptoms during one episode and may occur in up to 40% of bipolar patients. Mixed affective states have been insufficiently researched to arrive at definitive recommendations for treatment. Sixty six percent of these patients exhibit a poor response to lithium (SIGN Guidelines on bipolar disorder: Guideline 82 Section 3: Retrieved from http://www.sign.ac.uk/guidelines/fulltext/82/section3.html). Nevertheless, NICE recommends that mixed affective episodes are treated as manic episodes. Antipsychotics, lithium as well as sodium valproate are first line options for the treatment of acute manic episode and prophylaxis of bipolar affective disorder, and thus can be used as first line for mixed affective episodes as well.\n\nNICE Guidelines for Bipolar Disorder (updated 2020): Managing MANIA OR HYPOMANIA in Adults in Secondary Care\n● If patient is taking an antidepressant as monotherapy:\n1. consider stopping the antidepressant\n2. offer an antipsychotic (haloperidol, olanzapine, quetiapine, or risperidone) regardless of whether the antidepressant is stopped\n● If first antipsychotic is poorly tolerated or ineffective, offer alternative antipsychotic\n● If alternative antipsychotic is not sufficiently effective at maximum licensed dose, consider adding lithium; if lithium is ineffective or not suitable, consider adding valproate instead\n● If the patient is taking an antidepressant in combination with a mood stabilizer, consider stopping the antidepressant\n● If patient is already taking lithium, check plasma lithium levels to optimize treatment; consider adding one of the above antipsychotics\n● If patient presents in a mixed state (both manic and depressive symptoms), follow above recommendations for treatment of mania and monitor closely for depression\n● Do not offer lamotrigine to treat mania\n● Within 4 wks of resolution of symptoms, discuss whether to continue treatment for mania or start long-term treatment (see below)\n● If patient decides to continue treatment for mania, offer for 3-6 more months, then review",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": "cf30c5ff-62d0-4a68-b05f-d516a67ca2d3",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is an inhibitor of norepinephrine and serotonin re-uptake?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3d4d70d1-f2a7-4eeb-8b84-7139f37b2615",
+          "text": "Reboxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b368d070-c5b0-4235-8f79-5d78054ecbf4",
+          "text": "Bupropion",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f2bbe5c7-e9a0-43b9-b8d7-a4f2c176fc98",
+          "text": "Galantamine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7c5d3c60-c88a-455b-bd8f-0ff3dc0567ff",
+          "text": "Duloxetine",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "63c93e0b-14ec-4bbf-82ce-ac0486716cc0",
+          "text": "Aripiprazole",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "7c5d3c60-c88a-455b-bd8f-0ff3dc0567ff",
+        "text": "Duloxetine"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "7c5d3c60-c88a-455b-bd8f-0ff3dc0567ff",
+          "text": "Duloxetine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Duloxetine, venlafaxine, desvenlafaxine, milnacipran, and levomilnacipran are all serotonin-norepinephrine reuptake inhibitors (SNRIs).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": "0521adea-e740-4a16-a4f4-8fd588c415b8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following psychotropic agents has the same pharmacokinetic properties in Asians and White Europeans?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3a019604-50f9-453d-9e9d-cae0faac1284",
+          "text": "Alprazolam",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "72f4de35-c81c-4c56-a908-297634869a92",
+          "text": "Haloperidol",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "badecbc8-3770-4dde-a480-d2b76b52b8b2",
+          "text": "Diazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e13f6bac-442a-4f79-a488-b3cd3e32b04e",
+          "text": "Chlorpromazine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "4528a4ce-9408-4b75-abcc-48ffc5f5b5d0",
+          "text": "Lithium",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "4528a4ce-9408-4b75-abcc-48ffc5f5b5d0",
+        "text": "Lithium"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "4528a4ce-9408-4b75-abcc-48ffc5f5b5d0",
+          "text": "Lithium",
+          "is_correct": true
+        }
+      ],
+      "explanation": "95% of lithium is excreted unchanged in the urine. Its excretion does not differ between Asians and White Europeans.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": "45ef0924-08a7-431e-8c98-b8701e10b388",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following was the first antidepressant to be introduced?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6ea56baa-e06e-4805-a2d4-00a710bf6a4b",
+          "text": "SNRI",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "03f161f6-e20a-4f7f-92cf-14a5b6020e86",
+          "text": "Tetracyclic",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9ffa58ff-a02d-414e-9e04-c6f70023e0be",
+          "text": "SSRI",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "400af6b8-9864-4455-9190-af66e68902af",
+          "text": "Tricyclic",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a8720a43-d547-4457-b8e7-e152c08ab5ef",
+          "text": "MAO inhibitor",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "a8720a43-d547-4457-b8e7-e152c08ab5ef",
+        "text": "MAO inhibitor"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "a8720a43-d547-4457-b8e7-e152c08ab5ef",
+          "text": "MAO inhibitor",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The first drug used for the treatment of depression was iproniazid in the 1950s. The choice of this drug was based on its euphoric effects in tuberculosis patients. Subsequently, it was demonstrated that iproniazid was a monoamine-oxidase (MAO) inhibitor, particularly MAO-A. The role of MAO-A is to convert biogenic (e.g. serotonin and catecholamines) and sympathomimetic (e.g. tyramine and benzylamine) amines into deaminated products. This discovery led to the development of the first class of antidepressants, the MAO inhibitors (MAOIs). Examples of this class include tranylcypromine and phenelzine.\n\nSubsequently, the prototype antidepressant molecule, desmethylimipramine, was developed. The development of imipramine gave rise to the tricyclic antidepressants (TCAs), a class of drugs whose mechanism of action involves the inhibition of noradrenaline and serotonin reuptake by neurons. Later on, the monoamine serotonin was related to the pathophysiology of depression. Based on this discovery, the first family of psychoactive drugs with a rational design, the serotonin-specific reuptake inhibitors (SSRIs) was developed. Thanks to the discovery and subsequent therapeutic use of MAOIs and TCAs in the 1960s, the monoaminergic theories of depression were developed.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": "9a314c07-01ba-4132-ae5d-c2fb837263e4",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a true statement about the placebo effect?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4fd8aba3-cf36-4525-9c57-5949503f5775",
+          "text": "Placebo response is perceived to be better for tablets than capsules",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "8b7e75cf-31cf-4969-a28e-cfd382eb34ff",
+          "text": "Placebo effects do not operate on active drugs",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b5f1384d-5eaf-439b-87a9-4e47a4a34063",
+          "text": "Prior therapeutic experiences can drive nocebo effects",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "638e1c7c-8661-4cd4-bc97-e34dc8ffea0a",
+          "text": "Severely depressed subjects respond better to placebos than mildly depressed ones",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d05a1414-d8c7-4935-b57e-dc9bcda6b2b6",
+          "text": "Oral medications elicit a stronger placebo effect than injections",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "b5f1384d-5eaf-439b-87a9-4e47a4a34063",
+        "text": "Prior therapeutic experiences can drive nocebo effects"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "b5f1384d-5eaf-439b-87a9-4e47a4a34063",
+          "text": "Prior therapeutic experiences can drive nocebo effects",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Placebo and nocebo effects are the effect of patients' positive and negative expectations, respectively, concerning their state of health. These effects occur in many clinical contexts, including treatment with an active agent or placebo in clinical practice or a clinical trial, the informed-consent process, the provision of information about medical treatments, and public health campaigns. Placebo effects cause beneficial outcomes, and nocebo effects cause harmful and dangerous outcomes. The molecular events and neural network changes underlying placebo and nocebo effects are mediated by expectancies or anticipated future outcomes. Prior therapeutic experiences and learning mechanisms can drive placebo and nocebo effects.\n\nOptimism, suggestibility, and gender do NOT appear to be closely associated with placebo responsiveness. There is some evidence that among people taking active drugs, the nocebo effect is more likely to occur in those who are more anxious, have a history of medically unexplained symptoms, or have greater psychological distress and have prior therapeutic experience with the drug (cue-association).\n\nColour, shape and packaging also affect placebo response (capsules and larger pills have more placebo responsiveness). Placebo effects are seen for active pills as well as inert pills; thus for every prescribed drug, the clinical benefits in the real-world are obtained from both its active chemical and placebo effects.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": "974c90cc-2b49-40a5-9005-ac9dad35f58e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Venlafaxine is best described as a",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0f9e5203-a044-4682-bbe3-f18511223088",
+          "text": "SNRI (Serotonin and noradrenaline reuptake inhibitor)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "889f56d8-6918-4899-af3f-1080032ca7ff",
+          "text": "SSRI (Selective serotonin reuptake inhibitor)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "99bb9c6a-d5ed-4258-bf8a-0ffd8612641f",
+          "text": "NARI (Nor adrenaline reuptake inhibitor)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d3dbb17b-329b-4d89-8bef-6dec8181e558",
+          "text": "Tricyclic antidepressant",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "3be7f8a0-5e21-4929-b67f-0e1873576656",
+          "text": "Alpha 2 adrenoreceptor antagonist",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "0f9e5203-a044-4682-bbe3-f18511223088",
+        "text": "SNRI (Serotonin and noradrenaline reuptake inhibitor)"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "0f9e5203-a044-4682-bbe3-f18511223088",
+          "text": "SNRI (Serotonin and noradrenaline reuptake inhibitor)",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Duloxetine, venlafaxine, desvenlafaxine, milnacipran, and levomilnacipran are all serotonin-norepinephrine reuptake inhibitors (SNRIs).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": "fe6c181e-2fca-456d-b862-0b6db0bae621",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The term active placebo refers to which one of the following?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "abe9316d-ad38-4a41-b73e-f50a53b4ced5",
+          "text": "The placebo loses its effect with repeated use",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "144041d4-bfa7-42f2-b936-dccb43ff6eb8",
+          "text": "The placebo produces unexpected side effects",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f974d59a-e275-4282-86e6-c4dd2d52678f",
+          "text": "The placebo gains positive effect with repeated use",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "08d19501-461d-4828-ac9d-6745299541f7",
+          "text": "The placebo has activity against the treated illness",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "4f3deb55-8d7c-473c-a18a-6a7cb82f0ad7",
+          "text": "The placebo has some activity inherently",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "4f3deb55-8d7c-473c-a18a-6a7cb82f0ad7",
+        "text": "The placebo has some activity inherently"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "4f3deb55-8d7c-473c-a18a-6a7cb82f0ad7",
+          "text": "The placebo has some activity inherently",
+          "is_correct": true
+        }
+      ],
+      "explanation": "An active placebo has some activity, but not against the treated condition. In clinical trials, active placebos contain ingredients that cause some of the adverse effects of the active intervention. They are more difficult to distinguish from the active intervention than an inert placebo, leading to more successful blinding, less expectation bias, and a more accurate (usually smaller) estimate of apparent benefit of the active interventions.\n\nWhen a drug administered as placebo produces prominent side-effects, it is known as a 'nocebo'. Placebo sag is a term used to refer to decrease in placebo effect with repeated or chronic administration of placebo drugs.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": "735190e9-98f4-4ea8-b7d8-1da3f38c7b46",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following chemical classes of drugs used as antidepressants is known to increase seizure risk?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "09a66eec-39e9-4c34-9a4b-e870daba0dd2",
+          "text": "Triazolopyridines",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f5ca04b7-a3ca-40d4-87bd-76e5c2217d3a",
+          "text": "Hydrazine derivatives",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b1f91a06-a504-4987-a0d9-95fdf144a89c",
+          "text": "SSRIs",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "1cf295ec-1c7e-4eba-94e7-e17b653cacf4",
+          "text": "Cyclopyrrolones",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "da9b96c0-8491-473c-91ad-ae963379310e",
+          "text": "Aminoketones",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "da9b96c0-8491-473c-91ad-ae963379310e",
+        "text": "Aminoketones"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "da9b96c0-8491-473c-91ad-ae963379310e",
+          "text": "Aminoketones",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Bupropion is an aminoketone that has a dose-related risk of seizures (particularly with instant-release formulations). The risk is less with slow-release formulations at doses under 300mg/day. It is recommended to avoid the use of bupropion in people with epilepsy because it can be pro-convulsive at therapeutic doses.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": "7e0655cd-7948-40fe-9b09-7e9fc742ac5a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Duloxetine and milnacipran are classified as",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b4439a6e-ff9b-4667-a023-d5a1d697aaa6",
+          "text": "Monoamine oxidase inhibitors",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "28824804-e54f-44b9-ae36-9e49f5fd9421",
+          "text": "Tricyclic antidepressants",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "befb7ac1-6df1-4a09-96b4-4eaac6ccc7db",
+          "text": "Selective serotonin reuptake inhibitors",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "9e83eb35-26f6-48e4-8406-4037e29f3a41",
+          "text": "Serotonergic and noradrenergic reuptake inhibitors",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "b5ae4c29-6a08-4b28-927a-3a28aabfe4aa",
+          "text": "Adrenergic type 2 antagonists",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "9e83eb35-26f6-48e4-8406-4037e29f3a41",
+        "text": "Serotonergic and noradrenergic reuptake inhibitors"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "9e83eb35-26f6-48e4-8406-4037e29f3a41",
+          "text": "Serotonergic and noradrenergic reuptake inhibitors",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Duloxetine, venlafaxine, desvenlafaxine, milnacipran, and levomilnacipran are all serotonin-norepinephrine reuptake inhibitors (SNRIs).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": "4ab5791e-a547-4039-b535-9bb19a5462f4",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following psychotropics is well known to cause sudden death?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "cc520c3a-7278-46fd-9b2d-06679718ebff",
+          "text": "Temazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "cffdf9e1-ad0a-410c-927f-580f1000bf96",
+          "text": "Procyclidine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d2c335c6-e6aa-4471-a9aa-8183bc70ee7b",
+          "text": "Zopiclone",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "394a5c6a-e932-48c8-a8a4-c89e19da10bc",
+          "text": "Lithium",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "0ebf2c39-d5f7-41c5-b35a-5fa0dd20c97e",
+          "text": "Thioridazine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "0ebf2c39-d5f7-41c5-b35a-5fa0dd20c97e",
+        "text": "Thioridazine"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "0ebf2c39-d5f7-41c5-b35a-5fa0dd20c97e",
+          "text": "Thioridazine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Several antipsychotic drugs, belonging both to typical and atypical classes (e.g. sertindole, thioridazine, and haloperidol) are known to be associated with an increased risk of QTc prolongation, potentially leading to serious ventricular arrhythmias such as torsades de pointes and sudden cardiac death. In 2005, thioridazine was withdrawn from the global market because of the risk of sudden cardiac death.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": "b5970402-8b68-482b-9882-4512e9c6738e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Placebo effect is NOT mediated via",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5d674b55-ba19-4f4d-9631-ee1aad1ff8f3",
+          "text": "nocebo response",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "cbb47192-eb04-4ffb-820f-9c71a58ec924",
+          "text": "natural remission",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "46422926-7ba6-4d28-81ab-7b2c0393376d",
+          "text": "classical conditioning",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7b3c6b36-2329-4b69-af9b-2d5bf983b38b",
+          "text": "expectancy",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b4242347-10c4-41cc-9f5b-9c2e6be05bd0",
+          "text": "operant conditioning",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "5d674b55-ba19-4f4d-9631-ee1aad1ff8f3",
+        "text": "nocebo response"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "5d674b55-ba19-4f4d-9631-ee1aad1ff8f3",
+          "text": "nocebo response",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Placebo and nocebo effects are the effect of patients' positive and negative expectations, respectively, concerning their state of health. These effects occur in many clinical contexts, including treatment with an active agent or placebo in clinical practice or a clinical trial, the informed-consent process, the provision of information about medical treatments, and public health campaigns. Placebo effects cause beneficial outcomes, and nocebo effects cause harmful and dangerous outcomes. The molecular events and neural network changes underlying placebo and nocebo effects are mediated by expectancies or anticipated future outcomes. Learning and classical conditioning play roles in both placebo and nocebo effects.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": "7f9015b0-6c2f-439d-9f00-f9203a83e8f2",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "An 81-year-old woman with dementia presented to the hospital with chest pain. Upon admission, she becomes acutely confused and agitated. She is combative and attacks a nurse who tried to pacify her. She refuses to accept a nurse to sit beside her and observe her continuously and threatens to kick anyone who attempts this. The best option available for the medical team is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b8994218-c7d7-4564-b343-f1e7f95f931d",
+          "text": "Use heavy sedation to prevent physical attacks",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c83f6e59-1691-478a-9972-f18e88f8f4af",
+          "text": "Discharge her back to home",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "bba401e5-51c3-4da7-8d53-3dab8dc5baee",
+          "text": "Use temporary physical or pharmacological restraints with regular re-evaluation of her medical status",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "9293528b-b348-4707-be07-66ff142920d2",
+          "text": "Continue to try verbal de-escalation to calm her down",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "64fa09a6-22a6-4b90-b0f0-5d9d840712dc",
+          "text": "Transfer her to a psychiatric ward",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "bba401e5-51c3-4da7-8d53-3dab8dc5baee",
+        "text": "Use temporary physical or pharmacological restraints with regular re-evaluation of her medical status"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "bba401e5-51c3-4da7-8d53-3dab8dc5baee",
+          "text": "Use temporary physical or pharmacological restraints with regular re-evaluation of her medical status",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Using rapid tranquillisation or physical restraints is sometimes necessary for the elderly to reduce harm to the patient and/or the health professionals. Only a minimal amount of restraint should be used, and the need for continued restraint re-evaluated frequently. Transferring to a psychiatry ward does not seem practical at this time due to the acute level of patient agitation and his behaviors, and verbal de-escalation has already failed to calm the patient. Involving a carer may help to calm the patient down, and that individual may be able to assist in making decisions for his care.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": "4dfa91e0-3b64-4cbd-94ff-1d56f169ff33",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Rivastigmine is a",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "423dda2c-3d65-4bdf-bb88-4869f510c8ea",
+          "text": "Irreversible inhibitor of AchEs",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "18f0f59d-d9cd-4056-a66e-d8b3dbcf1e81",
+          "text": "NMDA receptor antagonist",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f06ce581-23d8-46dd-bf0d-d8ceee43ec6a",
+          "text": "Reversible non-competitive inhibitor of AchEs",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "669cade5-7dca-440e-a89e-ae3ca2998a4f",
+          "text": "Competitive inhibitor of AchEs",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "8b4d6bb2-931d-49e8-958d-b14976b828cb",
+          "text": "Reversible competitive inhibitor of AchEs",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "f06ce581-23d8-46dd-bf0d-d8ceee43ec6a",
+        "text": "Reversible non-competitive inhibitor of AchEs"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "f06ce581-23d8-46dd-bf0d-d8ceee43ec6a",
+          "text": "Reversible non-competitive inhibitor of AchEs",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Rivastigmine is a reversible and non-competitive inhibitor of acetylcholinesterase. It inhibits both acetylcholinesterase and butyrylcholinesterase.",
+      "explanation_images": [
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/9.%20Basic%20Pharmacology/33/explanation_image-4dfa91e0-3b64-4cbd-94ff-1d56f169ff33-1788623892029.jpeg"
+      ],
+      "explanation_image_url": "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/9.%20Basic%20Pharmacology/33/explanation_image-4dfa91e0-3b64-4cbd-94ff-1d56f169ff33-1788623892029.jpeg"
+    },
+    {
+      "question_number": 34,
+      "question_id": "093d8394-e0aa-4ac4-992b-f23a7c6bf1f5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Buspirone belongs to the chemical class of",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9f1bb8ff-55b1-45ec-ba49-58eccf1e7dec",
+          "text": "Azaspirone",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "8cd1a821-d9f2-4561-bedf-e7b2cbb1155a",
+          "text": "Cyclopyrrolone",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "aa1cc4c6-abd4-4ee0-bd8b-b17d14c925ac",
+          "text": "Imidazopyridine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "08c283ca-e3e8-4d0b-a20c-1babcc3e50d5",
+          "text": "Pyrazopyrimidine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "33beb82f-d4fd-4dcd-b6f5-450679f4db54",
+          "text": "Butyrophenone",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "9f1bb8ff-55b1-45ec-ba49-58eccf1e7dec",
+        "text": "Azaspirone"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "9f1bb8ff-55b1-45ec-ba49-58eccf1e7dec",
+          "text": "Azaspirone",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Buspirone is classified as an azapirone (or azaspirone) and is chemically distinct from other psychotropic agents. It is a 5-HT1A partial agonist.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": "00dd3e54-b9c4-4028-931d-8738675f943b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following is a benzisoxazole derivative?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "031c10a6-e776-45fa-b63a-b6e80677648b",
+          "text": "Amisulpride",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "66c937bf-2860-4ab8-835e-40f3c5f5e504",
+          "text": "Clozapine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ed684a2e-ed1c-4223-a6e2-5b438bb7f41f",
+          "text": "Risperidone",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "af5a1543-d645-4d6d-b337-b66ec6c75c94",
+          "text": "Sulpiride",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "517d26c2-9511-4452-8d29-6da41deae59f",
+          "text": "Ziprasidone",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "ed684a2e-ed1c-4223-a6e2-5b438bb7f41f",
+        "text": "Risperidone"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "ed684a2e-ed1c-4223-a6e2-5b438bb7f41f",
+          "text": "Risperidone",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Numerous benzisoxazole moieties have been found to possess a broad spectrum of pharmacological activities. Risperidone is a 1,2-benzisoxazole ring containing drug. Sulpiride and amisulpride are substituted benzamides. Ziprasidone, rather confusingly, is a benzisothiazole, while clozapine is a dibenzodiazepine.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": "8a564ab6-d9ca-4225-973c-5972ef3d300a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Reserpine was originally introduced as an antipsychotic. It is extracted from which of the following plants?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2d92947a-f75c-4fea-9ebf-b395a1b13346",
+          "text": "Hypericum alkaloids",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "577c07d5-f5ec-4d49-b24b-8c26fa8b393d",
+          "text": "Solanacea henbane",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7d8b754c-0331-4c72-b063-26b08c72b6cf",
+          "text": "Rauwolfia serpentina",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "965b37b4-aea3-4b27-aeba-9bb60a18fb38",
+          "text": "Hellebore",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "814bbbe5-1947-457a-84d3-47d686f036e5",
+          "text": "Belladonna",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "7d8b754c-0331-4c72-b063-26b08c72b6cf",
+        "text": "Rauwolfia serpentina"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "7d8b754c-0331-4c72-b063-26b08c72b6cf",
+          "text": "Rauwolfia serpentina",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Rauvolfia spp. (also known as Rauwolfia or devil peppers) are a group of evergreen shrubs and trees. Among the approximately 76 various species, Rauvolfia serpentina is an important medicinal plant. It is commonly known as the Indian snakeroot plant or Sarpagandha. The plant is rich in multiple secondary metabolites including reserpine, ajmaline, ajmalicine, serpentine, and yohimbine. Since ancient times, roots (mainly due to reserpine) have been utilised in various Ayurvedic and Unani medicinal preparations for the treatment of diseases like hypertension, anxiety, insomnia, and schizophrenia.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": "e4db7785-b0ac-42c2-9c81-accc73651c66",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following names is associated with the use of valproate in mania?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0d158ae3-de0d-4a14-8435-83acb05d7f6d",
+          "text": "Delay and Deniker",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "8d84d542-5812-4faa-9145-1f1f3a70f1e0",
+          "text": "John Cade",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2ead1807-7a6e-4400-8dbb-dfccfb827263",
+          "text": "Kuhn",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f33fcb1f-b25e-4795-83e0-0a78185874e8",
+          "text": "Janssen",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "41244b94-8ac5-4d95-ac33-4a88e159af6f",
+          "text": "Bowden",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "41244b94-8ac5-4d95-ac33-4a88e159af6f",
+        "text": "Bowden"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "41244b94-8ac5-4d95-ac33-4a88e159af6f",
+          "text": "Bowden",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Bowden led the first randomised study on valproate (in the form of divalproex) in acutely manic patients (published in 1994). It was large in scope, was conducted at eight academic centres led by investigators with experience in bipolar disorder, included women of child-bearing potential, and included a lithium treatment group. It found divalproex to be highly statistically significant superior to placebo. Patients with mixed mania who were treated with lithium had significantly poorer responses than mixed mania patients who were treated with divalproex, or than pure manic patients treated with lithium. The response of pure manic patients did not differ significantly between the divalproex- and lithium-treated patients.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": "b8f07abc-77b9-4307-9983-f6de803440c0",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following led a trial that proved clozapine's effectiveness in treating resistant schizophrenia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "95b3498d-0577-427c-ab96-b88c300da24b",
+          "text": "Kretschmer",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "fb293c82-7b11-46a0-9c69-cfcc1868e100",
+          "text": "Cade",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "82fb7002-f3c1-4b11-bd44-aeed99a2788a",
+          "text": "Kraepelin",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "da9cc9ee-0e78-44eb-b753-4f8fb8062961",
+          "text": "Kane",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "470591e4-ca97-48fc-8459-6803034f5272",
+          "text": "Bleuler",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "da9cc9ee-0e78-44eb-b753-4f8fb8062961",
+        "text": "Kane"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "da9cc9ee-0e78-44eb-b753-4f8fb8062961",
+          "text": "Kane",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Shortly after clozapine's introduction to clinical practice in the mid-1970s, it was withdrawn because of several episodes of fatal agranulocytosis in patients on treatment. It was thought to have special efficacy in treatment-resistant schizophrenia, and this clinical belief was supported by an important trial by Kane et al. (1988), leading to its reintroduction in psychiatric practice, albeit with strict limitations to its prescription. 268 patients with treatment-resistant schizophrenia (failing three different conventional neuroleptic trials, including a six-week trial of haloperidol at maximum (60mg) doses) were randomly assigned to clozapine up to 900 mg or chlorpromazine up to 1800 mg. 30% of the clozapine group responded while only 4% in the chlorpromazine group responded.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": "7a60ac7e-3fd4-42f8-a0b4-7e99beef4752",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following best describes lofexidine?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9d75febe-8033-4808-9ed4-653444388a0d",
+          "text": "Natural opioid",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5e8b61b4-83cf-4602-953f-0fbb2e103037",
+          "text": "Alpha 1 antagonist",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8e8e6eb3-dd85-4de9-9969-1a40c6bb6945",
+          "text": "Alpha 2 agonist",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "2d3393a3-56a9-4515-9642-e6b6d1edd7ee",
+          "text": "Synthetic opioid",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "4375faaf-003a-4325-bb34-50f20b191aec",
+          "text": "Opioid antagonist",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "8e8e6eb3-dd85-4de9-9969-1a40c6bb6945",
+        "text": "Alpha 2 agonist"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "8e8e6eb3-dd85-4de9-9969-1a40c6bb6945",
+          "text": "Alpha 2 agonist",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Lofexidine is an alpha-2 adrenergic agonist. It can be useful to relieve symptoms of opioid withdrawal.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": "632fffc7-13f6-4d80-a4e8-d590b36338a9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a hormone that is used in the treatment of depression?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "8fa5b71f-2210-43cc-a698-06873941ddcb",
+          "text": "Cortisol",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "1809c9d4-a85f-431a-9c55-b589593e824d",
+          "text": "Vasopressin",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "48d7f16e-fb4f-454c-93e4-43a1dc042406",
+          "text": "Prolactin",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d7e2758d-70ad-4ccd-9894-19b5fbbc83f7",
+          "text": "Thyroid hormone",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "cec2a806-76e7-49b0-8e6b-687ab5d21df6",
+          "text": "Growth hormone",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "d7e2758d-70ad-4ccd-9894-19b5fbbc83f7",
+        "text": "Thyroid hormone"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "d7e2758d-70ad-4ccd-9894-19b5fbbc83f7",
+          "text": "Thyroid hormone",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The link between thyroid function and depression is well-studied in psycho-endocrinology. Notably, hypothyroidism can be accompanied by depression. All the hormones of the hypothalamic-pituitary-thyroid axis have been used in the treatment of depression, alone or in combination with other agents, although the most commonly used are thyroxine and levothyroxine.\n\nTri-iodothyronine may be used as a second-line augmentation agent in the management of treatment-resistant depression. Current evidence has shown that it has no advantage over an antidepressant alone in non-refractory illness. It may also be effective in bipolar depression.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": "81048f7b-b5ef-48f1-a303-e6ee83980fe7",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Acamprosate is a",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "afbc53dc-1ae6-45a8-abbd-323c975f5193",
+          "text": "Synthetic taurine analogue",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "909a9e8f-80b5-4f33-aeb2-94590c3aa6e4",
+          "text": "Type of benzodiazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "578e80c4-aabd-4406-a0b4-fd4dcd3e5299",
+          "text": "Long acting opioid agonist",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f6d27e1e-c5a1-4c3e-94cb-6f6d567c5874",
+          "text": "Alpha-1 agonist",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c2393cf5-8adf-40be-a114-2b18199b7f37",
+          "text": "Opioid receptor antagonist",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "afbc53dc-1ae6-45a8-abbd-323c975f5193",
+        "text": "Synthetic taurine analogue"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "afbc53dc-1ae6-45a8-abbd-323c975f5193",
+          "text": "Synthetic taurine analogue",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Acamprosate is a synthetic taurine analogue that acts as a functional glutaminergic NMDA antagonist and also increases GABA-ergic function.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": "19f0697c-07c8-4b1b-a9b8-3e5e5aba13e0",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following best applies to the chemical structure of buspirone?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e4b789c3-86a2-4a55-b00f-ba085e55c015",
+          "text": "Imidazopyridine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c18cce03-49c5-46a8-9365-873f0ea2b530",
+          "text": "Benzisoxazole",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7591a198-84be-4154-b7de-8e8c06e51f5f",
+          "text": "Thienobenzodiazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c18cc3d7-9b00-464b-ab47-49ba49711aa4",
+          "text": "Aminoketone",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "bb08897f-8d0c-48fc-9c7d-eeb73edd105b",
+          "text": "Azaspirone-decanedione",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "bb08897f-8d0c-48fc-9c7d-eeb73edd105b",
+        "text": "Azaspirone-decanedione"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "bb08897f-8d0c-48fc-9c7d-eeb73edd105b",
+          "text": "Azaspirone-decanedione",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Buspirone is classified as an azapirone (or azaspirone) and is chemically distinct from other psychotropic agents. It is a 5-HT1A partial agonist.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": "7ef97af5-3059-4fc8-819a-99e088bbfa9c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A patient is diagnosed with mild cognitive impairment. Which one of the following is recommended for prevention of dementia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "bc1a1f34-6a45-4a0c-8917-b879615b2520",
+          "text": "Piracetam",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "dfccb87b-6a93-4a6a-ab11-6bf970e036bc",
+          "text": "Donepezil",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "caceb0b9-3126-4dfd-8bf1-dd208ca14084",
+          "text": "Vitamin E",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5ce3c30f-c416-4c95-acad-758d14dc6979",
+          "text": "Memantine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "2d910fd3-ad3f-4aea-9b25-bd39d7a6bdb2",
+          "text": "No recommendation",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "2d910fd3-ad3f-4aea-9b25-bd39d7a6bdb2",
+        "text": "No recommendation"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "2d910fd3-ad3f-4aea-9b25-bd39d7a6bdb2",
+          "text": "No recommendation",
+          "is_correct": true
+        }
+      ],
+      "explanation": "To date, there have been no positive studies to inform prescribing in Mild Cognitive Impairment (MCI). Cochrane and other reviews show lack of efficacy of cholinesterase inhibitors, equivocal findings with piracetam, and there is no evidence to support nootropics. There have been no studies on memantine in MCI. Other studies including RCTs of vitamin E and anti-inflammatory drugs have been negative.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 44,
+      "question_id": "ad85b03d-c7b5-4206-8db3-7ecd4039c50f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A potential advancement in the treatment of dementia is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b95c8169-1275-431b-8772-bc4ec1bcb3a8",
+          "text": "Drugs acting on dendritic receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "8ddd1476-4e28-4fbc-89ea-87a927da9115",
+          "text": "Drugs acting on plasma enzymes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "47c99efc-214c-450e-bfbb-7bcb0890df78",
+          "text": "Drugs acting on presynaptic receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "2a576937-6944-4778-b52b-1db6afc9ef9e",
+          "text": "Drugs acting on intracellular secretase enzymes",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "be14614a-1966-4033-b53c-05a1fa48e6b2",
+          "text": "Drugs acting on synaptic enzymes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "2a576937-6944-4778-b52b-1db6afc9ef9e",
+        "text": "Drugs acting on intracellular secretase enzymes"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "2a576937-6944-4778-b52b-1db6afc9ef9e",
+          "text": "Drugs acting on intracellular secretase enzymes",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The beta-secretase BACE1 (beta-site amyloid precursor protein cleaving enzyme 1) was initially cloned and characterised in 1999. It is required for the generation of all monomeric forms of amyloid-beta, including amyloid-beta 42, which likely initiates toxicity in Alzheimer's disease (AD). BACE1 is a prime target for slowing down amyloid-beta production in early AD. Despite BACE1 inhibitor clinical trials conducted thus far being discontinued for futility or safety reasons, BACE1 remains a well-validated therapeutic target for AD.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 45,
+      "question_id": "c6092506-9273-450f-8c2a-075cb3b95c3f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following antidepressant is an enantiomer of another antidepressant drug?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "31ae50e3-743b-4e55-a461-9ba439db57d6",
+          "text": "Fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "fd08c185-4efd-4f4f-b932-3f884934d49a",
+          "text": "Paroxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "381684bc-e5e7-4ff8-b37c-d61a70003a10",
+          "text": "Citalopram",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "1674aad3-5988-485e-8939-ff8f0f6f66e7",
+          "text": "Escitalopram",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "0026d12c-a797-4cf8-a23c-313ce96cb21d",
+          "text": "Sertraline",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "1674aad3-5988-485e-8939-ff8f0f6f66e7",
+        "text": "Escitalopram"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "1674aad3-5988-485e-8939-ff8f0f6f66e7",
+          "text": "Escitalopram",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Citalopram is comprised of two enantiomers, R and S, which are mirror images of each other. Citalopram has mild antihistamine properties that reside in the R enantiomer and a somewhat inconsistent therapeutic action at the lowest dose, often requiring dose increase to optimise treatment. However, dose increase is limited due to the potential of QTc prolongation at higher doses. Escitalopram is comprised of only the pure active S enantiomer. This appears to remove the antihistaminic properties and there are no higher dose restrictions to avoid QTc prolongation. In addition, removal of the potentially interfering R enantiomer makes of the lowest dose of escitalopram more predictably efficacious.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 46,
+      "question_id": "0c3e8032-6d80-469d-b993-3f8d895a7be4",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following is a butyrophenone derivative?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "55fccb43-8f89-4069-9c86-56d8a891a4f7",
+          "text": "Chlorpromazine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "6150c936-49fb-4cc8-bbcc-466ff992b735",
+          "text": "Thioridazine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "87fd0d1c-24c8-4ae8-a736-adedce798a45",
+          "text": "Haloperidol",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "7c2ab1ee-1e61-4109-ae45-deb78ce5af1b",
+          "text": "Flupenthixol",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a7aa954a-0601-4ae2-b19c-a7b53a865704",
+          "text": "Zuclopenthixol",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "87fd0d1c-24c8-4ae8-a736-adedce798a45",
+        "text": "Haloperidol"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "87fd0d1c-24c8-4ae8-a736-adedce798a45",
+          "text": "Haloperidol",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Haloperidol, droperidol, and benperidol are butyrophenones. They are high potency, with the potential for troublesome extra-pyramidal side effects.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 47,
+      "question_id": "aec51512-54cf-46f5-8d75-cce7c039b830",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "You are giving a talk to your hospital staff about the importance of clinical trials. How would you explain the term 'standardised difference in effectiveness'?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "cd8f1c93-c83a-449f-b42d-eb7267d53463",
+          "text": "The difference in the effect of treatment in the active treatment group compared to the placebo group after taking into account the variation in the treatment effect",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "d8e4b752-0ed9-48fa-9d57-4459a47cddcc",
+          "text": "The effect of treatment in the active treatment group",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "591e701f-2ea5-47b2-91f5-4ce6aa592fad",
+          "text": "The difference in the effect of treatment in the active treatment group compared to the placebo group",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "91b6f2f8-ac13-4181-a23d-97fe5464fe2b",
+          "text": "The number of patients that require one treatment compared to the other in order to detect one positive response",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "bb3fc2e0-02d7-454c-8e71-81135b7a2621",
+          "text": "The effect of treatment in the placebo group",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "cd8f1c93-c83a-449f-b42d-eb7267d53463",
+        "text": "The difference in the effect of treatment in the active treatment group compared to the placebo group after taking into account the variation in the treatment effect"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "cd8f1c93-c83a-449f-b42d-eb7267d53463",
+          "text": "The difference in the effect of treatment in the active treatment group compared to the placebo group after taking into account the variation in the treatment effect",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The difference in the effect of treatment in the active treatment group compared to the placebo group after taking into account the variation in the treatment effect is the standardised measure of effectiveness. The more common term for this is 'effect size'. Effect size can be represented as a standardised difference in means (standardised mean difference) or proportions (risk difference).\n\nThe standardised mean difference (SMD) measure of effect is used when studies report efficacy in terms of a continuous measurement, such as a score on a pain-intensity rating scale. The SMD is also known as Cohen's d. An SMD of zero means that the new treatment and the placebo have equivalent effects.\n\nThe risk difference is often inverted (1/risk-reduction) to generate a measure called the NNT. The number of patients that require one treatment compared to the other in order to detect one positive response is the NNT (Number Needed to Treat).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 48,
+      "question_id": "7bb6f73d-057b-4df8-9825-f61f32931b2f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Before approval of a drug molecule, mutagenicity, carcinogenicity and organ system toxicity are studied at which phase of clinical trials?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a99c1850-a129-4d66-af85-fb480e82b5d8",
+          "text": "Preclinical animal phase",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "0021d549-566d-4cad-880b-f2f98724d44f",
+          "text": "Phase 1",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2ba73b05-60d1-478c-960b-96e071d81587",
+          "text": "Phase 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "641e612b-1c59-43b3-a6be-e72f54fcdd09",
+          "text": "Postmarketing surveillance",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "3fd97d07-fcac-4193-8143-5b26476ac95b",
+          "text": "Phase 2",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "a99c1850-a129-4d66-af85-fb480e82b5d8",
+        "text": "Preclinical animal phase"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "a99c1850-a129-4d66-af85-fb480e82b5d8",
+          "text": "Preclinical animal phase",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Preclinical development encompasses the activities that link drug discovery to initiation of human clinical trials. Rodent and nonmammalian models are used to delineate the pharmacokinetic profile and general safety, as well as to identify toxicity patterns. Toxicology and safety studies identify potential target organs for adverse effects and define the Therapeutic Index to set the initial starting doses in clinical trials. Mutagenicity, carcinogenicity and organ system toxicity are studied at this phase.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 49,
+      "question_id": "a712b4e7-736b-4859-8bd2-27b2b8a13b62",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Zimeldine caused demyelination disorder on introduction, leading to its withdrawal. Which of the following class does it belong to?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "8ee3ddbd-32a7-4b4e-8616-20ea30ac4bb1",
+          "text": "MAO inhibitors",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "dddcaea3-b301-4b00-81e5-3c21306d3847",
+          "text": "Tricyclics",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b3ee4207-02cb-4e29-a9ef-e0a953c05198",
+          "text": "Benzodiazepines",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5b0161f9-eec9-43e4-8667-d08c38e808dc",
+          "text": "Antipsychotics",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "56275ea4-7e29-4a3c-a5d6-fb17643b30ef",
+          "text": "SSRIs",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "56275ea4-7e29-4a3c-a5d6-fb17643b30ef",
+        "text": "SSRIs"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "56275ea4-7e29-4a3c-a5d6-fb17643b30ef",
+          "text": "SSRIs",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Zimeldine was the first of the SSRIs to reach the market. It was synthesised in 1971 and launched by the Swedish firm Astra in 1982, but subsequently withdrawn the next year because of adverse neurological effects.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 50,
+      "question_id": "38625b35-5938-4b3c-948f-2cf2ffda29aa",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Flupenthixol belongs to the chemical class of",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5d7d5d8b-e43f-4fe0-88da-b9a9f8b1b253",
+          "text": "Diphenylbutylpiperidine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "bbd3895f-50a9-46e9-b94b-0db7c79118ee",
+          "text": "Piperidine phenothiazine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5ec9ce0e-7e4e-45a5-adfb-09aa9d721ef1",
+          "text": "Thioxanthene",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "1d542c04-f492-45df-9ef0-4613a4d745d8",
+          "text": "Piperazine phenothiazine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "10f9d798-1762-4e7c-8a11-fca26b525065",
+          "text": "Aliphatic phenothiazine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "5ec9ce0e-7e4e-45a5-adfb-09aa9d721ef1",
+        "text": "Thioxanthene"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "5ec9ce0e-7e4e-45a5-adfb-09aa9d721ef1",
+          "text": "Thioxanthene",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Flupentixol (also known as flupenthixol) and zuclopenthixol are thioxanthines. They have moderate sedative, antimuscarinic, and extra-pyramidal effects.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 51,
+      "question_id": "7d80dbc1-bf4b-4e34-9972-25ff00f20df9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The antidementia drug with an NMDA receptor antagonistic property is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c67ee204-94fa-4255-8389-6eb2e4b2cd51",
+          "text": "Tacrine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d8f38fb4-3cb8-40c5-8e45-5b18c34f22d7",
+          "text": "Galantamine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "06e6ddbc-0157-407c-a60b-0b90cd12e5a9",
+          "text": "Donepezil",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "521e2cd0-e3ae-458f-80b0-7524b5c80792",
+          "text": "Rivastigmine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "1ab43bd2-b89f-4ae4-b16c-afa89b4953df",
+          "text": "Memantine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "1ab43bd2-b89f-4ae4-b16c-afa89b4953df",
+        "text": "Memantine"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "1ab43bd2-b89f-4ae4-b16c-afa89b4953df",
+          "text": "Memantine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Memantine is an NMDA receptor antagonist.",
+      "explanation_images": [
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/9.%20Basic%20Pharmacology/51/explanation_image-7d80dbc1-bf4b-4e34-9972-25ff00f20df9-1788623939682.jpeg"
+      ],
+      "explanation_image_url": "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/9.%20Basic%20Pharmacology/51/explanation_image-7d80dbc1-bf4b-4e34-9972-25ff00f20df9-1788623939682.jpeg"
+    },
+    {
+      "question_number": 52,
+      "question_id": "af159eea-62c0-44ca-a85a-06fef842f732",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Choose a secondary amine from the below list:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "defd43f0-04de-4475-8d94-bacdbf140707",
+          "text": "Clomipramine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "96ad51a8-c7fc-4575-ba62-822ca4f38716",
+          "text": "Dothiepin",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "14ca3765-8ebf-4ea3-ac34-a3d3645cb431",
+          "text": "Amitriptyline",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "3e0022b9-143e-4553-815f-225233d973a1",
+          "text": "Amoxapine",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "1491663f-81dd-4e59-8e2a-dcb2762b4ef8",
+          "text": "Imipramine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "3e0022b9-143e-4553-815f-225233d973a1",
+        "text": "Amoxapine"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "3e0022b9-143e-4553-815f-225233d973a1",
+          "text": "Amoxapine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Secondary amines = desipramine, amoxapine, nortriptyline and protriptyline also duloxetine) [more potent mg to mg basis; less sedating; more noradrenergic, less antihistaminic or anticholinergic than tertiary].",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 53,
+      "question_id": "3180fb4c-e6e0-4000-afa1-fce356513e15",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which drugs among the following is classified as a reversible MAOI?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "7314371a-fe5f-4fc7-a1d0-30831ed7e593",
+          "text": "Isocarboxazid",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "760b52f3-51ff-41de-939f-fd256355b9f3",
+          "text": "Tranylcypromine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8f376cc1-1f65-4809-beca-a150b0e02193",
+          "text": "Moclobemide",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "e1fb703c-d95a-40be-9ab8-bf0eaf360435",
+          "text": "Raclopride",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fac02379-fa6e-4ec2-a21a-2ff8bbe97030",
+          "text": "Phenelzine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "8f376cc1-1f65-4809-beca-a150b0e02193",
+        "text": "Moclobemide"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "8f376cc1-1f65-4809-beca-a150b0e02193",
+          "text": "Moclobemide",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Moclobemide is a reversible inhibitor of monoamine oxidase-A (RIMA). The 'cheese reaction' is less likely with RIMAs than traditional MAOIs.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 54,
+      "question_id": "b90dc088-f3cc-4dc4-8ca4-2ec40135db6c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following ethnic differences in pharmacogenetics create natural alcohol deterrence?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "897e817f-a3ec-48c3-b06e-a3914a01b87e",
+          "text": "Low cholinesterase",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "01d898dc-2c5e-4a52-a162-19618de50896",
+          "text": "Lack of aldehyde dehydrogenase",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "3fecb590-b772-400c-aa7c-967b5b41237c",
+          "text": "High aldehyde dehydrogenase",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "52e523b3-7a7f-4207-8900-f65524e14917",
+          "text": "High alcohol dehydrogenase",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a6f29dee-d2be-4437-85c9-5a628e3ca686",
+          "text": "High CYP 3A4",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "01d898dc-2c5e-4a52-a162-19618de50896",
+        "text": "Lack of aldehyde dehydrogenase"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "01d898dc-2c5e-4a52-a162-19618de50896",
+          "text": "Lack of aldehyde dehydrogenase",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Approximately 10% of ingested alcohol is subjected to first pass metabolism by alcohol dehydrogenase (ADH). The remainder is metabolised in the liver by ADH and CYP2E1. CYP2E1 and ADH convert alcohol to acetaldehyde. Acetaldehyde is further metabolised by aldehyde dehydrogenase to acetic acid and then to carbon dioxide and water. All the enzymes involved in the metabolism of alcohol exhibit genetic polymorphism. For example, the majority of people of north Asian origin are poor metabolisers via aldehyde dehydrogenase.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 55,
+      "question_id": "4e184e59-c2c3-4785-9040-ac467b0b8999",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The antipsychotic drug paliperidone belongs to the class of",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "77dd816c-2433-46c8-ae9e-36771584c2ab",
+          "text": "dibenzothiazepines",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "68967f6f-46bd-4daf-a8e0-5bbe5fe5ea02",
+          "text": "benzixosazoles",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "59e3b3c0-5f05-4142-bea3-3d9c50d04050",
+          "text": "thienobenzodiazepines",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e060e893-0f2c-40d5-a8c1-6229df742308",
+          "text": "dibenzodiazepines",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ff2b711a-4703-4569-a786-636ce4166b33",
+          "text": "benzamides",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "68967f6f-46bd-4daf-a8e0-5bbe5fe5ea02",
+        "text": "benzixosazoles"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "68967f6f-46bd-4daf-a8e0-5bbe5fe5ea02",
+          "text": "benzixosazoles",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Paliperidone is a benzisoxazole derivative and is the major active metabolite of risperidone.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 56,
+      "question_id": "22fff957-a06a-417a-96d0-98a41051c628",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following has evidence based support for managing treatment-resistant depression?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f36a0ccd-4b10-4001-bdc1-a18ec82ac4e0",
+          "text": "Fluoxetine and clonazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c5f66089-9f3d-44d8-84e9-d29c4f33992e",
+          "text": "Fluoxetine and buspirone",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ac0ed618-c2ca-419f-aaa2-60c84369e1f3",
+          "text": "Citalopram and valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5d80d91f-2a7f-4db9-a792-a41f61cf8c83",
+          "text": "Venlafaxine and mirtazapine",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "c4435346-0e49-4158-b839-515be2170f72",
+          "text": "Duloxetine and fluoxetine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "5d80d91f-2a7f-4db9-a792-a41f61cf8c83",
+        "text": "Venlafaxine and mirtazapine"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "5d80d91f-2a7f-4db9-a792-a41f61cf8c83",
+          "text": "Venlafaxine and mirtazapine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "There is good literature support for the use of an SSRI or venlafaxine plus mianserin or mirtazapine in the management of treatment-resistant depression. These combinations are recommended by NICE, usually well-tolerated, and are widely used. Patients should be warned that there is a theoretical risk of serotonin syndrome. There is also a risk of blood dyscrasia with mianserin. Weight gain and sedation are common side effects of mirtazapine. The combination of mirtazapine with an SNRI is sometimes called 'California rocket fuel' because of these potentially powerful drugs blasting the patient out of the depths of depression.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

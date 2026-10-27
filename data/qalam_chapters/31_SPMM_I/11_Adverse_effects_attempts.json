@@ -1,0 +1,4837 @@
+{
+  "chapter_id": "3cbfb44f-f3d2-49bd-ac3b-75b3ffd93ad3",
+  "chapter_name": "Adverse effects attempts",
+  "chapter_title": "Adverse effects attempts",
+  "resource_id": "d7e6b408-1793-402b-9890-ee18dbb216f6",
+  "resource_title": "SPMM I",
+  "subject_name": "SPMM I",
+  "chapter_number": 11,
+  "total_questions": 83,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "611c5ef7-efdd-4a1b-834e-bd247ce0d0d9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Choose an antibiotic that can cause serotonin syndrome if combined with MAOIs:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b747e759-069e-4bb5-9297-02f9ecbeee49",
+          "text": "Ciprofloxacin",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "37040b86-b454-4708-94b0-274ee85db69a",
+          "text": "Linezolid",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "9f7e0fce-f7d5-4352-a88b-8f6099821524",
+          "text": "Amoxicillin",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "37ce67ec-e9f5-444e-af65-929376a6f3de",
+          "text": "Erythromycin",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "0d2cfbdd-1040-49fb-905e-de78a5374308",
+          "text": "Trimethoprim",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "37040b86-b454-4708-94b0-274ee85db69a",
+        "text": "Linezolid"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "37040b86-b454-4708-94b0-274ee85db69a",
+          "text": "Linezolid",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Linezolid is an oxazolidinone antibiotic with activity against multi-drug resistant Gram-positive organisms, showing lipophilic features, excellent tissue penetration including the central nervous system (CNS), and weak reversible non-selective monoamine oxidase (MAO) inhibitory effects at therapeutic serum concentrations. MAO is involved in the metabolism of the monoamine neurotransmitters, and its inhibition may potentially lead to excess serotonin in the CNS and the occurrence of serotonin syndrome.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": "d536c5bb-467b-4a4d-869e-66f373c558b9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The CNS side effects like anxiety and agitation in the initial few weeks of treatment with SSRIs are proposed to be due to",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3fba957a-50c9-4b52-8441-987ca28af0e3",
+          "text": "Under stimulation of 5HT3 receptors in the limbic system",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "73b5a335-b248-48bd-a9c7-0c29466614d4",
+          "text": "Over stimulation of 5HT3 receptors in the limbic system",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "47119216-4714-4df6-9aa1-2c23c7b7a35a",
+          "text": "Over stimulation of 5HT2 receptors in the limbic system",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "f442d4dc-7fe7-441c-b1e3-42eaad2950dd",
+          "text": "Under stimulation of 5HT2 receptors in the limbic system",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "661b038a-b319-4062-9353-f07abd248e09",
+          "text": "Under stimulation of 5HT1 receptors in the limbic system",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "47119216-4714-4df6-9aa1-2c23c7b7a35a",
+        "text": "Over stimulation of 5HT2 receptors in the limbic system"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "47119216-4714-4df6-9aa1-2c23c7b7a35a",
+          "text": "Over stimulation of 5HT2 receptors in the limbic system",
+          "is_correct": true
+        }
+      ],
+      "explanation": "This effect may be due to over stimulation of 5HT-2 receptors in the limbic system though this is far from being conclusive. Fluoxetine has a high anxiogenic effect while citalopram has the least propensity to induce anxiety.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "bb218b89-bf36-4285-8697-d4de963af58d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In managing the hypertensive crisis associated with monoamine oxidase (MAO) inhibitors and the ingestion of food with tyramine, the agent of choice is:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "906b2587-9aa7-4448-a63f-48006c03b394",
+          "text": "propranolol",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "6ff631ce-cb4f-4ef3-92d8-d4320ee78ef1",
+          "text": "cyproheptadine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "77e7fe38-1880-470c-98ee-90a3578a98b1",
+          "text": "phentolamine",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "8259ed36-44db-4c23-9504-8a5c2999852e",
+          "text": "carvedilol",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "aa2b0657-c278-4f89-a045-eb46edba93ea",
+          "text": "reserpine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "77e7fe38-1880-470c-98ee-90a3578a98b1",
+        "text": "phentolamine"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "77e7fe38-1880-470c-98ee-90a3578a98b1",
+          "text": "phentolamine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "An MAOI-induced hypertensive crisis should be treated with alpha-adrenergic antagonists (for example phentolamine or chlorpromazine). These drugs lower blood pressure within 5 minutes. IV furosemide can be used to reduce fluid load, and a beta-adrenergic receptor antagonist can control tachycardia.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": "eaca4243-b843-41f5-9179-e40f95438200",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A specific side effect of mianserin that requires regular monitoring is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a20cf543-f2cf-4dc8-a93c-9ac05c907ce9",
+          "text": "anticholinergic activity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e290c3dc-487a-4719-84a6-4ca42659d6ab",
+          "text": "risk of serotonin syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7efaa84e-80c9-4ff6-b6cb-57eada7b45cf",
+          "text": "cardiotoxicity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "fae6721c-c33f-4308-b28b-0123b27250f2",
+          "text": "QT prolongation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e1d6ee8c-695b-4d06-8934-4eea955b2d91",
+          "text": "bone marrow suppression",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "e1d6ee8c-695b-4d06-8934-4eea955b2d91",
+        "text": "bone marrow suppression"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "e1d6ee8c-695b-4d06-8934-4eea955b2d91",
+          "text": "bone marrow suppression",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Mianserin is an antidepressant with a mode of action similar to TCAs, but with fewer anticholinergic side effects. It has fewer cardiovascular problems, but blood dyscrasias are more common, especially in the elderly. Full blood count is recommended 4-weekly for the first 3 months of treatment, and thereafter, 3- to 6-monthly. This has limited the use of mianserin in recent years.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": "9dbc5254-2c7c-436f-b158-6274af0d129f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 45-year-old gentleman stated on risperidone complained of feeling anxious and was constantly found crossing/uncrossing legs on the ward. What is the most likely cause among the following?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1a709703-d38e-4e75-b458-fdfd005cda62",
+          "text": "Akathisia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "90bf44d8-1da5-4816-8248-15f951aa144a",
+          "text": "Dystonia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "a456deb5-cef4-4db1-8d23-a08dbd0dcea3",
+          "text": "Pseudoparkinsonism",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "145b986b-a57f-4c74-9448-e8c3b69aa343",
+          "text": "Tardive dystonia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "63363f53-d07a-459c-bf42-d459f7ca6040",
+          "text": "Tardive dyskinesia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "1a709703-d38e-4e75-b458-fdfd005cda62",
+        "text": "Akathisia"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "1a709703-d38e-4e75-b458-fdfd005cda62",
+          "text": "Akathisia",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Akathisia is an unpleasant, distressing side effect of antipsychotic treatment. It characteristically manifests with a subjective feeling of inner restlessness and an objective component – movements such as pacing constantly; inability to stand, sit, or lie still; rocking; and crossing/uncrossing legs.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": "0be42352-f32e-4ec2-8eca-b0306f21ae60",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following is associated with erectile dysfunction more often than the other SSRIs?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "eb98646b-5a0b-4d49-9659-1959f2f30b46",
+          "text": "Fluvoxamine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "36b81865-5b92-42e2-a7c4-3ff787e85af9",
+          "text": "Fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "25fb5881-b2ef-4060-bd51-3967c1d4697d",
+          "text": "Citalopram",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c4e41d3d-bec4-400e-8eb8-d31f4a65438c",
+          "text": "Paroxetine",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "3ef7a185-be09-4fc2-a876-b1f3d131c09f",
+          "text": "Sertraline",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "c4e41d3d-bec4-400e-8eb8-d31f4a65438c",
+        "text": "Paroxetine"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "c4e41d3d-bec4-400e-8eb8-d31f4a65438c",
+          "text": "Paroxetine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Of the SSRIs, paroxetine is associated with having the greatest risk for causing delayed ejaculation, reduced desire, and impotence, defined as inability to obtain an erection in men and inadequate lubrication in women.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": "de9255bc-1b37-49f1-b8cf-912c63184247",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "From the following list choose the pair of medications where the former producing side-effects that are ameliorated by the second drug.",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "8704789b-e4f1-4e45-9d51-bb624b5f65b0",
+          "text": "clozapine-frusemide",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5376b8c7-25e8-4686-8aed-b5e9bfa86a04",
+          "text": "reboxetine-doxazosin",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "9b4bdad8-7fa8-4366-83b9-2a3f4b494cb2",
+          "text": "citalopram-hyoscine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b90c86eb-0176-49ed-a073-6a75c111bf51",
+          "text": "zopiclone-atomoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e44c943b-c31c-4838-ba29-fbb69fd44d73",
+          "text": "phenytoin-danazol",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "5376b8c7-25e8-4686-8aed-b5e9bfa86a04",
+        "text": "reboxetine-doxazosin"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "5376b8c7-25e8-4686-8aed-b5e9bfa86a04",
+          "text": "reboxetine-doxazosin",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Reboxetine is a selective norepinephrine reuptake inhibitor. Side effects may appear ‘anticholinergic’, but reboxetine does not directly block muscarinic receptors. Constipation, dry mouth, and urinary retention are noradrenergic, due in part to peripheral alpha 1 receptor stimulation causing decreased acetylcholine release. Thus, antidotes for these side effects can be alpha 1 antagonists such as tamsulosin or doxazosin, especially in men over 50 with borderline urine flow.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": "3a4e98a5-e6f5-4202-9f9a-84de7910f398",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The sexual side effects caused by SSRI antidepressants are related to the consequence of stimulating which of the following receptors?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0abb57a9-52ea-4190-81d6-ae259c07dbab",
+          "text": "5HT-3 receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "93a889a5-3dd0-4955-b185-25ba16f5e974",
+          "text": "5HT-1 and 2 receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "43635efb-f48a-4769-885b-03708e6165f2",
+          "text": "5HT-1 receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f17d6167-1dd1-4ce1-98b2-adffe0036252",
+          "text": "5HT-2 receptors",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "8d21a50f-8b5f-4166-b762-f942ec30367b",
+          "text": "5HT-2 and 3 receptors",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "f17d6167-1dd1-4ce1-98b2-adffe0036252",
+        "text": "5HT-2 receptors"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "f17d6167-1dd1-4ce1-98b2-adffe0036252",
+          "text": "5HT-2 receptors",
+          "is_correct": true
+        }
+      ],
+      "explanation": "It is thought that stimulation of 5HT2A receptors has negative effects on sexual function. Antidepressants drugs that increase 5HT signalling in the absence of 5HT2A antagonism (e.g. SSRIs) are commonly associated with sexual side effects while agents that possess 5HT2A antagonist activity (e.g mirtazapine) have a relatively low likelihood of inducing sexual side effects.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": "1bcf9f67-9cc4-483e-a143-2820cea90e5b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is the most common adverse effect of valproate?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "47b27596-8d72-446d-b62b-945db25fe31d",
+          "text": "Ataxia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2cd3313a-33bb-4f0c-b234-4bdc4b8856dc",
+          "text": "Persistent elevation of hepatic transaminases",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3c79c456-6652-42b0-a67e-90c160f500a2",
+          "text": "Reversible thrombocytopenia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6443ee85-0ff1-4597-befe-327e985eee85",
+          "text": "Diarrhoea",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "04ee2b02-d303-4086-92e4-07a6492f4366",
+          "text": "Hair loss",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "6443ee85-0ff1-4597-befe-327e985eee85",
+        "text": "Diarrhoea"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "6443ee85-0ff1-4597-befe-327e985eee85",
+          "text": "Diarrhoea",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The most common adverse effects associated with valproate are those affecting the GI system, such as nausea, vomiting, dyspepsia, and diarrhoea. The GI effects are generally most common in the first month of treatment, significantly if the dosage is increased rapidly.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": "a9aea0c8-f266-4639-95a1-68abb87ba7fb",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The patients who are prescribed clozapine or olanzapine should have their serum lipids measured every",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "faaf9915-e85e-4f60-991d-414d631d6e93",
+          "text": "6 days whilst on treatment",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f15aac76-9ce0-463a-a875-60b1f343481f",
+          "text": "One year whilst on treatment",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "aeff9dea-72cf-4e0a-bda4-50afaf3d4333",
+          "text": "3 months for the first year of treatment",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "458e7dad-4f36-4d27-9173-573fa64eb9f8",
+          "text": "6 weeks for the first year of treatment",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "186b3de9-618a-4ea1-90e5-c42e922ad8bf",
+          "text": "6 months for the first year of treatment",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "aeff9dea-72cf-4e0a-bda4-50afaf3d4333",
+        "text": "3 months for the first year of treatment"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "aeff9dea-72cf-4e0a-bda4-50afaf3d4333",
+          "text": "3 months for the first year of treatment",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Patients on clozapine or olanzapine should have blood lipids (cholesterol and triglycerides – fasting if possible) checked three-monthly for the first year, then yearly.",
+      "explanation_images": [
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/11.%20Adverse%20effects%20attempts/10/explanation_image-a9aea0c8-f266-4639-95a1-68abb87ba7fb-1788625145439.jpeg"
+      ],
+      "explanation_image_url": "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/11.%20Adverse%20effects%20attempts/10/explanation_image-a9aea0c8-f266-4639-95a1-68abb87ba7fb-1788625145439.jpeg"
+    },
+    {
+      "question_number": 11,
+      "question_id": "96bfde93-5cb0-497e-8daf-036dd2f7e939",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A trainee doctor working at a medical ward asks your advice while on call. She is requesting an assessment for an agitated and hallucinating inpatient on the medical ward. She reports that he appears flushed with a hot and dry skin, mydriasis, rapid pulse and diminished bowel sounds. Which of the following is the best suggestion for you to make at this stage?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a8fdedff-f677-4f10-a579-f997998b2a0f",
+          "text": "Administer atropine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "8b41138a-ce6f-4562-ba7e-0624a2f800f9",
+          "text": "Prescribe IM olanzapine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3ddbb4e8-3726-4e8d-ada4-605d98b8712f",
+          "text": "Discontinue anticholinergic drugs",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "d5fd4ba2-cde4-4fcd-85f5-e377159bf6b9",
+          "text": "Prescribe diazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "83f53c65-f52c-4996-bb1e-01c9b7498618",
+          "text": "Prescribe haloperidol",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "3ddbb4e8-3726-4e8d-ada4-605d98b8712f",
+        "text": "Discontinue anticholinergic drugs"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "3ddbb4e8-3726-4e8d-ada4-605d98b8712f",
+          "text": "Discontinue anticholinergic drugs",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Delirium is a medical emergency associated with significant mortality, especially if not recognised and managed early. Need and appropriateness of all medications should be reviewed. Any drugs with anticholinergic effects should ideally be withdrawn or switched. A regularly updated Anticholinergic Effect on Cognition tool can be accessed at www.medichec.com",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": "590e3d06-38fb-4e45-8851-53f5a7e222a1",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Botulinum toxin may have a role in the treatment of",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "7ac6104a-54c6-4c57-bee8-b2f96492df2d",
+          "text": "Tardive dyskinesia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d06d60d9-55a8-40e6-9f67-991d2704ca11",
+          "text": "Akathisia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ffe96b79-8abb-4630-877f-88cfa23c98c8",
+          "text": "Tardive dystonia",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "42a6b120-db58-40f5-9746-5c1e50fbe55a",
+          "text": "Parkinsonism",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "06062754-1109-429c-9181-6449e62a9baf",
+          "text": "Acute dystonias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "ffe96b79-8abb-4630-877f-88cfa23c98c8",
+        "text": "Tardive dystonia"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "ffe96b79-8abb-4630-877f-88cfa23c98c8",
+          "text": "Tardive dystonia",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Tardive dystonia occurs after months to years of antipsychotic treatment. Tardive dystonia may respond to botulinum toxin, ECT, or deep brain stimulation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": "78bb017a-01a5-482d-a1ce-e2bb474097fd",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following is not a specific risk factor for QTc prolongation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "18babc9b-201b-4a02-99d9-737d555370b0",
+          "text": "Anorexia nervosa",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "81fe8977-ad2d-484f-8c3e-a0437eb6f080",
+          "text": "Extremes of age",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "fd6a778c-f922-45e9-9bdd-d357489ddedc",
+          "text": "Bradycardia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "fff63549-7190-4402-b152-c7832dbc0858",
+          "text": "Myocarditis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "52465037-ad6f-4b63-8bd3-80e59966772a",
+          "text": "Use of atypical antipsychotics rather than typicals",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "52465037-ad6f-4b63-8bd3-80e59966772a",
+        "text": "Use of atypical antipsychotics rather than typicals"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "52465037-ad6f-4b63-8bd3-80e59966772a",
+          "text": "Use of atypical antipsychotics rather than typicals",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The correct answer is: Use of atypical antipsychotics rather than typicals",
+      "explanation_images": [
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/11.%20Adverse%20effects%20attempts/13/explanation_image-78bb017a-01a5-482d-a1ce-e2bb474097fd-1788625176971.jpeg",
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/11.%20Adverse%20effects%20attempts/13/explanation_image2-78bb017a-01a5-482d-a1ce-e2bb474097fd-1788625201659.jpeg"
+      ],
+      "explanation_image_url": "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/11.%20Adverse%20effects%20attempts/13/explanation_image-78bb017a-01a5-482d-a1ce-e2bb474097fd-1788625176971.jpeg"
+    },
+    {
+      "question_number": 14,
+      "question_id": "6345450a-6ef1-47de-bb4f-55293908a81c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 73-year-old lady was admitted to the medical ward with a history of increasing confusion, lethargy and dizziness over the last three days. She is on fluoxetine 30 mg, and her other medications include furosemide, aspirin and ramipril. She has a history of chronic renal failure. Her vital signs were within normal limits. What is the most likely diagnosis?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d75d2eaa-e0cb-4567-af2f-014a2a661bcd",
+          "text": "Serotonin syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "52e33b8e-a562-497e-a967-96549938212c",
+          "text": "Tyramine reaction",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ef848e95-fcd7-4a5d-92b0-7614215393d4",
+          "text": "Acute dystonic reaction",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5104a0ec-2e5b-40d3-9d16-201973492ff4",
+          "text": "Neuroleptic malignant syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ae5e34ed-9804-42f9-ad35-43b2deac5fe1",
+          "text": "Antidepressant-induced hyponatraemia",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "ae5e34ed-9804-42f9-ad35-43b2deac5fe1",
+        "text": "Antidepressant-induced hyponatraemia"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "ae5e34ed-9804-42f9-ad35-43b2deac5fe1",
+          "text": "Antidepressant-induced hyponatraemia",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Most antidepressants have been associated with hyponatraemia. It has been suggested that serotonergic drugs are relatively more likely than noradrenergic drugs to cause hypnonatraemia, although this is disputed. Risk factors include: older age (most important), female sex, major surgery, history of hyponatraemia or a low baseline Na concentration, co-therapy with other drugs known to be associated hyponatraemia (e.g. diuretics, NSAIDs, antipsychotics, carbamazepine, cancer chemotherapy, calcium antagonists, ACE inhibitors, and laxatives), reduced renal function, medical co-morbidity (e.g. hypothyroidism, diabetes, COPD, hypertension, head injury, congestive cardiac failure, cerebrovascular accident, various cancers), and low body weight.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": "fe1887c3-82cf-4ba6-905d-483f7e96550f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Sustained abnormal postures or positions called tardive dystonias are sometimes seen during neuroleptic treatment. Tardive dystonia occurs after",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "fa3ed845-a0a5-4d5d-9180-3f1360a268dd",
+          "text": "Months to years of antipsychotic treatment",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "42d95b9d-c70c-48b3-9aa7-f2cb8b8df03b",
+          "text": "Days to weeks of starting antipsychotics",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "71b6a087-4205-47f1-ad05-5dd53ca4e0fb",
+          "text": "Within hours to weeks of starting antipsychotics",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5bd97b8f-1473-47dc-8870-f37d22522470",
+          "text": "Within hours of starting antipsychotics",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "2dc17e37-2773-4833-a4c6-28fe7757dca9",
+          "text": "Within minutes of starting antipsychotics",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "fa3ed845-a0a5-4d5d-9180-3f1360a268dd",
+        "text": "Months to years of antipsychotic treatment"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "fa3ed845-a0a5-4d5d-9180-3f1360a268dd",
+          "text": "Months to years of antipsychotic treatment",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Acute dystonia can occur within hours of starting antipsychotics (minutes if the IM or IV route is used). Tardive dystonia occurs after months to years of antipsychotic treatment. Tardive dystonia may respond to botulinum toxin, ECT, or deep brain stimulation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": "d851b5a9-9e62-4485-82ad-a844ec51699a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following is not a risk factor for developing neuroleptic malignant syndrome (NMS)?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2c0378fa-9062-49da-91ae-82b6378812ba",
+          "text": "Low potency typical drugs",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "9f4b0b91-de17-4f4d-990b-667f09a6f923",
+          "text": "Abrupt withdrawal of anticholinergics",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6974869f-bdee-4ced-8501-be96ae4401c1",
+          "text": "Recent or rapid dose increase of antipsychotics",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "23d61f25-dfdb-4ec2-97da-fa094bd05177",
+          "text": "High-potency typical drugs",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "bd8c292e-e2f8-4267-8395-8afcab273c53",
+          "text": "High-potency depot preparations",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "2c0378fa-9062-49da-91ae-82b6378812ba",
+        "text": "Low potency typical drugs"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "2c0378fa-9062-49da-91ae-82b6378812ba",
+          "text": "Low potency typical drugs",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Risk factors for NMS include increased ambient temperature; dehydration; patient agitation or catatonia; rapid antipsychotic initiation/dose escalation; withdrawal of anti-Parkinsonian medication; use of high-potency agents/depot IM preparations; history of organic brain disease; affective disorder; previous NMS; predisposing drugs (e.g lithium).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": "e632a8ee-84aa-411f-b0e2-8b46e3702ee8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following psychotropics is associated with an increased risk of GI bleed in the elderly?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "cdfe100b-60e8-4004-a0ac-a7362054832c",
+          "text": "Neuroleptics",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e7ddffdc-514e-499f-806d-01339c95bfd1",
+          "text": "SSRIs",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "b7c2d601-5ceb-4e3c-9817-0d60a2e86715",
+          "text": "Z group hypnotics",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5063754b-c183-42e1-b52e-2fd7f9f18386",
+          "text": "Atypical antipsychotics",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f55eca08-10f1-4828-8a9d-459899d15762",
+          "text": "Methadone",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "e7ddffdc-514e-499f-806d-01339c95bfd1",
+        "text": "SSRIs"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "e7ddffdc-514e-499f-806d-01339c95bfd1",
+          "text": "SSRIs",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Serotonin is released from platelets in response to vascular injury, promoting vasoconstriction and morphological changes in platelets that lead to aggregation. SSRIs inhibit the serotonin transporter, which is responsible for the uptake of serotonin into platelets. This depletion of platelet serotonin leads to a reduced ability to form clots and a subsequent increase in the risk of bleeding. SSRIs may also increase gastric acid secretion and therefore may be indirectly irritant to the gastric mucosa, increasing the risk of peptic ulcer. The risk of abnormal bleeding of any kind with SSRIs is highest during the first 30 days of treatment. The use of serotonergic antidepressants is an independent risk factor for bleeding events. SSRIs increase the risk of GI bleeds, especially in the very old and those with established risk factors such as a history of bleeds or treatment with NSAIDs, steroids, or warfarin.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": "d1ea9bd3-6e6f-4f14-8b46-9fad744757ce",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Bupropion is associated with which of the following side effects?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1fbcd1d5-9c46-466c-8d8e-f0d149b54d5e",
+          "text": "Anticholinergic action",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4366d036-c1e6-46c8-838d-10041c877080",
+          "text": "Weight loss",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "adc91b9f-25b8-47a6-982d-07776fd1c0e8",
+          "text": "Sedation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "eed980ff-8775-47ce-93e9-24cf6a352247",
+          "text": "Loss of libido",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "31f1a3c3-cdad-4606-86c0-eddddc21944b",
+          "text": "Increased seizure threshold",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "4366d036-c1e6-46c8-838d-10041c877080",
+        "text": "Weight loss"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "4366d036-c1e6-46c8-838d-10041c877080",
+          "text": "Weight loss",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Bupropion has been shown to cause modest weight loss that is sustained. When combined with diet and lifestyle changes, bupropion can facilitate more significant weight loss.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": "ec1c0887-ae71-4c97-984d-b814921da0ce",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following SSRIs should be used with caution in post-MI patients?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b6776192-79cb-4aa8-a8f3-1878e9292127",
+          "text": "Paroxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b233f140-4251-4533-8f94-7214b67e7c52",
+          "text": "Citalopram",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "5d797af6-5b83-4022-b2bb-28d0f586467a",
+          "text": "Fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "3daaaa3a-fab2-45c3-a86b-2de53550a6f9",
+          "text": "Fluvoxamine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "7308d8b2-5eba-4692-8a08-e500d5030dfa",
+          "text": "Sertraline",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "b233f140-4251-4533-8f94-7214b67e7c52",
+        "text": "Citalopram"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "b233f140-4251-4533-8f94-7214b67e7c52",
+          "text": "Citalopram",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Citalopram has a minor metabolite that increases the QTc interval. Due to QTc prolongation, citalopram is linked to an increased risk of torsades de pointes and caution is advised in its use post-MI. However, there is some evidence for the safety of citalopram in patients at risk of arrhythmia due to recent myocardial infarction and some support for the safety of citalopram in patients with coronary artery disease.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": "733e1ba4-40db-4b50-9403-989943ea6092",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 31-year-old patient was started on antipsychotic medication for the first time. He developed fluctuating BP, hyperthermia, confusion, urinary incontinence and has raised creatinine kinase. The diagnosis is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "50ecea01-513d-443a-a84e-6a7bf9f382d1",
+          "text": "Parkinsonism",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a1deeb8c-4671-4a66-9484-2c3ec30d07d1",
+          "text": "Acute dystonia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "94da29e2-fd97-4f01-8e6c-943b4fe5ca58",
+          "text": "Neuroleptic malignant syndrome",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "9ebe6ca7-1c0d-4fa4-82e4-3a66a9c472f9",
+          "text": "Tardive dystonia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b7a3c832-4bf9-4db4-a4b6-1154be51fd67",
+          "text": "Tardive dyskinesia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "94da29e2-fd97-4f01-8e6c-943b4fe5ca58",
+        "text": "Neuroleptic malignant syndrome"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "94da29e2-fd97-4f01-8e6c-943b4fe5ca58",
+          "text": "Neuroleptic malignant syndrome",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Neuroleptic malignant syndrome (NMS) is a rare, life-threatening idiosyncratic reaction to antipsychotic (and other) medication, characterised by fever, muscular rigidity, altered mental status, and autonomic dysfunction.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": "11d6c6ac-f61e-4219-83df-0f8de9f04bb2",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is NOT a common side effect of rivastigmine?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1c6cede3-c6fd-4c2a-94c0-23c246403240",
+          "text": "Dizziness",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "dec94f83-82ae-4381-a552-eee18ec1aff0",
+          "text": "Nausea",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c29809c9-db44-43d7-8c54-43aaebcdcc1c",
+          "text": "Constipation",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "4f72f8fd-787b-49ff-ae1b-85ea4282e076",
+          "text": "Vomiting",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "5e9955e7-39f3-4781-b9fe-0cd03fd77da9",
+          "text": "Weight loss",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "c29809c9-db44-43d7-8c54-43aaebcdcc1c",
+        "text": "Constipation"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "c29809c9-db44-43d7-8c54-43aaebcdcc1c",
+          "text": "Constipation",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Constipation is very rare with rivastigmine.",
+      "explanation_images": [
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/11.%20Adverse%20effects%20attempts/21/explanation_image-11d6c6ac-f61e-4219-83df-0f8de9f04bb2-1788625263228.jpeg"
+      ],
+      "explanation_image_url": "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/11.%20Adverse%20effects%20attempts/21/explanation_image-11d6c6ac-f61e-4219-83df-0f8de9f04bb2-1788625263228.jpeg"
+    },
+    {
+      "question_number": 22,
+      "question_id": "14d2b494-1087-41f1-b7b5-6d463f738340",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following as a side effect of tricyclic antidepressants is not related as due to anticholinergic receptor blockade?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d1144e81-fbfc-421c-9b38-c376b3eb0951",
+          "text": "Urinary retention",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "cb2d4831-6e87-4d7c-a222-8b56be005783",
+          "text": "Constipation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ff13fbc4-fdae-4f63-bf4a-edb11ed99723",
+          "text": "Dry mouth",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0db682d5-848e-478c-b8ca-b447c4bacf78",
+          "text": "Blurred vision",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "1360375e-611f-480a-9814-140db86b07a6",
+          "text": "Sedation",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "1360375e-611f-480a-9814-140db86b07a6",
+        "text": "Sedation"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "1360375e-611f-480a-9814-140db86b07a6",
+          "text": "Sedation",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Anticholinergic effect: Dry mouth, constipation, urinary retention, blurred vision, and glaucoma. Antihistaminic effect: sedation, weight gain.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": "316149d8-5bc8-4548-9436-65405f82dc16",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Weight gain as a side effect of antipsychotics is caused by all of the following mechanisms except",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a79ba0b9-8132-4212-9623-46a1450bb667",
+          "text": "H-1 antagonism",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "7ca9c4dd-8f15-44c5-be6b-66bd79c6e46a",
+          "text": "Hyperprolactinaemia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c2935b79-1f90-444b-9cf7-fbba365c110f",
+          "text": "Increased serum leptin leading to leptin desensitisation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "258ad2b0-e8cf-4972-b60d-58efe92f0973",
+          "text": "5HT2-A antagonism",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "d526b91a-ea95-4735-8683-ccba6de49da0",
+          "text": "5HT2-C antagonism",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "258ad2b0-e8cf-4972-b60d-58efe92f0973",
+        "text": "5HT2-A antagonism"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "258ad2b0-e8cf-4972-b60d-58efe92f0973",
+          "text": "5HT2-A antagonism",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The suggested mechanisms for weight gain as a side effect of antipsychotics include 5HT2-C antagonism, H-1 antagonism, hyperprolactinaemia, and increased serum leptin as a result of secondary leptin desensitisation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": "1cdc5185-4728-4b27-b754-cdcf5078c895",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A reduction in akathisia symptoms may not be seen on treatment with",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "78fcffbd-4bde-4751-b6e9-ae0d5170c947",
+          "text": "Propranolol",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "591da51b-a27d-4023-a310-3e22c12ed95a",
+          "text": "Benzatropine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "1706921f-8f92-4695-8545-8e1a18067760",
+          "text": "Mirtazapine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "505a6d2d-ca39-4322-975e-4a6636828d55",
+          "text": "Clonazepam (low dose)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "dc7eae0f-7d9a-47f9-9ffc-a61284530961",
+          "text": "Tetrabenazine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "dc7eae0f-7d9a-47f9-9ffc-a61284530961",
+        "text": "Tetrabenazine"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "dc7eae0f-7d9a-47f9-9ffc-a61284530961",
+          "text": "Tetrabenazine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Akathisia is an unpleasant, distressing side effect of antipsychotic treatment. It characteristically manifests with a subjective feeling of inner restlessness and an objective component – movements such as pacing constantly; inability to stand, sit, or lie still; rocking; and crossing/uncrossing legs. A reduction in akathisia symptoms may be seen with Propranolol, Clonazepam (low dose up to 3mg) or Diazepam (up to 15mg/day), Mirtazapine or Mianserin, Benzatropine (anticholinergic) or Clonidine. Dantrolene (used for NMS) and tetrabenazine (used for tardive dyskinesia) are not indicated.",
+      "explanation_images": [
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/11.%20Adverse%20effects%20attempts/24/explanation_image-1cdc5185-4728-4b27-b754-cdcf5078c895-1788625303930.jpeg"
+      ],
+      "explanation_image_url": "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/11.%20Adverse%20effects%20attempts/24/explanation_image-1cdc5185-4728-4b27-b754-cdcf5078c895-1788625303930.jpeg"
+    },
+    {
+      "question_number": 25,
+      "question_id": "80227680-f3d5-4ddf-bfc6-f175b1838c7a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following skin problems can prove to be fatal in those started on Lamotrigine?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e38eaec2-58db-4afe-8e69-af890ef62157",
+          "text": "Steven Johnson syndrome",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "2e737223-5bcd-46c8-8fe2-41c982109b53",
+          "text": "Psoriasis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "34f795c8-c82f-4033-bad9-3292afb68776",
+          "text": "Jarisch-Herxheimer reaction",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "65ad4a17-97e7-4862-82e3-df93db132829",
+          "text": "Acanthosis nigricans",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "41de3c4a-9f23-4522-a80d-674560bb5a36",
+          "text": "Lichen planus",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "e38eaec2-58db-4afe-8e69-af890ef62157",
+        "text": "Steven Johnson syndrome"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "e38eaec2-58db-4afe-8e69-af890ef62157",
+          "text": "Steven Johnson syndrome",
+          "is_correct": true
+        }
+      ],
+      "explanation": "10-14% of patients receiving lamotrigine will develop rash. Most are benign. A minority may be serious/life-threatening skin reactions requiring hospitalisation (e.g. Steven-Johnson syndrome, toxic epidermal necrolysis, angio-oedema, and a rash associated with a number of systemic manifestations). Rash is most likely to occur within the first 2-8 weeks of treatment and is more likely when combined with valproate, exceeding the recommended initial dose, or rapid dose escalation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": "668ed56b-80e6-45a5-9208-29f7481f19f0",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A patient with a known diagnosis of psychotic depression does not want to get obese. Drugs with which of the following receptor profiles should be avoided?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "fca7e1c7-029e-4a5e-bb53-0dc5654a3a6c",
+          "text": "5HT-2A antagonism",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a85e5c75-8725-4f80-8e25-c284e3408664",
+          "text": "5HT3 agonism",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b4288a40-0626-4877-b1ce-45c7c49da963",
+          "text": "D2 antagonism",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "771b69aa-c053-44ff-8fa4-b3c760bb7833",
+          "text": "Alpha-adrenergic agonism",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e88dc360-9308-4742-b3d1-589eaf1034bd",
+          "text": "5HT-2C agonism",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "e88dc360-9308-4742-b3d1-589eaf1034bd",
+        "text": "5HT-2C agonism"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "e88dc360-9308-4742-b3d1-589eaf1034bd",
+          "text": "5HT-2C agonism",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Weight gain accompanies the use of many psychotropic drugs. No specific mechanisms have been identified as causing weight gain, and it appears that the histamine and serotonin systems mediate changes in weight associated with many drugs used to treat depression and psychosis. Genetic factors that regulate body weight, as well as the related problem of diabetes mellitus, seem to involve the 5-HT2C receptor. There is a genetic polymorphism of the promoter region of this receptor, and patients with a variant allele have less weight gain. Drugs with a strong 5-HT2C affinity would be expected to have a more significant impact on body weight of patients with a polymorphism of the 5-HT2C receptor promoter region. Other suggested mechanisms for weight gain include H1 antagonism, D2 antagonism, and increased serum leptin (leading to leptin desensitisation).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": "6a36b94a-5c30-43cb-b8d8-4e3980bfb780",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following drugs is associated with nephrolithiasis?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "da712015-7732-45e9-9260-dfb06151cfb8",
+          "text": "Lithium",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "858cc400-6b3f-40a8-b0a8-4ce697fcfd75",
+          "text": "Carbamazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "76f5f529-72f8-41e7-955c-67502b9b66ea",
+          "text": "Topiramate",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "4b5dc3e7-4733-4a0f-b8d0-7c74bb3338b5",
+          "text": "Valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ba3ffdba-a5fa-4642-84c0-db286470a990",
+          "text": "Quetiapine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "76f5f529-72f8-41e7-955c-67502b9b66ea",
+        "text": "Topiramate"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "76f5f529-72f8-41e7-955c-67502b9b66ea",
+          "text": "Topiramate",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Topiramate affects acid-base balance (low serum bicarbonate), which can be associated with cardiac arrhythmias and the formation of renal calculi in about 1.5% of cases.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": "d85254fc-c520-482c-aba6-b7cbb7629771",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A patient presents to you on the ward with a 'muscle spasm' on his neck. He was started on 5mg Haloperidol (bd) few days ago. What is the most likely problem?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "bb5f83a5-792a-4982-9fb2-22718e9e13bf",
+          "text": "Neuroleptic malignant syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4fbb2370-3ad3-4699-815b-e8a6e31d6405",
+          "text": "Acute dystonia",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "c2d9e700-61a6-4200-97fb-2ff6d1163594",
+          "text": "Parkinsonism",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ddaac5e1-aae6-4860-b935-767a2a2c08e7",
+          "text": "Akathisia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "205e9c1f-0ccb-4236-b414-0ca17311ea1e",
+          "text": "Tardive dyskinesia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "4fbb2370-3ad3-4699-815b-e8a6e31d6405",
+        "text": "Acute dystonia"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "4fbb2370-3ad3-4699-815b-e8a6e31d6405",
+          "text": "Acute dystonia",
+          "is_correct": true
+        }
+      ],
+      "explanation": "An acute dystonic reaction is a syndrome of sustained, often painful, muscular spasms, producing repetitive, twisting movements, or abnormal postures that develop following exposure to antipsychotic medication. Acute dystonia usually occurs within 1 week of commencing or rapidly increasing the dose of the antipsychotic medication or of reducing the anticholinergic medication prescribed to treat it.; 50% of cases occur within 48 hours, rising to 90% within 5 days of exposure.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": "c6595bdd-2d44-4f1b-aa01-36445914ee91",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following tricyclics is most toxic in overdoses?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5db0c294-33cf-4fd5-a28c-c1afc08c2a4d",
+          "text": "Nortriptyline",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5b2b1be3-5c9e-4dac-b569-fafc96d9f71c",
+          "text": "Imipramine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f54be636-5c23-416b-a2af-95f9c009aabf",
+          "text": "Clomipramine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "012006cc-d84c-4404-a878-d009d5e767be",
+          "text": "Dosulepin",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "96cdc9bd-5043-49a1-b0f7-d95dc2c4903f",
+          "text": "Lofepramine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "012006cc-d84c-4404-a878-d009d5e767be",
+        "text": "Dosulepin"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "012006cc-d84c-4404-a878-d009d5e767be",
+          "text": "Dosulepin",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Dothiepin (dosulepin) and amitriptyline are the most toxic tricyclics in overdose (seizures and cardiac arrythmias). The Fatal Toxicity Index (FTI) is a measure of the number of overdose deaths per million prescriptions issued. FTI figures suggest high toxicity for tricyclic drugs, especially dosulepin, but not lofepramine.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": "a078bb83-c2ca-48ec-b777-2aa3016b7ae4",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Moclobemide is an antidepressant that requires dietary restrictions when prescribed. The mechanism of action for the drug moclobemide is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1fb6bd8e-c72c-4cf9-a6da-e5e99e283ff4",
+          "text": "MAOI - irreversible",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5d151e73-1de2-4fe9-8828-c0255ebe8609",
+          "text": "5HT 1A agonist",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "638cba2b-6945-4f33-9aa6-da7e40b9eb2c",
+          "text": "Noradrenaline reuptake blockade",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "3761b410-f973-4e1e-a30c-ecb1e94fdf3c",
+          "text": "5HT2A antagonist",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "7cd627b9-ed5b-4245-8d24-a8dd9f46052b",
+          "text": "MAOI - reversible",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "7cd627b9-ed5b-4245-8d24-a8dd9f46052b",
+        "text": "MAOI - reversible"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "7cd627b9-ed5b-4245-8d24-a8dd9f46052b",
+          "text": "MAOI - reversible",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Moclobemide is a reversible inhibitor of monoamine oxidase.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": "99a191b2-f273-406f-86be-5f8b5da2662e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following is associated with a lower risk of weight gain than the others?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "baab3a21-e8ac-4d29-8357-97433dd825f7",
+          "text": "Aripiprazole",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "8032222d-364c-4359-a7b1-0d2ffeaa6e20",
+          "text": "Clozapine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b119953d-7f7d-439a-a711-698206a5cbdb",
+          "text": "Quetiapine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c72c7d7d-0574-4e06-831c-a56edecf6209",
+          "text": "Chlorpromazine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "5f6833a9-70bb-4af9-8289-41f3bcd18353",
+          "text": "Olanzapine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "baab3a21-e8ac-4d29-8357-97433dd825f7",
+        "text": "Aripiprazole"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "baab3a21-e8ac-4d29-8357-97433dd825f7",
+          "text": "Aripiprazole",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The correct answer is: Aripiprazole",
+      "explanation_images": [
+        "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/11.%20Adverse%20effects%20attempts/31/explanation_image-99a191b2-f273-406f-86be-5f8b5da2662e-1788625337089.jpeg"
+      ],
+      "explanation_image_url": "https://tlherptwrgizmkpqzwsx.supabase.co/storage/v1/object/public/public-bucket/questions/SPMM%20I/11.%20Adverse%20effects%20attempts/31/explanation_image-99a191b2-f273-406f-86be-5f8b5da2662e-1788625337089.jpeg"
+    },
+    {
+      "question_number": 32,
+      "question_id": "176f5d0c-7cb6-402b-996c-c7446eaf807e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which class of antidepressant drugs must be avoided while treating depression in a patient who does not want to gain weight?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d422bc87-17b9-4bbb-a8fe-e9794adca279",
+          "text": "Tricyclics",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "0268378a-d14b-4a42-9e05-f53545b1ed40",
+          "text": "Reboxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f7b133f8-917d-4feb-be2b-37688183c635",
+          "text": "SSRIs",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "9e6de645-985a-4832-9258-dda1cc314f11",
+          "text": "Venlafaxine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "89ab63d9-a1d7-4e4e-ad93-dcccde598d49",
+          "text": "MAOIs",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "d422bc87-17b9-4bbb-a8fe-e9794adca279",
+        "text": "Tricyclics"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "d422bc87-17b9-4bbb-a8fe-e9794adca279",
+          "text": "Tricyclics",
+          "is_correct": true
+        }
+      ],
+      "explanation": "All tricyclics can cause weight gain. Amongst the SSRIs, paroxetine and possibly citalopram may cause weight gain. SNRIs have minimal impact on weight.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": "d8ee616a-ec05-411f-b9a9-56fb5f68e324",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What is the risk of developing fatal agranulocytosis in patients treated with clozapine?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5bec9b15-861e-4318-974a-38ad3786c8ea",
+          "text": "1 in 10000",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "77fe8290-feb3-4d03-9adb-81825f120d19",
+          "text": "1 in 1250",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "e1522aa3-b89c-4a53-8cc9-c7e393450676",
+          "text": "1 in 4250",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "4e81508d-b5a7-4eef-9f97-6d5b9dce4480",
+          "text": "1 in 5000",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "046c2e7c-5e78-4ce2-897e-2455639e8eff",
+          "text": "1 in 1000",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "e1522aa3-b89c-4a53-8cc9-c7e393450676",
+        "text": "1 in 4250"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "e1522aa3-b89c-4a53-8cc9-c7e393450676",
+          "text": "1 in 4250",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The risk of fatal agranulocytosis is estimated to be 1:4250 patients treated (likely overall rate; without monitoring, as it happens in some countries). Risk of fatal agranulocytosis is less than 1 in 8000 during standard monitoring.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": "f25622eb-5d88-477c-b76a-e2faa7d6eaaa",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In treating serotonin syndrome which of the following receptor antagonism is useful for controlling neurological signs?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "059827c2-7de9-40f4-8978-0aaca9d888be",
+          "text": "Alpha",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ea041f06-5c49-4f38-bbd9-d297eb7af643",
+          "text": "H1",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "04240634-4ceb-4910-8f7e-edeb34dbbd6a",
+          "text": "5HT2A",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "b375e80d-737e-4cd9-a339-32af5b944627",
+          "text": "5HT7",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b42eb64d-237a-4635-b1d4-ee06bc43870d",
+          "text": "5HT3",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "04240634-4ceb-4910-8f7e-edeb34dbbd6a",
+        "text": "5HT2A"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "04240634-4ceb-4910-8f7e-edeb34dbbd6a",
+          "text": "5HT2A",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In the management of serotonin syndrome (SS), serotonin receptor antagonists may be considered in select cases (e.g. cyproheptadine, chlorpromazine (risk of reduced seizure threshold), mirtazapine, methysergide, propranolol (mild 5-HT antagonist)). An antipsychotic with antagonist properties (e.g. olanzapine) may be considered though evidence is weak. Moreover, prescribing an antipsychotic for presumed SS when in fact NMS is causative will have inevitable negative clinical consequences. The CNS effects of SS are thought to be related to 5HT-2A stimulation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": "e619bbe0-ecb0-424a-afb0-e53d229440a6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following drugs has a pronounced effect on QTc Prolongation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "63e5b2bc-99db-46a4-9716-31f0248942f8",
+          "text": "Zotepine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "17d01b09-1a87-4395-a100-17da7d7f0e16",
+          "text": "Olanzapine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "60ab63c8-f3b6-4052-941e-21c50acf0355",
+          "text": "Thioridazine",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "08a05cf1-7201-4b24-a233-c6e2f013a6dc",
+          "text": "Sulpiride",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "5897943b-92cb-44b7-89ad-26e8445fc216",
+          "text": "Haloperidol",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "60ab63c8-f3b6-4052-941e-21c50acf0355",
+        "text": "Thioridazine"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "60ab63c8-f3b6-4052-941e-21c50acf0355",
+          "text": "Thioridazine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Several antipsychotic drugs, belonging both to typical and atypical classes (e.g. sertindole, thioridazine, and haloperidol) are known to be associated with an increased risk of QTc prolongation, potentially leading to serious ventricular arrhythmias such as torsades de pointes and sudden cardiac death. In 2005, thioridazine was withdrawn from the global market because of the risk of sudden cardiac death.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": "7aa86655-00ee-40b5-8772-03afa8c2bc85",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following is a common and early side effect of lithium?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9422590e-ac4e-47f3-b0b5-cdc6dd6dd6bd",
+          "text": "Hypothyroidism",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "82a4641e-2430-4c7e-8dda-27caf411737f",
+          "text": "Weight gain",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "1ad3e433-ddf4-45d6-9ee1-3e4c1c7902a3",
+          "text": "Fine tremor",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "5161a483-4f00-4072-95c7-296cc53fb657",
+          "text": "Coarse tremor",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "76f1ee60-422a-485f-81d9-c49f054eda5d",
+          "text": "Nephrogenic diabetes insipidus",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "1ad3e433-ddf4-45d6-9ee1-3e4c1c7902a3",
+        "text": "Fine tremor"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "1ad3e433-ddf4-45d6-9ee1-3e4c1c7902a3",
+          "text": "Fine tremor",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Early adverse effects of lithium include gastrointestinal upset and fine tremor. Propranolol can be useful in lithium-induced tremor. Course tremor is associated with lithium toxicity and may be seen together with muscle weakness/twitching, drowsiness, confusion, and ataxia.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": "af2b722d-5eaf-4221-9546-e099331f6d46",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following statements regarding antidepressants is false?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "eaa44b71-76c4-48fd-89cf-f0fc8810ac65",
+          "text": "Orofacial dyskinesia has been reported with paroxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f9178a44-0b80-4c12-b600-935ccc64a5d1",
+          "text": "Hyponatraemia has been reported with fluvoxamine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3c60536e-2b75-4255-9033-77c266d5a803",
+          "text": "Hypoglycaemia has been reported on using fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "50fcb5cd-aacd-4df3-be38-04e35dc7d565",
+          "text": "Fluovaxamine causes less sexual dysfunction than other SSRIs",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b4b3eba6-4cde-4243-bb8c-06f49104c147",
+          "text": "Withdrawal syndrome has been reported most commonly with fluoxetine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "b4b3eba6-4cde-4243-bb8c-06f49104c147",
+        "text": "Withdrawal syndrome has been reported most commonly with fluoxetine"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "b4b3eba6-4cde-4243-bb8c-06f49104c147",
+          "text": "Withdrawal syndrome has been reported most commonly with fluoxetine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Fluoxetine, having a longer plasma half-life, is associated with a lower incidence of discontinuation symptoms than other similar drugs.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": "9657f1c4-8e5d-47e3-bd38-c3c833f05ab5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The drug that is most commonly associated with the much dreaded sexual side effect of priapism is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e43dff14-4e62-4739-b3b8-e4b34316e743",
+          "text": "Imipramine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "bb66f20d-3ac4-4368-a550-b7c05bed71ce",
+          "text": "Phenelzine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9fb9fd7f-89a0-4421-8a2e-92cf3f1bb000",
+          "text": "Fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "da1f4c69-1efc-45bc-821a-aac3e462fe4c",
+          "text": "Trazodone",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "019af4b4-5709-4aca-9cda-352607dba2ba",
+          "text": "Clomipramine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "da1f4c69-1efc-45bc-821a-aac3e462fe4c",
+        "text": "Trazodone"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "da1f4c69-1efc-45bc-821a-aac3e462fe4c",
+          "text": "Trazodone",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Priapism is a sustained, painful, involuntary erection that cannot be relieved by sexual intercourse or masturbation and that is unrelated to sexual desire. Drug-induced priapism accounts for around a third of all cases. Trazodone is the most notable agent, and although the absolute incidence rate is low (1:1000-10,000), in 79% of cases of psychotropic-drug–induced priapism trazodone is implicated. Other drugs reported to cause priapism include bupropion, fluoxetine, sertraline, several antipsychotics (including risperidone), alcohol, marijuana, and cocaine. The mechanism of trazodone-induced priapism is through its α-adrenergic blocking activity.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": "b01293cf-b76c-409c-8d60-aeb0ac1ec033",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Commonest side effect of methylphenidate is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "fa07889c-d184-4930-bd13-561791ff65e6",
+          "text": "Tics",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c058beb8-c4a5-44b9-8803-046452f4955f",
+          "text": "Psychosis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c675807c-dffb-4d37-819b-f750369f54f1",
+          "text": "Insomnia",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "fece126e-aba0-47de-945e-663b1db9a5a2",
+          "text": "Diarrhoea",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "2fc9817b-6057-426d-b93f-89c8efbb820e",
+          "text": "Headaches",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "c675807c-dffb-4d37-819b-f750369f54f1",
+        "text": "Insomnia"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "c675807c-dffb-4d37-819b-f750369f54f1",
+          "text": "Insomnia",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Insomnia is one of the commonest adverse effects of methylphenidate. Adverse effects also include appetite suppression, raised blood pressure and pulse rate, and growth deceleration – which can usually be managed by symptomatic management, treatment breaks, and/or dose reduction.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": "2de4659e-8c65-4f69-809e-51f0a4713def",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which drug has been licensed for the treatment of tardive dyskinesia in the UK?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "221a378e-4762-4700-b1f5-2fec30fd4153",
+          "text": "Clobazam",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "1e25e827-e406-4589-a679-7950a5239326",
+          "text": "Vitamin E",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "755b0d6f-5aba-45bf-8303-16c75034bfee",
+          "text": "Clonazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "c66b491f-69bf-4293-bd42-4b5a13d48d19",
+          "text": "Tetrabenazine",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "14b91986-89b7-4d49-b4e3-70a1e5c7cae4",
+          "text": "Amitriptyline",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "c66b491f-69bf-4293-bd42-4b5a13d48d19",
+        "text": "Tetrabenazine"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "c66b491f-69bf-4293-bd42-4b5a13d48d19",
+          "text": "Tetrabenazine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In the UK, first-line adjuvant agent for the management of tardive dyskinesia (TD) is tetrabenazine (a vesicular monoamine transporter type 2 inhibitor). Clozapine is the antipsychotic most likely to be associated with resolution of symptoms. Evidence to support the use of benzodiazepines in the treatment of TD is mixed but may be considered when first-line treatments have failed. Other oral drug treatments with some (if mixed) evidence in the treatment of TD include vitamin E, gingko biloba, and anticholinergics.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": "d7682eec-1b9e-4af7-9388-a23b2f8ad76c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following psychotropics is relatively contraindicated when ACE inhibitors are prescribed?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1d7cbd1e-bfbd-40d2-87e1-94e9e8ee2282",
+          "text": "Lithium",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "2cd00643-7881-4ea8-92a6-930bcdb10ea5",
+          "text": "Olanzapine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "69a2353f-a3b5-4702-ad63-fbab69ce8c98",
+          "text": "Lorazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "4904358f-a2f0-407b-9645-a87ff3da8061",
+          "text": "Valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "9ebaad89-388f-4e2d-8dd5-3d952fe9b4b4",
+          "text": "Risperidone",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "1d7cbd1e-bfbd-40d2-87e1-94e9e8ee2282",
+        "text": "Lithium"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "1d7cbd1e-bfbd-40d2-87e1-94e9e8ee2282",
+          "text": "Lithium",
+          "is_correct": true
+        }
+      ],
+      "explanation": "ACE inhibitors can reduce thirst (which can lead to mild dehydration) and increase renal sodium loss (leading to increased sodium re-absorption by the kidney), resulting in an increase in lithium plasma levels. The magnitude of this effect is variable, from no increase to a four-fold increase. The risk seems to be increased in patients with heart failure, dehydration, and renal impairment. In the elderly, ACE inhibitors increase seven-fold the risk of hospitalisation due to lithium toxicity. ACE inhibitors can also precipitate renal failure so, if co-prescribed with lithium, more frequent monitoring of eGFR and plasma lithium is required.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": "593e5efe-a383-426e-ac00-37e142f327ed",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following is not a feature of hyperprolactinaemia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2673a436-2b12-4497-9dde-cb9d7844cfd1",
+          "text": "Polymenorrhoea",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "b5c46028-7d79-43cf-ae49-7a408a6fdd96",
+          "text": "Galactorrhoea",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "316fefee-06e5-4a02-b0b8-6ab9bc1c74e3",
+          "text": "Reductions in bone mineral density",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "93a7cbfa-af2c-4242-8df9-ed01b555bee4",
+          "text": "Amenorrhoea",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "67842cf3-668a-4fd1-a051-a67f1aa0c8ba",
+          "text": "Gynaecomastia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "2673a436-2b12-4497-9dde-cb9d7844cfd1",
+        "text": "Polymenorrhoea"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "2673a436-2b12-4497-9dde-cb9d7844cfd1",
+          "text": "Polymenorrhoea",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Hyperprolactinaemia caused by antipsychotics can in turn cause secondary amenorrhea in women and breast enlargement and galactorrhea in both men and women. Long-term adverse consequences of hyperprolactinaemia are reductions in bone mineral density and possible increase in the risk of breast cancer.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": "503336af-e9fb-4ece-a59e-d7722e81c640",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following drugs is not considered an option for the treatment of clozapine-induced hypersalivation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "21e06538-eb81-4531-9729-a81a130303d3",
+          "text": "Amitriptyline",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ae976eff-a65b-42b7-927a-36cf1220fb44",
+          "text": "Hyoscine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "05098656-4d07-4df7-9d06-a550cb859ea5",
+          "text": "Benzhexol (trihexyphenidyl)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "37517227-25c3-4793-a2e3-f197b71c4973",
+          "text": "Pirenzepine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "5ac41452-74ea-4119-8ef4-2295d5e3d316",
+          "text": "Clomipramine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "5ac41452-74ea-4119-8ef4-2295d5e3d316",
+        "text": "Clomipramine"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "5ac41452-74ea-4119-8ef4-2295d5e3d316",
+          "text": "Clomipramine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Treatment options for clozapine-induced hypersalivation include anticholinergics such as amitriptyline (limited literature support),benzatropine combined with terazosin, trihexyphenidyl [benzhexol] (used in some centres), hyoscine (very widely used but only one double-blind RCT), and pirenzepine (widely used; does not have UK license for any indication). Clonidine has also been used. Important to note that anticholinergics can worsen clozapine related gastrointestinal hypomotility, increasing the risk of paralytic ileus. While there are no standard protocols, the chart below is a summary of possible options:",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 44,
+      "question_id": "13fcad29-e897-4470-963c-7ff950515543",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The anticholinergics should be prescribed for the treatment of patients with which of the following effects of neuroleptic use?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "35e61c74-5af2-4eba-a886-b8b10945aba8",
+          "text": "Pseudoparkinsonism",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "01091411-f1a6-46cb-8e2a-1d5dbbe7c54c",
+          "text": "Dystonia",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "5bd50289-fa36-4852-88d6-80af8e159893",
+          "text": "Tardive dystonia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "33b69255-ed63-4486-8cae-e8b1db99ec2e",
+          "text": "Tardive dyskinesia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "aa273820-6d73-420f-bfd1-e589c39d07c6",
+          "text": "Akathisia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "01091411-f1a6-46cb-8e2a-1d5dbbe7c54c",
+        "text": "Dystonia"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "01091411-f1a6-46cb-8e2a-1d5dbbe7c54c",
+          "text": "Dystonia",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Acute treatment of dystonic reactions is with IM anticholinergic agents (e.g. procyclidine 5mg, benzatropine (or benztropine) 2mg). IV administration is necessary only if the dystonic reaction is life-threatening (e.g. laryngospasm).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 45,
+      "question_id": "0cad0728-dd1e-4ccb-954d-f7b970808225",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A patient recently started on clozapine developed chest pain dizziness, vomiting, fever and some pedal oedema. He is short of breath, and ECG is abnormal. What is the likely side effect?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4ca2e10a-36ae-4b8c-ad0a-5148b38451c8",
+          "text": "Pneumonic consolidation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d0e212d3-f28c-49c2-bbca-ff9547ac187c",
+          "text": "Cardiomyopathy",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "1b8c741b-99b4-4af5-98f6-095e504457eb",
+          "text": "Agranulocytosis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "dc804135-ee0a-45cf-a652-9740ce06c7f8",
+          "text": "Ventricular tachycardia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "52930bd4-d0b6-4a6a-8b6d-69861b7e57f1",
+          "text": "Myocardial infarction",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "d0e212d3-f28c-49c2-bbca-ff9547ac187c",
+        "text": "Cardiomyopathy"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "d0e212d3-f28c-49c2-bbca-ff9547ac187c",
+          "text": "Cardiomyopathy",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Clozapine is associated with cardiomyopathy. It is usually diagnosed from echocardiography to establish left ventricular dilatation (resulting in a reduced ejection fraction) and/or hypertrophy. It may occur at any time. Cardiomyopathy should be suspected in any patient showing signs of heart failure, which should provoke immediate cessation of clozapine and referral to a cardiologist. Presentation of cardiomyopathy varies somewhat and is often asymptomatic in the early stages, so any reported symptoms of palpitations, chest pain, syncope, sweating, decreased exercise capacity or breathing difficulties should be closely investigated.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 46,
+      "question_id": "677be190-fde0-4a73-b057-7b1889e57587",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The cardiotoxic effects of tricyclic antidepressants would include all of the following except",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f3cceb86-3b14-486d-9891-82ce0a78ce6b",
+          "text": "Arrhythmias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b9585960-6064-463a-a05f-d80466fd9aa9",
+          "text": "ST elevation or depression",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ce80deae-490e-41bb-adb8-0495c01f11a1",
+          "text": "Atrioventricular block",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0729c1f5-6592-496d-89c0-a5f12e801bfe",
+          "text": "Reversed by quinidine",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "1684591b-e5c6-48b0-ac22-227080270ab3",
+          "text": "QT prolongation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "0729c1f5-6592-496d-89c0-a5f12e801bfe",
+        "text": "Reversed by quinidine"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "0729c1f5-6592-496d-89c0-a5f12e801bfe",
+          "text": "Reversed by quinidine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "TCAs affect cardiac conduction; as a result, they have antiarrhythmic properties and can slow cardiac conduction. These effects are responsible for the cardiotoxicity of TCAs and their danger in overdose. TCAs should not be used in patients with a preexisting conduction delay greater than a first-degree block or in patients immediately after myocardial infarction. In overdose, they cause death primarily via myocardial sodium channel blockade leading to intraventricular conduction delays, ventricular dysrhythmias, decreased cardiac output, and hypotension. These effects are similar to the effects of Type 1A anti-arrhythmic agents such as quinidine.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 47,
+      "question_id": "5af3d764-20d9-462b-8027-80f101d0ec8f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Postural hypotension as a side effect of tricyclic antidepressants are related to",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "55725237-574d-40b5-9c53-5f2787481bdf",
+          "text": "Alpha-adrenergic blockade",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "928ead2a-6202-46dc-b8fa-952d94dbd3c9",
+          "text": "5-HT2 Blockade",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d3215c12-0540-43eb-a7a0-264895df32f8",
+          "text": "Anticholinergic effect",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "70937ee1-a08d-43b0-aaa8-e9a01d653e33",
+          "text": "Antihistaminergic effect",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "de984d0b-4b9c-4d2e-b7f9-e011b0485d3c",
+          "text": "Beta blockade",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "55725237-574d-40b5-9c53-5f2787481bdf",
+        "text": "Alpha-adrenergic blockade"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "55725237-574d-40b5-9c53-5f2787481bdf",
+          "text": "Alpha-adrenergic blockade",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Tricyclic antidepressants are adrenergic alpha-1 blockers and can cause postural hypotension.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 48,
+      "question_id": "825f026a-5219-433b-a082-dacf970d53e4",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Choose one side effect NOT commonly seen with tricyclics",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4211a298-c411-4d7a-87dc-1e229f53dfa7",
+          "text": "Sedation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e4108af3-4daa-45cf-a2c9-7ab6ac8a0d61",
+          "text": "QT prolongation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "df2be3e4-4436-4212-933b-5cccf0c4ddf9",
+          "text": "Delirium on overdose",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d4804958-edf9-4d5c-bfd6-853fd88e6c3d",
+          "text": "Weight gain",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "81d18272-5bac-4a45-8520-dd798e77909b",
+          "text": "Hypothyroidism",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "81d18272-5bac-4a45-8520-dd798e77909b",
+        "text": "Hypothyroidism"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "81d18272-5bac-4a45-8520-dd798e77909b",
+          "text": "Hypothyroidism",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Tricyclic antidepressants (TCAs) commonly cause anticholinergic adverse effects, postural hypotension, sedation, and weight gain. TCAs have a number of adverse cardiovascular effects (hypotension, tachycardia, and QTc prolongation), and are particularly toxic in overdose. Hypothyroidism is not associated with TCAs.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 49,
+      "question_id": "6b8b525e-9f32-4d23-9cbb-b8bf9db3a0c1",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What percentage of patients develop tardive dyskinesia with every year of typical antipsychotic exposure?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "8e6e6dc0-941e-4c10-a4e7-6e3c0c6dfa72",
+          "text": "More than 50%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "60158d06-ebe7-42bf-a0f3-6e94a533f78a",
+          "text": "2-5%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "28acd4de-27d0-458b-81c0-1009fe18765b",
+          "text": "8-10%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0813cff9-9c82-422c-a664-c3f186bf7b36",
+          "text": "20-25%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "55cd3f51-eda3-4baf-b8c3-2aec6645f50a",
+          "text": "10-20%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "60158d06-ebe7-42bf-a0f3-6e94a533f78a",
+        "text": "2-5%"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "60158d06-ebe7-42bf-a0f3-6e94a533f78a",
+          "text": "2-5%",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Tardive dyskinesia is seen in 5% of patients per year of antipsychotic exposure.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 50,
+      "question_id": "11fd64ce-26c2-41c8-ba49-f7a8dea8f561",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following drugs may cause appetite suppression and weight loss?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9c88f6b9-c023-4c19-a952-c9539c99c2cf",
+          "text": "Gabapentin",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "6d2f48ca-c9d3-4dc9-85bf-c7c36ed748ee",
+          "text": "Valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8cef9a8d-e463-4539-acdc-934b8cb6969b",
+          "text": "Lamotrigine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "07c919d7-6c66-4986-bb5e-686422dce65a",
+          "text": "Lithium",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "59cdbdce-fc34-4a43-919a-526a9e535a4e",
+          "text": "Topiramate",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "59cdbdce-fc34-4a43-919a-526a9e535a4e",
+        "text": "Topiramate"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "59cdbdce-fc34-4a43-919a-526a9e535a4e",
+          "text": "Topiramate",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Topiramate can cause nausea, appetite loss, and weight loss. It blocks voltage-sensitive sodium channels by an unknown mechanism. Topiramate inhibits the release of glutamate and potentiates activity of GABA.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 51,
+      "question_id": "6fc50e0d-c3bb-4150-890e-8e25035a4933",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following is not a significantly high-risk factor for developing drug-induced hyponatraemia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d60a9ee3-8c70-408a-840c-e0548c39b9dc",
+          "text": "Reduced renal function",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "71312975-43fb-416c-85b9-c10510a9a745",
+          "text": "Old age",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7a9f2eeb-ccaf-4342-b3ca-28387c9e009a",
+          "text": "Obesity",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "5d8ec8bc-56f7-464d-9a7b-61e72531b502",
+          "text": "Co-therapy with diuretics",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fc3327df-c006-423f-95e0-14a263238297",
+          "text": "Medical co-morbidity such as diabetes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "7a9f2eeb-ccaf-4342-b3ca-28387c9e009a",
+        "text": "Obesity"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "7a9f2eeb-ccaf-4342-b3ca-28387c9e009a",
+          "text": "Obesity",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Most antidepressants have been associated with hyponatraemia. It has been suggested that serotonergic drugs are relatively more likely than noradrenergic drugs to cause hypnonatraemia, although this is disputed. Risk factors include: older age (most important), female gender, major surgery, history of hyponatraemia or a low baseline Na concentration, co-therapy with other drugs known to be associated hyponatraemia (e.g. diuretics, NSAIDs, antipsychotics, carbamazepine, cancer chemotherapy, calcium antagonists, ACE inhibitors, and laxatives), reduced renal function, medical co-morbidity (e.g. hypothyroidism, diabetes, COPD, hypertension, head injury, congestive cardiac failure, cerebrovascular accident, various cancers), and low body weight.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 52,
+      "question_id": "375a9bc3-f464-4483-8e80-37641d6f2ae9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 34-year-old man is being treated with valproate and levothyroxine for a rapid cycling bipolar disorder. As his illness was poorly controlled, clozapine was added after which his condition has stabilized. The patient's most recent white blood cell count is below 3,000/cu mm. The most appropriate immediate intervention is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e0ac320f-ffe8-4698-9093-9bf702359482",
+          "text": "discontinue the valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5d4c993b-cab6-4138-9dd7-33064e1943bd",
+          "text": "discontinue the thyroxine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "730128ea-5c44-4430-81cd-08d23225a752",
+          "text": "decrease the dose of clozapine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f0797cef-40d5-4602-956c-eedaa3939a15",
+          "text": "discontinue the clozapine",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "685d362f-a44d-4d4f-939f-16e07a803fac",
+          "text": "decrease the dose of valproate",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "f0797cef-40d5-4602-956c-eedaa3939a15",
+        "text": "discontinue the clozapine"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "f0797cef-40d5-4602-956c-eedaa3939a15",
+          "text": "discontinue the clozapine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "If there is a red alert when taking clozapine, it must be immediately discontinued. A re-challenge may be possible but this is a later consideration, requiring haematologist input after discontinuation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 53,
+      "question_id": "213e4b91-1d2f-4b8d-bf02-57e8e8f4c322",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which antidepressant is contraindicated in closed-angle glaucoma?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5ff38a8f-94bc-4294-a9fc-64247662f2bc",
+          "text": "Bupropion",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a34c274c-8176-46ef-a048-0f6f4a8150a0",
+          "text": "Mirtazapine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "47151fc0-0750-4e34-afd8-e583b54f6106",
+          "text": "Paroxetine",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "8894d8bf-59a0-491e-985f-86b8275531b4",
+          "text": "Buspirone",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "eb17fbea-b22c-4749-a158-ae6afa05add6",
+          "text": "Sertraline",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "47151fc0-0750-4e34-afd8-e583b54f6106",
+        "text": "Paroxetine"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "47151fc0-0750-4e34-afd8-e583b54f6106",
+          "text": "Paroxetine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Glaucoma can be induced or worsened by psychotropic medication, largely because of anticholinergic effects. Paroxetine has been linked with both acute and chronic narrow (closed)-angle glaucoma. Paroxetine has significant anticholinergic properties.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 54,
+      "question_id": "ed7a6510-cf92-465b-ab62-50f080d25ea5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 50 yr old man who had a red alert with clozapine 10 years ago is now having a severe relapse where all treatment strategies have failed. What is the best management choice?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "582a24fa-b325-4e4c-b3c1-a65b936609d7",
+          "text": "Clozapine and lithium can be given together",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e780dda6-66aa-43e3-a298-a595c5139532",
+          "text": "No clozapine should be given",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "383e89b6-3e40-46a6-81d4-4b2863e0e309",
+          "text": "Clozapine can be given with more frequent monitoring",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "70685d47-b5c6-4ed0-b9ab-4e56d2b81e1d",
+          "text": "Clozapine can be given in low doses",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "8fb96f5c-99d7-4f41-98bd-74a6c047579f",
+          "text": "Clozapine can be given on alternate days",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "e780dda6-66aa-43e3-a298-a595c5139532",
+        "text": "No clozapine should be given"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "e780dda6-66aa-43e3-a298-a595c5139532",
+          "text": "No clozapine should be given",
+          "is_correct": true
+        }
+      ],
+      "explanation": "According to the central clozapine monitoring regulations, (CPMS: Clozaril patient monitoring service), a 'green' alert indicates satisfactory count, an 'amber' alert requires a repeat FBC test while clozapine can be continued, and a 'red' alert warrants immediate cessation of clozapine. Re-introduction must be avoided unless there is a specialist supervision.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 55,
+      "question_id": "b2293b0c-f348-42bd-bfee-d0c1205173ee",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Patients on tranylcypromine should not take an excess of",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5e5edfa7-ff6c-4196-a797-0fea94ac47d9",
+          "text": "Cheese",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "5e887739-68a1-4847-a29f-29ff4d7c66a5",
+          "text": "Swede (rutabaga)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d90934db-b8b3-4146-b061-1f8d1e33480a",
+          "text": "Potatoes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "aa31564c-516d-43f7-bb18-7921dc0c34ad",
+          "text": "Banana",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "89f8522a-7b3e-42fa-8e32-505e5e2f6277",
+          "text": "Salt",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "5e5edfa7-ff6c-4196-a797-0fea94ac47d9",
+        "text": "Cheese"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "5e5edfa7-ff6c-4196-a797-0fea94ac47d9",
+          "text": "Cheese",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Tranylcypromine is an MAOI. The most worrisome side effect of MAOIs is the tyramine-induced hypertensive crisis (‘cheese reaction’). The amino acid tyramine is normally transformed via GI metabolism. However, MAOIs inactivate GI metabolism of dietary tyramine, thus allowing intact tyramine to enter the circulation. A hypertensive crisis may subsequently occur because of a powerful pressor effect of the amino acid. Sources of dietary tyramine include cheese, meat extracts and yeast extracts, alcohol, non-fresh fish, non-fresh poultry, offal, avocado, banana skins, broad bean pods, caviar, and herring (pickled or smoked).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 56,
+      "question_id": "786e7d33-e874-4ed5-81d6-c95a2bef5d8c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The risk of Ebstein anomaly is increased in children of mothers taking lithium while pregnant. Which of the following is true in this regard?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1912c259-528e-49a7-b5d0-a290e851aabf",
+          "text": "The risk is 20 to 40 times higher compared to general population",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3a5b4972-4197-44a7-bd09-f9b79a8525eb",
+          "text": "Maternal mental health problems in general may increase the risk of Ebstein anomaly",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "75c66e6a-e7b4-496b-bc4d-2efe11e55369",
+          "text": "Right ventricular outflow tract obstruction occurs in 1 out of 60 lithium-exposed infants",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d27d5d45-1913-4ec8-8794-4494fe24639c",
+          "text": "The teratogenic effect of lithium on cardiac system is not dose dependent",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "bf873b45-f464-4e20-b3d2-a02bd6b396bf",
+          "text": "The maximum risk is when exposure occurs 12-16 weeks after conception",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "3a5b4972-4197-44a7-bd09-f9b79a8525eb",
+        "text": "Maternal mental health problems in general may increase the risk of Ebstein anomaly"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "3a5b4972-4197-44a7-bd09-f9b79a8525eb",
+          "text": "Maternal mental health problems in general may increase the risk of Ebstein anomaly",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Lithium in pregnancy: Cardiac malformations of all types were seen in 2.41% of lithium exposed and 1.15% of the non-exposed (risk ratio = 1.65). The risk ratio is dose-dependent, increasing by a factor of 3 for doses exceeding 900mg/day compared to <600mg/day. In a cohort study of 1.3 million live-births, the prevalence of right ventricular outflow tract obstruction defects was 0.60% among lithium-exposed infants versus 0.18% among unexposed infants (adjusted risk ratio, 2.66; 95% CI, 1.00 to 7.06) (Patorno et al., 2017). Much attention has been focused on the rare but severe cardiac anomaly of the Ebstein type, though more recent data suggest magnitude of effect is much smaller than previously estimated. Some of the reported association may relate to the risk associated with maternal mental health problems in general rather than specifically with lithium. The risk of Ebstein anomaly in the general population is 7:100 000. If lithium is taken during 1st trimester, the maximum risk is 2-6 weeks after conception. Though the size of risk uncertain, recent observations based on related cardiac malformations (right ventricular outflow obstruction) indicate that the best estimate is in the magnitude of 2-3 times, not 20-400 times as originally suggested on the basis of smaller samples.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 57,
+      "question_id": "1ca9b42e-1267-4178-bd9b-567c56104178",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a prominent side effect of venlafaxine controlled by terazosin, an alpha-adrenergic blocker?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "18e0fe59-9ef9-4841-8c0d-ad1bc3c3b09a",
+          "text": "Nausea",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "dd762e36-7879-42b9-b7b5-1da66090f1ac",
+          "text": "Headaches",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "baffdeca-131d-4649-a609-e05a1c80bbc4",
+          "text": "Tremors",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6fd55b1f-9ef5-483a-8bdd-a3b4781722af",
+          "text": "Postural drop in blood pressure",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "7f28d72a-f0a8-486c-9d33-54267821ca4f",
+          "text": "Sweating",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "7f28d72a-f0a8-486c-9d33-54267821ca4f",
+        "text": "Sweating"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "7f28d72a-f0a8-486c-9d33-54267821ca4f",
+          "text": "Sweating",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Adrenergic agents are implicated in causing antidepressant-induced sweating, with adrenergic antidepressants like venlafaxine and bupropion having a higher propensity. Both alpha and beta blockers can improve antidepressant-induced sweating by blocking adrenergic output. The sympathetic postganglionic innervation of sweat glands can also be blocked with anticholinergics like benztropine.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 58,
+      "question_id": "5e427989-7ac4-4469-aaa0-76ce5ef4d675",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is not a recognised side effect of acetylcholinesterase inhibitors?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5358ddbf-8150-4c24-b916-c9e69d40583d",
+          "text": "Nausea",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "84f341b0-4627-457e-8383-b0a4bd617675",
+          "text": "Anorexia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c547b29c-056a-4957-89fc-4b80da07e21b",
+          "text": "Urinary retention",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "4acb209b-1ed5-4ed3-ab08-3b9dd90408d9",
+          "text": "Muscle cramps",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "7ae4c3a2-cedf-486b-843b-42dc15e3127a",
+          "text": "Bradycardia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "c547b29c-056a-4957-89fc-4b80da07e21b",
+        "text": "Urinary retention"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "c547b29c-056a-4957-89fc-4b80da07e21b",
+          "text": "Urinary retention",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The most common cholinergic side effects of acetylcholinesterase inhibitors (AChEIs) involve the gastrointestinal tract. These side effects are usually mild and have been reported to occur in approximately 20% of patients taking these medications. Among the side effects reported in the package inserts of currently available AChEIs are nausea (11%-47%), vomiting (10%-31%), diarrhea (5%-19%), and anorexia (4%-17%). These can be minimized with the use of longer titration periods and the administration of these medications with food. They can also cause muscle cramps and urinary incontinence (not retention). Further it is well known that donepezil is often associated with bradycardia.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 59,
+      "question_id": "bb94789f-373a-4907-987d-d04db0556a4d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following SSRIs is present in high concentrations in breast milk?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "19663d08-7901-4659-be69-c2cb8b386ee0",
+          "text": "Sertraline",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "584d05f6-0185-40cd-864d-2c2c3cef4bca",
+          "text": "Paroxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "a5a983d4-6c99-4381-9923-2351fa276453",
+          "text": "Fluvoxamine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "9fbb38af-3e4e-4f2a-a361-5309da3140c1",
+          "text": "Fluoxetine",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "5c36b270-c22b-4a94-95a4-d5d65b7c4de8",
+          "text": "Citalopram",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "9fbb38af-3e4e-4f2a-a361-5309da3140c1",
+        "text": "Fluoxetine"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "9fbb38af-3e4e-4f2a-a361-5309da3140c1",
+          "text": "Fluoxetine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Antidepressants are excreted in varying degrees in breast milk, so breastfeeding in antidepressant-treated women should be done with caution. Fluoxetine has the highest levels of SSRIs in breast milk.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 60,
+      "question_id": "3568187e-426e-4cd9-a187-4d90754a1b0f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The upper limit of safe QTc interval for men is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1810274a-ad33-4c3e-90d0-e40cc4d03a24",
+          "text": "440 msec",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "d45012b4-2c1d-44b5-b455-a9d6ace7157d",
+          "text": "470 msec",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "381eef92-7d08-44be-bf11-9124a99cd06d",
+          "text": "500 msec",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "1e80f3d5-a470-445e-a380-de0d84a7c62c",
+          "text": "490 msec",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "1a99a45b-ff0d-423a-b053-3cf12c40d751",
+          "text": "410 msec",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "1810274a-ad33-4c3e-90d0-e40cc4d03a24",
+        "text": "440 msec"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "1810274a-ad33-4c3e-90d0-e40cc4d03a24",
+          "text": "440 msec",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The upper limit of normal QTc interval is 440ms for men and 470ms for women.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 61,
+      "question_id": "2f2657a4-2d2e-47f1-9632-4ca321afcd8b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following benzodiazepines is more toxic than others in overdose?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e31870a9-a4d6-43cc-bf26-0a23bb31a6e3",
+          "text": "Nitrazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3a1b9f61-2f49-48f3-8845-9890e874b272",
+          "text": "Alprazolam",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "4e93abb9-7db4-442a-aaba-462e79b333ab",
+          "text": "Lorazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d164d61a-562b-4feb-98ac-1d85f35c81db",
+          "text": "Temazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "86a1edfc-3195-4ff7-b936-573a9b33301f",
+          "text": "Diazepam",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "3a1b9f61-2f49-48f3-8845-9890e874b272",
+        "text": "Alprazolam"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "3a1b9f61-2f49-48f3-8845-9890e874b272",
+          "text": "Alprazolam",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Benzodiazepines generally have low toxicity in overdose and fatality is unusual if they are taken alone. The smallest dose likely to cause death is probably more than 100mg diazepam equivalents. Alprazolam is the most toxic.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 62,
+      "question_id": "fe72cc9f-ac66-4e5e-a1b5-e75edd58ae7c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Cheese reaction is one of the most common and dangerous side-effects of",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6efa5f9c-f5ca-48e5-b304-9be8c199bef9",
+          "text": "TCAs",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e9caf6d5-5290-448b-a5a0-a5717fc33a3f",
+          "text": "SNRIs",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3bab6007-88cc-42e7-a8a3-db590008f0df",
+          "text": "Atypical antipsychotics",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8dec2034-9fdd-43ba-b88c-2515651c9948",
+          "text": "SSRIs",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e16d0a3d-559b-4756-a18f-0291c2bb57b2",
+          "text": "MAOIs",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "e16d0a3d-559b-4756-a18f-0291c2bb57b2",
+        "text": "MAOIs"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "e16d0a3d-559b-4756-a18f-0291c2bb57b2",
+          "text": "MAOIs",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The most worrisome side effect of MAOIs is the tyramine-induced hypertensive crisis (‘cheese reaction’). The amino acid tyramine is normally transformed via GI metabolism. However, MAOIs inactivate GI metabolism of dietary tyramine, thus allowing intact tyramine to enter the circulation. A hypertensive crisis may subsequently occur because of a powerful pressor effect of the amino acid.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 63,
+      "question_id": "67d42adb-de1a-4dee-aa77-d1bb5d885d15",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Floppy baby syndrome is a recognised complication associated with the use of which of the following psychotropic drugs in pregnancy?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "32f9d36d-6402-45e9-aaea-bcd7481d96fc",
+          "text": "Antipsychotics",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2a71b822-d706-46e4-99c0-a044f91f2a9b",
+          "text": "Anti-dementia drugs",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "eaff849f-411f-480c-abb1-b91af38106e8",
+          "text": "Methadone",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d465f566-e7c2-44f3-b785-6e06805386ea",
+          "text": "Antidepressants",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "620ca14a-883a-4832-9de7-544c3241ec69",
+          "text": "Benzodiazepines",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "620ca14a-883a-4832-9de7-544c3241ec69",
+        "text": "Benzodiazepines"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "620ca14a-883a-4832-9de7-544c3241ec69",
+          "text": "Benzodiazepines",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Third trimester use of benzodiazepines is well known to cause ‘floppy baby syndrome’.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 64,
+      "question_id": "48b9b06f-5a61-44fa-bc27-da7236cb2a60",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following statements concerning CATIE is incorrect?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a28b483d-4337-4d94-81a9-45b0bfa391cb",
+          "text": "First-generation drugs do as well as second generation drugs",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b802e828-a688-4b97-ae0f-0326559b62eb",
+          "text": "Haloperidol was not included in the trial",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d37db13a-9c21-4d41-b55d-909792cb2ca9",
+          "text": "Patients taking perphenazine showed more EPSEs",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8b477c69-8fe4-401c-b155-69a1251361c0",
+          "text": "Quetiapine group had less EPSEs",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "07ef7003-17e4-45f7-a29e-8d73c471a7ef",
+          "text": "25% of patients taking olanzapine discontinued the drug",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "07ef7003-17e4-45f7-a29e-8d73c471a7ef",
+        "text": "25% of patients taking olanzapine discontinued the drug"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "07ef7003-17e4-45f7-a29e-8d73c471a7ef",
+          "text": "25% of patients taking olanzapine discontinued the drug",
+          "is_correct": true
+        }
+      ],
+      "explanation": "CATIE stands for Clinical Antipsychotic Trials of Intervention Effectiveness. The study design was double-blind pragmatic RCT. 1493 patients with chronic schizophrenia were included and randomised to one of the following: Olanzapine, Quetiapine, Risperidone, Ziprasidone (added later in the trial), Perphenazine. The primary outcome was a 'real-world' measure - discontinuation for any reason (irrespective of whether patient-initiated or physician-initiated). Irrespective of the prescribed drug - 74% discontinued treatment in 18 months (surprisingly high despite naturalistic design). Median time to discontinue was 4.6 months. Olanzapine had lowest discontinuation rate (still 64%) - but highest side effect burden. 64% discontinued olanzapine; 75%, perphenazine; 82%, quetiapine; 74%, risperidone; and 79%, ziprasidone.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 65,
+      "question_id": "e84c448f-6f36-4cc8-8663-786b4403e0f6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The tricyclic with highest antihistaminic activity is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "64942567-aa24-4919-91a2-b598a140728a",
+          "text": "Amitriptyline",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3b0005a6-7b49-4731-9247-cc1d964793fe",
+          "text": "Imipramine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "aa99676a-c942-4b4a-9fcb-afe6dc1631d3",
+          "text": "Amoxapine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "82b76866-599f-46ee-8a18-f755227a6232",
+          "text": "Clomipramine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "7d0f6019-50fa-48a3-bee4-b71a9bb87bf2",
+          "text": "Doxepin",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "7d0f6019-50fa-48a3-bee4-b71a9bb87bf2",
+        "text": "Doxepin"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "7d0f6019-50fa-48a3-bee4-b71a9bb87bf2",
+          "text": "Doxepin",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Of the tricyclics, doxepin has the most antihistaminergic activity.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 66,
+      "question_id": "a8419e53-cd36-4cea-ad54-64b43a0587c1",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following is a common side effect of MAOIs",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "72cc8abb-a26d-4175-8276-d34574767ed0",
+          "text": "Hepatocellular jaundice",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "30de29a0-38cf-45ee-968a-75a3e8102065",
+          "text": "Bone marrow suppression",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2ce2bd5b-0ab1-4b72-9d17-ec7a64a8c990",
+          "text": "Cardiac arrhythmias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "65b41ed9-b3bd-4ce0-9abf-a499adf1d28b",
+          "text": "Postural hypotension",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "204f8c19-8bd4-4230-9d76-0d6b31748923",
+          "text": "Peripheral neuropathy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "65b41ed9-b3bd-4ce0-9abf-a499adf1d28b",
+        "text": "Postural hypotension"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "65b41ed9-b3bd-4ce0-9abf-a499adf1d28b",
+          "text": "Postural hypotension",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Postural hypotension is a common side effect of MAOIs. In some cases, the hypotension can be profound. Other common side effects of MAOIs include insomnia, peripheral oedema, restlessness, nausea, dizziness, sexual difficulties, sweating and tremor. Rare side effects include hepatocellular jaundice, peripheral neuropathy, bone marrow suppression, and cardiac arrhythmias.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 67,
+      "question_id": "e6760301-7d23-4ac2-ac18-2eb79032533a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following diuretics can be used to control lithium-induced polyuria without causing lithium toxicity?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a788f653-3eeb-4c79-85f3-6ac72b58973f",
+          "text": "Amiloride",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "266c892e-1e1e-4397-9678-add4a89866f8",
+          "text": "Caffeine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c3edd23d-e0f6-4da9-8ca2-e2b9bd55e8f3",
+          "text": "Frusemide",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b7b92565-ad5b-487f-a77e-72c11f815a14",
+          "text": "Ethacrynic acid",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "3ccc6374-c801-4b1f-8b8a-fbd104c611ce",
+          "text": "Thiazide",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "a788f653-3eeb-4c79-85f3-6ac72b58973f",
+        "text": "Amiloride"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "a788f653-3eeb-4c79-85f3-6ac72b58973f",
+          "text": "Amiloride",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Polyuria due to impaired urinary concentrating ability occurs in up to 20% of patients chronically treated with lithium. Thiazide diuretics can be used to induce mild volume depletion and reduce urine output. However, thiazide diuretics can dramatically increase plasma lithium levels and should only be used with caution, while checking lithium levels regularly. The potassium-sparing diuretic amiloride can be used to decrease urine volume without these effects.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 68,
+      "question_id": "a48d89d8-ad06-4dd8-b260-88d31ab969c4",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What percentage of patients with tardive dyskinesia may show recovery within a year with antipsychotic reduction?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "435cd1a0-ab48-46f7-b274-60282790bac8",
+          "text": "Approximately 1-2%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f88c2160-f3b8-4f5b-a4ca-dda493f9b3f3",
+          "text": "Approximately 20-25%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "fba1296c-8bf8-4ae8-a37d-cd02939bee2a",
+          "text": "Approximately 2-4%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "24de4a38-8af7-45e4-84f5-549324eef796",
+          "text": "Approximately 50-55%",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "3d5107d9-65eb-495f-8855-8588d41f071b",
+          "text": "Approximately 10-20%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "24de4a38-8af7-45e4-84f5-549324eef796",
+        "text": "Approximately 50-55%"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "24de4a38-8af7-45e4-84f5-549324eef796",
+          "text": "Approximately 50-55%",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Approximately 50% of cases of tardive dyskinesia are reversible.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 69,
+      "question_id": "c927dd38-21da-4b8d-b562-0e5af24ce437",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is true concerning the side effects of escitalopram when compared to citalopram?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "098c9f34-228d-4c97-ac84-6cca8e48b572",
+          "text": "Escitalopram is associated with greater gastrointestinal effects",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "040bb035-309f-4cd5-b59b-e296214e69cc",
+          "text": "Escitalopram is associated with greater weight gain",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "a543184d-b05d-4dac-b0fd-07198d7d3854",
+          "text": "Escitalopram is associated with fewer sexual side effects",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "68c57576-9105-4c8f-a918-3c8d18fcd165",
+          "text": "Escitalopram prolongs the QT interval to a lesser extent than citalopram",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "646abb5b-ae33-4faa-84cb-27401f701965",
+          "text": "Escitalopram is associated with greater discontinuation effects",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "68c57576-9105-4c8f-a918-3c8d18fcd165",
+        "text": "Escitalopram prolongs the QT interval to a lesser extent than citalopram"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "68c57576-9105-4c8f-a918-3c8d18fcd165",
+          "text": "Escitalopram prolongs the QT interval to a lesser extent than citalopram",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Citalopram is composed of two enantiomers, R and S. The mixture of these enantiomers is known as racemic citalopram, or commonly just as citalopram, and has mild antihistamine properties that reside in the R enantiomer. Dose increase can be limited due to the potential of QTc prolongation at higher doses, but the magnitude of QTc prolongation may be lower with escitalopram compared to citalopram. Escitalopram contains only the pure active S enantiomer. This removes the antihistaminic properties and there are no higher dose restrictions to avoid QTc prolongation. Escitalopram is considered perhaps the best-tolerated SSRI.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 70,
+      "question_id": "d19fd0aa-2af2-4800-8e29-24326a56955e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The toxic confusional state caused by antipsychotics is mainly due to which of the following mechanisms?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "88f05a50-c12c-4d8c-90d1-5855db0391ec",
+          "text": "Nicotinic receptor blockade",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "9273c234-dce8-457b-8d6d-baeed9d68068",
+          "text": "Alpha adrenergic blockade",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b4341a4d-26d6-4996-a52c-bbbb95bd1598",
+          "text": "Muscarinic receptor blockade",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "1ee44a3e-a427-4923-96d7-80b55376b6dd",
+          "text": "Histaminergic receptor blockade",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "2934f6e4-3e67-4d77-84bf-f8079f9fd9cb",
+          "text": "All of the above",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "b4341a4d-26d6-4996-a52c-bbbb95bd1598",
+        "text": "Muscarinic receptor blockade"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "b4341a4d-26d6-4996-a52c-bbbb95bd1598",
+          "text": "Muscarinic receptor blockade",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The toxic confusional state caused by antipsychotics is due to muscarinic receptor blockade. It also causes dry mouth, difficulty urinating, constipation, and blurred vision.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 71,
+      "question_id": "28422b73-7947-4d66-a9e3-43a70677cbd3",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 27-year-old man with bipolar depression was started on one of the mood stabilisers. He developed a rash immediately, which subsequently which progressed to causing Steven Johnson syndrome. Which one of the following is most likely to be the mood stabiliser that was prescribed to this man?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6885f0ec-8da3-4bac-8912-4a6c9f72499a",
+          "text": "Topiramate",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "dbb1c5ac-33aa-450a-bcb0-044455ab56f3",
+          "text": "Lamotrigine",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "ed98b308-55db-40cd-8829-1b87778bb227",
+          "text": "Valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "47221e4b-6023-4218-a089-93d75f93f643",
+          "text": "Zonisamide",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "0e1418df-f93e-44cb-97c6-9816e4a80101",
+          "text": "Lithium",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "dbb1c5ac-33aa-450a-bcb0-044455ab56f3",
+        "text": "Lamotrigine"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "dbb1c5ac-33aa-450a-bcb0-044455ab56f3",
+          "text": "Lamotrigine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "10-14% of patients receiving lamotrigine will develop rash. Most are benign. A minority may be serious/life-threatening skin reactions requiring hospitalisation (e.g. Steven-Johnson syndrome, toxic epidermal necrolysis, angio-oedema, and a rash associated with a number of systemic manifestations). Rash is most likely to occur within the first 2-8 weeks of treatment and is more likely when combined with valproate, exceeding the recommended initial dose, or rapid dose escalation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 72,
+      "question_id": "b8dcec47-15fc-4f47-9614-af8dab6621ca",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is an important difference between NMS and serotonin syndrome clinically?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c80e3faf-fde0-4759-adab-dc07d654c744",
+          "text": "Presence of myoclonus in NMS",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f13dd07f-043c-4137-88ad-253607b2910e",
+          "text": "Subacute onset in serotonin syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "1a3844ad-ff69-49c0-ad88-5bbbcd7abc75",
+          "text": "Hyperreflexia in serotonin syndrome",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "c802a858-ab1b-40d5-a8af-35eb26aeac6f",
+          "text": "CPK elevation in serotonin syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "4682c201-dad2-4456-8b6d-7f125eb54497",
+          "text": "Hypomanic presentation in NMS",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "1a3844ad-ff69-49c0-ad88-5bbbcd7abc75",
+        "text": "Hyperreflexia in serotonin syndrome"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "1a3844ad-ff69-49c0-ad88-5bbbcd7abc75",
+          "text": "Hyperreflexia in serotonin syndrome",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Symptoms such as hyperreflexia and myoclonus are attributed to the enhanced release of serotonin in serotonin syndrome and are not seen in NMS.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 73,
+      "question_id": "d001f5d0-a757-4e7c-bc29-13c5281bb08b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following drugs is contraindicated for a patient receiving a monoamine oxidase (MAO) inhibitor?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "13ec1d9a-2b0f-48af-9655-2d1720aac0b0",
+          "text": "Trifluoperazine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "99c33a7d-f46e-4cdc-830c-b47afa6d0780",
+          "text": "Meperidine",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "fab65c4e-e664-4200-8788-5c9db0294fd3",
+          "text": "Atropine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "92263457-ff76-490e-a28e-9867dd7ac2a9",
+          "text": "Chlorpromazine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "5594ebb9-f6e9-4cab-99d2-26446bc5fa80",
+          "text": "Budesonide",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "99c33a7d-f46e-4cdc-830c-b47afa6d0780",
+        "text": "Meperidine"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "99c33a7d-f46e-4cdc-830c-b47afa6d0780",
+          "text": "Meperidine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Serotonin toxicity, often referred to as serotonin syndrome, is an iatrogenic drug-induced toxidrome associated with raised intra-synaptic concentrations of serotonin (5-HT) in the CNS. Dangerous toxic reactions, including death, have been shown to result after the administration of meperidine (pethidine – an opioid analgesic drug used in anaesthesia) to patients taking an MAOI such as phenelzine or tranylcypromine.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 74,
+      "question_id": "1c35e7be-6d02-4272-842f-0ca263e77c78",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 36-year-old woman with schizoaffective disorder, residing in a psychiatric rehabilitation unit, is admitted to a medical ward for treatment of a suspected intestinal infection resulting in dehydration, vomiting and fever. Her psychiatric condition has been managed with a stable dose of clozapine for the last nine months. On the medical ward, she appears lethargic and confused with reduced orientation to time. She also has stiffness and some rigidity in movements. Her CK level is high. The most appropriate recommendation at this stage would be to",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3c8bd63a-f87d-4368-b081-a353cbc24417",
+          "text": "Add a benzodiazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5b98f160-3634-4ee6-b7ef-94d9cf8b94ac",
+          "text": "Add an antiepileptic",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "2d0f6e66-ec06-41d4-962f-00e7413a60e0",
+          "text": "Switch to a typical antipsychotic",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "fdf6757d-d35d-49db-bf63-741c7c2fdcc3",
+          "text": "Add benztropine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "5a418311-445c-4001-8189-b95abf3fb1a8",
+          "text": "Discontinue clozapine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "5a418311-445c-4001-8189-b95abf3fb1a8",
+        "text": "Discontinue clozapine"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "5a418311-445c-4001-8189-b95abf3fb1a8",
+          "text": "Discontinue clozapine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Signs/symptoms of neuroleptic malignant syndrome (NMS) include hyperthermia, muscular rigidity, confusion/agitation/altered level of consciousness, tachycardia, tachypnoea, hyper-/hypotension, diaphoresis/sialorrhea, tremor, incontinence/retention/obstruction, creatinine kinase/urinary myoglobin, leucocytosis, and metabolic acidosis. Prompt diagnosis is vital and any agents thought to be causative should be stopped (clozapine).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 75,
+      "question_id": "d8961ef2-bc1b-4f1d-a335-e804b8e92317",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Lithium induced hypothyroidism is much more common in",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "790052c0-b15d-4610-8257-1d7f49dc1e8c",
+          "text": "Children",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "24ab771e-2fc9-4384-8603-31071d5e5144",
+          "text": "Elderly females",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "477a0627-a004-40e2-9e4f-c97808aea184",
+          "text": "Young males",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b3dc11d6-2f16-46c1-a79c-87608f7673ef",
+          "text": "Young females",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "b177ed99-e5f7-424a-b9d5-d9e7fa4299f1",
+          "text": "Elderly males",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "b3dc11d6-2f16-46c1-a79c-87608f7673ef",
+        "text": "Young females"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "b3dc11d6-2f16-46c1-a79c-87608f7673ef",
+          "text": "Young females",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Use of lithium is associated with an increased risk of developing hypothyroidism, especially in younger women.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 76,
+      "question_id": "8efab67b-3905-4d9d-a101-b02f620daa64",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which group of patients are not associated with an increased risk of developing tardive dyskinesia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "f0399031-2b45-44d9-9a5d-f61b7e0c3eb9",
+          "text": "Patients with organic brain damage",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e7481854-3395-4fc9-802f-806bf4d76f9b",
+          "text": "Females",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "bd417960-1a02-4001-954b-3d63731983d6",
+          "text": "Patients on atypical antipsychotics",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "de888bc5-812e-4dff-af5c-88f692537781",
+          "text": "Patients with affective disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "940af681-9c57-48c9-a957-b800588163d8",
+          "text": "Older patients",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "bd417960-1a02-4001-954b-3d63731983d6",
+        "text": "Patients on atypical antipsychotics"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "bd417960-1a02-4001-954b-3d63731983d6",
+          "text": "Patients on atypical antipsychotics",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Risk factors for tardive dyskinesia include chronic use of antipsychotics, change/cessation of chronic treatment, concomitant anticholinergic treatment, elderly (>60 years), female, organic disorder (e.g. dementia, intellectual disability, epilepsy), previous head injury, alcoholism, comorbid mood disorder, negative symptoms of schizophrenia, diabetes mellitus, history of previous drug-induced akathisia/Parkinsonism/dystonias, and concomitant use of predisposing drugs.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 77,
+      "question_id": "89d33525-3d89-4499-8c02-33baf5e20694",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is not a dose-dependent effect when using clozapine?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e7f812e4-67be-412e-98d5-74e1e7548e75",
+          "text": "Agranulocytosis",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "14a2b64f-0eb2-4547-a3f4-0d37a8486241",
+          "text": "Seizures",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "17b225d2-d868-4ecd-91b1-e28162bc2feb",
+          "text": "Sedation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a2a29c7d-6c03-4158-a2ad-37c26e58155a",
+          "text": "Weight gain",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "de9ceb85-3b0f-4871-b0b1-efb835a221bf",
+          "text": "Hypersalivation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "e7f812e4-67be-412e-98d5-74e1e7548e75",
+        "text": "Agranulocytosis"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "e7f812e4-67be-412e-98d5-74e1e7548e75",
+          "text": "Agranulocytosis",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Risk of clozapine-induced neutropenia/agranulocytosis is not dose-related.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 78,
+      "question_id": "a569b841-9ebb-4f34-81f1-9986c81ec149",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Agranulocytosis as a side effect of clozapine occurs most commonly during the",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "02394bc7-50ff-4ae4-b29b-5c60e0c5b886",
+          "text": "First 48 weeks of treatment",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "f588fa05-695b-41c4-aa16-3e95e6da4a79",
+          "text": "First 8 days of treatment",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4e0648d9-68ba-48c0-9aaf-f6fe7171540e",
+          "text": "First 18 weeks of treatment",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "0f8d4139-3502-418d-a527-6a9795315720",
+          "text": "First 8 weeks of treatment",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "0779fbe6-af3a-4411-b35e-7782066ca925",
+          "text": "First 28 weeks of treatment",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "4e0648d9-68ba-48c0-9aaf-f6fe7171540e",
+        "text": "First 18 weeks of treatment"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "4e0648d9-68ba-48c0-9aaf-f6fe7171540e",
+          "text": "First 18 weeks of treatment",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Over 80% of cases of agranulocytosis with clozapine develop within the first 18 weeks of treatment.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 79,
+      "question_id": "7bcd9ff8-7d5e-4fcd-82ce-97d8fa82cb90",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following statements regarding drug interactions is false?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5955fce3-11d9-49d4-a122-f78293c59371",
+          "text": "TCAs interact with MAOIs and can cause serious toxicity like serotonergic syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2ee4f122-af6a-4cad-af7b-bfe8c39a1601",
+          "text": "Cimetidine increases TCAs levels",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f6683e06-37e4-4333-91d8-466b8500f006",
+          "text": "Warfarin action is potentiated by TCAs",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "fb841287-3eb9-4103-9ea3-dd0c8ccedd07",
+          "text": "The plasma levels of tricyclics and antipsychotics are decreased if co-administered",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "269ca5c4-5e64-499f-a167-897e51360e77",
+          "text": "TCAs reduce the antihypertensive action of clonidine and guanethidine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "fb841287-3eb9-4103-9ea3-dd0c8ccedd07",
+        "text": "The plasma levels of tricyclics and antipsychotics are decreased if co-administered"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "fb841287-3eb9-4103-9ea3-dd0c8ccedd07",
+          "text": "The plasma levels of tricyclics and antipsychotics are decreased if co-administered",
+          "is_correct": true
+        }
+      ],
+      "explanation": "TCAs potentiate the effects of alcohol, hypnotics, anxiolytics and antipsychotics. The plasma levels of tricyclics and antipsychotics are increased if co-administered.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 80,
+      "question_id": "8632e550-05f9-4f3f-8014-6b3132d83ae8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The principal cause of death following tricyclic antidepressant (TCA) overdose is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "748d5c7c-d851-41de-aa0f-58ffefa514a1",
+          "text": "cerebral oedema",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2f73ea6c-ad48-4117-817c-82b7936e2594",
+          "text": "seizures",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b2a8080e-4d9d-4f41-8495-29bc60314aef",
+          "text": "malignant hypertension",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "df6b181f-9002-45b6-a6bb-d1e8cc196841",
+          "text": "cardiac arrhythmia",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "0713286f-a3bc-461a-a147-cd9077314aba",
+          "text": "respiratory failure",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "df6b181f-9002-45b6-a6bb-d1e8cc196841",
+        "text": "cardiac arrhythmia"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "df6b181f-9002-45b6-a6bb-d1e8cc196841",
+          "text": "cardiac arrhythmia",
+          "is_correct": true
+        }
+      ],
+      "explanation": "TCAs have a number of adverse cardiovascular effects (hypotension, tachycardia, and QTc prolongation), and are particularly toxic in overdose. Ventricular arrhythmia is common in overdose. This is the commonest cause of death in an overdose with TCAs.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 81,
+      "question_id": "b39f8d17-f07b-4cf3-b6b7-86900d2f7343",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one among the following statements about neuroleptic malignant syndrome (NMS) is false?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "46836bf7-05ef-4bca-99f7-be3add29c6ff",
+          "text": "Patients on tricyclic antidepressants can develop NMS",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "8c92c799-70a6-48a3-8da9-43ea5b86da5b",
+          "text": "2-3% of all patients treated with conventional antipsychotics develop NMS",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "7c590f31-7bf0-432e-9446-aff4b80e39c4",
+          "text": "It lasts for 10-14 days if left untreated",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a70432da-16ff-4f0b-bc85-964d947bd8ac",
+          "text": "Fluctuating blood pressure is a feature of NMS",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "03061f00-8879-4f05-874d-70247f133e61",
+          "text": "It evolves rapidly over 24-72 hours",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "8c92c799-70a6-48a3-8da9-43ea5b86da5b",
+        "text": "2-3% of all patients treated with conventional antipsychotics develop NMS"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "8c92c799-70a6-48a3-8da9-43ea5b86da5b",
+          "text": "2-3% of all patients treated with conventional antipsychotics develop NMS",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Neuroleptic malignant syndrome (NMS) is rare, with an incidence of 0.07-0.2%. High potency FGAs seem to have the highest incidence, while SGAs and low-potency FGAs have lower incidences. There have been reports of NMS following treatment with other medications, including valproate, lithium, and antidepressants (such as amoxapine, clomipramine, desipramine, phenelzine, trimipramine, and venlafaxine). Signs/symptoms include hyperthermia, muscular rigidity, confusion/agitation/altered level of consciousness, tachycardia, tachypnoea, hyper-/hypotension, diaphoresis/sialorrhea, tremor, incontinence/retention/obstruction, creatinine kinase/urinary myoglobin, leucocytosis, and metabolic acidosis. The symptoms usually evolve over 24 to 72 hours, and the untreated syndrome lasts 10 to 14 days.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 82,
+      "question_id": "f821a38b-66a4-4f76-bbf5-94c6eef1889f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following receptors is involved in hypersalivation that occurs during clozapine therapy?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d92a8abc-68b4-4fc1-83a5-b4685c0bc346",
+          "text": "Beta adrenergic",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "1ad1abc3-1a1b-4ff5-8afb-ea10f92953d1",
+          "text": "Serotonergic",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "69733d4c-4daf-433e-99e0-fa57304e0437",
+          "text": "Muscarinic",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "278e1706-012d-4558-9c09-b837b9f8c10b",
+          "text": "Nicotinic",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e37a091d-3e7f-4129-91d7-8258cbe45864",
+          "text": "Histaminic",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "69733d4c-4daf-433e-99e0-fa57304e0437",
+        "text": "Muscarinic"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "69733d4c-4daf-433e-99e0-fa57304e0437",
+          "text": "Muscarinic",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The pharmacological basis of clozapine-related hypersalivation remains unclear. Suggested mechanisms include muscarinic M4 agonism, adrenergic alpha-2 antagonism, and inhibition of the swallowing reflex.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 83,
+      "question_id": "d133bc78-4374-4c51-a07c-a3235a825f1c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following drugs is associated with a 'creeping creatinine levels' on long term use?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "27102725-a9ec-4584-8535-af61f93e395d",
+          "text": "Duloxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "05cd49e7-a45d-4c7d-b249-26aca8ef120c",
+          "text": "Lamotrigine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "86556420-6742-41c1-9fb9-6b1e26d47d6d",
+          "text": "Carbamazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a301f625-8169-44d7-b255-9852f301b70c",
+          "text": "Lithium",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "3047bce7-5864-4766-8d55-198b2aef39d2",
+          "text": "Valproate",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "a301f625-8169-44d7-b255-9852f301b70c",
+        "text": "Lithium"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "a301f625-8169-44d7-b255-9852f301b70c",
+          "text": "Lithium",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Lithium is nephrotoxic. 95% is excreted unchanged in the urine. Long-term treatment may result in impaired renal function (‘creatinine creep’), permanent changes in kidney histology, microcysts, oncocytoma and collecting duct renal carcinoma, nephrogenic diabetes insipidus, nephrotic syndrome, and both reversible and irreversible kidney damage.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

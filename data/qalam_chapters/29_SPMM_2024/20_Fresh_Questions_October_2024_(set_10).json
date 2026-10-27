@@ -1,0 +1,3028 @@
+{
+  "chapter_id": "32f23127-0047-4041-adb9-9eac30972c33",
+  "chapter_name": "Fresh Questions October 2024 (set 10)",
+  "chapter_title": "Fresh Questions October 2024 (set 10)",
+  "resource_id": "039807c2-2598-493f-ad2f-16246c68bcb8",
+  "resource_title": "SPMM 2024",
+  "subject_name": "SPMM 2024",
+  "chapter_number": 20,
+  "total_questions": 52,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "b3c11ad1-ba5c-42c5-b8a5-c288dc995c6b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Multiple imputation is a technique used to:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "fe4ed382-64b3-43c6-a72e-b17c9dad97c3",
+          "text": "Replace missing values with random numbers over multiple times.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "19903400-ffe2-4899-8492-1db7b0879333",
+          "text": "Replace missing values with the mean of the observed data.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "76e66e45-ac97-43e2-9ff8-785242a4d964",
+          "text": "Delete rows containing missing values.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b83eeb05-2776-44b5-ac01-635b09d504e1",
+          "text": "Replace missing data from the distributions of and relationships among the observed variables.",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "0275f624-5441-4947-ac56-a8d15fb68451",
+          "text": "Replace missing values with multiple values from all participants with similar characteristics.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "b83eeb05-2776-44b5-ac01-635b09d504e1",
+        "text": "Replace missing data from the distributions of and relationships among the observed variables."
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "b83eeb05-2776-44b5-ac01-635b09d504e1",
+          "text": "Replace missing data from the distributions of and relationships among the observed variables.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "When dealing with missing data, it's crucial to avoid excluding cases with missing information (known as complete case analyses). Single-value imputation methods, such as mean imputation, last observation carried forward, and random imputation, estimate missing values with a single value. These methods can introduce bias and are often suboptimal. Multiple imputation offers a more robust approach by generating multiple plausible values for missing data, providing a more accurate representation of the uncertainty associated with missing information. Multiple imputation fills in missing values by generating plausible numbers derived from distributions of and relationships among observed variables in the data set. Multiple imputation involves two phases: 1) creating multiple sets of imputed data by generating replacement values for missing data and repeating this process several times, and 2) analyzing each imputed dataset and then combining the results to account for the uncertainty introduced by imputation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": "82b7198c-e128-4cf7-821f-9fb2d0183b58",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following methods is not used to control confounding in research?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "bcd66ccf-daff-4ecc-8c6b-2bdb1e168b2f",
+          "text": "Matching",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "dea7ad5d-4d91-48ad-a3bd-e118343d0d7e",
+          "text": "Restriction",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f2c294f4-7ff5-48d0-be37-c4a262390967",
+          "text": "Covariate adjustment",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5d6bed3b-2949-475a-945a-728535680415",
+          "text": "Stratification",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "009d95f9-9e83-43a2-a891-1f5e28e61176",
+          "text": "Kappa agreement score",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "009d95f9-9e83-43a2-a891-1f5e28e61176",
+        "text": "Kappa agreement score"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "009d95f9-9e83-43a2-a891-1f5e28e61176",
+          "text": "Kappa agreement score",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Kappa is a statistical measure used to assess the agreement between two raters. It is not a method for controlling confounding, which refers to the influence of a third variable on the relationship between the independent and dependent variables.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "46888714-b72f-4fa7-a9c9-f662d444e141",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In survival analysis, hazard ratios are preferred over odds ratios because:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1474b805-07dc-4b64-9311-a9a42fe3980c",
+          "text": "Hazard ratios, but not odds ratios, can be used for continuous outcomes.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c2a569c6-aaa7-4a47-ba67-7dfd29595735",
+          "text": "Hazard ratios are easier to interpret than odds ratios.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5a3d975c-6481-4691-9bbd-71ed7d9d1d6d",
+          "text": "Hazard ratios account for time-varying effects, while odds ratios do not.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "a6b9749e-5887-4800-a0c4-77d0bfed54a7",
+          "text": "Hazard ratios are less sensitive to censoring than odds ratios.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "73906665-ffc1-4fe0-9350-95b88fe6f3a4",
+          "text": "Hazard ratios are larger in their absolute values than odds ratios.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "5a3d975c-6481-4691-9bbd-71ed7d9d1d6d",
+        "text": "Hazard ratios account for time-varying effects, while odds ratios do not."
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "5a3d975c-6481-4691-9bbd-71ed7d9d1d6d",
+          "text": "Hazard ratios account for time-varying effects, while odds ratios do not.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The key difference between hazard ratios and odds ratios involves time-varying effects. Hazard ratios account for the fact that the risk of an event can change over time, while odds ratios do not. Hazard ratios are interpreted as the relative risk of an event at a specific point in time, while odds ratios are interpreted as the odds of an event occurring in one group versus another. Hazard ratios assume proportional hazards, meaning that the ratio of the hazards between two groups remains constant over time. Odds ratios do not have this assumption.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": "de05e687-46e1-4109-8ab5-483b332eb050",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The term Primordial Prevention refers to:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0600623c-00ce-4519-808b-6e4cf387f005",
+          "text": "The treatment of diseases after they have developed.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "916b7c50-6a48-42e8-ade7-17d880de3050",
+          "text": "The early detection and treatment of diseases.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8bd720f1-0821-4367-8eef-62c340cf08d6",
+          "text": "Early rehabilitation to prevent functional disability",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "001f1a72-ffeb-47f5-87ab-df4193a0c443",
+          "text": "The reduction of risk factors for diseases at the population level.",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "e73e204d-1cdb-4578-93df-093833b01835",
+          "text": "The prevention of diseases through vaccination.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "001f1a72-ffeb-47f5-87ab-df4193a0c443",
+        "text": "The reduction of risk factors for diseases at the population level."
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "001f1a72-ffeb-47f5-87ab-df4193a0c443",
+          "text": "The reduction of risk factors for diseases at the population level.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Primordial prevention consists of risk factor reduction targeted towards an entire population through a focus on social and environmental conditions generally via legal and political methods. It is the earliest prevention modality; thus, it is often aimed at children e.g., improving access to an urban neighborhood to safe sidewalks to promote physical activity to reduce obesity.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": "59de332a-505a-4ec0-b799-f32df5f7ccb5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What type of plot is shown in the attached figure from Molero et al., BMJ. 2019;365:l2147?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "47da308e-03b3-41b6-a356-bfd46ec29ab2",
+          "text": "Violin plot",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a753ac88-d1df-4396-b44e-b3f016bd6461",
+          "text": "Ferry plot",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8a3682e3-d9de-4cdf-b5b2-9c4313ce83d3",
+          "text": "Catamaran plot",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8acce449-a04e-48ef-8bde-8f2e8f3971b2",
+          "text": "Scatter plot",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c6eeb852-8350-4b89-9ff3-ec335fb2062c",
+          "text": "Forest plot",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "c6eeb852-8350-4b89-9ff3-ec335fb2062c",
+        "text": "Forest plot"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "c6eeb852-8350-4b89-9ff3-ec335fb2062c",
+          "text": "Forest plot",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Given the point estimates, confidence intervals and category specific data, this is best described as a forest plot. But note that there is no summary data or heterogeneity/weighting etc. This is because the authors have used a forest plot for a study design that is NOT a meta-analysis.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": "21876e12-1777-4cb1-9363-392c05fc5c3d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "What type of study has been done to examine associations between gabapentinoids and adverse outcomes related to coordination disturbances, mental health, and criminality?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d995fcf0-30f8-4fde-b0ba-4bd7b8e44842",
+          "text": "Population based cohort study.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "1a281ff0-f479-4362-9bec-acf861e6b0f5",
+          "text": "A meta-analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f54d7d0d-8fd8-4030-bb48-bbb3bb147c79",
+          "text": "A systematic review",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e9ae3f43-0888-4d5f-9886-bff3c1bfce0e",
+          "text": "Case control study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d155a54f-df58-4ee0-a1d9-02aa26f19aff",
+          "text": "A randomised controlled trial",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "d995fcf0-30f8-4fde-b0ba-4bd7b8e44842",
+        "text": "Population based cohort study."
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "d995fcf0-30f8-4fde-b0ba-4bd7b8e44842",
+          "text": "Population based cohort study.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The study was a population based cohort study of 191,973 people from the Swedish Prescribed Drug Register who collected prescriptions for gabapentinoids during 2006 to 2013.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": "a2a546ff-07e4-48a1-9f93-51c0d3b37074",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In within-individual analyses, when treatment and non-treatment periods were compared in the same participant for gabapentinoids, which of the following statements is true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d97076b4-f206-4b22-92e5-99644ae8f99f",
+          "text": "The hazard is 1.26 times lower after treatment, 95% confidence interval 1.19 to 1.32",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "efad62fb-798c-4e6b-93e7-30897a42d64f",
+          "text": "The hazard is 1.26 times higher after treatment, 95% confidence interval 1.20 to 1.32",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "6ffbb40a-820d-4edd-8c36-cd02c7643f2b",
+          "text": "The hazard is 1.04 times higher after treatment",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a120390a-b720-45d4-993a-dc16544b8115",
+          "text": "The hazard is 1.04 times lower after treatment",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c67421c8-63c4-40c8-8a33-561cd44d23cc",
+          "text": "There is no difference in the hazard of suicidal behaviour before or after treatment",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "efad62fb-798c-4e6b-93e7-30897a42d64f",
+        "text": "The hazard is 1.26 times higher after treatment, 95% confidence interval 1.20 to 1.32"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "efad62fb-798c-4e6b-93e7-30897a42d64f",
+          "text": "The hazard is 1.26 times higher after treatment, 95% confidence interval 1.20 to 1.32",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The hazard is 1.26 times higher after treatment, 95% confidence interval 1.20 to 1.32.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": "837001ee-8eed-442c-a36d-e8d8f3f1323a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Of the various outcomes, which of the following has no clear association with gabapentinoid use?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "7333e0cd-75d2-4616-8203-3f703cddd8fb",
+          "text": "Unintentional overdoses",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a1e8e789-568a-4341-b43f-174847dd4155",
+          "text": "Arrests for violent crime",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "8fccd6cf-4ba2-4039-904c-91faf58dd411",
+          "text": "Suicidal behaviour and deaths",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7e124d00-b1d7-49e5-b0b8-4a965f1893b7",
+          "text": "Road traffic incidents and offences",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "6a6bc271-7d05-44a2-a999-a6a6d5b41b22",
+          "text": "Head/body injuries",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "a1e8e789-568a-4341-b43f-174847dd4155",
+        "text": "Arrests for violent crime"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "a1e8e789-568a-4341-b43f-174847dd4155",
+          "text": "Arrests for violent crime",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Of all the listed outcomes, the relationship (hazard ratio) was less clear for arrests for violent crime (CI ranges from 0.98 to 1.11), i.e. confidence intervals crossing the value of no significance (including the value 1).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": "3c22b42a-47b3-415d-aa08-52aff84e8cd7",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "When stratified on type of gabapentinoid, which of the following is true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "9f61e240-5d76-4c28-a12f-23044d440086",
+          "text": "Pregabalin is associated with less arrests for violent crime",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "0709d34a-c325-4941-9bbd-975c32b1777c",
+          "text": "Pregabalin is not associated with head/body injuries",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "339c2861-de39-4d08-b9d7-7a27e67cf5a9",
+          "text": "Pregabalin was associated with increased hazards of all outcomes.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "1a72eede-ce59-4c58-b382-408f2dd1f617",
+          "text": "Gabapentin was associated with increased hazards of all outcomes.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "5c889648-bca5-4c49-b230-8f5e8d6e778c",
+          "text": "Gabapentin was associated with an increase in road traffic incidents and offences",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "339c2861-de39-4d08-b9d7-7a27e67cf5a9",
+        "text": "Pregabalin was associated with increased hazards of all outcomes."
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "339c2861-de39-4d08-b9d7-7a27e67cf5a9",
+          "text": "Pregabalin was associated with increased hazards of all outcomes.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Pregabalin was associated with increased hazards of all outcomes, while gabapentin was associated with a decrease in road traffic incidents and offences and fewer arrests for violent crime.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": "362dcb8b-cb85-456e-b329-4dc2e48c4bd1",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following types of family therapy most emphasises historical awareness, de-emphasises presenting problems, and aims to improve insight?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "ddb44f34-34c9-4d6e-b5e1-a6a2af4f1c9f",
+          "text": "Milan systemic",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c34abf2e-ad41-46d1-a009-4f34d4e82d03",
+          "text": "Structural",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "a0ab11a0-9042-4467-bbd3-00e0d5f313b2",
+          "text": "Solution-focused",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "2e6b42ee-f56e-452f-936f-8ca6403f4bbf",
+          "text": "Psychodynamic",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "61b67d40-8e52-485b-8542-815255146224",
+          "text": "Strategic",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "2e6b42ee-f56e-452f-936f-8ca6403f4bbf",
+        "text": "Psychodynamic"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "2e6b42ee-f56e-452f-936f-8ca6403f4bbf",
+          "text": "Psychodynamic",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Typical goals of psychodynamic family therapy include improved insight, historical awareness, and enhanced empathy, while de-emphasising presenting problems and disentangling interlocking pathologies.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": "fc90459c-5ef4-4247-841c-2fdb28762b52",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which type of group therapy is focused on intragroup and extragroup dynamics while examining transference, countertransference, resistance, and unconscious conflict?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "292dc1c5-e235-4078-a2c8-dad978ae5def",
+          "text": "Social activity groups",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e08550b0-4975-45cf-9042-52b0d494f76b",
+          "text": "Supportive groups",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "efb1758f-ddb9-4dab-9804-c7a3833945e9",
+          "text": "Cognitive behavioural groups",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "9b625cfa-ac51-4a90-b6c9-0fa589dfc3ec",
+          "text": "Self-help groups",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e928bdd2-735f-4a1f-ac71-394bd797d7f2",
+          "text": "Psychodynamic groups",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "e928bdd2-735f-4a1f-ac71-394bd797d7f2",
+        "text": "Psychodynamic groups"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "e928bdd2-735f-4a1f-ac71-394bd797d7f2",
+          "text": "Psychodynamic groups",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Psychodynamic group therapy is focused on the past & present; intragroup & extra-group dynamics. Techniques include close examination of transference, countertransference, resistance, and unconscious conflict.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": "4e85a9aa-6fcf-4f82-9a64-1916f7953657",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "According to Wilfred Bion, a therapist must hold what a patient projects, then process and return it to the patient in a modified form. This is called:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "963354c7-bb8d-4c08-9892-1a89f473b577",
+          "text": "Transformation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c1fdfa65-b437-4a17-a61a-707674abc7a7",
+          "text": "Intrusion",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "03e82063-abf1-411e-90da-7c9016f7c31e",
+          "text": "Containment",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "92ae478a-6b0f-477a-a2a3-dd9e5ec9128d",
+          "text": "Identification",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "881dafb1-5ae6-4f71-8780-486911a62bcc",
+          "text": "Investigation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "03e82063-abf1-411e-90da-7c9016f7c31e",
+        "text": "Containment"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "03e82063-abf1-411e-90da-7c9016f7c31e",
+          "text": "Containment",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Bion developed the notion that a therapist must contain what the patient has projected so that it is processed and returned to the patient in a modified form. Containment is the mother’s ability to perceive, interpret, and metabolise her infant’s experience in a manner that allows the mother to respond with empathy and sensitivity.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": "73e2c93e-d9e4-4d6c-9bb2-e08b2e9f52de",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Paradoxical injunctions are most likely used in which of the following types of family therapy?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "bb1e9c09-4cd8-40d8-9acb-caf3a954a5a5",
+          "text": "Psychodynamic",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a04dc19a-73cc-4627-9399-0a8b0391e762",
+          "text": "Structural",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b244e3a3-4f41-415d-a85f-1eb09aa7073e",
+          "text": "Solution-focused",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a3d84ddc-17ed-49a5-8351-bb938ab4688c",
+          "text": "Strategic",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "0d4c37b9-9305-40c0-824f-93daa2c1cd65",
+          "text": "Milan systemic",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "a3d84ddc-17ed-49a5-8351-bb938ab4688c",
+        "text": "Strategic"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "a3d84ddc-17ed-49a5-8351-bb938ab4688c",
+          "text": "Strategic",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In strategic family therapy, developed by Haley, the therapist takes a strategic stance to overcome the family’s resistance to resolving problems. This includes using ‘paradox’ (e.g. suggesting that the problem may not be resolvable).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": "702aeaf0-a966-47d9-b09b-f2a12e38ae09",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The founder of which of the following types of family therapy proposed that clear rules govern optimal family organisation and structure?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "78fc98e2-3034-4d35-af5d-d89d534a83ac",
+          "text": "Milan systemic",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "9f41a5bb-e75c-4c72-8100-7cd86087854a",
+          "text": "Solution-focused",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "3c7b85f9-5f48-42db-a3e8-ac0b8658125f",
+          "text": "Structural",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "b162b031-92fd-4262-af0f-ad9c2c0be46e",
+          "text": "Strategic",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "43a71ca2-c726-4a6c-aba1-b84282a87453",
+          "text": "Psychodynamic",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "3c7b85f9-5f48-42db-a3e8-ac0b8658125f",
+        "text": "Structural"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "3c7b85f9-5f48-42db-a3e8-ac0b8658125f",
+          "text": "Structural",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Salvador Minuchin, one of the key founders of structural family therapy, proposed that clear rules govern optimal family organisation and structure, focusing on hierarchies, subsystems, and boundaries.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": "dd871b11-333e-444c-a0d2-8f90eea0d117",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Gaining insight into reciprocal roles and patterns is one of the aims of which type of psychotherapy?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "fc7d8ef4-4a16-4565-b808-2bf7d3a6bb5c",
+          "text": "Solution-focused therapy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "99487a7a-2fa9-44e6-9437-314192893438",
+          "text": "Cognitive behavioural therapy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "1afb8138-6e8b-43f2-96bd-e35276338abb",
+          "text": "Interpersonal psychotherapy",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "2d6c781b-a7c9-47e6-97f1-b824f113a5db",
+          "text": "Cognitive analytic therapy",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "f58f4060-0e42-401f-a1ae-cb5da789df88",
+          "text": "Dialectical behaviour therapy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "2d6c781b-a7c9-47e6-97f1-b824f113a5db",
+        "text": "Cognitive analytic therapy"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "2d6c781b-a7c9-47e6-97f1-b824f113a5db",
+          "text": "Cognitive analytic therapy",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Cognitive analytic therapy (CAT) is a time-limited, integrative psychotherapy influenced by cognitive and analytic traditions. In CAT, reformulation is used to draw attention to when relational patterns, known as ‘reciprocal roles’, are enacted. This enables individuals to develop insight into their reciprocal roles and patterns.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": "236df4da-ad12-4f48-9f8c-aeb73a7f0c86",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "For what duration are amphetamines usually detectable in the urine?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a81f9d0a-59c7-4e94-889d-d97d36760437",
+          "text": "12 hours",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "9b138549-57b2-4a5a-a856-7ea23419998e",
+          "text": "48-72 hours",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "27026563-0a88-48d9-acd1-23bee2f51757",
+          "text": "24 hours",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8d7b0179-5f9d-4031-a200-e7fcb469bcf8",
+          "text": "7-10 days",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "024f2c4a-2ec8-4603-83be-30cd88010ef8",
+          "text": "21-28 days",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "9b138549-57b2-4a5a-a856-7ea23419998e",
+        "text": "48-72 hours"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "9b138549-57b2-4a5a-a856-7ea23419998e",
+          "text": "48-72 hours",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The duration of detection in the urine depends on half-life, but for most amphetamines, it is typically 48-72 hours.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": "1bd48ab3-b1d3-41f0-aaef-e3c631d7f624",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 20-year-old man is brought to hospital one hour after using a particular drug for the first time. He is initially noted to be agitated and tachycardic and then rapidly develops atrial fibrillation and seizures. Which of the following substances is most likely to be responsible for his presentation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "8f83eaa0-4628-47c9-9fef-fa4468d2ef6a",
+          "text": "Heroin",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d9fb011a-d5d1-450e-95f2-296a5b70d02c",
+          "text": "Cannabis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "be4cdad4-042f-4453-8532-2385a0ed37ca",
+          "text": "Cocaine",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "704cf056-4d2c-45d7-ac3e-fbcb643dea85",
+          "text": "Ecstasy (MDMA)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "9f3556ce-c1d3-49c0-b40b-68d2712b757e",
+          "text": "Magic mushrooms",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "be4cdad4-042f-4453-8532-2385a0ed37ca",
+        "text": "Cocaine"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "be4cdad4-042f-4453-8532-2385a0ed37ca",
+          "text": "Cocaine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "After taking cocaine, users may become agitated, irrational, hallucinatory, and paranoid. Cocaine’s sympathetic and dopaminergic effects can cause stroke, cardiac arrhythmias, myocardial infarction, and seizures. Cocaine-induced seizures usually occur within 2 hours of use and are seen disproportionately following first-time exposure.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": "6122a1de-8603-4ed4-a801-aad20d8b0ec9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 33-year-old woman develops severely low mood and energy, together with vivid, disturbing dreams and insatiable appetite. Which of the following substances, in withdrawal, is most likely responsible for her presentation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a9b99997-e6b6-43c1-8864-e8378e4b5ecd",
+          "text": "Cannabis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "a2fc7a5a-65fe-49be-aa71-3a9b868e3d7a",
+          "text": "Alcohol",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "fd40f6c6-63b4-4778-8358-99f8ac5439f6",
+          "text": "Heroin",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0403a17f-86a6-412e-b959-407ca772f47c",
+          "text": "Cocaine",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "245e2c95-d899-48d8-a932-1f9ec49f2c20",
+          "text": "Gamma-hydroxybutyrate (GHB)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "0403a17f-86a6-412e-b959-407ca772f47c",
+        "text": "Cocaine"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "0403a17f-86a6-412e-b959-407ca772f47c",
+          "text": "Cocaine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "When in withdrawal, chronic users of cocaine rapidly lose their energy and develop insatiable hunger. The most severe withdrawal symptom of a cocaine withdrawal ‘crash’ is depression, which can be associated with suicidal ideation and behaviour. Vivid, disturbing dreams, which probably represent REM rebound, often disturb their sleep.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": "ccdaa099-2cf1-43d3-866b-bc423e04a480",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following substances has stimulant effects at low doses and opioid-like effects at higher doses?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b9dcb318-fdc5-4332-a3ef-a344f487a6ed",
+          "text": "Khat",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "70edebf9-2641-4e3e-9ee5-8b2b2365991d",
+          "text": "Caffeine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "40317624-ffbb-4133-81dd-33f7feb4c16b",
+          "text": "Ketamine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7e535372-8575-4655-948d-f587b2f2b5f6",
+          "text": "Cannabis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "8775633c-8532-44d3-b387-b0437c5519d1",
+          "text": "Kratom",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "8775633c-8532-44d3-b387-b0437c5519d1",
+        "text": "Kratom"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "8775633c-8532-44d3-b387-b0437c5519d1",
+          "text": "Kratom",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Kratom has stimulant effects at low doses and opioid-like effects at higher doses. The kratom plant, native to Southeast Asia, belongs to the coffee family and has been valued since at least the 19th century for its purported medicinal properties.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": "55c4399e-151d-4759-a613-9c585802f909",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is an active element in Khat?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2d3473a7-77a7-4623-b031-cf17b9fe4dfd",
+          "text": "Cathine",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "24af5a03-1005-4868-aeba-dc53124a98a1",
+          "text": "Caffeine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8dd05fd7-0f24-440c-9399-25b57d76f58b",
+          "text": "Kratom",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f29774af-f45a-4918-a1f0-1be0ec8d5dd4",
+          "text": "Ketamine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "eaf5f9fb-3479-42ef-83d3-aae2d7c28baa",
+          "text": "Cocaine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "2d3473a7-77a7-4623-b031-cf17b9fe4dfd",
+        "text": "Cathine"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "2d3473a7-77a7-4623-b031-cf17b9fe4dfd",
+          "text": "Cathine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Khat (or Catha edulis) is a plant indigenous to Eastern Africa and Southern Arabia. It releases a variety of psychoactive chemicals, including the stimulants cathinone and cathine.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": "010aded7-90da-4980-9240-71379b2e0e50",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Delirium tremens occur in approximately what percentage of episodes of alcohol withdrawal?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "a05cc081-5a2a-4dd4-9c98-b3d896d4e6bd",
+          "text": "5%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "69935d21-9066-4393-a79b-4b3eb1620901",
+          "text": "20%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "f65a25cc-fb28-42e5-91f3-efccabd79a22",
+          "text": "15%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "da51d8aa-eb47-400a-a3c5-66bdf43d607a",
+          "text": "1%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f1fa41ae-f323-4c67-9e05-4a6d03e4e5bc",
+          "text": "2%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "a05cc081-5a2a-4dd4-9c98-b3d896d4e6bd",
+        "text": "5%"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "a05cc081-5a2a-4dd4-9c98-b3d896d4e6bd",
+          "text": "5%",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Delirium tremens is an acute confusional state that occurs in approximately 5% of episodes of alcohol withdrawal.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": "6b5d5a0a-b723-4a69-8466-6aa78f5ccf80",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is most likely to render a person unfit to plead in a trial?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d2a21000-d450-4d26-8bef-3a99d746a88a",
+          "text": "Personality disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "e7077815-7d5b-4bd4-920d-a6814768bbd5",
+          "text": "Severe thought disorder",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "5555f3aa-1b9f-49f8-a076-1155983197bd",
+          "text": "Prior history of psychotic symptoms",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "986fd144-c6fa-45ac-9de8-cd0082773f6e",
+          "text": "Amnesia for the alleged offence",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c54e91d9-fe7f-4eb6-bc7e-95a94665cd48",
+          "text": "Anxiety disorder",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "e7077815-7d5b-4bd4-920d-a6814768bbd5",
+        "text": "Severe thought disorder"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "e7077815-7d5b-4bd4-920d-a6814768bbd5",
+          "text": "Severe thought disorder",
+          "is_correct": true
+        }
+      ],
+      "explanation": "If a person’s mental disorder is such that they cannot participate adequately in the court process, the person is unfit to plead. Diagnoses that may be relevant include dementia, delirium, schizophrenia, severe affective disorder, and intellectual disability. Amnesia for the alleged offence is irrelevant.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": "5d0f288d-d660-4e9e-af1b-2651fdb087fd",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following genetic anomalies is most often responsible for Angelman syndrome?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "fd48f768-b0cd-4a90-8439-1f59b0b57483",
+          "text": "15q paternal uniparental disomy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3aebdec4-c14e-4e8b-bebd-51c441c61e69",
+          "text": "15q maternal uniparental disomy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "c52f12f3-99da-4e1e-ad66-c8699b94e50e",
+          "text": "15q maternal deletion",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "d6bf1002-7f5d-4da8-b408-aaef4d659a9b",
+          "text": "15q paternal deletion",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f3c302eb-94fb-4d51-9abd-dd7d97521a03",
+          "text": "Direct mutation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "c52f12f3-99da-4e1e-ad66-c8699b94e50e",
+        "text": "15q maternal deletion"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "c52f12f3-99da-4e1e-ad66-c8699b94e50e",
+          "text": "15q maternal deletion",
+          "is_correct": true
+        }
+      ],
+      "explanation": "80% of cases of Angelman syndrome are due to a deletion of maternally derived chromosome 15 (karyotype 15q11-q13).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": "e08aff03-36b7-471a-81d4-638a60dcc5da",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Autism is queried in a 1-year-child who lacks language development. Which of the following investigations should be prioritised?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d8e5a66d-6e67-4050-82f8-2db6bb98f862",
+          "text": "Positron emission tomography (PET)",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2f4e6769-9c17-48ba-8a81-9c72cfa47d91",
+          "text": "Electroencephalogram (EEG)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "fe110d1e-58ef-44b6-a0d0-2e63ce40f27c",
+          "text": "Cerebrospinal fluid (CSF) analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5a5d5747-2d57-4a6a-8498-89b75f7a311f",
+          "text": "Audiogram/auditory-evoked potentials",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "5628b773-2d51-4456-a07e-1371d732eb0a",
+          "text": "Brain biopsy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "5a5d5747-2d57-4a6a-8498-89b75f7a311f",
+        "text": "Audiogram/auditory-evoked potentials"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "5a5d5747-2d57-4a6a-8498-89b75f7a311f",
+          "text": "Audiogram/auditory-evoked potentials",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Because children with autism spectrum disorder may appear mute or lack language development, hearing impairment or congenital deafness should be ruled out. An audiogram or auditory-evoked potentials indicate significant hearing impairment in deaf children.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": "cde81ddc-e87a-4b61-aa80-b9508e4308d2",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following syndromes associated with intellectual disability is most equally distributed between males and females?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "84d62302-304b-419f-808b-7a046c4301ce",
+          "text": "Klinefelter",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c73511f3-e582-4fc6-a8da-66dfc9ec07bf",
+          "text": "Rett",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "e6f85d78-cc06-4bf3-90e1-02341323ca07",
+          "text": "Fragile X",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0cd35b4a-e4ce-4ee0-b246-240b0c21bd72",
+          "text": "Aicardi",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "17eb387a-a1a3-46bc-b29d-fa86885cf3ae",
+          "text": "Prader-Willi",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "17eb387a-a1a3-46bc-b29d-fa86885cf3ae",
+        "text": "Prader-Willi"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "17eb387a-a1a3-46bc-b29d-fa86885cf3ae",
+          "text": "Prader-Willi",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Rett syndrome and Aicardi syndrome almost exclusively affect females. Fragile X more commonly affects males. Klinefelter syndrome affects only males. Of those listed, Prader-Willi syndrome has the most equal distribution between males and females, though it is somewhat more common in males.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": "e60c3c70-70c7-4a4a-812e-b62105e88f18",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following disorders are caused by mutations in the MECP2 gene?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "97af7754-4ee7-4a8b-a619-917a4856c483",
+          "text": "Hunter",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "31fefa17-e112-4c31-b8c5-0760a0c7890f",
+          "text": "Noonan",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "0ce633b5-1cda-4012-a52e-fdd52e42bda9",
+          "text": "Rett",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "5ba3e7c4-eac0-4e23-acea-6040cb11596b",
+          "text": "Lesch-Nyhan",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "2dea6fd9-bfdf-499e-aeeb-e316600da27f",
+          "text": "Neurofibromatosis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "0ce633b5-1cda-4012-a52e-fdd52e42bda9",
+        "text": "Rett"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "0ce633b5-1cda-4012-a52e-fdd52e42bda9",
+          "text": "Rett",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Mutations in the MECP2 gene on the X chromosome are present in most girls with Rett syndrome.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": "fa4bb281-2ae2-4653-9890-f101350a6478",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following syndromes is most associated with an increased risk of developing a psychotic disorder in adolescence/adulthood?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "18115d6b-fc46-4717-b4e3-c568be9fda1e",
+          "text": "Rubenstein-Taybi",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "1b671703-df49-4d59-a169-f0a37f0a6d24",
+          "text": "Angelman",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "cbc7b5f1-8e96-41f3-830d-1115339d3b40",
+          "text": "Cri-du-chat",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "2bc49a36-0cb3-4b6c-bb78-55f22bccdc26",
+          "text": "Velocardiofacial / DiGeorge",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "0feb58b7-2d36-4cd8-845b-1eb72da76ecb",
+          "text": "Smith-Magenis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "2bc49a36-0cb3-4b6c-bb78-55f22bccdc26",
+        "text": "Velocardiofacial / DiGeorge"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "2bc49a36-0cb3-4b6c-bb78-55f22bccdc26",
+          "text": "Velocardiofacial / DiGeorge",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The 22q11.2 Microdeletion Syndrome (Velocardiofacial / DiGeorge syndrome) is associated with intellectual disability, cardiac abnormalities, distinctive facial features, and psychiatric disorders. 23–41% of adolescents and adults meet the criteria for a psychotic disorder.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": "d9b11d2c-0b97-492f-80f9-9c76244de688",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "How much higher is the risk of dementia at 85 years of age, compared to 65 years of age?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "32e2bf3d-5fdc-4bf4-9060-9772b4cfc84a",
+          "text": "2 times",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c92189a8-2e1f-4ad6-ac79-05c95b1ad935",
+          "text": "4 times",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "37e541b0-7df0-4c50-b6e1-9c0a6bea4e06",
+          "text": "8 times",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b3d9b48f-0ccb-48ae-bbdf-6c4085ad7c6a",
+          "text": "16 times",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "35234cc3-9ee6-4371-b33c-04b7b07a0011",
+          "text": "32 times",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "c92189a8-2e1f-4ad6-ac79-05c95b1ad935",
+        "text": "4 times"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "c92189a8-2e1f-4ad6-ac79-05c95b1ad935",
+          "text": "4 times",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Dementia affects around 5% of those aged over 65 years, rising to 20% in the over-80s—a fourfold increase.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": "e17c4817-9614-4186-acf6-6f04eafab97d",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The neuroimaging of a 44-year-old man shows selective frontal and temporal lobe atrophy on MRI and hypometabolism in the frontal lobes on PET scan. Which of the following is the most likely diagnosis?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "557ab5a3-a94d-4d7b-8686-d93bdeae558d",
+          "text": "Frontotemporal dementia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "460c6fe0-3b01-48e3-b9c6-2cddaa259eed",
+          "text": "Alzheimer disease",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "63dcb7ea-ef1f-47ab-ba85-58b703e52272",
+          "text": "Dementia with Lewy bodies",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b920ddab-b530-43bc-9d97-545253ca7930",
+          "text": "Parkinson disease",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "6ff65417-7801-452f-b933-9b94f7298519",
+          "text": "Huntington disease",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "557ab5a3-a94d-4d7b-8686-d93bdeae558d",
+        "text": "Frontotemporal dementia"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "557ab5a3-a94d-4d7b-8686-d93bdeae558d",
+          "text": "Frontotemporal dementia",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Selective frontal and temporal lobe atrophy on MRI is consistent with frontotemporal dementia (FTD). PET scans in those with FTD often show hypometabolism in the frontal lobes and relatively normal metabolism in the parietal and occipital lobes.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": "54418ee6-8af4-4f8a-874b-7362a8fb19ba",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Impairment in one or more cognitive domains that represents a decline in previous functioning but is not severe enough to significantly interfere with functional activities is known as:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "8959a98b-f9a7-44c4-9884-cc92f0ee5139",
+          "text": "Secondary neurocognitive syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "38a6e420-7896-4746-aa36-5f398e01b7fb",
+          "text": "Mild neurocognitive impairment",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "3cd7fd64-ff98-43bd-8f7b-dbb42fe2aae4",
+          "text": "Amnestic disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "1fc2f2ba-8cc4-45cb-ab24-140fcafe4a75",
+          "text": "Dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d23c7c42-8698-40c2-a56e-9c8c41c19176",
+          "text": "Delirium",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "38a6e420-7896-4746-aa36-5f398e01b7fb",
+        "text": "Mild neurocognitive impairment"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "38a6e420-7896-4746-aa36-5f398e01b7fb",
+          "text": "Mild neurocognitive impairment",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In ICD-11, mild neurocognitive impairment is defined as impairment in one or more cognitive domains that represents a decline in previous functioning but is not severe enough to significantly interfere with activities related to personal, social, educational, or occupational functioning.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": "9bd7a598-e762-44ba-af07-ef4a6fd67f1a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 55-year-old man with a family history of similar presentations develops disinhibition, hyperorality, and compulsive behaviours, together with progressive cognitive decline. Following his death, histological findings include ubiquitin accumulation. This is most likely due to mutation in a gene coding for:",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "50395fe5-6ac8-4543-9ca6-82e7ac7562da",
+          "text": "Alpha synuclein",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4dd191ac-1d65-4ba0-94c3-caadb10e77d4",
+          "text": "Amyloid beta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6b15f858-351c-481c-a931-d765ac1f1f6c",
+          "text": "Progranulin",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "c7c70ba8-6b81-4b4a-9098-2d3fa9c5e4b7",
+          "text": "Huntingtin",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ddc6e6b1-ab47-4169-be97-4a21d76f1200",
+          "text": "Amyloid precursor protein",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "6b15f858-351c-481c-a931-d765ac1f1f6c",
+        "text": "Progranulin"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "6b15f858-351c-481c-a931-d765ac1f1f6c",
+          "text": "Progranulin",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Up to 40% of cases of frontotemporal dementia (FTD) are familial, and approximately one-third of those are caused by mutations in the GRN gene, which codes for progranulin. Ubiquitin-positive inclusions are a defining pathological feature of FTD-GRN.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": "48293064-49ae-44b6-acfc-185278d7641a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 62-year-old man presents with fluctuating cognition, visual hallucinations, agitation, sleep disturbance, and tremor. Which of the following is considered first-line treatment for his condition?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1b34fd95-5242-4013-a874-c0d7754cea18",
+          "text": "Levodopa",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5cb87cfc-5d39-4edb-9819-e66b417b59c5",
+          "text": "Clonazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "79051d1d-7d8a-43fe-9a6c-aedb85061c9c",
+          "text": "Haloperidol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a5372080-211a-4037-a079-b59a801d70de",
+          "text": "Rivastigmine",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "ee83b4c8-1718-4db0-aa85-ef9a7464bb94",
+          "text": "Memantine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "a5372080-211a-4037-a079-b59a801d70de",
+        "text": "Rivastigmine"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "a5372080-211a-4037-a079-b59a801d70de",
+          "text": "Rivastigmine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The clinical features are consistent with dementia with Lewy bodies (DLB). Treatment guidelines recommend using cholinesterase inhibitors (specifically donepezil or rivastigmine) as first-line treatment in DLB.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": "b9d970ad-98c8-45e5-b7b7-77cfec3ceffd",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is considered a poor prognostic factor in schizophrenia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "b236e230-a14d-4333-8860-abc19279d911",
+          "text": "Family history of affective disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "6428bb05-b0e5-4609-8c90-04db93c4e497",
+          "text": "Living in a developing country",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ef1b938b-1587-40c7-bb2c-640e2fd5fb3d",
+          "text": "Acute onset",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "2cd1ac4a-bf6a-4005-8038-f6f400951bce",
+          "text": "Female sex",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ee964939-f473-43ba-bbb9-0675afe7b265",
+          "text": "Absence of mood disturbance",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "ee964939-f473-43ba-bbb9-0675afe7b265",
+        "text": "Absence of mood disturbance"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "ee964939-f473-43ba-bbb9-0675afe7b265",
+          "text": "Absence of mood disturbance",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Good prognostic factors include family history of affective disorder, female sex, living in a developing country, acute onset, and marked mood disturbance. Absence of mood disturbance is therefore a poor prognostic factor.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": "28b7c5f0-ac90-4082-9b7a-e96507dd53b3",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 40-year-old woman is experiencing comorbid symptoms of severe depression and OCD that have been resistant to CBT and SSRIs. Which of the following is the treatment of choice?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3a7c7e69-0068-4abc-b4ce-f9c6c82da6ad",
+          "text": "Clomipramine",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "9e9952bd-85e0-4c14-9538-3685defb209b",
+          "text": "Lithium",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ff5f479e-f78e-4739-911b-40604b200fbe",
+          "text": "Valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "35b710ab-af37-40d1-88eb-958434e82076",
+          "text": "Risperidone",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "2758ae49-f14e-40d4-a350-7b57d9f1b21d",
+          "text": "Mirtazapine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "3a7c7e69-0068-4abc-b4ce-f9c6c82da6ad",
+        "text": "Clomipramine"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "3a7c7e69-0068-4abc-b4ce-f9c6c82da6ad",
+          "text": "Clomipramine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Clomipramine is indicated in cases of severe or treatment-resistant depression and is also advantageous in patients with comorbid OCD and depression.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": "aa935ce6-9851-4a6a-875b-4e306545fa30",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 32-year-old woman with a history of severe recurrent depressive episodes is stable on duloxetine 60 mg daily when she becomes pregnant. Which of the following is the most recommended management strategy?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c546285e-fcea-42c2-986c-0adbe53c40a6",
+          "text": "Reduce the dose of duloxetine and taper to discontinuation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "b7fc4dc0-46fb-4eb7-be9a-2ac30089dd94",
+          "text": "Continue duloxetine at the current dose",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "2cb811ba-cd29-4e2d-a45b-912f1029ab19",
+          "text": "Switch from duloxetine to fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "0fe242ac-d114-4289-8fbc-c206df4fea4d",
+          "text": "Switch from duloxetine to quetiapine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c67e95c4-f96d-4b22-9660-c000a9c79236",
+          "text": "Immediately discontinue duloxetine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "b7fc4dc0-46fb-4eb7-be9a-2ac30089dd94",
+        "text": "Continue duloxetine at the current dose"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "b7fc4dc0-46fb-4eb7-be9a-2ac30089dd94",
+          "text": "Continue duloxetine at the current dose",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Pregnant women who are already receiving antidepressants and are at high risk of relapse are best maintained on the same antidepressant during and after pregnancy. Duloxetine is unlikely to be a major teratogen.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": "61d918bf-8776-4268-aa7a-2eb71e1fd5ba",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 55-year-old woman with comorbid depression and diabetic neuropathy is experiencing pain, numbness/tingling, and depressed mood. Which of the following would be the treatment of choice for her presentation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d788a49d-d48d-4eca-b731-c49b609c8fb0",
+          "text": "Citalopram",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "0349719a-2b62-4e3b-b81c-8e145af2682a",
+          "text": "Bupropion",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "e4f8b44e-b9d7-4d1f-9108-f06984bf5540",
+          "text": "Duloxetine",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "ac769612-bdda-4477-84a7-75cf0c80ddd7",
+          "text": "Fluvoxamine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "2b82b04a-fdbc-4082-bb35-6c3e6059b91b",
+          "text": "Lithium",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "e4f8b44e-b9d7-4d1f-9108-f06984bf5540",
+        "text": "Duloxetine"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "e4f8b44e-b9d7-4d1f-9108-f06984bf5540",
+          "text": "Duloxetine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Duloxetine has well-documented efficacy for the painful physical symptoms of depression and is licensed to treat diabetic neuropathic pain.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": "5e441c6b-dd25-4ed1-9393-ce391e55cd62",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following metabolic abnormalities is a risk factor for QTc prolongation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "d5e6176e-5149-46f4-af25-fcdac008b7ef",
+          "text": "Hyponatraemia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "c7cc1189-938d-47e9-9331-e949018d4175",
+          "text": "Hyperkalaemia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "ea9aa22f-7a51-41d7-8b68-dce338430e56",
+          "text": "Hypermagnesemia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ceb84e5d-6322-4983-acb9-2e6521a17416",
+          "text": "Hypocalcaemia",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "9bc7bafb-b062-46a8-89e2-dff55371be1b",
+          "text": "Hypernatremia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "ceb84e5d-6322-4983-acb9-2e6521a17416",
+        "text": "Hypocalcaemia"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "ceb84e5d-6322-4983-acb9-2e6521a17416",
+          "text": "Hypocalcaemia",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Of the listed abnormalities, hypocalcaemia is a risk factor for QTc prolongation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": "6eb502a6-6d10-4655-8e75-482746fc46c5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Amongst individuals who end their lives by suicide, which of the following characteristics is most common?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "eae8d998-61d5-483b-913b-4a974b76c6ea",
+          "text": "Age over 60 years",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2f0f829f-96b4-4aa4-a2b5-267bc38c3c1b",
+          "text": "Being unemployed",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4985c673-4d5a-4f11-9e73-f585e55923fe",
+          "text": "Living alone",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e541144d-6c05-432b-90b2-e583a01a960e",
+          "text": "Being unmarried",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "9b8fb27b-7dae-4e8d-8adc-3542ab96f0e7",
+          "text": "Male sex",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "9b8fb27b-7dae-4e8d-8adc-3542ab96f0e7",
+        "text": "Male sex"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "9b8fb27b-7dae-4e8d-8adc-3542ab96f0e7",
+          "text": "Male sex",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Male sex is the biggest risk factor for completed suicide. While attempted suicide rates are higher in females, completed suicide rates are substantially higher in males.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 39,
+      "question_id": "68d29bc3-cc74-465d-8269-85842987febd",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 35-year-old woman with social anxiety disorder has been treated with adequate trials of escitalopram, sertraline, and venlafaxine. None of these have been effective. According to NICE, which of the following medications should be prescribed next?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "504307f8-bb9b-463c-ab4a-d8c642631eb6",
+          "text": "Valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "981ad89c-dbea-4e16-aeb3-81cfe0ce0896",
+          "text": "Pregabalin",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "e4d5fff7-2db6-47eb-9c0f-7b44412ba7d4",
+          "text": "Moclobemide",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "bc599e8d-550b-4b57-9459-3001a1117a9a",
+          "text": "Buspirone",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a8537e5b-7560-4626-b435-db5bcb12b926",
+          "text": "Ketamine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "e4d5fff7-2db6-47eb-9c0f-7b44412ba7d4",
+        "text": "Moclobemide"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "e4d5fff7-2db6-47eb-9c0f-7b44412ba7d4",
+          "text": "Moclobemide",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Following SSRI treatment and venlafaxine, NICE recommends either phenelzine or moclobemide for social anxiety disorder.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 40,
+      "question_id": "fad323de-4ccf-456c-95c3-efd2b753b4a5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a central nervous system autoimmune demyelinating disorder that includes loss of cognitive capacity and, in some cases, the development of a subcortical dementia?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c6088bd9-0edf-4794-b0b6-6554ad96b2a3",
+          "text": "Systemic lupus erythematosus",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ae685c69-d644-4bfb-9b6b-3c9d07a9de16",
+          "text": "Huntington disease",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4fed9faa-2a77-400a-b58d-fd449d518955",
+          "text": "Parkinson disease",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "16c34e3a-36f5-455c-a5e0-0467e30c39b5",
+          "text": "Multiple sclerosis",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "0ea740cc-025a-4299-9418-9f3c79c83950",
+          "text": "Lyme disease",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "16c34e3a-36f5-455c-a5e0-0467e30c39b5",
+        "text": "Multiple sclerosis"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "16c34e3a-36f5-455c-a5e0-0467e30c39b5",
+          "text": "Multiple sclerosis",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Multiple sclerosis is a central nervous system autoimmune demyelinating disorder. Many patients have loss of cognitive capacity and, in some cases, subcortical dementia.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 41,
+      "question_id": "ab0bb0b3-6dc4-42db-88d7-0f96866523c9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A patient who was recently started on a new medication is distressed by an unpleasant feeling of inner restlessness and the need to move. He is unable to sit or stand still. Which of the following medications is a first-line agent in treating his condition?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1151cbd8-6988-4653-8617-7b5349deddfd",
+          "text": "Lorazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "ca090dff-902a-417c-abb9-e40a6a57077a",
+          "text": "Mianserin",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "1d850c8a-190c-493b-92ff-cccaf4f52d37",
+          "text": "Cyproheptadine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "4fb4cf1a-ca39-4434-816f-563408882344",
+          "text": "Procyclidine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "be7d4fd4-da36-42f8-b389-6ce8b03a8b02",
+          "text": "Propranolol",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "be7d4fd4-da36-42f8-b389-6ce8b03a8b02",
+        "text": "Propranolol"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "be7d4fd4-da36-42f8-b389-6ce8b03a8b02",
+          "text": "Propranolol",
+          "is_correct": true
+        }
+      ],
+      "explanation": "First-line anti-akathisia agents are propranolol or low-dose mirtazapine. If the patient has concurrent parkinsonism, an anticholinergic like procyclidine can be considered.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 42,
+      "question_id": "6450d827-2b40-456e-bc3b-4b23570cb762",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 28-year-old woman with bipolar disorder is in her first trimester of pregnancy when she develops a mixed affective state. Which of the following would be the treatment of choice?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "de7ba098-b753-4a25-809b-4121ee487d74",
+          "text": "Quetiapine",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "08895d1b-ca5e-4205-a9aa-fa8cac9335bb",
+          "text": "Valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "fb7b2014-4fa2-4ba8-933e-a93143fbf91c",
+          "text": "Carbamazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "4f305639-61f7-457d-89b0-eb65c4ed49b3",
+          "text": "Lithium",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "bd176f93-7a18-45bf-a26e-c935b89c360d",
+          "text": "Lamotrigine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "de7ba098-b753-4a25-809b-4121ee487d74",
+        "text": "Quetiapine"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "de7ba098-b753-4a25-809b-4121ee487d74",
+          "text": "Quetiapine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "NICE recommends using a mood-stabilising antipsychotic (such as quetiapine) as preferable alternative in pregnancy when a mood stabiliser is required.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 43,
+      "question_id": "b550d661-5509-43d8-92ac-740a1dcb4016",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following disorders has the highest heritability?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6feccd64-9b3d-45b3-87c2-26817c83a9ae",
+          "text": "Depression",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "7836e46b-d53a-4fcc-a6cc-a3430d36f3be",
+          "text": "Schizophrenia",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "68087238-28c0-4a16-a2bd-2ca5697598cc",
+          "text": "Generalised anxiety disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "cc063fd0-f123-4d59-aae2-f4efc883c1c6",
+          "text": "Bulimia nervosa",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b40be39e-bff7-446d-898e-e2ea8a469323",
+          "text": "PTSD",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "7836e46b-d53a-4fcc-a6cc-a3430d36f3be",
+        "text": "Schizophrenia"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "7836e46b-d53a-4fcc-a6cc-a3430d36f3be",
+          "text": "Schizophrenia",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Genetic factors account for most of the liability to schizophrenia. Its heritability is estimated at about 60–80%.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 44,
+      "question_id": "ec8d2ab7-65bd-4c8e-bd3c-7f0b8e67de92",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "At standard doses, which of the following antidepressants is least likely to cause QTc prolongation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "314956c3-5c43-4c32-aa56-3d81c25980c6",
+          "text": "Escitalopram",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "dcb50189-5b3e-404b-a8f6-6f7adaaacc1e",
+          "text": "Sertraline",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "03d2ed87-7c1a-46b0-9204-23855b6dd4a4",
+          "text": "Trazodone",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a25d1380-5350-44cb-9517-a9615439e559",
+          "text": "Citalopram",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "faeb6f16-33d3-4740-a3a3-536b66e55860",
+          "text": "Amitriptyline",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "dcb50189-5b3e-404b-a8f6-6f7adaaacc1e",
+        "text": "Sertraline"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "dcb50189-5b3e-404b-a8f6-6f7adaaacc1e",
+          "text": "Sertraline",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Of those listed, sertraline is least likely to cause QTc prolongation at standard doses.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 45,
+      "question_id": "626b6e7e-b7f3-4de5-b4f2-de56de1ff1af",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "In children and adolescents with bipolar disorder, which of the following disorders has the highest comorbidity?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "16724965-32a6-403f-bc2e-2cf7f6e680ce",
+          "text": "Substance use disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4de0b329-ff57-4559-a7a4-db2c23455b6e",
+          "text": "OCD",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "a9c60f4a-976a-436b-bac7-b2d3fbc7dfdf",
+          "text": "ADHD",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "cecef0bb-2edf-4836-a756-d44ebb2f0841",
+          "text": "Tourette syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "3ea90463-366d-46a0-adf8-ced0b70b2869",
+          "text": "Bulimia nervosa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "a9c60f4a-976a-436b-bac7-b2d3fbc7dfdf",
+        "text": "ADHD"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "a9c60f4a-976a-436b-bac7-b2d3fbc7dfdf",
+          "text": "ADHD",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Comorbidities in youth with bipolar disorder include ADHD (70%), substance abuse (40%), ODD (40%), anxiety disorders (30%), Tourette syndrome (8%), and bulimia nervosa (3%). ADHD is the most common.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 46,
+      "question_id": "9917590d-0a81-46be-9f2c-ba22c4034121",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is considered first-line treatment for PTSD in children and adolescents?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c0d6b7ef-d1ea-45db-85db-4a01ffbd87e5",
+          "text": "Family therapy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "487638e9-c811-43d7-9b50-98dac44ad622",
+          "text": "Art therapy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5515d907-b5d3-405a-90ad-aefb749544f6",
+          "text": "Fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "dfe65e70-30fd-4683-9c6d-4201c0f0a254",
+          "text": "CBT",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "58f715dc-b6db-4c4a-b7b4-71973a70906f",
+          "text": "Play therapy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "dfe65e70-30fd-4683-9c6d-4201c0f0a254",
+        "text": "CBT"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "dfe65e70-30fd-4683-9c6d-4201c0f0a254",
+          "text": "CBT",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Children and young people with PTSD should be offered trauma-focused CBT as first-line treatment. Drug treatments should not be routinely prescribed.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 47,
+      "question_id": "987f59ad-eda1-4442-bdf4-9fa2796195bf",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "An adolescent being treated for ADHD develops tics after starting methylphenidate. It is most advisable to consider switching to which of the following medications?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "654f7d25-5f12-4377-ba2a-c6dc6af92268",
+          "text": "Clonidine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "0518c78f-dbac-41a4-8893-fc362bf04716",
+          "text": "Lisdexamfetamine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "eb95b39f-a3fb-43ff-84d1-78667ffbf3bf",
+          "text": "Amitriptyline",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "93e13630-8ed9-4d74-b5d4-a0eb5dbefa0f",
+          "text": "Modafinil",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a5964681-667d-4c76-aa2a-d1cf942203d4",
+          "text": "Guanfacine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "a5964681-667d-4c76-aa2a-d1cf942203d4",
+        "text": "Guanfacine"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "a5964681-667d-4c76-aa2a-d1cf942203d4",
+          "text": "Guanfacine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Guanfacine is a non-stimulant alpha-2 agonist licensed for ADHD in children, recommended by NICE when tics are stimulant-related.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 48,
+      "question_id": "d3e208eb-4dcc-4f6f-93fd-b102126465ae",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is considered a good prognostic factor for OCD?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "48a9f76c-c76d-41a6-96e4-912c75f40d3a",
+          "text": "Male sex",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d5b5ebb7-595e-4c4a-ab2b-473c16402759",
+          "text": "Bizarre compulsions",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d59c6b14-3b30-464d-a950-2dd73b26199c",
+          "text": "Precipitating event",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "8eca28fb-f07e-4d42-8d80-2b873292d1f2",
+          "text": "Early onset",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "aa1ff4a4-cb3d-4a32-9fa2-b090a9630ff1",
+          "text": "Presence of tics",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "d59c6b14-3b30-464d-a950-2dd73b26199c",
+        "text": "Precipitating event"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "d59c6b14-3b30-464d-a950-2dd73b26199c",
+          "text": "Precipitating event",
+          "is_correct": true
+        }
+      ],
+      "explanation": "A better prognosis is associated with good premorbid and occupational adjustment, a precipitating event, episodic symptoms, and less avoidance.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 49,
+      "question_id": "c36ada20-355f-4e3b-81af-53772a6a7ff0",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "According to ICD-11, which of the following may be seen in both anorexia nervosa and bulimia nervosa?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c50735b7-18f9-438d-bf89-c16efa9fba59",
+          "text": "BMI less than 18.5",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "fe7ddb42-db78-44f7-ae05-0787dd2d5598",
+          "text": "Very low body weight",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8f10d25f-d200-4514-878a-195c19ed50f5",
+          "text": "A higher prevalence in males",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "3539dc77-6c46-44b6-a376-27b5eef245a3",
+          "text": "Binge eating and purging",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "c73975ad-f2de-4501-9b44-3b842fe85510",
+          "text": "Onset usually >40 years of age",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "3539dc77-6c46-44b6-a376-27b5eef245a3",
+        "text": "Binge eating and purging"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "3539dc77-6c46-44b6-a376-27b5eef245a3",
+          "text": "Binge eating and purging",
+          "is_correct": true
+        }
+      ],
+      "explanation": "As seen in bulimia nervosa, individuals with anorexia nervosa may also engage in binge eating and purging. They are distinguished by very low body weight in anorexia nervosa.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 50,
+      "question_id": "a7501c19-4a8e-4de7-a82b-ebe6f003b951",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 6-year-old child has primary nocturnal enuresis with no daytime wetting. The most robust evidence supports which of the following management options?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "e9db4b72-88e9-4fe1-9ad3-bf76199f81d1",
+          "text": "Enuresis alarm",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "7330e57a-e1a1-4655-b7f1-7578ac48de2e",
+          "text": "Star charts",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "df2c8ac7-ffc8-40fd-8e52-793bfb719363",
+          "text": "Night lifting",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6fdc1b2d-8562-4f78-a889-d8ca9d053d9c",
+          "text": "Fluid restriction",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f9f4fd11-85e5-4016-b0c3-b7a041949a4b",
+          "text": "Desmopressin",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "e9db4b72-88e9-4fe1-9ad3-bf76199f81d1",
+        "text": "Enuresis alarm"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "e9db4b72-88e9-4fe1-9ad3-bf76199f81d1",
+          "text": "Enuresis alarm",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Robust evidence supports the use of enuresis alarms in the management of nocturnal enuresis. Alarm therapy alerts the child to respond when voiding begins during sleep.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 51,
+      "question_id": "4a1fa7fc-312e-4b6c-a88d-3fbf0b73e515",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is considered first-line in the medication treatment of children with ADHD and a comorbid tic disorder?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "57918732-2273-4874-b0c6-061bc14ff777",
+          "text": "Clonidine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "48cc64e9-440d-4143-baa7-c9aeceac87d8",
+          "text": "Methylphenidate",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "feb7a914-ec52-4498-b5b1-d0a517507034",
+          "text": "Bupropion",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "cee12539-1817-4cb3-b640-c455d015e602",
+          "text": "Atomoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "15fd9822-d0c8-4aa2-8231-05524c89574d",
+          "text": "Risperidone",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "48cc64e9-440d-4143-baa7-c9aeceac87d8",
+        "text": "Methylphenidate"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "48cc64e9-440d-4143-baa7-c9aeceac87d8",
+          "text": "Methylphenidate",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Methylphenidate is the first-line treatment of ADHD in children when medication is indicated. It is no longer contraindicated in patients with comorbid tic disorders.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 52,
+      "question_id": "152f6864-25bd-4f30-a190-d99a3713e227",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 12-year-old child has severe symptoms of OCD that have been unresponsive to CBT. Which of the following medications, licensed in the UK, is first-line treatment in this case?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "63d11898-cbc6-4b31-ad01-019b5df9fd98",
+          "text": "Fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "63df2d81-5f80-4365-ab59-ffa0070c8c2f",
+          "text": "Fluvoxamine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "a0e48157-2ad5-4345-89ed-fdc7d4c5be53",
+          "text": "Sertraline",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "bdb6f983-6ff7-4c53-b56f-40dcdb445743",
+          "text": "Clomipramine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "eca290f7-0602-4271-9c47-f7a5e9176108",
+          "text": "Paroxetine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "a0e48157-2ad5-4345-89ed-fdc7d4c5be53",
+        "text": "Sertraline"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "a0e48157-2ad5-4345-89ed-fdc7d4c5be53",
+          "text": "Sertraline",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Sertraline (from age 6) and fluvoxamine (from age 8) are the SSRIs licensed in the UK for the treatment of OCD in young people. SSRIs are the recommended first-choice medication.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

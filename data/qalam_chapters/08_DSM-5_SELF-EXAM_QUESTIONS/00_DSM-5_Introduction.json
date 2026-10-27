@@ -1,0 +1,168 @@
+{
+  "chapter_id": "fec16b86-8280-4ed8-a55d-25a52d03efa4",
+  "chapter_name": "DSM-5 Introduction",
+  "chapter_title": "DSM-5 Introduction",
+  "resource_id": "31f4785f-39a2-489d-85f9-b692a6e775dd",
+  "resource_title": "DSM-5 SELF-EXAM QUESTIONS",
+  "subject_name": "DSM-5 SELF-EXAM QUESTIONS",
+  "chapter_number": 0,
+  "total_questions": 3,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "04b458c0-a598-446f-a45a-e2a87bc46a7e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "DSM-IV employed a multiaxial diagnostic system. Which of the following statements best describes the multiaxial system in DSM-5?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1612a198-8af5-4c11-a15f-19e3787dcc82",
+          "text": "Axis I (Clinical Disorders) and Axis II (Personality Disorders) have been retained in DSM-5.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "29fd8220-dfb0-44c0-8bf2-78c7aeca89f1",
+          "text": "DSM-5 has moved to a nonaxial documentation of diagnosis.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "41b0b7d8-5d1e-45e3-914a-ef47f41f2641",
+          "text": "Axis IV (Psychosocial and Environmental Problems) and Axis V (Global Assessment of Functioning) have been retained in DSM-5.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6e5737fd-1b64-4b67-9a0f-aab654ed3e90",
+          "text": "The multiaxial system in DSM-IV has been retained in DSM-5.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "af12e012-d701-42fd-b36a-bb0f697eeb5d",
+          "text": "There is a different multiaxial system in DSM-5.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "29fd8220-dfb0-44c0-8bf2-78c7aeca89f1",
+        "text": "DSM-5 has moved to a nonaxial documentation of diagnosis."
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "29fd8220-dfb0-44c0-8bf2-78c7aeca89f1",
+          "text": "DSM-5 has moved to a nonaxial documentation of diagnosis.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Despite widespread use and its adoption by certain insurance and governmental agencies, the multiaxial system in DSM-IV was not required to make a mental disorder diagnosis. DSM-5 has moved to a nonaxial documentation of diagnosis (formerly Axes I, II, and III), with separate notations for important psychosocial and contextual factors (formerly Axis IV) and disability (formerly Axis V). The approach of separately noting diagnosis from psychosocial and contextual factors is consistent with established World Health Organization (WHO) and International Classification of Diseases (ICD) guidance to consider the individual’s functional status separately from his or her diagnoses or symptom status. In DSM-5, Axis III has been combined with Axes I and II. Clinicians should continue to list medical conditions that are important to the understanding or management of an individual’s mental disorder(s).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": "3c53efa7-591b-4ac6-92df-655bceb8b379",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "True or False: The Global Assessment of Functioning (GAF) Scale (DSM-IV Axis V) remains a separate category that should be coded in DSM-5.",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "32abd7ee-8b30-420a-aabd-f69df8d7f4f0",
+          "text": "True.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "cb5d7cd8-91f3-4020-8e2e-80ad5c5b32ab",
+          "text": "False.",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "cb5d7cd8-91f3-4020-8e2e-80ad5c5b32ab",
+        "text": "False."
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "cb5d7cd8-91f3-4020-8e2e-80ad5c5b32ab",
+          "text": "False.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "DSM-IV Axis V consisted of the GAF Scale, representing the clinician’s judgment of the individual’s overall level of “functioning on a hypothetical continuum of mental health–illness.” It was recommended that the GAF be dropped from DSM-5 for several reasons, including its conceptual lack of clarity (i.e., including symptoms, suicide risk, and disabilities in its descriptors) and questionable psychometrics in routine practice.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "27685e4b-eed4-4d5c-b6a3-5b8f781ab753",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "To enhance diagnostic specificity, DSM-5 replaced the previous “not otherwise specified” (NOS) designation with two options for clinical use: Other Specified [disorder] and Unspecified [disorder]. Which of the following statements about use of the Unspecified designation is true?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "13ddf5e7-319e-4428-a31d-13f9f3527d31",
+          "text": "The Unspecified designation is used when the clinician believes the condition is of a temporary nature.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "bf339135-919e-4039-8511-d4fd7070fff6",
+          "text": "The Unspecified designation is used when the clinician chooses not to specify the reason that criteria for a specific disorder were not met.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "c5362e1e-7e98-40ea-8c6b-41ede16f3bc4",
+          "text": "The Unspecified designation is used when the individual presents with symptomatology of disorders in two or more diagnostic classes.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e13ea44e-5bc6-41c7-bb96-04765e30dee7",
+          "text": "The Unspecified designation is used when the individual has fewer than three symptoms of any of the recognized disorders within the diagnostic class.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fa4a1ab1-6d69-45e2-87b5-892e10eb558c",
+          "text": "The Unspecified designation is used when there is no recognized Other Specified disorder (e.g., recurrent brief depression, sexual aversion).",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "bf339135-919e-4039-8511-d4fd7070fff6",
+        "text": "The Unspecified designation is used when the clinician chooses not to specify the reason that criteria for a specific disorder were not met."
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "bf339135-919e-4039-8511-d4fd7070fff6",
+          "text": "The Unspecified designation is used when the clinician chooses not to specify the reason that criteria for a specific disorder were not met.",
+          "is_correct": true
+        }
+      ],
+      "explanation": "To enhance diagnostic specificity, DSM-5 replaced the previous NOS designation with two options for clinical use: Other Specified disorder and Unspecified disorder. The Other Specified category is provided to allow the clinician to communicate the specific reason that the presentation does not meet the criteria for any specific category within a diagnostic class. This is done by recording the name of the category, followed by the specific reason. For example, for an individual with clinically significant depressive symptoms lasting 4 weeks but whose symptomatology falls short of the diagnostic threshold for a major depressive episode, the clinician would record “other specified depressive disorder, depressive episode with insufficient symptoms.” If the clinician chooses not to specify the reason that the criteria are not met for a particular disorder, then “unspecified depressive disorder” would be diagnosed. Note that the differentiation between Other Specified and Unspecified disorders is based on the clinician’s decision, providing maximum flexibility for diagnosis. Clinicians do not have to differentiate between Other Specified and Unspecified disorders based on some feature of the presentation itself. When the clinician determines that there is evidence to specify the nature of the clinical presentation, the Other Specified diagnosis can be given. When the clinician is not able to further specify and describe the clinical presentation, the Unspecified diagnosis can be given. This is left entirely up to clinical judgment.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

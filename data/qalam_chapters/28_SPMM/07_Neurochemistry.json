@@ -1,0 +1,2216 @@
+{
+  "chapter_id": "1ea28272-a169-486b-bfb1-345a60c63f67",
+  "chapter_name": "Neurochemistry",
+  "chapter_title": "Neurochemistry",
+  "resource_id": "27bdf65f-afb6-4ffa-af8b-c43c54f01aae",
+  "resource_title": "SPMM",
+  "subject_name": "SPMM",
+  "chapter_number": 7,
+  "total_questions": 38,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": "cc3bba5b-32bc-41f6-85cf-48090ef2bc4b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following is the rate­limiting step in the synthesis of dopamine?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "350a7271-7850-466a-a573-34fd8e5d4219",
+          "text": "Tyrosine Hydroxylase",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "3872aba8-a0ef-470c-b1bc-ac9db818c4de",
+          "text": "Choline acetyltransferase",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "40d7b168-4d1b-46e5-add3-cc3fc1197f11",
+          "text": "Catechol o methyl transferase",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "d25d7d08-f0f7-495a-ab10-e45cd559e945",
+          "text": "Phenyl ethanolamine N­Methyltransferase",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f0c5b3ab-41fe-4f8f-ae5e-413f2bab9fd9",
+          "text": "Dopamine beta Hydroxylase",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "350a7271-7850-466a-a573-34fd8e5d4219",
+        "text": "Tyrosine Hydroxylase"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "350a7271-7850-466a-a573-34fd8e5d4219",
+          "text": "Tyrosine Hydroxylase",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The rate­limiting step in the biosynthesis of dopamine is tyrosine hydroxylase, which converts tyrosine into L­DOPA.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": "7d69eedc-4aa9-438d-b610-8bc9e75685d1",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following receptors is a ligand­gated cation channel?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "03cf45d5-f3b5-471b-9adf-9cd8cad0a29b",
+          "text": "5­HT 1 b",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "72df7add-fd1d-4f65-8da9-139e9031b571",
+          "text": "Noradrenaline",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8e538162-5413-4f16-ae3b-54afe0f8e860",
+          "text": "5­HT 1a",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b3ce65a9-5efb-425c-bc73-2acd59d9f8ed",
+          "text": "5­HT 3",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "b65f5ac3-1233-4edc-94d3-0d0198617384",
+          "text": "5­HT 7",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "b3ce65a9-5efb-425c-bc73-2acd59d9f8ed",
+        "text": "5­HT 3"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "b3ce65a9-5efb-425c-bc73-2acd59d9f8ed",
+          "text": "5­HT 3",
+          "is_correct": true
+        }
+      ],
+      "explanation": "5HT­3 is a ligand­gated cation channel, while all other 5HT receptors are G­protein coupled.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": "d6d65f0f-41db-4385-90ba-ca1d094fa932",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The Nucleus of Meynert is a prominent site of localization for which neurotransmitter in the brain?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1de0ca37-b476-4258-80b6-cdfdc2e9ed5a",
+          "text": "Serotonin",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2369b53d-1581-4eb8-88cf-a2b243ed4068",
+          "text": "Norepinephrine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "584b49f2-a365-4ad8-a1b9-167ae3fb9b00",
+          "text": "GABA",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a296e305-2a30-4860-8397-c1dd23f19d44",
+          "text": "Acetylcholine",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "df124252-815c-4675-aa27-1a75d963f12f",
+          "text": "Dopamine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "a296e305-2a30-4860-8397-c1dd23f19d44",
+        "text": "Acetylcholine"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "a296e305-2a30-4860-8397-c1dd23f19d44",
+          "text": "Acetylcholine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Acetylcholine is localized to an ascending system of cholinergic neurons originating in the reticular formation and nucleus basalis of Meynert.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": "5c603795-6caf-488b-99d7-091f3024889c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The drug 'khat' (Catha edulis) has effects comparable to",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2318eab5-fcad-4f4a-accd-685931113017",
+          "text": "LSD",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4fe5615f-fced-4b21-adc0-75dd0b8d6273",
+          "text": "Cannabis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "bd17f6c2-e649-4b74-8875-382b36854be7",
+          "text": "Alcohol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "fab4fc68-f3e2-4818-a139-afa69da6fbe2",
+          "text": "Benzodiazepines",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fc8b62aa-eefb-4a65-b36c-18a408761efd",
+          "text": "Amphetamine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "fc8b62aa-eefb-4a65-b36c-18a408761efd",
+        "text": "Amphetamine"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "fc8b62aa-eefb-4a65-b36c-18a408761efd",
+          "text": "Amphetamine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Cathinone, present in khat leaves, shares a pharmacological profile closely resembling that of amphetamine and operates through releasing catecholamines.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": "31bad535-0353-4df2-8243-17989a87f625",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following receptors increase adenylate cyclase to stimulate cell machinery?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2a364dc9-d6ee-4d54-b2be-e2084a917999",
+          "text": "Dopamine D3",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "781e391b-f789-49aa-ad8f-49364b25163b",
+          "text": "Dopamine D2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "9bfd8afd-6320-40a8-a533-e458043ba0ad",
+          "text": "Alpha 1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "b524c6dc-c0d5-4c5e-93c4-5595a8b7abcf",
+          "text": "Beta adrenergic",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "e97a3d59-f419-401e-a6ae-853d62c8536a",
+          "text": "Dopamine D4",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "b524c6dc-c0d5-4c5e-93c4-5595a8b7abcf",
+        "text": "Beta adrenergic"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "b524c6dc-c0d5-4c5e-93c4-5595a8b7abcf",
+          "text": "Beta adrenergic",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Beta receptors are Gs coupled, thus they increase adenylate cyclase.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": "87ce29cc-6eac-45e9-8b25-d741ab7b3dfa",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "D1 and D2 receptors are mainly located in which of the following structures?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1471a001-f3ca-4d6d-adcf-68f0b58b19e3",
+          "text": "Hippocampus",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "1763bc79-6a00-41d7-9536-11bfa5ea2cad",
+          "text": "Nucleus accumbens",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "64fc204c-0d51-44c1-8dca-da6eb454c01a",
+          "text": "Prefrontal cortex",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7f9a19c5-3693-4f4a-ae08-f407fd1c3ee4",
+          "text": "Caudate­putamen",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "a7dec8ba-f974-48ed-9794-b198f92f6ee8",
+          "text": "Amygdala",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "7f9a19c5-3693-4f4a-ae08-f407fd1c3ee4",
+        "text": "Caudate­putamen"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "7f9a19c5-3693-4f4a-ae08-f407fd1c3ee4",
+          "text": "Caudate­putamen",
+          "is_correct": true
+        }
+      ],
+      "explanation": "D1 and D2 are predominant in the caudate and putamen.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": "04cb8fac-0728-4120-9349-8be6540c643a",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "An enzyme involved in synthesis of acetylcholine is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "11c84fe3-124b-4b70-8f31-8f8da901b88c",
+          "text": "Acetylcholinesterase",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "4b267f12-ae8c-48b5-9ba2-344ff82f51e4",
+          "text": "Dopa hydroxylase",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4c3b0dd3-4de6-43a9-b69a-c2414d7d5b24",
+          "text": "Choline acetyl transferase",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "4ce2df22-b438-4e9e-9801-7688a0a5ff45",
+          "text": "Mono amine oxidase",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b167e3ca-5e52-4710-a371-342c27c1ca46",
+          "text": "Butyrylcholinesterase",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "4c3b0dd3-4de6-43a9-b69a-c2414d7d5b24",
+        "text": "Choline acetyl transferase"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "4c3b0dd3-4de6-43a9-b69a-c2414d7d5b24",
+          "text": "Choline acetyl transferase",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Choline acetyl transferase (ChAT) is responsible for the synthesis of acetylcholine.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_id": "7d3e1505-aa45-4a31-a9d8-e207cc98e702",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The neurochemical changes reported in Alzheimer's disease include",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "081e509f-018a-407d-83a2-341982be0d30",
+          "text": "Decreased levels of acetyl cholinesterase",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "3bc1596e-63b2-489c-8d3c-6ac522adb464",
+          "text": "Increased GABA levels",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6899f240-fa02-4fad-a056-68c7618b4649",
+          "text": "Increased levels of choline acetyl transferase",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "863b5fd3-ff01-4ec6-97b1-998ebecc8c56",
+          "text": "Increased levels of acetyl cholinesterase",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f4fdc94b-9cd3-4e21-aa8a-f1d1a3ce2d82",
+          "text": "Increased DOPA decarboxylase",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "081e509f-018a-407d-83a2-341982be0d30",
+        "text": "Decreased levels of acetyl cholinesterase"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "081e509f-018a-407d-83a2-341982be0d30",
+          "text": "Decreased levels of acetyl cholinesterase",
+          "is_correct": true
+        }
+      ],
+      "explanation": "In Alzheimer's, there are decreased levels of acetylcholinesterase and other neurotransmitters.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_id": "d5f965b1-6c7e-4965-8b93-2b4804471338",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Stimulation of nicotine receptors leads to the release of which of the following neurotransmitters?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2d2d5490-840a-4573-8e25-d578136533a9",
+          "text": "Serotonin",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "39a3261e-af28-47d5-9a75-8c2ccad01739",
+          "text": "Melatonin",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5f03b194-ef5e-4061-aefc-7fccc5571bd5",
+          "text": "Dopamine",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "61819073-b805-45d0-b801-b44cc07bcab1",
+          "text": "Adrenaline",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c2cc5cc0-de81-4c8d-9c5d-06d3f9b43750",
+          "text": "Norepinephrine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "5f03b194-ef5e-4061-aefc-7fccc5571bd5",
+        "text": "Dopamine"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "5f03b194-ef5e-4061-aefc-7fccc5571bd5",
+          "text": "Dopamine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Stimulation of nicotine receptors leads to the release of dopamine.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_id": "a54087b5-dd10-4faa-b31c-57fb748e2d28",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following is an incorrect pairing of the disease condition and the primary neurotransmitter that is abnormal in the diseases?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1803e7e6-67d1-4d14-85c7-f6de919f8fe2",
+          "text": "Serotonin­anxiety",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "1d2e973e-4bae-4b21-82d7-3e62d1cbbdf1",
+          "text": "Dopamine­ Schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "47bf8444-e004-46bc-a1db-1f622ccf1e2b",
+          "text": "GABA­ epilepsy",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "53557a6d-3ad5-4935-a610-fe50836f266e",
+          "text": "Noradrenalin­depression",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "7a3a412c-b102-465f-a35e-24d2ef4ff4fc",
+          "text": "Dopamine ­ Alzheimer's dementia",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "7a3a412c-b102-465f-a35e-24d2ef4ff4fc",
+        "text": "Dopamine ­ Alzheimer's dementia"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "7a3a412c-b102-465f-a35e-24d2ef4ff4fc",
+          "text": "Dopamine ­ Alzheimer's dementia",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Acetylcholine is more relevant than dopamine for Alzheimer's dementia.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_id": "4276325d-71f7-4a0b-9b1e-4491053ec4cc",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following neurotransmitters can be called catecholamines?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2521e1e2-09cc-4782-a7c6-9b1f018a008e",
+          "text": "Dopamine and noradrenalin",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "59c625ab-a712-4740-ac4b-e191e23cf93f",
+          "text": "Serotonin only",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "b6232d47-d7a9-4e8b-bdaa-90a351ab737b",
+          "text": "Noradrenalin only",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "ed9de5c0-2740-4116-a8fb-6c4dfdd3a140",
+          "text": "Dopamine only",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f94b4bbf-f6d0-4451-89f1-d710fa235f1f",
+          "text": "Dopamine and serotonin",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "2521e1e2-09cc-4782-a7c6-9b1f018a008e",
+        "text": "Dopamine and noradrenalin"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "2521e1e2-09cc-4782-a7c6-9b1f018a008e",
+          "text": "Dopamine and noradrenalin",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Dopamine and noradrenaline are catecholamines, while serotonin is an indolamine.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_id": "0bc0fae9-1624-450d-a388-18b44d929848",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which neurotransmitter plays an important role in the neurochemical changes seen in Huntington's disease?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "3ad496f5-4d2e-4fa9-a227-dadad5c7faa6",
+          "text": "Serotonin",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "999599d0-a74b-46c2-99e3-b415ddb0d575",
+          "text": "Dopamine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d29ea744-1afa-4398-a7f6-17af9661e06a",
+          "text": "Noradrenaline",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "dc4f24c7-9f50-4e1b-a3dd-66b64e26c5a0",
+          "text": "GABA",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "ee94022a-daa7-4c90-adff-0337777207b9",
+          "text": "Endorphins",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "dc4f24c7-9f50-4e1b-a3dd-66b64e26c5a0",
+        "text": "GABA"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "dc4f24c7-9f50-4e1b-a3dd-66b64e26c5a0",
+          "text": "GABA",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Reduced GABA is seen in Huntington's disease.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_id": "fa8d8693-5102-4b1b-a724-d274dc0f8ab5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is an ionotropic receptor?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "6ea92939-ec12-425c-ac73-64bd88956312",
+          "text": "GABA­A receptor",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": "6fb0761a-8905-4a37-9690-0cf4adbd7e3d",
+          "text": "GABA­B receptor",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d33a63e7-8ffe-415e-b645-8cce7b3af265",
+          "text": "Norepinephrine receptor",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e392868e-bd82-4d65-a3ed-8cf05cd228c8",
+          "text": "5HT2A receptor",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f4de51fe-0b60-4c16-b5d5-037b9e6a78bc",
+          "text": "Dopamine D2 receptor",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "option_id": "6ea92939-ec12-425c-ac73-64bd88956312",
+        "text": "GABA­A receptor"
+      },
+      "correct_answers": [
+        {
+          "letter": "A",
+          "option_id": "6ea92939-ec12-425c-ac73-64bd88956312",
+          "text": "GABA­A receptor",
+          "is_correct": true
+        }
+      ],
+      "explanation": "GABA­A opens chloride channel; it is an ionotropic receptor.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_id": "420fd197-d8da-441e-ad72-1d5c2340caf2",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which one of the following acts as a fast acting excitatory neurotransmitter?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "5d7a034b-c10c-421a-8cbf-802a1370cf50",
+          "text": "Noradrenalin",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5f091b0b-b0f1-41fa-8b0b-6cc15196099f",
+          "text": "Muscarinic Acetylcholine receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6717b99f-ab13-428c-8882-717de73a33d2",
+          "text": "Glutamate",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "6edd82d9-f503-46ba-9890-301d2f141558",
+          "text": "Dopamine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "90349445-eecf-485c-b9b1-71348e1e8b1a",
+          "text": "5­hydroxytryptamine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "6717b99f-ab13-428c-8882-717de73a33d2",
+        "text": "Glutamate"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "6717b99f-ab13-428c-8882-717de73a33d2",
+          "text": "Glutamate",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Glutamate is a fast acting excitatory neurotransmitter.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_id": "8be4dfca-f7d5-4d3c-99b9-93c6e9d274e2",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following substances serve as a precursor for GABA?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "45e0482f-cee5-4f0e-b454-3bae3aaa0a63",
+          "text": "Glucagon",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "610124ab-1c65-4e27-a19c-7e367fd838b2",
+          "text": "Adrenaline",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6e265b27-8a6b-46d2-a30c-3af24ae0d01d",
+          "text": "Glutamate",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "cde8136b-9e8a-4ac6-a4ac-3926eb027b87",
+          "text": "Butyrylcholinesterase",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "f34ca9e8-776c-4ddd-bb0b-396a6f26c0d7",
+          "text": "Dopamine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "6e265b27-8a6b-46d2-a30c-3af24ae0d01d",
+        "text": "Glutamate"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "6e265b27-8a6b-46d2-a30c-3af24ae0d01d",
+          "text": "Glutamate",
+          "is_correct": true
+        }
+      ],
+      "explanation": "GABA is synthesized from glutamate.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 16,
+      "question_id": "c57030f8-8e6f-42c4-b355-eaa1e0112416",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is an amino acid neurotransmitter?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "13e493ac-559f-4797-b857-1031e157bea3",
+          "text": "Neurotensin",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "78d9706b-625d-4808-98dc-c791144f618b",
+          "text": "Dopamine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7f0bbbc4-e754-4d3f-801a-e4c067de10e9",
+          "text": "Acetylcholine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "865bf14c-c7ef-408d-98ab-6bd013c8a0c9",
+          "text": "Endorphins",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c662f75e-f57d-46d8-99b0-f0cda1ad67a9",
+          "text": "Glycine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "c662f75e-f57d-46d8-99b0-f0cda1ad67a9",
+        "text": "Glycine"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "c662f75e-f57d-46d8-99b0-f0cda1ad67a9",
+          "text": "Glycine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Glycine is an important inhibitory amino acid neurotransmitter.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 17,
+      "question_id": "0720a2d5-be5a-4887-9585-f7103568850c",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following best fits GABA­A receptor?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "17102d20-a706-4210-bb60-a23513dc2d6c",
+          "text": "Ligand dependent regulator of nuclear transcription",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "36074498-1b35-42dc-9f50-e62ea4b8ca8b",
+          "text": "Ionotropic",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "5af6b657-f207-4995-a6e2-4115f66f039f",
+          "text": "G protein coupled",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "9a7d9285-8510-4d83-8704-5f3e1543c2f0",
+          "text": "Receptor with intrinsic enzyme activity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "de3743c7-a1f6-412a-ad1c-a0a2a08cc83c",
+          "text": "Metabotropic",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "36074498-1b35-42dc-9f50-e62ea4b8ca8b",
+        "text": "Ionotropic"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "36074498-1b35-42dc-9f50-e62ea4b8ca8b",
+          "text": "Ionotropic",
+          "is_correct": true
+        }
+      ],
+      "explanation": "GABA A receptors are ionotropic and mediate postsynaptic inhibition.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 18,
+      "question_id": "d582aed7-b779-49fe-9dbc-5a9f2245565e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Regarding excitatory amino acids which one of the following statements is incorrect?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "020cc75b-a034-4128-9ce1-fa0503e778e8",
+          "text": "Glutamate is the most abundant excitatory neurotransmitter",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "48aa5f24-7737-4768-86d5-6cbc45d9e13d",
+          "text": "Ketamine is a selective agonist at NMDA receptors",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "89044f10-8a86-4733-a2ad-71f808de6288",
+          "text": "Excitatory amino acid neurotransmitters are essential in learning and memory",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "db7159c1-cfe2-407e-bb8f-e2b9d1e5a971",
+          "text": "Calcium entry in neurons is influenced by glutamate",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "e961449d-c877-430c-8ed8-bc6a6f25d373",
+          "text": "Glutamate can be a potent neurotoxin when excessive",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "48aa5f24-7737-4768-86d5-6cbc45d9e13d",
+        "text": "Ketamine is a selective agonist at NMDA receptors"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "48aa5f24-7737-4768-86d5-6cbc45d9e13d",
+          "text": "Ketamine is a selective agonist at NMDA receptors",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Ketamine is a non-competitive antagonist at NMDA receptors.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 19,
+      "question_id": "b091d09d-e2fa-4b10-8963-8e73b6b9cc37",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following best fits glucocorticoid receptor?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "36ba004e-20b6-412a-890d-d0cd82229ae2",
+          "text": "Ionotropic",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "36e128a0-dce7-4448-b0df-0cf817e7e024",
+          "text": "Receptors with intrinsic enzyme activity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "6bded4a5-ad0e-4369-a5d6-a6ed11874155",
+          "text": "Ligand dependent regulators of nuclear transcription",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "8c68eaf4-ead4-4547-8ce0-3427db9820eb",
+          "text": "G protein coupled",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "cc895686-00c2-4743-bf60-edb6f8a879e7",
+          "text": "Metabotropic",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "6bded4a5-ad0e-4369-a5d6-a6ed11874155",
+        "text": "Ligand dependent regulators of nuclear transcription"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "6bded4a5-ad0e-4369-a5d6-a6ed11874155",
+          "text": "Ligand dependent regulators of nuclear transcription",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Glucocorticoids act via their binding to the intracellular GR (Glucocorticoid Receptor) which translocates to the nucleus to modulate gene expression.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 20,
+      "question_id": "0e082edb-11c1-440a-9ced-0cf67e195d8f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The principal location of noradrenergic neuronal cell bodies in the CNS is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "033340c6-478c-4edf-8a33-1256526d5703",
+          "text": "Caudate and putamen nucleus",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "487825a4-72de-4949-89d0-30ff5507ac10",
+          "text": "Nucleus basalis of meynert",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7a302e32-187c-4502-b38a-7ce4d7166f0c",
+          "text": "Hippocampus",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "aeb42fdf-43c8-4313-bf43-80f22aca9321",
+          "text": "Raphae nucleus",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d058fdd2-1ad4-4665-916f-cd6200fd7498",
+          "text": "Locus coeruleus",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "d058fdd2-1ad4-4665-916f-cd6200fd7498",
+        "text": "Locus coeruleus"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "d058fdd2-1ad4-4665-916f-cd6200fd7498",
+          "text": "Locus coeruleus",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The principal location of noradrenaline is the locus coeruleus.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 21,
+      "question_id": "06044a9f-1f8c-498a-a305-3cd045fb3f20",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The effects of magic mushroom are very similar to those of",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "29abac6e-3559-4f3e-910b-9171d4797d72",
+          "text": "Cannabis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "400eaac0-182f-46f3-9146-e86911111d0f",
+          "text": "Methadone",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5430814a-9240-462a-8bca-29a27414b894",
+          "text": "Heroin",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6fb8ece8-aa30-4677-aa78-e07e3250e18b",
+          "text": "Cocaine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ebe6f85f-f0a8-4283-b782-532f48fca03c",
+          "text": "LSD",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "ebe6f85f-f0a8-4283-b782-532f48fca03c",
+        "text": "LSD"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "ebe6f85f-f0a8-4283-b782-532f48fca03c",
+          "text": "LSD",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Magic mushrooms contain psilocin and psilocybin, substances that act similarly to LSD.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 22,
+      "question_id": "c1706dfe-b4f8-4c37-8e18-1a2ae87cec67",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The predominant CNS metabolite of noradrenaline is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4803d494-885d-4fef-9dcb-6a90277e19e4",
+          "text": "Vanillyl mandelic acid (VMA)",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "55aed864-02be-4acc-83df-8ae86d12d29a",
+          "text": "Coenzyme A",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5f040e1e-5daa-4672-a7bf-0e79ca654fc2",
+          "text": "COMT (Catechol­O­methyl transferase)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "695cd772-8763-4c42-8960-e98c736e7e1e",
+          "text": "5HIAA (Hydroxy Indole Acetic Acid)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "d086288d-9205-48b4-9e9b-c44fb7036fc6",
+          "text": "MHPG (3­methoxy,4­hydroxy phenyl glycol)",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "d086288d-9205-48b4-9e9b-c44fb7036fc6",
+        "text": "MHPG (3­methoxy,4­hydroxy phenyl glycol)"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "d086288d-9205-48b4-9e9b-c44fb7036fc6",
+          "text": "MHPG (3­methoxy,4­hydroxy phenyl glycol)",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The CNS metabolite of noradrenaline is MHPG (3­methoxy,4­hydroxy phenyl glycol).",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 23,
+      "question_id": "bb53dda8-aeb5-4c56-8ff4-7be5834b31b6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Supraspinal analgesia related to opioid release is mediated by",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "2742154d-e59e-41df-8fd3-95279e5f7506",
+          "text": "Sigma receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2a55393d-53df-4a0c-aeb7-207c1e4eb010",
+          "text": "Kappa receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "48fd4a10-cc76-4c72-8fdc-2c7c87046eef",
+          "text": "Nicotine receptor subunits",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6597bd2c-7313-482f-b4c8-4af3d1fb1b4b",
+          "text": "Delta receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "955def42-a030-41fc-a1df-036a4780a1f6",
+          "text": "Mu receptors",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "955def42-a030-41fc-a1df-036a4780a1f6",
+        "text": "Mu receptors"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "955def42-a030-41fc-a1df-036a4780a1f6",
+          "text": "Mu receptors",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Supraspinal analgesia involves Mu receptors that mediate the effects of opioids.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 24,
+      "question_id": "a127ce4d-1ed3-40e0-9568-c93376ef3b85",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following receptors is stimulated when tobacco is smoked?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "c3636261-38b5-4339-a365-2fd8a89e036a",
+          "text": "Endocannabinoid",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "d2ac36ca-53fb-4011-934b-70fd19d10508",
+          "text": "Muscarinic",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "dc41e8fe-2a24-4e34-8e02-0b657db7793e",
+          "text": "Adenosine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e96dc7a6-888b-4900-aeb1-4eed0100a3ec",
+          "text": "Nicotinic",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "f5e4d53c-a201-4d50-ac19-26c100794dc4",
+          "text": "Adrenergic (alpha)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "e96dc7a6-888b-4900-aeb1-4eed0100a3ec",
+        "text": "Nicotinic"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "e96dc7a6-888b-4900-aeb1-4eed0100a3ec",
+          "text": "Nicotinic",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Nicotine acts on nicotinic cholinergic receptors when tobacco is smoked.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 25,
+      "question_id": "4c561c35-f282-441d-be08-9ad0a443f04b",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following type of glutamate receptors is crucial for the normal function of inhibitory interneurons?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "01fcca65-7fae-4405-a5be-11a83d51139d",
+          "text": "Kainate",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "242ed042-9d71-420a-bcf2-ee3af5c677a8",
+          "text": "AMPA",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4c744b6c-e497-49e6-a598-3f71df6ad34d",
+          "text": "Sigma",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "99a98e5f-e496-424d-913f-00262bedb535",
+          "text": "NMDA",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "9cb29abc-ce53-471c-9d0c-33500a65094d",
+          "text": "GABA-B",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "99a98e5f-e496-424d-913f-00262bedb535",
+        "text": "NMDA"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "99a98e5f-e496-424d-913f-00262bedb535",
+          "text": "NMDA",
+          "is_correct": true
+        }
+      ],
+      "explanation": "NMDA receptors are predominantly located on GABA interneurons, crucial for their function.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 26,
+      "question_id": "6bc5f7d9-4a3f-4f68-988f-b8b83aea975f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The neural mechanism of memory formation may include changes in physical properties of neurons and synapses. One such change called LTP or Long Term Potentiation is mediated by",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "4890c1d9-430d-4335-9ff3-6d3ecd73ed62",
+          "text": "GABAA receptor",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5e32e8f5-95c7-4030-b138-c84fc31cb60b",
+          "text": "NMDA receptor",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "5eef34e1-eab5-4bd0-9670-faa7da1b1118",
+          "text": "Adenosine A1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "602f2080-55d1-492d-aceb-b0f5dc5281b9",
+          "text": "Serotonin 5HT2A",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "888b1d86-11c9-4186-acb9-9cf961467c00",
+          "text": "Cannabinoid receptor CB1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "5e32e8f5-95c7-4030-b138-c84fc31cb60b",
+        "text": "NMDA receptor"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "5e32e8f5-95c7-4030-b138-c84fc31cb60b",
+          "text": "NMDA receptor",
+          "is_correct": true
+        }
+      ],
+      "explanation": "NMDA receptor mediates long-term potentiation, which is crucial for memory acquisition and development.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 27,
+      "question_id": "e71c8a13-8117-414d-81ce-f55d32419897",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following is a rosette shaped receptor?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "62bbe052-f253-4dc9-855a-a9886a51d2cb",
+          "text": "Alpha adrenergic receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "7636471a-33fb-4509-b145-0cf3bd77408c",
+          "text": "Beta adrenergic receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7909f19a-7fbb-4ec8-a684-0b4b3233fe0a",
+          "text": "NMDA receptors",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "a2b25957-5918-479a-8ba4-a1d3243583b5",
+          "text": "Thyroid hormone receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "c54681fb-b22f-4bc5-be06-38f64932f18b",
+          "text": "Serotonin 5HT2 receptors",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "7909f19a-7fbb-4ec8-a684-0b4b3233fe0a",
+        "text": "NMDA receptors"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "7909f19a-7fbb-4ec8-a684-0b4b3233fe0a",
+          "text": "NMDA receptors",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The NMDA receptor structure is atypical of most ligand-gated receptors, appearing as a 'rosette' shape.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 28,
+      "question_id": "076f1bfe-c1e4-43fd-87ba-9335e42621db",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Glycine and d­serine both act as co­agonists at",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "140f6bc9-5f68-4b00-ace0-34e55ce53be4",
+          "text": "Adrenaline receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "517b9fd4-64ed-4146-b827-260212aacc6b",
+          "text": "NMDA receptors",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "59fac46e-5867-49e6-80cf-3dd012612c80",
+          "text": "GABA receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7976aee3-fa6d-4f13-8059-99190ad3e118",
+          "text": "Acetylcholine receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a4677369-3620-4663-b67b-e26abc794874",
+          "text": "Dopamine receptors",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "517b9fd4-64ed-4146-b827-260212aacc6b",
+        "text": "NMDA receptors"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "517b9fd4-64ed-4146-b827-260212aacc6b",
+          "text": "NMDA receptors",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Glycine and d-serine serve as co-agonists at NMDA receptors, facilitating their activation.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 29,
+      "question_id": "7d41a912-a573-4ca8-9460-7e9269b78a31",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following regions in the brain is predominantly cholinergic?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "1ff6ee7f-ef55-4271-a370-10cae510b0be",
+          "text": "Median raphe",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "230b2aa5-ef6a-4a3c-8e0e-e97712312bfc",
+          "text": "Dorsal raphe",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "52883ab9-d652-4cfe-8ecb-a35a2e2d025a",
+          "text": "Locus coeruleus",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "7273560b-6e0a-4514-8ee2-31255fdd436b",
+          "text": "Nucleus basalis of Meynert",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "de0e8b42-4f9e-4631-8902-75dedbe1939a",
+          "text": "Substantia nigra",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "7273560b-6e0a-4514-8ee2-31255fdd436b",
+        "text": "Nucleus basalis of Meynert"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "7273560b-6e0a-4514-8ee2-31255fdd436b",
+          "text": "Nucleus basalis of Meynert",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The nucleus basalis of Meynert is a major source of cholinergic neurons in the brain.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 30,
+      "question_id": "c298eb0e-3813-4aab-b660-8aa577e2ab7f",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following enzymes mediate several catalytic reactions involving amino acids that synthesize neurotransmitters such as dopamine, serotonin, and tryptamine?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "407da036-4458-4688-b609-68529a114d7e",
+          "text": "Hydroxylase",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "436d8966-b352-4080-8292-dc59a5340d74",
+          "text": "Hydrolase",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "d27bc05b-1260-4e7b-a5f5-80cd6d619f2c",
+          "text": "Reductase",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "dc25d699-f615-499f-b35c-6939f9964734",
+          "text": "Decarboxylase",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "fb26e469-0874-47f0-8ce2-59ef7b7c18ec",
+          "text": "Oxidase",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "fb26e469-0874-47f0-8ce2-59ef7b7c18ec",
+        "text": "Oxidase"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "fb26e469-0874-47f0-8ce2-59ef7b7c18ec",
+          "text": "Oxidase",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Monoamine oxidases catalyze the oxidation of monoamines, crucial in the metabolism of catecholamine neurotransmitters.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 31,
+      "question_id": "f8f9ccbe-f755-404e-898e-a22c53320229",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following best describes D2 receptor?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "06bfd00d-73dd-4b03-add9-7c0c0f35be03",
+          "text": "Intranuclear receptor",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "30ba1089-b2fb-488b-89b4-c2ecec1e49b2",
+          "text": "Auto­inducing receptor",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "8e3a952c-39d2-4ab8-9e8a-bf21efc00d8f",
+          "text": "Presynaptic inhibitory receptor",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": "981b174f-a51c-4210-9a98-182c65c52f95",
+          "text": "Rosette shaped",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "a4e222cd-5fa2-4c65-af50-d3b6567e4d3b",
+          "text": "Hetero­receptor",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": "8e3a952c-39d2-4ab8-9e8a-bf21efc00d8f",
+        "text": "Presynaptic inhibitory receptor"
+      },
+      "correct_answers": [
+        {
+          "letter": "C",
+          "option_id": "8e3a952c-39d2-4ab8-9e8a-bf21efc00d8f",
+          "text": "Presynaptic inhibitory receptor",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Dopamine D2 receptors act as presynaptic inhibitory receptors, inhibiting the release of dopamine.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 32,
+      "question_id": "6a31f07b-7435-4a09-9e28-47a2aa1ed6c9",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following are carrot­shaped eosinophilic inclusions seen in hematoxylin and eosin stains?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "19275ce9-dc48-49e5-8a0e-6b4329da691e",
+          "text": "Pick cells",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2443d34a-0130-44f3-8f60-ee5db1fbe3d2",
+          "text": "Lewy bodies",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4d6d356e-dfb3-4560-8318-c15068655c29",
+          "text": "Hirano bodies",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "e1e8ab47-fbc2-475d-9b94-2f5923a90363",
+          "text": "Tau proteins",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "ed4cc58c-6004-4857-aa85-50752e3e9b1a",
+          "text": "Rosenthal fibres",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "option_id": "ed4cc58c-6004-4857-aa85-50752e3e9b1a",
+        "text": "Rosenthal fibres"
+      },
+      "correct_answers": [
+        {
+          "letter": "E",
+          "option_id": "ed4cc58c-6004-4857-aa85-50752e3e9b1a",
+          "text": "Rosenthal fibres",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Rosenthal fibers are distinctive eosinophilic inclusions associated with gliosis and certain diseases.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 33,
+      "question_id": "afbf1d75-0aaf-4030-b212-7868ecf2cdb8",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The most abundant neurotransmitter in the median raphe nuclei is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0ce255d9-cafa-47b9-b7ac-f74d9003cb00",
+          "text": "Acetylcholine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "3068ccb3-f0cb-47e9-8c1a-6157cc7f0a58",
+          "text": "GABA",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "4b8c1e5c-8abc-4e22-887b-1729dec2bc83",
+          "text": "Glycine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "6b45cc0a-34bb-40ae-a07f-6ac23569fbcd",
+          "text": "Serotonin",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "a0f50105-a6d0-4184-9bee-b3c0135985bb",
+          "text": "Noradrenaline",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "6b45cc0a-34bb-40ae-a07f-6ac23569fbcd",
+        "text": "Serotonin"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "6b45cc0a-34bb-40ae-a07f-6ac23569fbcd",
+          "text": "Serotonin",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Serotonin is the primary neurotransmitter in the median raphe nuclei, influencing various functions.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 34,
+      "question_id": "8b667d11-cfd6-4b06-a6d9-9afe5bd8b164",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Tryptophan is the precursor of which of the following neurotransmitters?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "02d3e9f3-a0af-4fd4-b2da-7c395cdcb5eb",
+          "text": "Noradrenalin",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "358acc0a-6096-492f-997f-b2aa94359b6b",
+          "text": "Dopamine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "50366e6c-9cb2-418f-965f-0a695c23f055",
+          "text": "Acetylcholine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "5dac7f22-0ec8-4761-b259-4faa75585e1e",
+          "text": "Serotonin",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "cffe30b3-4702-4507-90f1-bc298fd15821",
+          "text": "Adrenalin",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "5dac7f22-0ec8-4761-b259-4faa75585e1e",
+        "text": "Serotonin"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "5dac7f22-0ec8-4761-b259-4faa75585e1e",
+          "text": "Serotonin",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Tryptophan is converted to 5-hydroxytryptophan and then to serotonin.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 35,
+      "question_id": "b5a2224a-f703-4d1f-a82c-f5566d522ec5",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Which of the following neurotransmitters are not correctly matched with their precursors?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "0af51b73-97f7-4a6d-a852-6d359a98b12d",
+          "text": "Histidine­Histamine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "2cc2a6dd-e1a3-44ed-a17f-90ce494ea524",
+          "text": "Adrenaline­Noradrenaline",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "5ea7ace9-4bc8-470c-a452-e8ab2855e106",
+          "text": "Dopamine­Tyrosine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "bb3daccd-ead9-4b7a-9f10-8ec997e7bd4d",
+          "text": "Serotonin­Histidine",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "db0943ef-741a-4fdb-ab40-d50851de4b96",
+          "text": "Noradrenaline­Dopamine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "bb3daccd-ead9-4b7a-9f10-8ec997e7bd4d",
+        "text": "Serotonin­Histidine"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "bb3daccd-ead9-4b7a-9f10-8ec997e7bd4d",
+          "text": "Serotonin­Histidine",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Histidine is the precursor of histamine, not serotonin.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 36,
+      "question_id": "40099c9f-638e-462a-8af3-da0e7fdbbeae",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "Where do phospholipids get produced in a cell?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "13796a44-ddbc-4dce-b524-0b444f7f6b4e",
+          "text": "Ribosomes",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "66607680-c324-4727-b7e8-f87460a2d955",
+          "text": "Nucleus",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "7e0698f8-dbcb-4038-bf37-52875acf77e5",
+          "text": "Rough Endoplasmic reticulum",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "a28209a3-9d97-47a3-a8c2-d6425563fb83",
+          "text": "Smooth endoplasmic reticulum",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "b7dd0e36-2256-4468-b4c8-e88c1ff54fac",
+          "text": "Lysosomes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "a28209a3-9d97-47a3-a8c2-d6425563fb83",
+        "text": "Smooth endoplasmic reticulum"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "a28209a3-9d97-47a3-a8c2-d6425563fb83",
+          "text": "Smooth endoplasmic reticulum",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Smooth ER is involved in the synthesis of phospholipids and steroid hormones.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 37,
+      "question_id": "0e569f9f-01fe-4b90-8867-ef92dddd160e",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "The enzyme involved in catabolism of GABA is",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "23c4ab5e-a067-4a88-a126-e922b536ce6d",
+          "text": "Hydroxylase",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "271dbd63-ecfa-4d59-bd2c-6dbee5339375",
+          "text": "Transferase",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": "28540f56-0c12-44c8-9082-21f42238c07f",
+          "text": "Oxidase",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "f010cf39-c24e-4106-b23e-61f98204f710",
+          "text": "Transaminase",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": "f5a189ee-1d8b-4427-9c4f-b3e0a0d299a2",
+          "text": "Decarboxylase",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": "f010cf39-c24e-4106-b23e-61f98204f710",
+        "text": "Transaminase"
+      },
+      "correct_answers": [
+        {
+          "letter": "D",
+          "option_id": "f010cf39-c24e-4106-b23e-61f98204f710",
+          "text": "Transaminase",
+          "is_correct": true
+        }
+      ],
+      "explanation": "GABA transaminase is the enzyme responsible for the breakdown metabolism of GABA.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 38,
+      "question_id": "abe20a57-81d3-49bc-885c-f0a00b3197f6",
+      "question_type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "question_text": "A 44­year­old woman is on antipsychotic depot injections. She develops a white discharge from her breasts. Hyperprolactinemia is noted. Which of the following dopamine pathways has a role in prolactin regulation?",
+      "table": null,
+      "images": [],
+      "image_url": "",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": "50efea79-d646-40d6-ba67-fbd9fbe46630",
+          "text": "Nigrostriatal",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": "5bc8782d-e2f2-40bf-b617-d3ce5afc2178",
+          "text": "Tubero infundibular",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": "8bf7a3cc-6c9b-4a11-80c2-7f5d7d0ba288",
+          "text": "Incertohypothalamic",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": "8f093751-3ecc-4e84-9526-e9753a12e9dc",
+          "text": "Mesocortical",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": "b98ad499-6c69-4b38-a304-6e2817858ffe",
+          "text": "Mesolimbic",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": "5bc8782d-e2f2-40bf-b617-d3ce5afc2178",
+        "text": "Tubero infundibular"
+      },
+      "correct_answers": [
+        {
+          "letter": "B",
+          "option_id": "5bc8782d-e2f2-40bf-b617-d3ce5afc2178",
+          "text": "Tubero infundibular",
+          "is_correct": true
+        }
+      ],
+      "explanation": "The tuberoinfundibular pathway regulates prolactin release, inhibiting prolactin secretion.",
+      "explanation_images": [],
+      "explanation_image_url": null
+    }
+  ]
+}

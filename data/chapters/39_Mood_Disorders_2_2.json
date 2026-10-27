@@ -1,0 +1,331 @@
+{
+  "chapter_id": 224,
+  "chapter_name": "Mood Disorders_2 2",
+  "subject_name": "Mood Disorders",
+  "total_questions": 7,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 25505,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Zuranolone (Zurzuvae) received FDA approval in August 2023 for major depressive disorder and postpartum depression. What distinguishes it from brexanolone (Zulresso)?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 127719,
+          "text": "Different mechanism — zuranolone is an SSRI",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 127720,
+          "text": "Oral bioavailability and shorter 14-day treatment course",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 127721,
+          "text": "Zuranolone targets NMDA receptors; brexanolone targets GABA-A",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 127722,
+          "text": "Zuranolone requires hospital-based intravenous administration",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 127723,
+          "text": "Zuranolone is only approved for postpartum depression",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 127720,
+        "text": "Oral bioavailability and shorter 14-day treatment course"
+      },
+      "explanation": "Both zuranolone and brexanolone are positive allosteric modulators of GABA-A receptors (neurosteroid mechanism — allopregnanolone analogues), but zuranolone is orally bioavailable while brexanolone requires a 60-hour intravenous infusion in a healthcare setting. Zuranolone is administered as a 14-day once-nightly oral course (50mg), after which the antidepressant effect is sustained for weeks beyond the treatment period. Phase 3 LANDSCAPE/ROBIN/NEST trials demonstrated significant HAMD-17 reduction vs placebo with onset within days. The fixed-course treatment model represents a novel paradigm — distinguishing it from indefinite antidepressant treatment. Key limitation: Schedule IV controlled substance (CNS depression risk); not recommended for use with other CNS depressants; somnolence and dizziness are common adverse effects. EMA has not yet approved zuranolone; UK/European availability is pending.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_id": 25506,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A rapid-acting antidepressant effect has been consistently demonstrated with sleep deprivation (wake therapy). Which neurotransmitter change, occurring overnight during wakefulness, is currently the most supported mechanism for this effect?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 127724,
+          "text": "Nocturnal serotonin depletion triggering receptor upregulation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 127725,
+          "text": "Adenosine accumulation activating A1 receptors",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 127726,
+          "text": "Glutamate-driven synaptic potentiation in the PFC during wakefulness",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 127727,
+          "text": "Melatonin suppression by light exposure during the night",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 127728,
+          "text": "Dopamine depletion in the VTA during prolonged wakefulness",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 127726,
+        "text": "Glutamate-driven synaptic potentiation in the PFC during wakefulness"
+      },
+      "explanation": "The synaptic homeostasis hypothesis (SHY, Tononi &amp; Cirelli) proposes that wakefulness is associated with net synaptic potentiation (LTP-like strengthening) in cortical circuits due to spontaneous neuronal activity and experience-driven plasticity, while sleep serves to downscale synaptic strength (LTD-like). In this model, sleep deprivation maintains elevated synaptic strength and glutamatergic activity — explaining the acute antidepressant effect of one night of total sleep deprivation (effective in ~40-60% of depressed patients within hours). Glutamate release during prolonged wakefulness activates AMPA receptors and induces BDNF secretion, converging on the same mTOR/synaptogenesis pathway as ketamine. The limitation of wake therapy is rapid relapse upon recovery sleep; combining it with bright light therapy, lithium, or chronotherapy (phase advance) prolongs the antidepressant effect. Sleep deprivation therapy is not widely adopted clinically due to logistical difficulties.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_id": 25507,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "C-reactive protein (CRP) levels are increasingly used in psychiatric research to stratify patients. Which clinical implication has the strongest evidence base in major depressive disorder?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 127729,
+          "text": "High CRP predicts SSRI response",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 127730,
+          "text": "High CRP predicts SSRI non-response",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 127731,
+          "text": "CRP has no predictive value",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 127732,
+          "text": "Low CRP predicts treatment resistance",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 127733,
+          "text": "CRP only elevated in secondary depression",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 127730,
+        "text": "High CRP predicts SSRI non-response"
+      },
+      "explanation": "Multiple studies show that elevated CRP (&gt;3mg/L, indicating high-grade inflammation) in depressed patients predicts poorer response to SSRIs and SNRIs. The landmark Uher et al. (2014) study found that high CRP predicted better response to nortriptyline (TCA) but worse response to escitalopram (SSRI) — suggesting inflammatory subtype depression may respond differently to monoaminergic pharmacotherapy. Anti-inflammatory strategies showing promise in high-CRP depression include: celecoxib (COX-2 inhibitor) augmentation, TNF-α antagonists (infliximab showed significant antidepressant effect in high-CRP patients — Raison et al., 2013), and IL-6 receptor antagonism. The IMM-PACT and other trials are testing anti-inflammatory augmentation specifically in high-CRP depressed patients. This represents a move toward precision psychiatry — using biomarkers to guide treatment selection. Psychiatry is moving toward CRP as a routine investigation in treatment-resistant depression to identify the inflammatory subtype.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_id": 25335,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Numerous studies have been performed regarding the prognosis of people with Bipolar Affective Disorder. Which of the following statements is ?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 126871,
+          "text": "Some studies estimate that up to 25% of people with bipolar disorder will commit suicide",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 126872,
+          "text": "Episodes reduce in frequency with age?",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 126873,
+          "text": "Within 2 years 50% of patients with mania will have another episode of illness.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 126874,
+          "text": "The time interval between episodes becomes less with age",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 126875,
+          "text": "Rapid-cycling is associated with a worse prognosis.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "option_id": 126872,
+        "text": "Episodes reduce in frequency with age?"
+      },
+      "explanation": "Episodes become more frequent with increasing age and are often more difficult to treat.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_id": 24546,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one of the following is not known to be associated with an occurrence of psychotic features during the episode?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122947,
+          "text": "Bipolar Affective Disorder - current episode mania",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122948,
+          "text": "Psychotic depression",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122949,
+          "text": "Acute and transient polymorphic psychotic disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 122950,
+          "text": "Hypomanic episode",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 122951,
+          "text": "Schizo Affective disorder",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "option_id": 122950,
+        "text": "Hypomanic episode"
+      },
+      "explanation": "Psychotic features are not seen during a hypomanic episode. The clinical features of hypomania include elated mood, increased energy levels, excitability, lack of sleep, over-optimistic ideation and expansive mood.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_id": 24547,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Mrs. Q is a 43-year-old woman who has a long standing history of the mood disorder of over 20 years. Over the last year alone she has suffered from 5 mood episodes and is currently on treatment with Semisodium Valproate. Which one among the following is associated with her condition?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122952,
+          "text": "Classification",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122953,
+          "text": "Hyperthyroidism",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122954,
+          "text": "Anti-depressant use",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 122955,
+          "text": "Alcohol Abuse",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 122954,
+        "text": "Anti-depressant use"
+      },
+      "explanation": "Some patients with bipolar mood disorder have more than four episodes per year; they are called rapid cyclers. 70-80% of rapid cyclers are women. Some of the factors associated with the rapid cycling include the use of tricyclic anti-depressant, low thyroxin level, being a female patient, having a bipolar 2 pattern of illness and the presence of neurological disease.",
+      "image_url": "",
+      "explanation_image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_id": 24548,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 21-year-old man has been elated for the last 2 weeks with reduced need for sleep. On mental state examination, he has pressured speech, racing thoughts and grandiose delusions. The diagnosis is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 122956,
+          "text": "Acute stress reaction",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 122957,
+          "text": "Hypomania with psychosis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 122958,
+          "text": "Mania with psychosis",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 122959,
+          "text": "Hypomania without psychosis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 122960,
+          "text": "Mania without psychosis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "option_id": 122958,
+        "text": "Mania with psychosis"
+      },
+      "explanation": "The symptoms have lasted for more than a week, which is suggestive of mania. In its more severe form, mania may be associated with psychotic symptoms such as grandiose delusions.",
+      "image_url": "",
+      "explanation_image_url": null
+    }
+  ]
+}
