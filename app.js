@@ -27,10 +27,13 @@ class StudyApp {
     this.STORAGE_POSITION = 'kd_study_pos_v1';
     this.STORAGE_THEME = 'kd_study_theme_v1';
     this.STORAGE_CUSTOM_CHAPTERS = 'kd_custom_chapters_v1';
+    this.STORAGE_GITHUB_TOKEN = 'kd_study_github_token_v1';
+    this.GITHUB_GIST_ID = '69d373f22f501f120ca5ee2f83bef366';
 
     this.answers = this._loadJson(this.STORAGE_ANSWERS, {});
     this.flags = this._loadJson(this.STORAGE_FLAGS, {});
     this.customChapters = this._loadJson(this.STORAGE_CUSTOM_CHAPTERS, []);
+    this.githubToken = localStorage.getItem(this.STORAGE_GITHUB_TOKEN) || '';
 
     this._cacheDom();
     this._bindEvents();
@@ -115,6 +118,13 @@ class StudyApp {
       // Cross-Device Sync
       syncIndicator: document.getElementById('sync-indicator'),
       syncText: document.getElementById('sync-text'),
+      openSyncBtn: document.getElementById('open-sync-btn'),
+      syncModal: document.getElementById('sync-modal'),
+      syncModalCloseBtn: document.getElementById('sync-modal-close-btn'),
+      githubSyncTokenInput: document.getElementById('github-sync-token-input'),
+      saveSyncTokenBtn: document.getElementById('save-sync-token-btn'),
+      syncModalStatus: document.getElementById('sync-modal-status'),
+      exportBackupBtn: document.getElementById('export-backup-btn'),
     };
   }
 
@@ -177,6 +187,29 @@ class StudyApp {
     this.dom.importModal.addEventListener('click', (e) => {
       if (e.target === this.dom.importModal) this._openImportModal(false);
     });
+
+    // GitHub Cloud Sync modal
+    if (this.dom.openSyncBtn) {
+      this.dom.openSyncBtn.addEventListener('click', () => this._openSyncModal(true));
+    }
+    if (this.dom.syncIndicator) {
+      this.dom.syncIndicator.addEventListener('click', () => this._openSyncModal(true));
+      this.dom.syncIndicator.title = 'Click to configure 24/7 Cloud Sync';
+    }
+    if (this.dom.syncModalCloseBtn) {
+      this.dom.syncModalCloseBtn.addEventListener('click', () => this._openSyncModal(false));
+    }
+    if (this.dom.syncModal) {
+      this.dom.syncModal.addEventListener('click', (e) => {
+        if (e.target === this.dom.syncModal) this._openSyncModal(false);
+      });
+    }
+    if (this.dom.saveSyncTokenBtn) {
+      this.dom.saveSyncTokenBtn.addEventListener('click', () => this._handleSaveSyncToken());
+    }
+    if (this.dom.exportBackupBtn) {
+      this.dom.exportBackupBtn.addEventListener('click', () => this._exportBackup());
+    }
 
     // File Drag & Drop
     this.dom.dropZone.addEventListener('click', () => this.dom.fileInput.click());
@@ -1118,58 +1151,275 @@ class StudyApp {
   }
 
   // ──────────────────────────────────────────────────────────────────────────
+  // GitHub Cloud Sync & Backup Modal
+  // ──────────────────────────────────────────────────────────────────────────
+  _openSyncModal(show) {
+    if (!this.dom.syncModal) return;
+    if (show) {
+      if (this.dom.githubSyncTokenInput) {
+        this.dom.githubSyncTokenInput.value = this.githubToken || '';
+      }
+      if (this.dom.syncModalStatus) {
+        if (this.githubToken) {
+          this.dom.syncModalStatus.className = 'import-status success';
+          this.dom.syncModalStatus.textContent = '🟢 Connected: Syncing 24/7 with your private GitHub Gist.';
+          this.dom.syncModalStatus.classList.remove('hidden');
+        } else {
+          this.dom.syncModalStatus.className = 'import-status info';
+          this.dom.syncModalStatus.textContent = 'Paste your GitHub token to enable cross-device sync between your phone and Mac.';
+          this.dom.syncModalStatus.classList.remove('hidden');
+        }
+      }
+      this.dom.syncModal.classList.remove('hidden');
+    } else {
+      this.dom.syncModal.classList.add('hidden');
+    }
+  }
+
+  async _handleSaveSyncToken() {
+    const token = (this.dom.githubSyncTokenInput ? this.dom.githubSyncTokenInput.value : '').trim();
+    const statusEl = this.dom.syncModalStatus;
+
+    if (!token) {
+      if (this.githubToken) {
+        this.githubToken = '';
+        localStorage.removeItem(this.STORAGE_GITHUB_TOKEN);
+        this._setSyncStatus('offline');
+        if (statusEl) {
+          statusEl.className = 'import-status info';
+          statusEl.textContent = 'Disconnected from GitHub Cloud Sync.';
+          statusEl.classList.remove('hidden');
+        }
+        return;
+      }
+      if (statusEl) {
+        statusEl.className = 'import-status error';
+        statusEl.textContent = 'Please enter a valid GitHub token.';
+        statusEl.classList.remove('hidden');
+      }
+      return;
+    }
+
+    if (statusEl) {
+      statusEl.className = 'import-status info';
+      statusEl.textContent = 'Connecting to GitHub...';
+      statusEl.classList.remove('hidden');
+    }
+
+    try {
+      const resp = await fetch(`https://api.github.com/gists/${this.GITHUB_GIST_ID}`, {
+        headers: {
+          'Authorization': `Bearer ${token}`,
+          'Accept': 'application/vnd.github+json'
+        }
+      });
+
+      if (!resp.ok) {
+        throw new Error(`GitHub returned HTTP ${resp.status}. Please make sure the token has 'gist' permission.`);
+      }
+
+      const gist = await resp.json();
+      this.githubToken = token;
+      localStorage.setItem(this.STORAGE_GITHUB_TOKEN, token);
+
+      // Merge remote progress
+      const file = gist.files && gist.files['progress.json'];
+      if (file && file.content) {
+        try {
+          const remoteProgress = JSON.parse(file.content);
+          this._mergeProgressData(remoteProgress);
+        } catch (err) {
+          console.warn('Error parsing remote progress:', err);
+        }
+      }
+
+      // Immediately push local progress to cloud so both sides are unified
+      await this._pushGitHubSyncImmediate();
+
+      this._setSyncStatus('online');
+      if (statusEl) {
+        statusEl.className = 'import-status success';
+        statusEl.textContent = '✓ Connected successfully! Your progress is now synced across all devices.';
+      }
+
+      setTimeout(() => {
+        this._openSyncModal(false);
+      }, 1200);
+
+    } catch (err) {
+      if (statusEl) {
+        statusEl.className = 'import-status error';
+        statusEl.textContent = `Connection failed: ${err.message}`;
+        statusEl.classList.remove('hidden');
+      }
+    }
+  }
+
+  _exportBackup() {
+    const data = {
+      answers: this.answers,
+      flags: this.flags,
+      exported_at: new Date().toISOString()
+    };
+    const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `studyapp_progress_backup_${new Date().toISOString().slice(0, 10)}.json`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }
+
+  _mergeProgressData(remoteProgress) {
+    if (!remoteProgress) return false;
+    let merged = false;
+    if (remoteProgress.answers) {
+      for (const cid in remoteProgress.answers) {
+        if (!this.answers[cid]) this.answers[cid] = {};
+        for (const qid in remoteProgress.answers[cid]) {
+          const rAns = remoteProgress.answers[cid][qid];
+          const lAns = this.answers[cid][qid];
+          if (!lAns || (rAns.timestamp && (!lAns.timestamp || rAns.timestamp > lAns.timestamp))) {
+            this.answers[cid][qid] = rAns;
+            merged = true;
+          }
+        }
+      }
+    }
+    if (remoteProgress.flags) {
+      for (const cid in remoteProgress.flags) {
+        const rFlags = remoteProgress.flags[cid] || [];
+        const lFlags = new Set(this.flags[cid] || []);
+        const countBefore = lFlags.size;
+        rFlags.forEach(qid => lFlags.add(qid));
+        if (lFlags.size !== countBefore) {
+          merged = true;
+        }
+        this.flags[cid] = Array.from(lFlags);
+      }
+    }
+    if (merged) {
+      localStorage.setItem(this.STORAGE_ANSWERS, JSON.stringify(this.answers));
+      localStorage.setItem(this.STORAGE_FLAGS, JSON.stringify(this.flags));
+      this._updateGlobalProgress();
+      if (this.currentChapterData) {
+        this._renderQuestion();
+      }
+    }
+    return merged;
+  }
+
+  // ──────────────────────────────────────────────────────────────────────────
   // Cross-Device Sync Engine
   // ──────────────────────────────────────────────────────────────────────────
   async _initSync() {
     this._syncTimer = null;
+
+    if (this.githubToken) {
+      await this._pullGitHubSync(true);
+      // Periodic background pull every 20 seconds
+      setInterval(() => this._pullGitHubSync(false), 20000);
+      return;
+    }
+
+    // Fallback: Check if local Python server is running (e.g. localhost)
     try {
       const resp = await fetch('/api/progress');
       if (resp.ok) {
         const serverProgress = await resp.json();
-        if (serverProgress && (serverProgress.answers || serverProgress.flags)) {
-          // Merge answers
-          let merged = false;
-          if (serverProgress.answers) {
-            for (const cid in serverProgress.answers) {
-              if (!this.answers[cid]) this.answers[cid] = {};
-              for (const qid in serverProgress.answers[cid]) {
-                const sAns = serverProgress.answers[cid][qid];
-                const lAns = this.answers[cid][qid];
-                if (!lAns || (sAns.timestamp && (!lAns.timestamp || sAns.timestamp > lAns.timestamp))) {
-                  this.answers[cid][qid] = sAns;
-                  merged = true;
-                }
-              }
+        this._mergeProgressData(serverProgress);
+        this._setSyncStatus('online');
+        setInterval(() => this._silentPullSync(), 20000);
+        return;
+      }
+    } catch (e) {
+      // Local server not running
+    }
+
+    this._setSyncStatus('offline');
+  }
+
+  async _pullGitHubSync(isInitial = false) {
+    if (!this.githubToken) return;
+    try {
+      const resp = await fetch(`https://api.github.com/gists/${this.GITHUB_GIST_ID}`, {
+        headers: {
+          'Authorization': `Bearer ${this.githubToken.trim()}`,
+          'Accept': 'application/vnd.github+json'
+        }
+      });
+      if (resp.ok) {
+        const gist = await resp.json();
+        const file = gist.files && gist.files['progress.json'];
+        if (file && file.content) {
+          try {
+            const remoteProgress = JSON.parse(file.content);
+            this._mergeProgressData(remoteProgress);
+            if (isInitial && Object.keys(this.answers).length > 0) {
+              this._pushGitHubSyncImmediate();
             }
-          }
-          // Merge flags
-          if (serverProgress.flags) {
-            for (const cid in serverProgress.flags) {
-              const sFlags = serverProgress.flags[cid] || [];
-              const lFlags = new Set(this.flags[cid] || []);
-              sFlags.forEach(qid => lFlags.add(qid));
-              this.flags[cid] = Array.from(lFlags);
-            }
-          }
-          if (merged) {
-            localStorage.setItem(this.STORAGE_ANSWERS, JSON.stringify(this.answers));
-            localStorage.setItem(this.STORAGE_FLAGS, JSON.stringify(this.flags));
-            this._updateGlobalProgress();
-          }
+          } catch (err) {}
         }
         this._setSyncStatus('online');
-      } else {
+      } else if (resp.status === 401 || resp.status === 403) {
         this._setSyncStatus('offline');
       }
     } catch (e) {
       this._setSyncStatus('offline');
     }
-
-    // Periodic silent sync check every 20 seconds
-    setInterval(() => this._silentPullSync(), 20000);
   }
 
   _pushSync() {
+    if (this.githubToken) {
+      this._pushGitHubSync();
+      return;
+    }
+    this._pushLocalServerSync();
+  }
+
+  _pushGitHubSync() {
+    if (!this.githubToken) return;
+    this._setSyncStatus('syncing');
+    clearTimeout(this._syncTimer);
+    this._syncTimer = setTimeout(async () => {
+      const success = await this._pushGitHubSyncImmediate();
+      this._setSyncStatus(success ? 'online' : 'offline');
+    }, 500);
+  }
+
+  async _pushGitHubSyncImmediate() {
+    if (!this.githubToken) return false;
+    try {
+      const payload = {
+        answers: this.answers,
+        flags: this.flags,
+        last_updated: Date.now()
+      };
+      const resp = await fetch(`https://api.github.com/gists/${this.GITHUB_GIST_ID}`, {
+        method: 'PATCH',
+        headers: {
+          'Authorization': `Bearer ${this.githubToken.trim()}`,
+          'Accept': 'application/vnd.github+json',
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          description: 'KDPsych Study Progress',
+          files: {
+            'progress.json': {
+              content: JSON.stringify(payload)
+            }
+          }
+        })
+      });
+      return resp.ok;
+    } catch (e) {
+      return false;
+    }
+  }
+
+  _pushLocalServerSync() {
     this._setSyncStatus('syncing');
     clearTimeout(this._syncTimer);
     this._syncTimer = setTimeout(async () => {
@@ -1184,11 +1434,7 @@ class StudyApp {
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(payload)
         });
-        if (resp.ok) {
-          this._setSyncStatus('online');
-        } else {
-          this._setSyncStatus('offline');
-        }
+        this._setSyncStatus(resp.ok ? 'online' : 'offline');
       } catch (e) {
         this._setSyncStatus('offline');
       }
@@ -1200,27 +1446,7 @@ class StudyApp {
       const resp = await fetch('/api/progress');
       if (resp.ok) {
         const serverProgress = await resp.json();
-        if (serverProgress && serverProgress.answers) {
-          let updated = false;
-          for (const cid in serverProgress.answers) {
-            if (!this.answers[cid]) this.answers[cid] = {};
-            for (const qid in serverProgress.answers[cid]) {
-              const sAns = serverProgress.answers[cid][qid];
-              const lAns = this.answers[cid][qid];
-              if (!lAns) {
-                this.answers[cid][qid] = sAns;
-                updated = true;
-              }
-            }
-          }
-          if (updated) {
-            localStorage.setItem(this.STORAGE_ANSWERS, JSON.stringify(this.answers));
-            this._updateGlobalProgress();
-            if (this.currentChapterData) {
-              this._renderQuestion();
-            }
-          }
-        }
+        this._mergeProgressData(serverProgress);
         this._setSyncStatus('online');
       }
     } catch (e) {
@@ -1232,13 +1458,13 @@ class StudyApp {
     if (!this.dom.syncIndicator) return;
     if (status === 'online') {
       this.dom.syncIndicator.className = 'sync-badge';
-      this.dom.syncText.textContent = 'Live Sync';
+      this.dom.syncText.textContent = this.githubToken ? 'GitHub Synced' : 'Live Sync';
     } else if (status === 'syncing') {
       this.dom.syncIndicator.className = 'sync-badge syncing';
       this.dom.syncText.textContent = 'Syncing...';
     } else {
       this.dom.syncIndicator.className = 'sync-badge offline';
-      this.dom.syncText.textContent = 'Offline Mode';
+      this.dom.syncText.textContent = this.githubToken ? 'Sync Offline' : 'Offline Mode';
     }
   }
 

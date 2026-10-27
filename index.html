@@ -74,11 +74,15 @@
         <button id="import-btn" class="btn btn-secondary w-full">
           <span>📥 Import JSON Bank</span>
         </button>
+        <button id="open-sync-btn" class="btn btn-outline w-full mt-2">
+          <span>☁️ GitHub Cloud Sync</span>
+        </button>
         <button id="reset-chapter-btn" class="btn btn-outline text-danger w-full mt-2">
           <span>↺ Reset Current Chapter</span>
         </button>
       </div>
     </aside>
+
 
     <!-- Sidebar Backdrop for Mobile -->
     <div id="sidebar-backdrop" class="sidebar-backdrop"></div>
@@ -217,6 +221,43 @@
         </div>
       </div>
     </div>
+
+    <!-- GitHub Cloud Sync Modal -->
+    <div id="sync-modal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="sync-modal-title">
+      <div class="modal-box">
+        <div class="modal-header">
+          <h2 id="sync-modal-title">☁️ 24/7 GitHub Cloud Sync</h2>
+          <button id="sync-modal-close-btn" class="icon-btn" aria-label="Close dialog">✕</button>
+        </div>
+        <div class="modal-body">
+          <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 14px; line-height: 1.5;">
+            Sync your answered questions, scores, and flags across your phone and Mac 24/7 using your private GitHub account.
+          </p>
+
+          <div style="margin-bottom: 14px;">
+            <label style="display: block; font-size: 0.82rem; font-weight: 700; margin-bottom: 6px;">GitHub Personal Access Token:</label>
+            <input type="password" id="github-sync-token-input" placeholder="Paste your token here (ghp_...)" style="width: 100%; padding: 10px 12px; border: 1px solid var(--border); border-radius: var(--radius-sm); font-size: 0.9rem; background: var(--bg-app); color: var(--text-main); outline: none;">
+            <div style="margin-top: 8px; font-size: 0.8rem;">
+              <a href="https://github.com/settings/tokens/new?description=StudyApp+Sync&scopes=gist" target="_blank" style="color: var(--primary); text-decoration: underline; font-weight: 600;">
+                👉 Click here to generate your token on GitHub (1 click) ↗
+              </a>
+            </div>
+          </div>
+
+          <div id="sync-modal-status" class="import-status hidden"></div>
+
+          <div style="display: flex; gap: 10px; margin-top: 16px;">
+            <button id="save-sync-token-btn" class="btn btn-primary" style="flex: 2;">
+              <span>Connect & Sync Now</span>
+            </button>
+            <button id="export-backup-btn" class="btn btn-outline" style="flex: 1;" title="Download local progress backup as JSON">
+              <span>📥 Export JSON</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
 
   </div>
 

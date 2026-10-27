@@ -487,7 +487,15 @@ body {
   padding: 4px 10px;
   border-radius: 999px;
   border: 1px solid var(--border);
+  cursor: pointer;
+  transition: all var(--transition);
 }
+
+.sync-badge:hover {
+  border-color: var(--primary);
+  background: var(--bg-surface-hover);
+}
+
 
 .sync-dot {
   width: 8px;
