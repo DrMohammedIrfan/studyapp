@@ -80,6 +80,7 @@ class StudyApp {
       flagBtnText: document.getElementById('flag-btn-text'),
 
       // Question Card
+      contentScrollable: document.querySelector('.content-scrollable'),
       questionCard: document.getElementById('question-card'),
       questionStem: document.getElementById('question-stem'),
       questionImageContainer: document.getElementById('question-image-container'),
@@ -249,8 +250,8 @@ class StudyApp {
           const deltaY = e.changedTouches[0].clientY - touchStartY;
           const deltaTime = Date.now() - touchStartTime;
 
-          // Require horizontal swipe of at least 50px, dominant over vertical, within 450ms
-          if (Math.abs(deltaX) > 50 && Math.abs(deltaX) > Math.abs(deltaY) * 1.4 && deltaTime < 450) {
+          // Require clear horizontal flick of at least 70px, dominant over vertical (2x), within 350ms
+          if (Math.abs(deltaX) > 70 && Math.abs(deltaX) > Math.abs(deltaY) * 2.0 && deltaTime < 350) {
             if (deltaX < 0) {
               // Swipe Left -> Next Question
               if (navigator.vibrate) {
@@ -684,6 +685,11 @@ class StudyApp {
     // Save position
     this._savePosition();
 
+    // Reset scroll to top when opening an unanswered question
+    if (!answeredState && this.dom.contentScrollable) {
+      this.dom.contentScrollable.scrollTop = 0;
+    }
+
     // Question Meta
     this.dom.questionIndexLabel.textContent = `Question ${this.currentQuestionIdx + 1} of ${this.activeQuestionsList.length}`;
     this.dom.questionDifficulty.textContent = (q.difficulty || 'Medium').toUpperCase();
@@ -873,10 +879,17 @@ class StudyApp {
     this._updateCatalogItemProgress(cid);
     this._updateGlobalProgress();
 
-    // Auto smooth scroll to explanation on mobile
+    // Auto smooth scroll to explanation
     setTimeout(() => {
-      if (this._isMobile() && this.dom.explanationPanel && !this.dom.explanationPanel.classList.contains('hidden')) {
-        this.dom.explanationPanel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      if (this.dom.explanationPanel && !this.dom.explanationPanel.classList.contains('hidden')) {
+        const scrollArea = this.dom.contentScrollable || document.querySelector('.content-scrollable');
+        if (scrollArea) {
+          const panelTop = this.dom.explanationPanel.offsetTop;
+          scrollArea.scrollTo({
+            top: Math.max(0, panelTop - 20),
+            behavior: 'smooth'
+          });
+        }
       }
     }, 120);
   }
