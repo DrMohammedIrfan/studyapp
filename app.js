@@ -139,6 +139,9 @@ class StudyApp {
       navStatAnswered: document.getElementById('nav-stat-answered'),
       navStatAccuracy: document.getElementById('nav-stat-accuracy'),
       navBadge: document.getElementById('nav-badge'),
+      floatingNavTab: document.getElementById('floating-nav-tab'),
+      edgeTabBadge: document.getElementById('edge-tab-badge'),
+      openNavChip: document.getElementById('open-nav-chip'),
     };
   }
 
@@ -295,6 +298,12 @@ class StudyApp {
     }
     if (this.dom.questionIndexLabel) {
       this.dom.questionIndexLabel.addEventListener('click', () => this.toggleNavigator());
+    }
+    if (this.dom.floatingNavTab) {
+      this.dom.floatingNavTab.addEventListener('click', () => this.toggleNavigator(true));
+    }
+    if (this.dom.openNavChip) {
+      this.dom.openNavChip.addEventListener('click', () => this.toggleNavigator(true));
     }
 
     // Always persist exact question position on tab hide / unload / app switch
@@ -1248,25 +1257,28 @@ class StudyApp {
   toggleNavigator(forceState = null) {
     if (!this.dom.navigator) return;
     const isMobile = window.innerWidth < 900;
+    let willOpen = false;
 
     if (isMobile) {
-      const willOpen = (forceState !== null) ? forceState : !this.dom.navigator.classList.contains('mobile-open');
+      willOpen = (forceState !== null) ? forceState : !this.dom.navigator.classList.contains('mobile-open');
       this.dom.navigator.classList.toggle('mobile-open', willOpen);
       if (this.dom.navigatorBackdrop) {
         this.dom.navigatorBackdrop.classList.toggle('active', willOpen);
       }
     } else {
-      const willOpen = (forceState !== null) ? forceState : this.dom.navigator.classList.contains('collapsed');
+      willOpen = (forceState !== null) ? forceState : this.dom.navigator.classList.contains('collapsed');
       this.dom.navigator.classList.toggle('collapsed', !willOpen);
       this.isNavigatorOpen = willOpen;
       this._saveJson(this.STORAGE_NAVIGATOR_OPEN, willOpen);
     }
 
     if (this.dom.navigatorToggleBtn) {
-      const isActive = isMobile
-        ? this.dom.navigator.classList.contains('mobile-open')
-        : !this.dom.navigator.classList.contains('collapsed');
-      this.dom.navigatorToggleBtn.classList.toggle('active', isActive);
+      this.dom.navigatorToggleBtn.classList.toggle('active', willOpen);
+    }
+
+    // Floating edge tab is visible when navigator is closed/collapsed, hidden when open
+    if (this.dom.floatingNavTab) {
+      this.dom.floatingNavTab.classList.toggle('hidden', willOpen);
     }
   }
 
@@ -1342,6 +1354,9 @@ class StudyApp {
     }
     if (this.dom.navBadge) {
       this.dom.navBadge.textContent = `${currentNum}/${totalQ}`;
+    }
+    if (this.dom.edgeTabBadge) {
+      this.dom.edgeTabBadge.textContent = `${currentNum}/${totalQ}`;
     }
 
     // Smoothly scroll the current active tile into view inside navigator-body

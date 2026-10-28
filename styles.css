@@ -1051,27 +1051,26 @@ kbd {
   align-items: center;
   gap: 6px;
   padding: 6px 12px;
-  border-radius: var(--radius-sm);
-  border: 1px solid var(--border);
-  background: var(--bg-app);
-  color: var(--text-main);
+  border-radius: 999px;
+  border: 1.5px solid var(--primary);
+  background: var(--primary-light);
+  color: var(--primary);
   font-size: 0.82rem;
-  font-weight: 600;
+  font-weight: 700;
   cursor: pointer;
   transition: all var(--transition);
   white-space: nowrap;
 }
 
 .navigator-toggle-btn:hover {
-  background: var(--bg-surface-hover);
-  border-color: var(--primary);
-  color: var(--primary);
+  background: var(--primary);
+  color: #ffffff;
 }
 
 .navigator-toggle-btn.active {
-  background: var(--primary-light);
-  border-color: var(--primary);
-  color: var(--primary);
+  background: var(--primary);
+  color: #ffffff;
+  box-shadow: 0 2px 8px rgba(79, 70, 229, 0.35);
 }
 
 .nav-badge {
@@ -1084,6 +1083,11 @@ kbd {
   line-height: 1;
 }
 
+.navigator-toggle-btn.active .nav-badge {
+  background: rgba(255, 255, 255, 0.3);
+  color: #ffffff;
+}
+
 .clickable-pill {
   cursor: pointer;
   border: none;
@@ -1094,6 +1098,92 @@ kbd {
 .clickable-pill:hover {
   filter: brightness(0.92);
   transform: translateY(-1px);
+}
+
+/* Question Header Bar Navigator Chip Button */
+.nav-chip-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: var(--primary-light);
+  border: 1.5px solid var(--primary);
+  border-radius: var(--radius-sm);
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--primary);
+  transition: all var(--transition);
+  font-family: inherit;
+}
+
+.nav-chip-btn:hover {
+  background: var(--primary);
+  color: #ffffff;
+  transform: translateY(-1px);
+}
+
+.nav-chip-btn:active {
+  transform: translateY(0);
+}
+
+/* Floating Right Edge Re-Open Tab */
+.floating-nav-tab {
+  position: fixed;
+  right: 0;
+  top: 52%;
+  transform: translateY(-50%);
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 14px 10px 14px;
+  background: var(--primary);
+  color: #ffffff;
+  border: 1.5px solid rgba(255, 255, 255, 0.3);
+  border-right: none;
+  border-radius: 24px 0 0 24px;
+  box-shadow: -4px 6px 20px rgba(79, 70, 229, 0.45);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.82rem;
+  font-weight: 700;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.floating-nav-tab:hover {
+  padding-left: 18px;
+  background: var(--primary-hover);
+  box-shadow: -6px 8px 24px rgba(79, 70, 229, 0.55);
+}
+
+.floating-nav-tab.hidden {
+  display: none !important;
+}
+
+.edge-tab-arrow {
+  font-size: 0.95rem;
+  line-height: 1;
+  transition: transform 0.2s ease;
+}
+
+.floating-nav-tab:hover .edge-tab-arrow {
+  transform: translateX(-3px);
+}
+
+.edge-tab-icon {
+  font-size: 1rem;
+}
+
+.edge-tab-badge {
+  background: rgba(255, 255, 255, 0.25);
+  color: #ffffff;
+  font-size: 0.72rem;
+  padding: 2px 7px;
+  border-radius: 999px;
+  font-weight: 800;
 }
 
 /* Question Navigator Panel (Desktop) */
@@ -1389,6 +1479,23 @@ kbd {
 
   .navigator-toggle-btn .nav-toggle-text {
     display: none;
+  }
+
+  .floating-nav-tab {
+    top: auto;
+    bottom: 84px; /* Docked right above the bottom footer for easy thumb access */
+    transform: none;
+    padding: 8px 10px 8px 12px;
+    box-shadow: -3px 5px 16px rgba(0, 0, 0, 0.35);
+  }
+
+  .edge-tab-text {
+    display: none; /* Compact on phones: ◂ 🧭 3/50 */
+  }
+
+  .nav-chip-btn {
+    padding: 4px 8px;
+    font-size: 0.74rem;
   }
 }
 

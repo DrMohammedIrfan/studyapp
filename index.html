@@ -140,6 +140,10 @@
           <span class="type-pill" id="question-type">MCQ</span>
         </div>
         <div class="qh-right">
+          <button id="open-nav-chip" class="nav-chip-btn" title="Open Question Navigator (Keyboard: N)" aria-label="Open Question Navigator">
+            <span class="chip-icon">🧭</span>
+            <span class="chip-label">Questions Matrix</span>
+          </button>
           <button id="flag-btn" class="flag-action-btn" title="Flag Question (Keyboard: F)" aria-label="Flag question">
             <span class="flag-icon">🚩</span>
             <span id="flag-btn-text">Flag for Review</span>
@@ -258,6 +262,14 @@
 
     <!-- Navigator Backdrop for Mobile -->
     <div id="navigator-backdrop" class="navigator-backdrop"></div>
+
+    <!-- Floating Edge Re-open Tab (Always available to reopen navigator) -->
+    <button id="floating-nav-tab" class="floating-nav-tab" title="Open Question Navigator (Keyboard: N)" aria-label="Open Question Navigator">
+      <span class="edge-tab-arrow">◂</span>
+      <span class="edge-tab-icon">🧭</span>
+      <span class="edge-tab-text">Navigator</span>
+      <span id="edge-tab-badge" class="edge-tab-badge">1/100</span>
+    </button>
 
     <!-- Import Modal -->
     <div id="import-modal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
