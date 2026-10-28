@@ -102,6 +102,13 @@
         </div>
 
         <div class="nav-right">
+          <!-- Navigator Toggle Button -->
+          <button id="navigator-toggle-btn" class="navigator-toggle-btn" title="Toggle Question Navigator (Keyboard: N)" aria-label="Toggle Question Navigator">
+            <span class="nav-toggle-icon">🧭</span>
+            <span class="nav-toggle-text">Navigator</span>
+            <span id="nav-badge" class="nav-badge">1/100</span>
+          </button>
+
           <!-- Cross-device Sync Indicator -->
           <div id="sync-indicator" class="sync-badge" title="Live Sync Active">
             <span class="sync-dot"></span>
@@ -128,7 +135,7 @@
       <!-- Question Counter & Breadcrumb Bar -->
       <section class="question-header-bar">
         <div class="qh-left">
-          <span class="question-pill" id="question-index-label">Question 1 of 100</span>
+          <button type="button" class="question-pill clickable-pill" id="question-index-label" title="Click to view Question Navigator (N)" aria-label="Question Navigator">Question 1 of 100 ▾</button>
           <span class="difficulty-pill" id="question-difficulty">Medium</span>
           <span class="type-pill" id="question-type">MCQ</span>
         </div>
@@ -199,9 +206,58 @@
           <span class="kbd-hint"><kbd>Enter</kbd> Submit/Next</span>
           <span class="kbd-hint"><kbd>&lt;</kbd> <kbd>&gt;</kbd> Prev/Next</span>
           <span class="kbd-hint"><kbd>F</kbd> Flag</span>
+          <span class="kbd-hint"><kbd>N</kbd> Navigator</span>
         </div>
       </footer>
     </main>
+
+    <!-- Right Question Navigator Panel -->
+    <aside id="question-navigator" class="question-navigator" aria-label="Question Navigator">
+      <div class="navigator-header">
+        <div class="navigator-title-row">
+          <div class="navigator-title">
+            <span class="navigator-icon">🧭</span>
+            <span>Question Navigator</span>
+          </div>
+          <button id="navigator-close-btn" class="icon-btn" title="Close Navigator (Keyboard: N)" aria-label="Close Navigator">✕</button>
+        </div>
+        <div class="navigator-stats-row">
+          <div class="nav-stat-chip">
+            <span class="nav-stat-label">Position</span>
+            <span id="nav-stat-pos" class="nav-stat-val">Q 1/100</span>
+          </div>
+          <div class="nav-stat-chip">
+            <span class="nav-stat-label">Answered</span>
+            <span id="nav-stat-answered" class="nav-stat-val">0 / 0</span>
+          </div>
+          <div class="nav-stat-chip">
+            <span class="nav-stat-label">Accuracy</span>
+            <span id="nav-stat-accuracy" class="nav-stat-val">0%</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="navigator-body">
+        <div id="navigator-grid" class="navigator-grid" role="navigation" aria-label="Question Matrix">
+          <!-- 5-column square tiles injected dynamically -->
+        </div>
+      </div>
+
+      <div class="navigator-legend">
+        <div class="legend-row">
+          <div class="legend-item"><span class="legend-swatch legend-correct"></span> Correct</div>
+          <div class="legend-item"><span class="legend-swatch legend-incorrect"></span> Incorrect</div>
+          <div class="legend-item"><span class="legend-swatch legend-current"></span> Current</div>
+        </div>
+        <div class="legend-row">
+          <div class="legend-item"><span class="legend-swatch legend-unanswered"></span> Unanswered</div>
+          <div class="legend-item"><span class="legend-swatch legend-flagged"><span class="legend-dot-orange"></span></span> Marked for Review</div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Navigator Backdrop for Mobile -->
+    <div id="navigator-backdrop" class="navigator-backdrop"></div>
 
     <!-- Import Modal -->
     <div id="import-modal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">

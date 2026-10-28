@@ -28,12 +28,14 @@ class StudyApp {
     this.STORAGE_THEME = 'kd_study_theme_v1';
     this.STORAGE_CUSTOM_CHAPTERS = 'kd_custom_chapters_v1';
     this.STORAGE_GITHUB_TOKEN = 'kd_study_github_token_v1';
+    this.STORAGE_NAVIGATOR_OPEN = 'kd_study_navigator_open_v1';
     this.GITHUB_GIST_ID = '69d373f22f501f120ca5ee2f83bef366';
 
     this.answers = this._loadJson(this.STORAGE_ANSWERS, {});
     this.flags = this._loadJson(this.STORAGE_FLAGS, {});
     this.customChapters = this._loadJson(this.STORAGE_CUSTOM_CHAPTERS, []);
     this.githubToken = localStorage.getItem(this.STORAGE_GITHUB_TOKEN) || '';
+    this.isNavigatorOpen = this._loadJson(this.STORAGE_NAVIGATOR_OPEN, true);
 
     this._cacheDom();
     this._bindEvents();
@@ -126,6 +128,17 @@ class StudyApp {
       saveSyncTokenBtn: document.getElementById('save-sync-token-btn'),
       syncModalStatus: document.getElementById('sync-modal-status'),
       exportBackupBtn: document.getElementById('export-backup-btn'),
+
+      // Question Navigator Elements
+      navigator: document.getElementById('question-navigator'),
+      navigatorToggleBtn: document.getElementById('navigator-toggle-btn'),
+      navigatorCloseBtn: document.getElementById('navigator-close-btn'),
+      navigatorBackdrop: document.getElementById('navigator-backdrop'),
+      navigatorGrid: document.getElementById('navigator-grid'),
+      navStatPos: document.getElementById('nav-stat-pos'),
+      navStatAnswered: document.getElementById('nav-stat-answered'),
+      navStatAccuracy: document.getElementById('nav-stat-accuracy'),
+      navBadge: document.getElementById('nav-badge'),
     };
   }
 
@@ -270,6 +283,27 @@ class StudyApp {
       }, { passive: true });
     }
 
+    // Question Navigator Toggles
+    if (this.dom.navigatorToggleBtn) {
+      this.dom.navigatorToggleBtn.addEventListener('click', () => this.toggleNavigator());
+    }
+    if (this.dom.navigatorCloseBtn) {
+      this.dom.navigatorCloseBtn.addEventListener('click', () => this.toggleNavigator(false));
+    }
+    if (this.dom.navigatorBackdrop) {
+      this.dom.navigatorBackdrop.addEventListener('click', () => this.toggleNavigator(false));
+    }
+    if (this.dom.questionIndexLabel) {
+      this.dom.questionIndexLabel.addEventListener('click', () => this.toggleNavigator());
+    }
+
+    // Always persist exact question position on tab hide / unload / app switch
+    window.addEventListener('beforeunload', () => this._savePosition());
+    window.addEventListener('pagehide', () => this._savePosition());
+    document.addEventListener('visibilitychange', () => {
+      if (document.visibilityState === 'hidden') this._savePosition();
+    });
+
     // Global Keyboard Listeners
     window.addEventListener('keydown', (e) => this._handleKeyboard(e));
   }
@@ -330,6 +364,13 @@ class StudyApp {
     if (key === 'm' || key === 'M') {
       e.preventDefault();
       this.toggleSidebar();
+      return;
+    }
+
+    // 'n' or 'N' : Toggle Question Navigator
+    if (key === 'n' || key === 'N') {
+      e.preventDefault();
+      this.toggleNavigator();
       return;
     }
   }
@@ -485,17 +526,63 @@ class StudyApp {
 
       // Restore last position & mode or load default
       const savedPos = this._loadJson(this.STORAGE_POSITION, null);
-      const initialMode = (savedPos && savedPos.mode) ? savedPos.mode : 'qalam';
+      let initialMode = (savedPos && savedPos.mode) ? savedPos.mode : 'qalam';
+
+      // Fallback if selected catalog is empty
+      if (initialMode === 'qalam' && this.qalamCatalog.length === 0) initialMode = 'chapters';
+      if (initialMode === 'chapters' && this.chaptersCatalog.length === 0 && this.customChapters.length === 0) initialMode = 'mocks';
+
       this.switchMode(initialMode, false);
 
-      if (window.innerWidth < 768) {
+      if (window.innerWidth < 900) {
         this.toggleSidebar(false);
       }
 
-      if (savedPos && savedPos.chapterIndex !== undefined && this.catalog[savedPos.chapterIndex]) {
-        this.loadChapter(savedPos.chapterIndex, savedPos.questionIndex || 0);
-      } else {
-        this.loadChapter(0, 0);
+      let targetChapterIdx = 0;
+      let targetQuestionIdx = 0;
+      let targetQuestionId = null;
+      let targetFilter = 'all';
+
+      if (savedPos) {
+        if (savedPos.filter) targetFilter = savedPos.filter;
+        if (savedPos.questionId) targetQuestionId = savedPos.questionId;
+        if (typeof savedPos.questionIndex === 'number') targetQuestionIdx = savedPos.questionIndex;
+
+        // Try to match by chapterId first (resilient across catalog ordering changes)
+        if (savedPos.chapterId) {
+          const foundIdx = this.catalog.findIndex(c => String(c.id) === String(savedPos.chapterId));
+          if (foundIdx !== -1) {
+            targetChapterIdx = foundIdx;
+          } else {
+            // Check if this chapter exists in another mode's catalog
+            const inQalam = this.qalamCatalog.findIndex(c => String(c.id) === String(savedPos.chapterId));
+            const inChapters = [...this.chaptersCatalog, ...this.customChapters].findIndex(c => String(c.id) === String(savedPos.chapterId));
+            const inMocks = this.mocksCatalog.findIndex(c => String(c.id) === String(savedPos.chapterId));
+
+            if (inQalam !== -1) {
+              this.switchMode('qalam', false);
+              targetChapterIdx = inQalam;
+            } else if (inChapters !== -1) {
+              this.switchMode('chapters', false);
+              targetChapterIdx = inChapters;
+            } else if (inMocks !== -1) {
+              this.switchMode('mocks', false);
+              targetChapterIdx = inMocks;
+            } else if (typeof savedPos.chapterIndex === 'number' && this.catalog[savedPos.chapterIndex]) {
+              targetChapterIdx = savedPos.chapterIndex;
+            }
+          }
+        } else if (typeof savedPos.chapterIndex === 'number' && this.catalog[savedPos.chapterIndex]) {
+          targetChapterIdx = savedPos.chapterIndex;
+        }
+      }
+
+      await this.loadChapter(targetChapterIdx, targetQuestionIdx, targetQuestionId, targetFilter);
+
+      // Restore Question Navigator visibility on desktop screens
+      if (window.innerWidth >= 900) {
+        const shouldOpen = (this.isNavigatorOpen !== false);
+        this.toggleNavigator(shouldOpen);
       }
     } catch (err) {
       console.error('Failed to load catalog.json:', err);
@@ -581,9 +668,18 @@ class StudyApp {
   // ──────────────────────────────────────────────────────────────────────────
   // Chapter & Question Loading
   // ──────────────────────────────────────────────────────────────────────────
-  async loadChapter(chapterIdx, targetQuestionIdx = 0) {
+  async loadChapter(chapterIdx, targetQuestionIdx = 0, targetQuestionId = null, initialFilter = null) {
     if (!this.catalog[chapterIdx]) return;
     this.currentChapterMeta = this.catalog[chapterIdx];
+
+    if (initialFilter) {
+      this.currentFilter = initialFilter;
+      if (this.dom.filterBtns) {
+        this.dom.filterBtns.forEach(btn => {
+          btn.classList.toggle('active', btn.dataset.filter === this.currentFilter);
+        });
+      }
+    }
 
     // Highlight active chapter in sidebar
     this.dom.chapterList.querySelectorAll('.chapter-item').forEach(el => {
@@ -612,7 +708,7 @@ class StudyApp {
       }
 
       this.currentChapterData = chapterData;
-      this.setFilter(this.currentFilter, targetQuestionIdx);
+      this.setFilter(this.currentFilter, targetQuestionIdx, targetQuestionId);
 
       // Auto-close sidebar on smaller screens
       if (window.innerWidth < 900) {
@@ -624,7 +720,7 @@ class StudyApp {
     }
   }
 
-  setFilter(filterName, desiredIndex = 0) {
+  setFilter(filterName, desiredIndex = 0, targetQuestionId = null) {
     this.currentFilter = filterName;
     if (!this.currentChapterData) return;
 
@@ -645,16 +741,26 @@ class StudyApp {
 
     if (this.activeQuestionsList.length === 0) {
       this._renderEmptyFilter();
+      this._renderNavigator();
       return;
     }
 
-    // Clamp index
-    this.currentQuestionIdx = Math.max(0, Math.min(desiredIndex, this.activeQuestionsList.length - 1));
+    if (targetQuestionId) {
+      const foundIdx = this.activeQuestionsList.findIndex(q => String(q.question_id) === String(targetQuestionId));
+      if (foundIdx !== -1) {
+        this.currentQuestionIdx = foundIdx;
+      } else {
+        this.currentQuestionIdx = Math.max(0, Math.min(desiredIndex, this.activeQuestionsList.length - 1));
+      }
+    } else {
+      this.currentQuestionIdx = Math.max(0, Math.min(desiredIndex, this.activeQuestionsList.length - 1));
+    }
+
     this._renderQuestion();
   }
 
   _renderEmptyFilter() {
-    this.dom.questionIndexLabel.textContent = `0 of 0 questions`;
+    this.dom.questionIndexLabel.textContent = `0 of 0 questions ▾`;
     this.dom.questionStem.innerHTML = `<div style="text-align: center; padding: 40px 20px;">
       <p style="font-size: 1.2rem; color: var(--text-muted); margin-bottom: 12px;">No questions match filter "${this.currentFilter.toUpperCase()}".</p>
       <button class="btn btn-secondary" onclick="window.studyApp.setFilter('all', 0)">View All Questions</button>
@@ -664,6 +770,7 @@ class StudyApp {
     this.dom.prevBtn.disabled = true;
     this.dom.nextBtn.disabled = true;
     this.dom.submitBtn.disabled = true;
+    this._renderNavigator();
   }
 
   // ──────────────────────────────────────────────────────────────────────────
@@ -691,7 +798,7 @@ class StudyApp {
     }
 
     // Question Meta
-    this.dom.questionIndexLabel.textContent = `Question ${this.currentQuestionIdx + 1} of ${this.activeQuestionsList.length}`;
+    this.dom.questionIndexLabel.textContent = `Question ${this.currentQuestionIdx + 1} of ${this.activeQuestionsList.length} ▾`;
     this.dom.questionDifficulty.textContent = (q.difficulty || 'Medium').toUpperCase();
     this.dom.questionType.textContent = (q.question_type || 'MCQ').toUpperCase();
 
@@ -796,6 +903,8 @@ class StudyApp {
     this.dom.prevBtn.disabled = this.currentQuestionIdx <= 0;
     this.dom.nextBtn.disabled = this.currentQuestionIdx >= this.activeQuestionsList.length - 1;
     this.dom.submitBtn.disabled = false;
+
+    this._renderNavigator();
   }
 
   // ──────────────────────────────────────────────────────────────────────────
@@ -1133,12 +1242,134 @@ class StudyApp {
   // ──────────────────────────────────────────────────────────────────────────
   // Storage Helpers
   // ──────────────────────────────────────────────────────────────────────────
+  // ──────────────────────────────────────────────────────────────────────────
+  // Question Navigator Controller
+  // ──────────────────────────────────────────────────────────────────────────
+  toggleNavigator(forceState = null) {
+    if (!this.dom.navigator) return;
+    const isMobile = window.innerWidth < 900;
+
+    if (isMobile) {
+      const willOpen = (forceState !== null) ? forceState : !this.dom.navigator.classList.contains('mobile-open');
+      this.dom.navigator.classList.toggle('mobile-open', willOpen);
+      if (this.dom.navigatorBackdrop) {
+        this.dom.navigatorBackdrop.classList.toggle('active', willOpen);
+      }
+    } else {
+      const willOpen = (forceState !== null) ? forceState : this.dom.navigator.classList.contains('collapsed');
+      this.dom.navigator.classList.toggle('collapsed', !willOpen);
+      this.isNavigatorOpen = willOpen;
+      this._saveJson(this.STORAGE_NAVIGATOR_OPEN, willOpen);
+    }
+
+    if (this.dom.navigatorToggleBtn) {
+      const isActive = isMobile
+        ? this.dom.navigator.classList.contains('mobile-open')
+        : !this.dom.navigator.classList.contains('collapsed');
+      this.dom.navigatorToggleBtn.classList.toggle('active', isActive);
+    }
+  }
+
+  navigateToQuestion(index) {
+    if (index < 0 || index >= this.activeQuestionsList.length) return;
+    this.selectedOptionId = null;
+    this.currentQuestionIdx = index;
+    this._renderQuestion();
+
+    // Auto-close overlay drawer on mobile upon jumping
+    if (window.innerWidth < 900) {
+      this.toggleNavigator(false);
+    }
+  }
+
+  _renderNavigator() {
+    if (!this.dom.navigatorGrid) return;
+    const cid = this._getChapterId();
+    const chAnswers = (cid && this.answers[cid]) ? this.answers[cid] : {};
+    const totalQ = this.activeQuestionsList ? this.activeQuestionsList.length : 0;
+
+    let answeredCount = 0;
+    let correctCount = 0;
+
+    let tilesHtml = '';
+    (this.activeQuestionsList || []).forEach((q, idx) => {
+      const qid = q.question_id;
+      const ans = chAnswers[qid];
+      const isCurrent = (idx === this.currentQuestionIdx);
+      const isFlagged = this._isFlagged(qid);
+
+      let statusClass = 'unanswered';
+      if (ans) {
+        answeredCount++;
+        if (ans.isCorrect) {
+          correctCount++;
+          statusClass = 'correct';
+        } else {
+          statusClass = 'incorrect';
+        }
+      }
+
+      let classes = ['q-tile', statusClass];
+      if (isCurrent) classes.push('current');
+      if (isFlagged) classes.push('flagged');
+
+      const flagDot = isFlagged ? '<span class="tile-flag-dot" title="Flagged for review"></span>' : '';
+
+      tilesHtml += `<button type="button" 
+        class="${classes.join(' ')}" 
+        data-idx="${idx}"
+        title="Question ${idx + 1} (${statusClass}${isFlagged ? ', flagged' : ''})"
+        onclick="window.studyApp.navigateToQuestion(${idx})"
+        aria-label="Go to question ${idx + 1}">
+        ${idx + 1}
+        ${flagDot}
+      </button>`;
+    });
+
+    this.dom.navigatorGrid.innerHTML = tilesHtml;
+
+    // Update Stats Chips & Pills
+    const currentNum = totalQ > 0 ? (this.currentQuestionIdx + 1) : 0;
+    if (this.dom.navStatPos) {
+      this.dom.navStatPos.textContent = `Q ${currentNum}/${totalQ}`;
+    }
+    if (this.dom.navStatAnswered) {
+      this.dom.navStatAnswered.textContent = `${answeredCount} / ${totalQ}`;
+    }
+    if (this.dom.navStatAccuracy) {
+      const pct = answeredCount > 0 ? Math.round((correctCount / answeredCount) * 100) : 0;
+      this.dom.navStatAccuracy.textContent = `${pct}%`;
+    }
+    if (this.dom.navBadge) {
+      this.dom.navBadge.textContent = `${currentNum}/${totalQ}`;
+    }
+
+    // Smoothly scroll the current active tile into view inside navigator-body
+    setTimeout(() => {
+      if (this.dom.navigatorGrid) {
+        const currentTile = this.dom.navigatorGrid.querySelector('.q-tile.current');
+        if (currentTile) {
+          currentTile.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+        }
+      }
+    }, 40);
+  }
+
+  // ──────────────────────────────────────────────────────────────────────────
+  // Storage Helpers
+  // ──────────────────────────────────────────────────────────────────────────
   _savePosition() {
     if (!this.currentChapterMeta) return;
+    const cid = this._getChapterId();
+    const currQ = this._getCurrentQuestion();
     const pos = {
       mode: this.currentMode,
-      chapterIndex: this.catalog.findIndex(c => c.id === this.currentChapterMeta.id),
-      questionIndex: this.currentQuestionIdx
+      chapterId: cid,
+      chapterIndex: this.catalog.findIndex(c => String(c.id) === String(cid)),
+      questionIndex: this.currentQuestionIdx,
+      questionId: currQ ? currQ.question_id : null,
+      filter: this.currentFilter || 'all',
+      timestamp: Date.now()
     };
     this._saveJson(this.STORAGE_POSITION, pos);
   }
@@ -1155,7 +1386,7 @@ class StudyApp {
   _saveJson(key, val) {
     try {
       localStorage.setItem(key, JSON.stringify(val));
-      if (key === this.STORAGE_ANSWERS || key === this.STORAGE_FLAGS) {
+      if (key === this.STORAGE_ANSWERS || key === this.STORAGE_FLAGS || key === this.STORAGE_POSITION) {
         this._pushSync();
       }
     } catch (e) {
@@ -1313,6 +1544,12 @@ class StudyApp {
         this.flags[cid] = Array.from(lFlags);
       }
     }
+    if (remoteProgress.last_position && remoteProgress.last_position.chapterId) {
+      const localPos = this._loadJson(this.STORAGE_POSITION, null);
+      if (!localPos || !localPos.timestamp || (remoteProgress.last_position.timestamp && remoteProgress.last_position.timestamp > localPos.timestamp)) {
+        this._saveJson(this.STORAGE_POSITION, remoteProgress.last_position);
+      }
+    }
     if (merged) {
       localStorage.setItem(this.STORAGE_ANSWERS, JSON.stringify(this.answers));
       localStorage.setItem(this.STORAGE_FLAGS, JSON.stringify(this.flags));
@@ -1408,6 +1645,7 @@ class StudyApp {
       const payload = {
         answers: this.answers,
         flags: this.flags,
+        last_position: this._loadJson(this.STORAGE_POSITION, null),
         last_updated: Date.now()
       };
       const resp = await fetch(`https://api.github.com/gists/${this.GITHUB_GIST_ID}`, {
@@ -1440,6 +1678,7 @@ class StudyApp {
         const payload = {
           answers: this.answers,
           flags: this.flags,
+          last_position: this._loadJson(this.STORAGE_POSITION, null),
           last_updated: Date.now()
         };
         const resp = await fetch('/api/progress', {
