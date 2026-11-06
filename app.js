@@ -446,6 +446,19 @@ class StudyApp {
       this.dom.tabRcpsych.setAttribute('aria-selected', mode === 'rcpsych' ? 'true' : 'false');
     }
 
+    // Auto-scroll active tab into view smoothly
+    const activeTab = mode === 'qalam' ? this.dom.tabQalam :
+                      mode === 'chapters' ? this.dom.tabChapters :
+                      mode === 'mocks' ? this.dom.tabMocks :
+                      this.dom.tabRcpsych;
+    if (activeTab && typeof activeTab.scrollIntoView === 'function') {
+      try {
+        activeTab.scrollIntoView({ behavior: 'smooth', inline: 'nearest', block: 'nearest' });
+      } catch (e) {
+        // Fallback for older browsers
+      }
+    }
+
     if (mode === 'qalam') {
       this.catalog = this.qalamCatalog;
       if (this.dom.navSectionTitle) this.dom.navSectionTitle.textContent = 'QALAM PSYCHIATRY BANKS';

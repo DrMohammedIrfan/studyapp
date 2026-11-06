@@ -194,31 +194,43 @@ body {
   border-color: var(--border-focus);
 }
 
-/* Sidebar Mode Tabs (Chapters vs Mock Exams) */
+/* Sidebar Mode Tabs (Horizontal Scrollable Pill Bar) */
 .sidebar-tabs {
   display: flex;
   padding: 8px 12px;
   gap: 6px;
   background: var(--bg-surface);
   border-bottom: 1px solid var(--border);
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  scroll-behavior: smooth;
+}
+
+.sidebar-tabs::-webkit-scrollbar {
+  display: none;
 }
 
 .sidebar-tab {
-  flex: 1;
-  padding: 6px 4px;
+  flex: 0 0 auto;
+  padding: 7px 12px;
   border: 1px solid var(--border);
   background: var(--bg-app);
   color: var(--text-muted);
   border-radius: var(--radius-sm);
-  font-size: 0.74rem;
+  font-size: 0.76rem;
   font-weight: 600;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 3px;
+  gap: 4px;
   transition: all var(--transition);
   white-space: nowrap;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .sidebar-tab:hover {
