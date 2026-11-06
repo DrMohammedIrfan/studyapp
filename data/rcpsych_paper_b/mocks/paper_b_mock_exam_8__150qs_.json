@@ -1,0 +1,4686 @@
+{
+  "chapter_id": 4012,
+  "chapter_name": "Paper B Mock Exam 8 (150Qs)",
+  "subject_name": "RCPsych Paper B Mocks",
+  "total_questions": 109,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 4012001,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The absolute di\u0000erence between two treatments in a study is 6%. What is the NNT?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012011,
+          "text": "17",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012012,
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012013,
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012014,
+          "text": "60",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012015,
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "17"
+      },
+      "explanation": "ABI-6% or 0.06. So NNT-1/0.06=16.666. NNT should be always corrected to the next highest number, and so the value is 17."
+    },
+    {
+      "question_number": 2,
+      "question_id": 4012002,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What type of study design can be used to \u0000nd out the number of individuals with mental illness among those who are dependent on\nalcohol?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012021,
+          "text": "Open trial",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012022,
+          "text": "Nested study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012023,
+          "text": "Case control study",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012024,
+          "text": "Cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012025,
+          "text": "Cross sectional study",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Cross sectional study"
+      },
+      "explanation": "Cross-sectional surveys are studies aimed at determining the frequency (or level) of a particular attribute, such as a speci\u0000c exposure,\ndisease or any other health-related event, in a de\u0000ned population at a particular point in time. For instance, we can carry out a cross-\nsectional survey to estimate the prevalence of hepatitis B infection, the prevalence of smoking or the pro- portion of women of childbearing\nage who are breast-feeding in a given population at the time of the survey (www.iarc.fr/en/publications/pdfs-online/epi/)"
+    },
+    {
+      "question_number": 3,
+      "question_id": 4012003,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following bias is controlled by allocation concealment?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012031,
+          "text": "Ascertainment bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012032,
+          "text": "Selection bias",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012033,
+          "text": "Berkson's bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012034,
+          "text": "Lead time bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012035,
+          "text": "Exposure suspicion bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Selection bias"
+      },
+      "explanation": "Allocation concealment helps to reduce selection bias while blinding helps to reduce ascertainment bias."
+    },
+    {
+      "question_number": 4,
+      "question_id": 4012004,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is required when reporting the conduct and results of an RCT using the \u0000owchart recommended by the CONSORT\nguidelines?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012041,
+          "text": "Number of clinical assessments",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012042,
+          "text": "Number of days of non-compliance",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012043,
+          "text": "Intention to treat",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012044,
+          "text": "Number of dropouts",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012045,
+          "text": "Number needed to treat",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Number of dropouts"
+      },
+      "explanation": "CONSORT guidelines provide an updated checklist for adequate reporting of RCTs. CONSORT website (www.consort-statement.org) has\nhelpful resources to improve reporting of randomised trials. Attrition rate must be always reported when drawing a CONSORT \u0000owchart."
+    },
+    {
+      "question_number": 5,
+      "question_id": 4012005,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What will be the percentage of type 1 error if the results of a trial are precisely meeting the conventional level of signi\u0000cance?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012051,
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012052,
+          "text": "80",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012053,
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012054,
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012055,
+          "text": "0.5",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "5"
+      },
+      "explanation": "As p-value is conventionally 5%, there is 5 in 100 chances of type 1 error in a study."
+    },
+    {
+      "question_number": 6,
+      "question_id": 4012006,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What's the purpose of concealment allocation?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012061,
+          "text": "Prevent di\u0000erential classi\u0000cation of outcome groups",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012062,
+          "text": "Prevent measurement error in RCTs",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012063,
+          "text": "Reduce placebo e\u0000ect in RCTs",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012064,
+          "text": "Prevent subjective bias in reporting outcomes",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012065,
+          "text": "Prevent in\u0000uencing group assignment in RCTs",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Prevent in\u0000uencing group assignment in RCTs"
+      },
+      "explanation": "Concealment allocation is a technique used to prevent selection bias by concealing the allocation sequence from those assigning\nparticipants to intervention groups, until the moment of the assignment. Allocation concealment prevents researchers from (unconsciously\nor otherwise) in\u0000uencing which participants are assigned to a given intervention group."
+    },
+    {
+      "question_number": 7,
+      "question_id": 4012007,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following clinical questions is better suited to qualitative rather than quantitative research methods?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012071,
+          "text": "A study to measure psychiatric symptoms after head injury",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012072,
+          "text": "A study detailing the functional outcomes of people treated with Cognitive Behavioural Therapy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012073,
+          "text": "A study of the costs per unit of 'patient utility' in a randomized controlled trial",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012074,
+          "text": "A study to measure quality of life in people with Alzheimer's disease.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012075,
+          "text": "A study to assess the attitudes of people with borderline personality disorder to their diagnosis",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "A study to assess the attitudes of people with borderline personality disorder to their diagnosis"
+      },
+      "explanation": "Qualitative research is often employed to understand the feelings, values, and perceptions that underlie and in\u0000uence behaviour/health\nstates."
+    },
+    {
+      "question_number": 8,
+      "question_id": 4012008,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following conditions must be satis\u0000ed for odds ratio to come close or be the same as a relative risk?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012081,
+          "text": "If the odds ratio is in negative values",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012082,
+          "text": "The prevalence of disease is relatively common",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012083,
+          "text": "If the value of relative risk is 1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012084,
+          "text": "The prevalence of the disease is very low",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012085,
+          "text": "If the value of odds ratio is more than 20",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "The prevalence of the disease is very low"
+      },
+      "explanation": "In case of disorders that have a low prevalence, odds ratio comes closer to relative risk."
+    },
+    {
+      "question_number": 9,
+      "question_id": 4012009,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following data can provide a link between exposure to a risk factor and the disease studied?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012091,
+          "text": "Standardised mortality rate",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012092,
+          "text": "Prevalence rate",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012093,
+          "text": "Crude death rate",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012094,
+          "text": "Incidence rate",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012095,
+          "text": "Sensitivity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Incidence rate"
+      },
+      "explanation": "Incidence rates are useful in epidemiological research for causality. Incidence rates can provide data on new cases developing after an\nexposure within a time period in a speci\u0000ed population. Thus they are more useful than prevalence data to obtain a link between exposure\nand disease development."
+    },
+    {
+      "question_number": 10,
+      "question_id": 4012010,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "When the same psychiatrist applies screening tool and carries out diagnostic assessment in a research study that evaluates the diagnostic\ntool, it can lead to",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012101,
+          "text": "Attrition bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012102,
+          "text": "confounding bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012103,
+          "text": "Information bias",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4012104,
+          "text": "Berkson bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012105,
+          "text": "Selection bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Information bias"
+      },
+      "explanation": "Information bias is a type of bias arising in a clinical study because of misclassi\u0000cation of the level of exposure to an agent or factor being\nassessed and or misclassi\u0000cation of the disease and or other outcome itself."
+    },
+    {
+      "question_number": 11,
+      "question_id": 4012011,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which among the following provide the most powerful, useful evidence available and now attract a large citation rate?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012111,
+          "text": "Systematic reviews",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012112,
+          "text": "Cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012113,
+          "text": "Randomized clinical trials",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012114,
+          "text": "Qualitative studies",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012115,
+          "text": "Case control study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Systematic reviews"
+      },
+      "explanation": "Systematic reviews, because they provide the most powerful and useful evidence available, have become extremely important to clinicians\nand patients and now attract a massive citation rate (Tyrer 2008)"
+    },
+    {
+      "question_number": 12,
+      "question_id": 4012012,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following analysis converts outcomes into monetary units?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012121,
+          "text": "Cost minimization analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012122,
+          "text": "Cost utility analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012123,
+          "text": "Systematic analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012124,
+          "text": "Cost e\u0000ectiveness analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012125,
+          "text": "Cost bene\u0000t analysis",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Cost bene\u0000t analysis"
+      },
+      "explanation": "In cost-bene\u0000t analysis, the inputs and outputs are both calculated in terms of monetary values."
+    },
+    {
+      "question_number": 13,
+      "question_id": 4012013,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following best describes opportunity cost?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012131,
+          "text": "The capital cost of seeking a prospect e.g. an employment",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012132,
+          "text": "The bene\u0000ts of next best foregone alternatives when the available resources are utilised in one way",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012133,
+          "text": "The extra costs associated with an expansion in the activity of an established service",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012134,
+          "text": "The monetary loss due to an unprecedented opportunity.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012135,
+          "text": "The bene\u0000ts of all other alternatives when the available resources are utilised in one way",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "The bene\u0000ts of next best foregone alternatives when the available resources are utilised in one way"
+      },
+      "explanation": "Opportunity cost is de\u0000ned as the bene\u0000t that a resource would yield in its best alternative use. This is the bene\u0000t forgone as a result of\nusing the resource. Although, for practical purposes, the cost of a resource is generally expressed in money terms, in some cases there will\nbe no \u0000nancial payment even though there is an opportunity cost e.g. a voluntary carer."
+    },
+    {
+      "question_number": 14,
+      "question_id": 4012014,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following data requires the use of age-speci\u0000c rates for its calculation?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012141,
+          "text": "Incidence rate",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012142,
+          "text": "Crude death rate",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012143,
+          "text": "Sensitivity",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012144,
+          "text": "Standardised mortality rate",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012145,
+          "text": "Prevalence rate",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Standardised mortality rate"
+      },
+      "explanation": "\"In direct age-adjustment, a common age-structured population is used as standard. This population may actually exist (e.g., United States\npopulation, 1999) or may be \u0000ctitious (e.g., two populations may be combined to create a standard). In indirect age-adjustment, a common\nset of age-speci\u0000c rates is applied to the populations whose rates are to be standardized.The simplest and most useful form of indirect\nadjustment is the standardized mortality ratio (SMR)\": (Excerpt from: Naing, N."
+    },
+    {
+      "question_number": 15,
+      "question_id": 4012015,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Number of deaths of live infants (one year of age or younger) per 1000 live births is called",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012151,
+          "text": "Perinatal mortality rate",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012152,
+          "text": "Neonatal mortality rate",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012153,
+          "text": "Stillbirth rate",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012154,
+          "text": "Postnatal mortality rate",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012155,
+          "text": "Infant mortality rate",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Infant mortality rate"
+      },
+      "explanation": "Deaths under 1 year of age expressed as a proportion of live births is an important public health index used by the UNICEF and the WHO.\nThis is called infant mortality rate."
+    },
+    {
+      "question_number": 16,
+      "question_id": 4012016,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following elements does not belong to the process of making treatment recommendations in the form of clinical guidelines?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012161,
+          "text": "Preparing recommendations irrespective of local resources",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012162,
+          "text": "Specifying possible outcomes of a decision",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012163,
+          "text": "De\u0000ning the decision to be made",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012164,
+          "text": "Thorough appraisal of available evidence based literature",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012165,
+          "text": "Incorporating values to decide course of action",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Preparing recommendations irrespective of local resources"
+      },
+      "explanation": "If guidelines are to achieve their potential, they should have adequate resources and be introduced through partnerships that may include\nclinicians, providers, purchasers and the public. (From Broughton & Rathbone; www.evidence-based-medicine.co.uk; NHS Executive. Clinical\nGuidelines. Leeds: NHSE, 1996)"
+    },
+    {
+      "question_number": 17,
+      "question_id": 4012017,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following factor is the least/not important in determining the quality of a meta-analysis?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012171,
+          "text": "Sample size of individual studies",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012172,
+          "text": "Methodological quality of individual studies",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012173,
+          "text": "Total number of individual studies",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012174,
+          "text": "Comparability of intervention among individual studies",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012175,
+          "text": "Magnitude of outcome reported from individual studies",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Magnitude of outcome reported from individual studies"
+      },
+      "explanation": "The ultimate quality of a meta-analysis depends on the quality of the primary studies on which it is based. A meta-analysis is most\npersuasive when data from a large number of methodologically rigorous randomized trials with large sample sizes are pooled, irrespective\nof the results reported in each trial."
+    },
+    {
+      "question_number": 18,
+      "question_id": 4012018,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following graphs is primarily used to determine if there was a publication bias in your meta-analysis?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012181,
+          "text": "Galbraith plot",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012182,
+          "text": "Nixon's plot",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012183,
+          "text": "Box Whisker plot",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012184,
+          "text": "Funnel plot",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012185,
+          "text": "Kaplan Meier plot",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Funnel plot"
+      },
+      "explanation": "There are some statistical tests for detecting funnel plot asymmetry (Egger's linear regression test and Begg's rank correlation test) but these\nhave low power and are rarely used."
+    },
+    {
+      "question_number": 19,
+      "question_id": 4012019,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is a characteristic feature of narrative review but not systematic review?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012191,
+          "text": "study a focussed narrow question",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012192,
+          "text": "literature search based on expert's familiarity",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012193,
+          "text": "quantitative synthesis of data",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012194,
+          "text": "comprehensive & speci\u0000c data collection",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012195,
+          "text": "uniform criteria of study selection",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "literature search based on expert's familiarity"
+      },
+      "explanation": "Narrative reviews generally are comprehensive and cover a wide range of issues within a given topic, but they do not necessarily state or\nfollow rules about the search for evidence. Also, typical narrative reviews do not reveal how the decisions were made about the relevance of\nstudies and the validity of the included studies. (from"
+    },
+    {
+      "question_number": 20,
+      "question_id": 4012020,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is a measure of central tendency that is least in\u0000uenced by extreme scores?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012201,
+          "text": "Variance",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012202,
+          "text": "Mean",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012203,
+          "text": "Standard error",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012204,
+          "text": "Median",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012205,
+          "text": "Standard deviation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Median"
+      },
+      "explanation": "Last three options do not measure central tendency."
+    },
+    {
+      "question_number": 21,
+      "question_id": 4012021,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is a parametric test?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012211,
+          "text": "Wilcoxon signed rank test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012212,
+          "text": "Student's t test",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012213,
+          "text": "Mann Whitney U test",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012214,
+          "text": "Friedman test",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012215,
+          "text": "Kruskal Wallis test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Student's t test"
+      },
+      "explanation": "Student's t-test is a parametric test; it is used to test if the means of observations from two samples are signi\u0000cantly di\u0000erent. Wilcoxon\nsigned rank test is the non-parametric alternative to paired t-test. Mann-Whitney U test is the non-parametric alternative of the unpaired t\ntest. Kruskal-Wallis test compares between the medians of two or more samples to determine if the samples have come from di\u0000erent\npopulations. It is a non-parametric equivalent of ANOVA while Friedman test is a non-parametric test analogous to repeated measures\nANOVA."
+    },
+    {
+      "question_number": 22,
+      "question_id": 4012022,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is an agreed method of assessing quality of conducting and reporting systematic reviews and metaanalyses?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012221,
+          "text": "ASSERT",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012222,
+          "text": "NICE",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012223,
+          "text": "SIGN",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012224,
+          "text": "CONSORT",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012225,
+          "text": "QUORUM",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "QUORUM"
+      },
+      "explanation": "The Quality of Reporting of Meta-analyses (QUOROM) conference was convened to address standards for improving the quality of reporting\nof meta-analyses of clinical randomised controlled trials (RCTs). The QUOROM group consisted of 30 clinical epidemiologists, clinicians,\nstatisticians, editors, and researchers. In conference, the group was asked to identify items they thought should be included in a checklist of\nstandards. A modi\u0000ed Delphi technique was used in assessing candidate items. The conference resulted in the QUOROM statement, a\nchecklist, and a \u0000ow diagram."
+    },
+    {
+      "question_number": 23,
+      "question_id": 4012023,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is an appropriate study design to compare two di\u0000erent interventions with di\u0000erent clinical outcomes in terms of\nmonetary outcomes?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012231,
+          "text": "Cost bene\u0000ts",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012232,
+          "text": "Cost minimisation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012233,
+          "text": "Cost utility",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012234,
+          "text": "Cost e\u0000ectiveness",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012235,
+          "text": "Cost consequences",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Cost bene\u0000ts"
+      },
+      "explanation": "The cost-bene\u0000t study compares two di\u0000erent interventions with di\u0000erent clinical outcomes. But in this case, all outcomes are translated\ninto monetary (£££) terms and are then compared. This type of study is often preferred by managers to decide how to spend the allocated\nmoney e\u0000ectively. Greenhalgh, T (2001). How to read a paper. BMJ Books, London."
+    },
+    {
+      "question_number": 24,
+      "question_id": 4012024,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is NOT an ordinal variable?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012241,
+          "text": "Socioeconomic classi\u0000cation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012242,
+          "text": "Marital status of individuals",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012243,
+          "text": "Pain rating using visual analogue scale",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012244,
+          "text": "Grading insight from absent to full insight in a scale of 0 to 4",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012245,
+          "text": "Gravidity status of mothers from 0 to 3",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Marital status of individuals"
+      },
+      "explanation": "Marital status is 'all or none' - hence nominal"
+    },
+    {
+      "question_number": 25,
+      "question_id": 4012025,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is not useful to reduce bias?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012251,
+          "text": "Cluster randomisation.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012252,
+          "text": "Recruiting patient samples from the community.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012253,
+          "text": "The use of memory aids in cohort studies.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4012254,
+          "text": "Intention-to-treat analysis.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012255,
+          "text": "Ensuring assessors do not know outcome status in case-control studies.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "The use of memory aids in cohort studies."
+      },
+      "explanation": "Recall bias is not an issue in cohort studies; using memory aids is unlikely to address the issue of bias in this type of study."
+    },
+    {
+      "question_number": 26,
+      "question_id": 4012026,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In most epidemiological studies of bipolar disorder, the 6-month prevalence is not much lower than the lifetime prevalence. This is\nindicative of",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012261,
+          "text": "High genetic load",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012262,
+          "text": "Chronicity and recurrence of bipolar disorder",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012263,
+          "text": "Lack of e\u0000ective preventive measures",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012264,
+          "text": "High environmental causation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012265,
+          "text": "Trend of globally increasing incidence",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Chronicity and recurrence of bipolar disorder"
+      },
+      "explanation": "Having comparable rates for di\u0000erent denominator of observations suggest that either the illness is highly recurrent or it is enduring and\nchronic."
+    },
+    {
+      "question_number": 27,
+      "question_id": 4012027,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A graphical illustration that is often used to show the distribution of various age groups in a country or region is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012271,
+          "text": "Population Pyramid",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012272,
+          "text": "Survival Curve",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012273,
+          "text": "Green Plot",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012274,
+          "text": "Bar Chart",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012275,
+          "text": "Histogram",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Population Pyramid"
+      },
+      "explanation": "To see at a glance how populations are distributed by age and sex, demographers use a population pyramid ( also called an age structure\ndiagram)."
+    },
+    {
+      "question_number": 28,
+      "question_id": 4012028,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "When the same psychiatrist applies screening tool and carries out diagnostic assessment in a research study that evaluates the diagnostic\ntool, it can lead to",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012281,
+          "text": "Berkson bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012282,
+          "text": "Information bias",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012283,
+          "text": "Attrition bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012284,
+          "text": "Confounding bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012285,
+          "text": "Selection bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Information bias"
+      },
+      "explanation": "Information bias is a type of bias arising in a clinical study because of misclassi\u0000cation of level of exposure to the agent or factor being\nassessed and or misclassi\u0000cation of the disease and or other outcome itself."
+    },
+    {
+      "question_number": 29,
+      "question_id": 4012029,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one among the following is a measure of internal consistency of a test?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012291,
+          "text": "Content validity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012292,
+          "text": "Test-retest reliability",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012293,
+          "text": "Inter-rater reliability",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012294,
+          "text": "Face validity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012295,
+          "text": "Split half reliability",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Split half reliability"
+      },
+      "explanation": "Split-half reliability is a measure of internal consistency reliability. The items on the scale are divided into 2 halves and the resulting half\nscores are correlated in reliability analysis. High correlations between the halves indicate consistency in reliability analysis."
+    },
+    {
+      "question_number": 30,
+      "question_id": 4012030,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The reduction in amount of disability in diagnosed patients is associated with",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012301,
+          "text": "Primary prevention",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012302,
+          "text": "Universal prevention",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012303,
+          "text": "Tertiary prevention",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4012304,
+          "text": "Secondary prevention",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012305,
+          "text": "Quaternary prevention",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Tertiary prevention"
+      },
+      "explanation": "Tertiary prevention consists of prevention of disease progression and an attendant su\u0000ering after it is clinically obvious and diagnosis is well\nestablished. This act also includes the rehabilitation of disabled conditions."
+    },
+    {
+      "question_number": 31,
+      "question_id": 4012031,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The ability of a test to correctly classify subjects as being with or without a disease is called",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012311,
+          "text": "Likelihood ratio",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012312,
+          "text": "Positive predictive value",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012313,
+          "text": "Speci\u0000city",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012314,
+          "text": "Negative predictive value",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012315,
+          "text": "Sensitivity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Likelihood ratio"
+      },
+      "explanation": "This is the likelihood that a test result would be expected in patients with a condition, divided by the likelihood that that same result would\nbe expected in patients without that condition. Imagine a blood test for anorexia, if the LR for a positive test is 5, it means if the test is\npositive in that patient, then that patient is \u0000ve times more likely to have anorexia than not have it."
+    },
+    {
+      "question_number": 32,
+      "question_id": 4012032,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The term cost bene\u0000t analysis refers to",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012321,
+          "text": "Expressing all costs and consequences of an intervention in the same monetary units",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012322,
+          "text": "Minimising both the costs and burdens associated with an intervention.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012323,
+          "text": "Expressing alternative interventions in cost per unit of health outcome",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012324,
+          "text": "Comparing only the costs of two or more interventions",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012325,
+          "text": "Examining the readiness to spend on an intervention",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Expressing all costs and consequences of an intervention in the same monetary units"
+      },
+      "explanation": "It is an economic evaluation in which all costs and consequences of a program are expressed in the same units, usually money. It is used to\ndetermine allocative e\u0000ciency; i.e., comparison of costs and bene\u0000ts across programs serving di\u0000erent patient groups."
+    },
+    {
+      "question_number": 33,
+      "question_id": 4012033,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is a possible outcome of early intervention in schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012331,
+          "text": "Minimising secondary morbidity and mortality",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012332,
+          "text": "Reducing collateral psychosocial damage in critical period",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012333,
+          "text": "Reducing duration of untreated psychosis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012334,
+          "text": "All of the listed",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012335,
+          "text": "Promoting recovery from \u0000rst episode of psychosis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "All of the listed"
+      },
+      "explanation": "The tenets of early intervention include reducing duration of untreated psychosis (DUP), promoting recovery from \u0000rst episode of psychosis,\nminimising secondary morbidity and mortality, reducing collateral psychosocial damage in critical period, possibly neuroprotection,\nengagement with the patient at early stages facilitate longer treatment and reducing comorbidities such as substance use."
+    },
+    {
+      "question_number": 34,
+      "question_id": 4012034,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is the best examined antipsychotic in terms of negative symptoms of schizophrenia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012341,
+          "text": "Risperidone",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012342,
+          "text": "Amisulpride",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012343,
+          "text": "Aripiprazole",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012344,
+          "text": "Olanzapine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012345,
+          "text": "Sertindole",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Amisulpride"
+      },
+      "explanation": "Negative symptoms include anhedonia, avolition, apathy, amotivation and restricted a\u0000ect. SGAs were marketed as being especially\ne\u0000cacious for negative symptoms; but evidence to support this hypothesis is scarce. Most RCTs are conducted on patients with\npredominantly positive symptoms. Amisulpride is still the best examined SGA as regards negative symptoms because several studies in\npatients with predominantly negative symptoms have been carried out with this compound. But the e\u0000ect of amisulpiride in reducing\nnegative symptoms at a low dose (50 to 100mg/day) may be due to concurrent reduction in positive symptoms or depression. When\ncompared head to head with haloperidol, the e\u0000ect of amisulpride on negative symptoms weakened."
+    },
+    {
+      "question_number": 35,
+      "question_id": 4012035,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is the most common comorbid illness in those with anorexia nervosa?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012351,
+          "text": "Generalised Anxiety Disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012352,
+          "text": "Depression",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012353,
+          "text": "Panic disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012354,
+          "text": "Obsessive Compulsive Disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012355,
+          "text": "Alcohol abuse",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Depression"
+      },
+      "explanation": "A lifetime prevalence of around 75% is seen for depression in those with anorexia."
+    },
+    {
+      "question_number": 36,
+      "question_id": 4012036,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is the most common feature of Neuroleptic Malignant Syndrome?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012361,
+          "text": "Constipation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012362,
+          "text": "Incontinence",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012363,
+          "text": "Flapping Tremor",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012364,
+          "text": "Leukopenia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012365,
+          "text": "Rigidity",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Rigidity"
+      },
+      "explanation": "The tetrad of NMS symptoms typically evolves over one to three days. In an analysis of 340 cases, 70 percent of patients followed a typical\ncourse of mental status changes appearing \u0000rst, followed by rigidity, then hyperthermia, and autonomic dysfunction (J Nerv Ment Dis.\n1994;182(3):168.). Hyperthermia is a de\u0000ning symptom according to many diagnostic criteria. Temperatures of more than 38ºC are typical\n(seen in upto 87% cases)."
+    },
+    {
+      "question_number": 37,
+      "question_id": 4012037,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is true about antidepressant use in HIV illness?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012371,
+          "text": "HIV related depression does not respond to medications",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012372,
+          "text": "SSRIs must not be used",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012373,
+          "text": "Imipramine has no trial evidence",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012374,
+          "text": "Tricyclics must not be used",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012375,
+          "text": "Lower doses of tricyclics can be used",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Lower doses of tricyclics can be used"
+      },
+      "explanation": "If using a TCA for depression in HIV, most clinicians prefer secondary amines (eg, desipramine, nortriptyline) and reserve their use for\npatients with asymptomatic illness.AIDS patients can respond to lower dosages of tricyclics (25-100 mg), but they may also su\u0000er severe\nanticholinergic e\u0000ects at reduced dosages."
+    },
+    {
+      "question_number": 38,
+      "question_id": 4012038,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is true about pharmacological management of social phobia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012381,
+          "text": "Phenelzine can be used as \u0000rst line treatment.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012382,
+          "text": "Antidepressants must be given at a higher dose than for depression",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012383,
+          "text": "Antidepressants must be given at a lower dose than for depression",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012384,
+          "text": "Antidepressants may take longer to work than for depression",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012385,
+          "text": "Propranalol is useful in generalised subtype",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Antidepressants may take longer to work than for depression"
+      },
+      "explanation": "The best established treatments are CBT and SSRIs. Paroxetine, sertraline, \u0000uoxetine and \u0000uvoxamine, escitalopram, venlafaxine have been\nevaluated in RCTs with favourable outcome. Normal antidepressant doses can be used but may need a longer 12 week trial to establish\noutcome. Drug treatment should continue for at least 6-12 months after response. Phenelzine is the second line treatment. Moclobemide is\nalso e\u0000ective."
+    },
+    {
+      "question_number": 39,
+      "question_id": 4012039,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is true about the diagnostic stability of personality disorders?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012391,
+          "text": "Cluster C becomes less pronounced with age",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012392,
+          "text": "Most patients with borderline personality would meet criteria for the same at 10 years follow up.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012393,
+          "text": "None of the above",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012394,
+          "text": "A J shaped relationship exists between personality disorders and age",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012395,
+          "text": "Cluster A becomes worse with age",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "A J shaped relationship exists between personality disorders and age"
+      },
+      "explanation": "For a long time it was thought that once diagnosed with personality disorder the diagnosis remains forever and no change takes place. This\npessimism is now shifting largely due to long term follow-up studies in borderline personality. Results of epidemiological studies suggest a J-\nshaped relation between personality and age, with an initial decrease followed by an increase in some personality disorders in older people."
+    },
+    {
+      "question_number": 40,
+      "question_id": 4012040,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following patients is at the highest risk of suicide?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012401,
+          "text": "16 years old single, unmarried, social class I",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012402,
+          "text": "60 years old man, married, social class V",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012403,
+          "text": "30 years old woman part time employed social class I",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012404,
+          "text": "44 years old father of 2 children in a heterosexual partnership",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012405,
+          "text": "35 years old widower, unemployed, social class V",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "35 years old widower, unemployed, social class V"
+      },
+      "explanation": "Middle aged men are at a higher risk compared to any other group described"
+    },
+    {
+      "question_number": 41,
+      "question_id": 4012041,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is a neonatal complication in babies who were born to mothers prescribed lithium in pregnancy?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012411,
+          "text": "Tetany",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012412,
+          "text": "Floppy baby",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012413,
+          "text": "Neonatal goiter",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4012414,
+          "text": "Cushing syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012415,
+          "text": "Anencephaly",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Neonatal goiter"
+      },
+      "explanation": "Neonatal complication in babies who were born to mothers prescribed lithium in pregnancy: Ebstein's anomaly, ASD, VSD, Neonatal goiter,\nhypotonia, lethargy and cardiac arrhthymias."
+    },
+    {
+      "question_number": 42,
+      "question_id": 4012042,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Mr Y su\u0000ered from post-stroke depression and was started on citalopram, on which he is showing a good response. What is the minimum\nduration he should stay on it?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012421,
+          "text": "6 months",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012422,
+          "text": "1 year",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012423,
+          "text": "1 month",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012424,
+          "text": "3 months",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012425,
+          "text": "2 years",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "6 months"
+      },
+      "explanation": "National clinical guidelines for the management of mood disturbance after stroke (Intercollegiate Working group, 2004): Screen for\ndepression and anxiety within the \u0000rst month of stroke , use standardized questionnaires for screening, Consider a trial of antidepressant\nmedication in those with persistently depressed mood of at least 1 month's duration, If there is a good response, antidepressants should be\ncontinued for at least 6 months. Both Fluoxetine and Citalopram have RCT evidence to support their use, though Fluoxetine has not been\nconsistently e\u0000ective across trials."
+    },
+    {
+      "question_number": 43,
+      "question_id": 4012043,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is associated with narcolepsy?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012431,
+          "text": "Prolonged REM latency",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012432,
+          "text": "Unrefreshing sleep attacks",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012433,
+          "text": "2% prevalence",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012434,
+          "text": "Waxy \u0000exibility",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012435,
+          "text": "HLA-DR2",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "HLA-DR2"
+      },
+      "explanation": "Narcolepsy is associated with cataplexy (NOT catalepsy / waxy \u0000exibility – the latter are catatonic features). It is a disabling sleep disorder\na\u0000ecting 0·02% of adults worldwide. It is characterised by severe, irresistible daytime sleepiness and sudden loss of muscle tone (cataplexy),\nand can be associated with sleep-onset or sleep-o\u0000set paralysis and hallucinations, frequent movement and awakening during sleep, and\nweight gain. Sleep monitoring during night and day shows rapid sleep onset and abnormal, shortened rapid-eye-movement sleep latencies.\nThe onset of narcolepsy with cataplexy is usually during teenage and young adulthood and persists throughout the lifetime.\nPathophysiological studies have shown that the disease is caused by the early loss of neurons in the hypothalamus that produce hypocretin,\na wakefulness-associated neurotransmitter present in cerebrospinal \u0000uid. The cause of neural loss could be autoimmune since most\npatients (>90%) have the HLA DQB1*0602 allele that predisposes individuals to the disorder. The frequency of HLA-DR2 is also increased in\nnarcolepsy though not as high as HLA DQB1*0602. Treatment is with stimulant drugs to suppress daytime sleepiness, antidepressants for\ncataplexy, and ? hydroxybutyrate for both symptoms."
+    },
+    {
+      "question_number": 44,
+      "question_id": 4012044,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Narcolepsy is characterized by all of the following except",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012441,
+          "text": "Excessive daytime sleepiness",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012442,
+          "text": "Hypnapompic hallucinations",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012443,
+          "text": "Hypnagogic hallucinations",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012444,
+          "text": "Sleep paralysis (seen in 30%)",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012445,
+          "text": "Cataplexy (seen in 75% of patients)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Hypnapompic hallucinations"
+      },
+      "explanation": "Narcolepsy (from Dilley and Fleminger, 2006): Prevalence of 0.025% in the general population. Symptoms include excessive daytime\nsleepiness, sudden sleep attacks (narcolepsy) - the sleep is refreshing as it is REM in nature, cataplexy (seen in 75% of patients), sleep\nparalysis (seen in 30%), hypnagogic hallucinations. Only 10% of individuals present with all four phenomena. Automatic behaviours are\nreported in around one-third (complex behaviours that are not recalled when they regain alertness). The overall sleep duration per 24 hours\nis NOT increased in narcolepsy due to reduced and fragmented nocturnal sleep."
+    },
+    {
+      "question_number": 45,
+      "question_id": 4012045,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following can be a preventative strategy to reduce the risk of schizophrenia across populations globally?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012451,
+          "text": "Preventing the emergence of clozapine resistance",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012452,
+          "text": "Decreasing social discrimination",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012453,
+          "text": "Decreasing duration of untreated psychosis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012454,
+          "text": "Identi\u0000cation of those at high risk",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012455,
+          "text": "Early intervention at prodromal stage",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Decreasing social discrimination"
+      },
+      "explanation": "Mrazek and Haggerty (1994) framework for the prevention of mental disorders includes universal, selective and indicated prevention.\nUniversal interventions are directed to a general population group. This is largely a primary prevention. Though these are directed at the\ngeneral population who do not have speci\u0000c risk factors, there are some epidemiological factors for schizophrenia that are so widespread\nthat their targeting can be considered a universal intervention. E.g. urban living, poor social capital including low social cohesion, exclusion\nand discrimination, low socio-economic status, obstetric complications, illicit drug use, childhood trauma and experiencing stressful life\nevents. Increasing social capital, decreasing discrimination, and reducing poverty are possible goals of universal prevention. But universal\ninterventions are di\u0000cult to evaluate, costly, and need large scale implementation in diseases of low incidence such as schizophrenia. Early\nand e\u0000ective interventions, rather than universal prevention strategies, are the most cost-e\u0000ective population health strategies available.\nSelective approaches are targeted at people who are at increased risk based on an understanding of the known risk factors and/or aetiology\nof the disorder. Indicated approaches target high risk individuals with minimal but detectable signs or symptoms foreshadowing mental\ndisorder, but who do not meet diagnostic levels currently. Both selective and indicated approaches are secondary prevention methods."
+    },
+    {
+      "question_number": 46,
+      "question_id": 4012046,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Lucy is pregnant and is taking citalopram for her depression. What is the risk of her giving birth to a child with septal defects?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012461,
+          "text": "6 fold increase",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012462,
+          "text": "None",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012463,
+          "text": "4 fold increase",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012464,
+          "text": "8 fold increase",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012465,
+          "text": "2 fold increase",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "2 fold increase"
+      },
+      "explanation": "Mothers who took citalopram during pregnancy may have a 2-2.5 times greater risk of giving birth to a child with septal heart defects and a 6\ntimes greater risk of giving birth to a child with Persistent Pulmonary Hypertension Newborn (PPHN). ). A large (n=493,113) population-based\ncohort study in Denmark found that the absolute increase in prevalence of septal heart defects was low with any SSRI (0.9% vs 0.5%\namongst unexposed children). For speci\u0000c SSRIs the prevalence of septal heart defects were 0.6% for \u0000uoxetine, 1.1% for citalopram and\n1.5% for sertraline. It is unknown how many of these defects required surgery. (Pederson et al., BMJ 2009;339:b3569)"
+    },
+    {
+      "question_number": 47,
+      "question_id": 4012047,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following ethnic groups are more susceptible to dose-dependent side e\u0000ects of risperidone?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012471,
+          "text": "Caucasians",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012472,
+          "text": "Asian Indians",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012473,
+          "text": "Native Americans",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012474,
+          "text": "East Asians",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012475,
+          "text": "North Africans",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "East Asians"
+      },
+      "explanation": "Most East Asians lack one copy of fully functional CYP2D6 enzyme and so are intermediate metabolisers of risperidone. They develop more\ndose dependent side e\u0000ects and require lower doses of risperidone."
+    },
+    {
+      "question_number": 48,
+      "question_id": 4012048,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is NOT consistent with a diagnosis of chronic fatigue syndrome?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012481,
+          "text": "Motivational disturbances in f-MRI scan",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012482,
+          "text": "Physical emphasis with regard to symptom origin",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012483,
+          "text": "De\u0000cient natural killer cell function",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012484,
+          "text": "Hypercortisolism",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012485,
+          "text": "Altered physiological response to stress",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Hypercortisolism"
+      },
+      "explanation": "Most characteristic disorders associated with hypocortisolemia are PTSD, \u0000bromyalgia, and CFS."
+    },
+    {
+      "question_number": 49,
+      "question_id": 4012049,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following anti-epileptics may be especially associated with psychosis?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012491,
+          "text": "Gabapentin",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012492,
+          "text": "Levatiracetam",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012493,
+          "text": "Carbamazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012494,
+          "text": "Vigabatrin",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012495,
+          "text": "Valproate",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Vigabatrin"
+      },
+      "explanation": "Most antiepileptics have psychiatric side e\u0000ects; Vigabatrin may be especially associated with psychosis."
+    },
+    {
+      "question_number": 50,
+      "question_id": 4012050,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A patient has both schizophrenia-like and mania like a\u0000ective symptoms concurrently during each relapse. He has been treated with various\nantipsychotics including olanzapine and quetiapine and is currently on haloperidol for last 12 weeks with minimal response. Which of the\nfollowing is the best medication that can control his symptoms at this time?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012501,
+          "text": "Clozapine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012502,
+          "text": "Amisulpride",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012503,
+          "text": "Clonazepam",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012504,
+          "text": "Aripiprazole",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012505,
+          "text": "Mood stabilisers",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Mood stabilisers"
+      },
+      "explanation": "Mood stabilizers are a mainstay of treatment for patients with schizoa\u0000ective disorder. Carbamazepine is superior for schizoa\u0000ective\ndisorder, depressive type; lithium and carbamazepine have no di\u0000erence in e\u0000cacy for the manic schizoa\u0000ective (bipolar like) disorder.\nAntipsychotics are often used as combination medications with mood stabilisers or primarily for mood stabilising e\u0000ect itself."
+    },
+    {
+      "question_number": 51,
+      "question_id": 4012051,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In Parkinson's related psychosis, hallucinations of which type of modality is common?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012511,
+          "text": "Visual",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012512,
+          "text": "Gustatory",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012513,
+          "text": "Olfactory",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012514,
+          "text": "Re\u0000ex",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012515,
+          "text": "Auditory",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Visual"
+      },
+      "explanation": "Parkinson's related Psychosis is mostly related to antiparinsonian drugs. Both dopaminergic/anticholinergic medications are implicated.\nHallucinations are common, seen in 20% of cases- especially visual modality, delusions 3-30%. Low-dose (less than 100 mg/day) clozapine\ncan improve psychosis without worsening parkinsonism. Quetiapine can also be used."
+    },
+    {
+      "question_number": 52,
+      "question_id": 4012052,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one of the following is associated with a clinical picture of schizophrenia-like psychoses?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012521,
+          "text": "Heroin use",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012522,
+          "text": "Panic disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012523,
+          "text": "Tourette's syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012524,
+          "text": "Myasthenia gravis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012525,
+          "text": "Huntington's disease",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Huntington's disease"
+      },
+      "explanation": "Paranoid schizophrenia-like symptoms occur in 6% to 25% of cases with Huntington's."
+    },
+    {
+      "question_number": 53,
+      "question_id": 4012053,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is associated with PANDAS?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012531,
+          "text": "Panic disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012532,
+          "text": "Hypochondriasis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012533,
+          "text": "Psychosis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012534,
+          "text": "OCD",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012535,
+          "text": "Agoraphobia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "OCD"
+      },
+      "explanation": "Paediatric autoimmune neuropsychiatric disorders associated with streptococcal infection - PANDAS is thought to be secondary to\nstreptococcal infection and mediated by autoantibodies binding to basal ganglia. This produces tics, \u0000uctuating obsessive compulsive\nsymptoms and anxiety."
+    },
+    {
+      "question_number": 54,
+      "question_id": 4012054,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following medications can reduce plasma levels of Lamotrigine in a 34-year-old woman with bipolar disorder?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012541,
+          "text": "Ibuprofen",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012542,
+          "text": "Oral contraceptives",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012543,
+          "text": "Amisulpride",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012544,
+          "text": "Valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012545,
+          "text": "Lithium",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Oral contraceptives"
+      },
+      "explanation": "Oral contraceptives and carbamazepine can reduce Lamotrigine levels. Valproate can increase lamotrigine levels."
+    },
+    {
+      "question_number": 55,
+      "question_id": 4012055,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "At any given time, the proportion of general population (in percentage) who report sleep disturbances is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012551,
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012552,
+          "text": "40",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012553,
+          "text": "50",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012554,
+          "text": "30",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012555,
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "30"
+      },
+      "explanation": "One third of otherwise normal people report insomnia. For most of these people, the problem is related to life style and habits."
+    },
+    {
+      "question_number": 56,
+      "question_id": 4012056,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The functional neuroimaging \u0000nding seen in adult OCD is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012561,
+          "text": "Hypometabolism in the thalamus",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012562,
+          "text": "Hypermetabolism in the orbitofrontal gyrus",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012563,
+          "text": "Hypermetabolism in the thalamus",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012564,
+          "text": "Hypometabolism in the dominant parietal cortex",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012565,
+          "text": "Hypometabolism in the orbitofrontal cortex",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Hypermetabolism in the orbitofrontal gyrus"
+      },
+      "explanation": "On the basis of an extensive review of functional neuroimaging studies, Saxena et al suggested that an imbalance of direct and indirect\norbitofrontal-subcortical pathways mediates OCD symptoms. Recently, Adler et al reported that the change of OCD symptoms following a\nrelapse is inversely correlated with the extent of activation in the left orbito-frontal cortex measured by functional MRI, suggesting the\ninhibitory role of left OFC in OCD symptom provocation."
+    },
+    {
+      "question_number": 57,
+      "question_id": 4012057,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Myoclonic seizures have been reported with which of the following antipsychotic medication?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012571,
+          "text": "Clozapine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012572,
+          "text": "Quetiapine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012573,
+          "text": "Risperidone",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012574,
+          "text": "Aripiprazole",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012575,
+          "text": "Olanzapine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Olanzapine"
+      },
+      "explanation": "Olanzapine may a\u0000ect EEG and Myoclonic seizures have been reported. Seizures rarely reported with Quetiapine but also shown to have\nanticonvulsant activity in ECT. Very limited data and clinical experience with Aripiprazole and seizures have been reported rarely. Ref:\nMaudsley prescribing guidelines, 10th edition; 337"
+    },
+    {
+      "question_number": 58,
+      "question_id": 4012058,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Oestrogen treatment in male to female (MTF) transsexuals produces all of the following bodily changes except",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012581,
+          "text": "A change in voice",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012582,
+          "text": "Skin softening",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012583,
+          "text": "Diminished libido",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012584,
+          "text": "Diminished erectile function",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012585,
+          "text": "Some breast and hip development",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "A change in voice"
+      },
+      "explanation": "Oestrogen treatment in MTF transsexuals produces diminished libido and erectile function, some breast and hip development, and skin\nsoftening; there is no e\u0000ect on voice pitch and speech therapy may be required to produce an acceptable female vocal pattern. Androgen\ntreatment in FTM transsexuals produces muscle development, some lowering of vocal pitch, male pattern of bodily hair development, and\namenorrhoea. Ref: Oxford handbook of psychiatry; 759"
+    },
+    {
+      "question_number": 59,
+      "question_id": 4012059,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "OCD like symptoms may occur in patients with Huntington's disease due to the involvement of which area of the brain?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012591,
+          "text": "Hypothalamus",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012592,
+          "text": "Basal ganglia",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012593,
+          "text": "Thalamus",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012594,
+          "text": "Pineal gland",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012595,
+          "text": "Corpora quadrigemini",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Basal ganglia"
+      },
+      "explanation": "OCD like symptoms may occur due to basal ganglia involvement in patients with Huntington's disease."
+    },
+    {
+      "question_number": 60,
+      "question_id": 4012060,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following statements is true of postnatal depression?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012601,
+          "text": "It occurs within 4-6 days of child birth",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012602,
+          "text": "It is more likely in older mothers",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012603,
+          "text": "It occurs in 10-15% of women after childbirth",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4012604,
+          "text": "It is more likely in women who have an assisted delivery",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012605,
+          "text": "It is more likely in a woman from lower social class",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "It occurs in 10-15% of women after childbirth"
+      },
+      "explanation": "Postnatal depression is a signi\u0000cant depressive episode, related to childbirth, occurring in 10-15% of women within 6 months post-partum\n(peak 3-4 weeks). Baby blues starts 2 -3 days after birth and lasts for one to two days. For postpartum psychosis, the peak occurrence is at 2\nweeks postpartum."
+    },
+    {
+      "question_number": 61,
+      "question_id": 4012061,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the most likely site of the primary tumour which when metastatic could cause symptoms of peripheral neuropathy and memory\nloss?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012611,
+          "text": "Lungs",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012612,
+          "text": "Intestine",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012613,
+          "text": "Kidney",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012614,
+          "text": "Brain",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012615,
+          "text": "Liver",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Intestine"
+      },
+      "explanation": "Presence of peripheral neuropathy along with memory loss as a result of malignant process could be due to pellagra. It is a rare\npresentation of carcinoid tumours that develop from neuroendocrine cells (mostly in the ileum) and produce serotonin. Generally 99% of\nbody niacin is converted to nicotinic acid essential for cellular processes. In carcinoid syndrome, a huge fraction becomes spent on\nproducing serotonin and bradykinins, leading to very low nicotininc acid availability. This causes the triad of dermatitis, diarrhea and\ndementia-like symptoms. An intestinal carcinoid does not usually produce the '\u0000ush reaction' seen in carcinoid syndrome unless hepatic\nmetastases have occurred, because metabolic products released by the tumour are rapidly destroyed by blood and liver enzymes in the\nportal circulation (eg, serotonin by hepatic monoamine oxidase)."
+    },
+    {
+      "question_number": 62,
+      "question_id": 4012062,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The following may make the diagnosis of hypomania di\u0000cult except:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012621,
+          "text": "Hypothyroidism",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012622,
+          "text": "Substance misuse",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012623,
+          "text": "Borderline personality disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012624,
+          "text": "Recent antidepressant therapy",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012625,
+          "text": "Symptoms of attention-de\u0000cit hyperactivity disorder",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Hypothyroidism"
+      },
+      "explanation": "Presence of elation may become apparent but in fact artefactual after recovery from depression. Substances with stimulant property,\nborderline personality with a\u0000ective lability and ADHD can all individually mimic hypomania. Hypothyroidism is associated with lethargy and\ndepressive features. In hyperthyroid state one may present as hypomanic or agitated depressed."
+    },
+    {
+      "question_number": 63,
+      "question_id": 4012063,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one of the following factors indicates a higher risk of relapse of depression?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012631,
+          "text": "Short hospital stay",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012632,
+          "text": "Never being married.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012633,
+          "text": "Having mild episodes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012634,
+          "text": "Male sex",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012635,
+          "text": "Absence of psychotic features",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Never being married."
+      },
+      "explanation": "Presence of persistent dysthymia, comorbid conditions, including both psychiatric and general medical conditions, female gender, having\nlonger episodes of illness before seeking treatment, greater number of prior episodes (3 or more;), being never married etc. Are some of the\nrisk factors for relapse in depressive disorder."
+    },
+    {
+      "question_number": 64,
+      "question_id": 4012064,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Premature ejaculation is a type of",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012641,
+          "text": "Sexual arousal disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012642,
+          "text": "Sexual dysfunction due to general medical condition",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012643,
+          "text": "Sexual pain disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012644,
+          "text": "Sexual desire disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012645,
+          "text": "Orgasmic disorder",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Orgasmic disorder"
+      },
+      "explanation": "Premature ejaculation is the most common reported sexual disorder in men. It is a disorder of orgasmic function."
+    },
+    {
+      "question_number": 65,
+      "question_id": 4012065,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The rate of spontaneous congenital malformations associated with pregnancy is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012651,
+          "text": "10-12%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012652,
+          "text": "30-35%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012653,
+          "text": "2-3%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4012654,
+          "text": "1-1.5%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012655,
+          "text": "15-20%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "2-3%"
+      },
+      "explanation": "Pregnancy is associated with risk of spontaneous major malformation (2-3% of all pregnancies) and drugs account for only 5 of every 100\nmalformations that occur."
+    },
+    {
+      "question_number": 66,
+      "question_id": 4012066,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following predicts poor treatment response in chronic fatigue syndrome when treated with CBT/graded exercise?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012661,
+          "text": "Being passive with reduced activity",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012662,
+          "text": "Long duration of illness",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012663,
+          "text": "Less emphasis on physical symptoms",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012664,
+          "text": "Continuing with occupation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012665,
+          "text": "High sense of physical control",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Being passive with reduced activity"
+      },
+      "explanation": "Predictors of poor outcome when treating CFS include (Powell et al, 2004) 1. claiming a disability related bene\u0000t 2. low sense of control 3.\nstrong focus on physical symptoms 4. being passive with reduced activity and 5. membership of self help group (Note: this does not mean\nthat self help groups worsen CFS; membership may be an indicator of perceived severity)"
+    },
+    {
+      "question_number": 67,
+      "question_id": 4012067,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the most common presentation seen in women with postpartum psychosis?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012671,
+          "text": "Prominent a\u0000ective symptoms",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012672,
+          "text": "Acute stress disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012673,
+          "text": "Acute organic psychosis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012674,
+          "text": "Delusional disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012675,
+          "text": "Schizophreniform disorder",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Prominent a\u0000ective symptoms"
+      },
+      "explanation": "Postpartum psychosis: An acute psychotic episode, occurring following 1.5/1000 live births, peak occurrence at 2 wks postpartum. Aetiology\nis unknown, but may relate to reduction of oestrogen (leading to DA super-sensitivity), cortisol levels, or postpartum thyroiditis. Symptoms 3\ncommon clinical presentations: prominent a\u0000ective symptoms (80%) mania or depression with psychotic symptoms; schizophreniform\ndisorder (15%); acute organic psychosis (5%) Ref: Oxford handbook of psychiatry; 756"
+    },
+    {
+      "question_number": 68,
+      "question_id": 4012068,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A bipolar patient taking lithium was recently started on SSRI. Which of the following would you suspect as serotonin syndrome rather than\nlithium toxicity?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012681,
+          "text": "Nausea",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012682,
+          "text": "Diarrhoea",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012683,
+          "text": "Ataxia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012684,
+          "text": "Hyperpyrexia",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012685,
+          "text": "Sweating",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Hyperpyrexia"
+      },
+      "explanation": "Lithium toxicity is clinically remarkably similar to serotonin syndrome. But a blood test is often helpful to clinch toxic levels. Hyperpyrexia is\nseen in severe serotonin syndrome but very usual to be due to lithium toxicity per se."
+    },
+    {
+      "question_number": 69,
+      "question_id": 4012069,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one of the following is a positive prognostic factor for anorexia?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012691,
+          "text": "Chronicity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012692,
+          "text": "Bingeing",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012693,
+          "text": "Anankastic traits",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012694,
+          "text": "Self induced vomiting",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012695,
+          "text": "Younger age",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Younger age"
+      },
+      "explanation": "Younger age of onset is a positive prognostic factor for anorexia, in terms of short term outcome. The rest of the listed are negative\nprognostic factors."
+    },
+    {
+      "question_number": 70,
+      "question_id": 4012070,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A family has recently moved near a countryside school. Their 6-year-old daughter does not speak to anyone at the school in the \u0000rst few\nmonths of enrolment. She makes gestures when her friends are around but will not speak to them too. She has no signs of developmental\ndelay and speaks well at home and when examined by the psychologist. The most likely diagnosis is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012701,
+          "text": "Oppositional de\u0000ance",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012702,
+          "text": "Social phobia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012703,
+          "text": "Hysterical mutism",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012704,
+          "text": "Speci\u0000c language disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012705,
+          "text": "Selective mutism",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Selective mutism"
+      },
+      "explanation": "Selective mutism is seen in school age children presenting with refusal to speak in social settings such as a classroom. The language\ndevelopment may be normal. These children have a higher risk of later development of social phobia."
+    },
+    {
+      "question_number": 71,
+      "question_id": 4012071,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 40-year-old man has had 5 depressive episodes in the past and every time following treatment of depression he had developed\nhypomania. What would you prescribe?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012711,
+          "text": "Lamotrigine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012712,
+          "text": "Atypical antipsychotic",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012713,
+          "text": "Carbamazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012714,
+          "text": "Sodium Valproate",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012715,
+          "text": "Lithium",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Lithium"
+      },
+      "explanation": "Antidepressant-induced mania/hypomania has been reported with all major antidepressant classes in a subgroup of about 20-40% of\nbipolar patients. Lithium may confer better protection against this outcome when compared with other standard mood stabilizers, although\nswitch rates have been reported with comparable frequencies on or o\u0000 mood stabilizers. Mood switches were less frequent in patients\nreceiving lithium (15%) than in patients not treated with lithium (44%) in a small naturalistic study. Risk factors for antidepressant induced\nswitch includes (i) previous antidepressant-induced manias, (ii) a bipolar family history, and (iii) exposure to multiple antidepressant trials\nand (iv) initial illness beginning in adolescence or young adulthood. Henry C, Sorbara F, Lacoste J, Gindre C, Leboyer M. Antidepressant-\ninduced mania in bipolar patients: identi\u0000cation of risk factors. J Clin Psychiatry 2001 Apr;62(4):249-55"
+    },
+    {
+      "question_number": 72,
+      "question_id": 4012072,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the most appropriate treatment for a teenager with obsessive-compulsive disorder?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012721,
+          "text": "Mirtazapine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012722,
+          "text": "Fluoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012723,
+          "text": "Sertraline",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4012724,
+          "text": "Praoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012725,
+          "text": "Venlafaxine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Sertraline"
+      },
+      "explanation": "1st line agents for OCD treatment are SSRIs (sertraline and \u0000uoxetine). Results from multiple randomised placebo-controlled trials of both\nmedication and Cognitive-behavioural interventions in children and adolescents with OCD have con\u0000rmed the most evidence for successful\ntreatment of this disorder compared to any of the other anxiety disorders of childhood. A recent multi-site National Institute of Health\nfunded investigation of Sertraline and cognitive-behavioural therapy each alone, and in combination for the treatment of childhood onset\nOCD, the Paediatric OCD Treatment Study (POTS) revealed that the combination was superior to either treatment alone. Sertraline also has\nUK license for OCD in teenagers."
+    },
+    {
+      "question_number": 73,
+      "question_id": 4012073,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The rate of completed suicide in children and adolescents with bipolar disorder is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012731,
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012732,
+          "text": "6%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012733,
+          "text": "10%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4012734,
+          "text": "1%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012735,
+          "text": "15%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "10%"
+      },
+      "explanation": "Early onset BPD has a poor outcome with 50% showing a long-term decline in function. The course is often chronic and less responsive to\ntreatment, with atypical and rapid-cycling features especially di\u0000cult to treat. Suicide risk is high with rates of completed suicide\napproximately 10%."
+    },
+    {
+      "question_number": 74,
+      "question_id": 4012074,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What percentage of children with major depressive episode will later manifest bipolar disorder?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012741,
+          "text": "2%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012742,
+          "text": "50%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012743,
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012744,
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012745,
+          "text": "20%",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "20%"
+      },
+      "explanation": "About 20% of children and adolescents who initially show serious depression will \"switch\" to manic or mixed (manic-depressive) episodes."
+    },
+    {
+      "question_number": 75,
+      "question_id": 4012075,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A man with Parkinson's disease develops psychotic symptoms. He has never been on antipsychotics before. The best treatment for him is:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012751,
+          "text": "Risperidone",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012752,
+          "text": "Amisulpiride",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012753,
+          "text": "Haloperidol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012754,
+          "text": "Olanzapine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012755,
+          "text": "Quetiapine",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Quetiapine"
+      },
+      "explanation": "Clozapine is the most e\u0000ective drug for psychosis in Parkinson's disease. But the practical limitations of its use have led to trials of other\natypical antipsychotics that do not require the intensive monitoring that is necessary for clozapine. Of these, quetiapine shows the most\npromise, but placebo-controlled trials are lacking. The use of olanzapine, risperidone and aripiprazole appears limited by unacceptable\nmotor deterioration (Samuel et al.2006). Excerpt from Samuel et al. Clinical management of Parkinson's disease dementia: pitfalls and\nprogress. Advan. Psychiatr. Treat. Mar 2006; 12: 121 - 129."
+    },
+    {
+      "question_number": 76,
+      "question_id": 4012076,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which antidementia drug inhibits both acetylcholinesterase and Butyl cholinesterase in the CNS?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012761,
+          "text": "Galantamine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012762,
+          "text": "Donepezil",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012763,
+          "text": "Rivastigmine",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4012764,
+          "text": "Memantine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012765,
+          "text": "Tacrine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Rivastigmine"
+      },
+      "explanation": "Donepezil (Aricept), rivastigmine (Exelon), Galantamine (Reminyl) are cholinesterase inhibitors used to treat mild to moderate cognitive\nimpairment in Alzheimer's disease. These drugs can be used in patients with MMSE score between 10 and 20. They act by decreasing the\ninactivation Acetylcholine and, thus, potentiating the cholinergic neurotransmission. This can lead to some (but not long lasting)\nimprovement in memory and goal-directed thought. Donepezil is well tolerated and widely used. Rivastigmine (inhibits both acetyl and\nbutyrylcholinesterases) and Galantamine appear more likely to cause gastrointestinal (GI) and neuropsychiatric adverse e\u0000ects than does\nDonepezil. These medications cannot prevent the progressive neuronal degeneration seen in the disorder. Tacrine is rarely used, because of\nits potential for hepatotoxicity. Memantine (Ebixa) protects neurons from excessive amounts of glutamate, which may be neurotoxic. Trials\nshow bene\u0000ts of Memantine augmentation of Donepezil. Cochrane review indicates use in DAT, vascular and mixed dementias."
+    },
+    {
+      "question_number": 77,
+      "question_id": 4012077,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Mr. Y su\u0000ers from a long-standing diagnosis of Parkinson's disease and has developed a related dementia. Which of the following drugs has\ntrial support for e\u0000cacy?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012771,
+          "text": "Memantine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012772,
+          "text": "Rivastigmine",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012773,
+          "text": "Galantamine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012774,
+          "text": "Clozapine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012775,
+          "text": "Donepezil",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Rivastigmine"
+      },
+      "explanation": "Rivastigmine has good evidence for treatment of Parkinson's dementia and Lewy body dementia."
+    },
+    {
+      "question_number": 78,
+      "question_id": 4012078,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the SECOND most common cause of dementia in the under 65s?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012781,
+          "text": "Vascular dementia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012782,
+          "text": "Wilsons disease",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012783,
+          "text": "Lewy body dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012784,
+          "text": "Alzheimer's disease",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012785,
+          "text": "Frontotemporal dementia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Vascular dementia"
+      },
+      "explanation": "Alzheimer's disease is the most common form of dementia in younger people. Around one-third of younger people with dementia have\nAlzheimer's disease. Vascular dementia is the second most common form of dementia in younger people. Around 20 per cent of younger\npeople with dementia have vascular dementia. Around 12 per cent of younger people with dementia have frontotemporal dementia (data\nfrom alzheimers.org.uk)."
+    },
+    {
+      "question_number": 79,
+      "question_id": 4012079,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What percentage of patients with learning disability su\u0000ers from a severe form of mental retardation?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012791,
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012792,
+          "text": "85%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012793,
+          "text": "12%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012794,
+          "text": "4%",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012795,
+          "text": "1-2%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "4%"
+      },
+      "explanation": "Mild mental retardation (IQ range, 50 to 70) represents approximately 85 percent of persons with mental retardation. Moderate mental\nretardation (IQ range, 35-50) represents about 10 percent of persons with mental retardation. Severe mental retardation (IQ range, 20-35)\ncomprises about 4 percent of individuals with mental retardation. Profound mental retardation (IQ range below 20) constitutes\napproximately 1 to 2 percent of persons with mental retardation. Most individuals with profound mental retardation have identi\u0000able\ncauses for their condition."
+    },
+    {
+      "question_number": 80,
+      "question_id": 4012080,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the most common behavioural phenotype seen in Prader-Willi syndrome?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012801,
+          "text": "Compulsive and severe self mutilation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012802,
+          "text": "Increased appetite and incessant skin picking",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012803,
+          "text": "A\u0000ectionate, clownish and easily amused",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012804,
+          "text": "Gaze Aversion and social avoidance",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012805,
+          "text": "Severe self hugging",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Increased appetite and incessant skin picking"
+      },
+      "explanation": "Behavioural phenotypes: Food obsession, insatiable appetite, hyperphagia, obesity, skin picking are all important behavioral phenotypes\nseen in Prader-Willi syndrome."
+    },
+    {
+      "question_number": 81,
+      "question_id": 4012081,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What is the prevalence of depression among individuals with intellectual disabilities?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012811,
+          "text": "2-4%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012812,
+          "text": "0.2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012813,
+          "text": "10-15%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012814,
+          "text": "1%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012815,
+          "text": "0.35",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "2-4%"
+      },
+      "explanation": "The prevalence of depression is around 2-4%. Depressed mood and vegetative symptoms are the most striking symptoms, even though\ncomplaints of depression are not always expressed. A depressive mood is not verbalized, particularly among individuals at a lower\nintelligence level, but may well be observable."
+    },
+    {
+      "question_number": 82,
+      "question_id": 4012082,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "'Hypertelorism' is a feature seen in which of the following conditions?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012821,
+          "text": "Rubinstein Taybi syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012822,
+          "text": "Di George's syndrome",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012823,
+          "text": "Fragile X syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012824,
+          "text": "Downs syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012825,
+          "text": "Laurence Moon Biedl syndrome",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Di George's syndrome"
+      },
+      "explanation": "Hypertelorism refers to an abnormally increased distance between two organs or bodily parts, usually referring to an increased distance\nbetween the orbits (eyes). It is seen in some conditions like Di George's syndrome, Noonan syndrome, Edwards syndrome, cridu-chat\nsyndrome and neuro\u0000bromatosis. Salient features of DiGeorge syndrome can be summarized using the mnemonic CATCH-22, with the 22\nreminding us of chromosome 22, andCATCH referring to Cardiac Abnormality, Abnormal facies (palatal abnormalities, hypertelorism),\nThymic aplasia, Cleft palate, Hypocalcemia/Hypoparathyroidism."
+    },
+    {
+      "question_number": 83,
+      "question_id": 4012083,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A woman was said to employ repeatedly a \"neurotic defense mechanism\". Which of the following is likely to be observed?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012831,
+          "text": "Reaction Formation",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012832,
+          "text": "Denial",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012833,
+          "text": "Altruism",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012834,
+          "text": "Suppression",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012835,
+          "text": "Projective identi\u0000cation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Reaction Formation"
+      },
+      "explanation": "Converting unconscious impulses into their opposites, resulting in behaviour that is completely the opposite of what one feels, is called\nreaction formation. It can work e\u0000ectively for coping in the short term, but on repeated use, will produce signi\u0000cant 'neurotic' symptoms."
+    },
+    {
+      "question_number": 84,
+      "question_id": 4012084,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following statements best describes the therapeutic technique of shaping?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012841,
+          "text": "Removing all sources of information for an allotted time",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012842,
+          "text": "Reinforcing speci\u0000c appropriate behaviours while ignoring inappropriate behaviours",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012843,
+          "text": "Repeated demonstration of the behaviour required",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012844,
+          "text": "Reinforcing gradual approximations of a behaviour",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012845,
+          "text": "Removal of previously earned reinforcers as a consequence of negative behaviour",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Reinforcing gradual approximations of a behaviour"
+      },
+      "explanation": "Shaping: This is a form of operant conditioning where a desirable behaviour pattern is learnt by the successive reinforcement of behaviours\ncloser to the desired one. This is used in training animals in circus where the dog is reinforced when it runs towards the circle, then when it\njumps near the circle, then when it jumps through the circle and at last when it jumps through the circle of \u0000re. This is also called successive\napproximation."
+    },
+    {
+      "question_number": 85,
+      "question_id": 4012085,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Most patients engage in certain subtle behaviours while in a fearful situation that serve to maintain the fear. These behaviours are called",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012851,
+          "text": "Safety behaviours",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012852,
+          "text": "Compulsions",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012853,
+          "text": "Mental imagery",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012854,
+          "text": "Obsessions",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012855,
+          "text": "Phobic behaviours",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Safety behaviours"
+      },
+      "explanation": "In-situation safety behaviours (Salkovskis) refer to a variety of subtle behaviours/internal mental processes that most patients engage in\nwhile in a fearful situation. These are intended to prevent feared outcome e.g., a panic disorder patient bows his head down and gently\nleans leftwards when having a panic, with a hope to increase heart's circulation."
+    },
+    {
+      "question_number": 86,
+      "question_id": 4012086,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following statement is true with respect to the evidence on routine screening for dementia for all patients in primary care\nsettings?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012861,
+          "text": "Screening is found to be e\u0000ective in primary care",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012862,
+          "text": "Screening is clearly harmful when o\u0000ered to elderly with no complaints",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012863,
+          "text": "Screening is the only way of reducing the public health impact of dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012864,
+          "text": "Screening is not useful as the available tests have low sensitivity though high speci\u0000city",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012865,
+          "text": "Screening for dementia has insu\u0000cient evidence in primary care attendees",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Screening for dementia has insu\u0000cient evidence in primary care attendees"
+      },
+      "explanation": "The United States Preventive Services Task Force systematically reviewed the evidence and concluded that the evidence is insu\u0000cient to\nrecommend for or against routine screening for dementia in older adults in primary care. The task force found good evidence that some\nscreening tests have good sensitivity but only fair speci\u0000city in detecting cognitive impairment and dementia. There is fair to good evidence\nthat several drug therapies have a bene\u0000cial e\u0000ect on cognitive function, but the evidence of their bene\u0000cial e\u0000ects on activities of daily\nliving is mixed, with the bene\u0000t being small at best. There is insu\u0000cient evidence to determine whether the bene\u0000ts observed in drug trials\nare generalizable to patients whose disease would be detected by screening in primary care settings. The accuracy of diagnosis, the\nfeasibility of screening and treatment in routine clinical practice, and the potential harms of screening (for example, labeling e\u0000ects) are also\nunknown. The task force, therefore, could not determine whether the bene\u0000ts of screening for dementia outweigh the harms. NICE has no\nrecommendations for screening though it advises on early recognition and referral. (Retrieved from articleid=716466)"
+    },
+    {
+      "question_number": 87,
+      "question_id": 4012087,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Aggression turned inward' could be a psychodynamic explanation for",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012871,
+          "text": "Social phobia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012872,
+          "text": "Acting out",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012873,
+          "text": "Agoraphobia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012874,
+          "text": "Simple phobia",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012875,
+          "text": "Suicidal ideas",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Suicidal ideas"
+      },
+      "explanation": "Aggression turned inwards cause suicidal ideas and depression. When exhibited outwards, acting out' and violent, impulsive acts result."
+    },
+    {
+      "question_number": 88,
+      "question_id": 4012088,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In psychotherapy, containment is best described as",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012881,
+          "text": "The ability of the therapist to distract the patient from distressing re-enactments",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012882,
+          "text": "The ability of the therapist to modify and return to the patient the di\u0000cult material in a way he can tolerate.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012883,
+          "text": "The ability of therapist to keep the information given to him in a con\u0000dential manner",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012884,
+          "text": "The capacity of the therapist to withhold the emotional content during therapeutic sessions",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012885,
+          "text": "The capacity of the therapist to appreciate the object relationships emerging during the therapy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "The ability of the therapist to modify and return to the patient the di\u0000cult material in a way he can tolerate."
+      },
+      "explanation": "The capacity of the psychotherapist to act similar to an emotionally competent mother who interacts with her infant was termed as Alpha\nfunction by Bion. Similiar to the mother, the alpha function allows the therapist to metabolise unbearable feelings on behalf of the patient.\nThese are then fed back to the patient in a form that is easy for the patient to assimilate and link with his thoughts. This process is called\ncontainment in Bion's original sense. But later this term expanded variably, rather inaccurately referring to a capacity to hold all kinds of\nanxieties on a patient's behalf. P950: Puri and Treasaden: Psychiatry: An Evidence-based text"
+    },
+    {
+      "question_number": 89,
+      "question_id": 4012089,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Tom is on methadone treatment for heroin addiction. He attends A& E on two occasions saying he is running out of a supply of methadone\nand demanding treatment. What is the best course of action?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012891,
+          "text": "Switch to Suboxone",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012892,
+          "text": "Add dihydrocodeine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012893,
+          "text": "Stabilise this patient on methadone",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4012894,
+          "text": "Combine methadone with buprenorphine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012895,
+          "text": "Switch to Buprenorphine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Stabilise this patient on methadone"
+      },
+      "explanation": "It is possible that he is experiencing withdrawal symptoms, due to an inadequate dose of methadone and possibly self-medicating himself.\nThe best course of action is to stabilise this patient by optimizing the dose of methadone. It is inadvisable to issue additional replacement\nopiates from the A&E Department. Liaising and passing on this information to the local drug service is what is essential so that they can\nreview their prescribing and possibly increase the daily dose with closer supervision."
+    },
+    {
+      "question_number": 90,
+      "question_id": 4012090,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is a projective test of personality?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012901,
+          "text": "Thematic Apperception test",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012902,
+          "text": "Cattell's 16 PF test",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012903,
+          "text": "International personality disorder examination",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012904,
+          "text": "Minnesota Multiple Personality Inventory",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012905,
+          "text": "Eysenck's personality inventory",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Thematic Apperception test"
+      },
+      "explanation": "Murray was the proponent of projective personality tests though the \u0000rst test produced was Rorschach's ink blots. Thematic Apperception\nTest (Murray), Draw-a-person test, sentence completion tests are other examples."
+    },
+    {
+      "question_number": 91,
+      "question_id": 4012091,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Massed practice can be used in the treatment of;",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012911,
+          "text": "Oppositional de\u0000ant disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012912,
+          "text": "Autistic spectrum disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012913,
+          "text": "Tic disorders",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4012914,
+          "text": "ADHD",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012915,
+          "text": "Anxiety disorder",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Tic disorders"
+      },
+      "explanation": "Massed negative practice is one of the most frequently used behavioral techniques in the treatment for tic disorder. The patient is asked to\ndeliberately perform the tic movement for speci\u0000ed periods of time interspersed with brief periods of rest."
+    },
+    {
+      "question_number": 92,
+      "question_id": 4012092,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Sally is physically dependent on dihydrocodeine, which she is taking for back pain. She wants to stop and go back to work. What is the best\ncourse of action?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012921,
+          "text": "Withdraw codeine gradually",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012922,
+          "text": "Commence her on buprenorphine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012923,
+          "text": "Comence her on Suboxone",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012924,
+          "text": "Methadone Substitution",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012925,
+          "text": "Commence her on Clonidine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Withdraw codeine gradually"
+      },
+      "explanation": "Withdraw codeine cautiously in the \u0000rst instance, in conjunction with other pain management approaches (e.g., pregabalin, SNRI,\npsychology, TENS) and if unsuccessful then consider changing to methadone to facilitate withdrawal."
+    },
+    {
+      "question_number": 93,
+      "question_id": 4012093,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Tim is taking heroin regularly. He has been tried unsuccessfully on methadone and buprenorphine. Choose next best option;",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012931,
+          "text": "Optimised Oral Buprenorphine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012932,
+          "text": "Injectable methadone",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012933,
+          "text": "Clonidine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012934,
+          "text": "Optimised oral methadone",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012935,
+          "text": "Injectable Buprenorphine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Optimised oral methadone"
+      },
+      "explanation": "The guidelines suggest that the patient should have \"speci\u0000cally optimised higher dose oral methadone or buprenorphine maintenance\ntreatment\" after oral maintenance therapy before moving on to injectables. Injectable heroin and methadone treatments should be\nconsidered only for the minority of patients who are genuinely unresponsive to an optimised oral maintenance treatment approach.\nInjectable and oral substitute prescribing must be supported by locally commissioned and provided mechanisms for supervised\nconsumption. Injectable drugs may present more risk of overdose than oral preparations and have a greater value on illicit markets and\nhence may require greater levels of supervision.(Retrieved\nfrom:www.nta.nhs.uk/uploads/nta_injectable_heroin_and_methadone_2003_fullguide.pdf)"
+    },
+    {
+      "question_number": 94,
+      "question_id": 4012094,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A man who repeatedly presents to A& E with his girlfriend who is pregnant and heavy abuser of heroin. She plans to breastfeed following\nchildbirth. Which medication is preferable to continue if she starts breastfeeding",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012941,
+          "text": "Clonidine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012942,
+          "text": "Methadone",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012943,
+          "text": "Buprenorphine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012944,
+          "text": "Lofexidine",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012945,
+          "text": "Naltrexone",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Methadone"
+      },
+      "explanation": "Methadone is considered compatible with breast-feeding. The Clinical Guidelines recommend that breast feeding should still be\nencouraged, but that with regards to methadone and breast feeding \"the dose is kept as low as possible while maintaining stability, and the\ninfant monitored to avoid sedation. (Ref: The Maudsley prescribing guidelines- 316)"
+    },
+    {
+      "question_number": 95,
+      "question_id": 4012095,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following drugs used to prevent relapse in alcohol use appears to act centrally on glutamate and GABA neurotransmitter\nsystem?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012951,
+          "text": "Chlormethiazole",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012952,
+          "text": "Naltrexone",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012953,
+          "text": "Carbamazepine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012954,
+          "text": "Acamproste",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4012955,
+          "text": "Disul\u0000ram",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Acamproste"
+      },
+      "explanation": "Acamprosate is a synthetic taurine analogue, which appears to act centrally on glutamate and GABA neurotransmitter system. It is licensed\nto prevent relapse in alcohol use and has been found to have a modest treatment e\u0000ect."
+    },
+    {
+      "question_number": 96,
+      "question_id": 4012096,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Mr Y was admitted to the orthopaedic ward three days ago after sustaining a fracture to his right femur following a road tra\u0000c accident. He\nbecame confused, distracted and agitated in the next 2-3 days following surgery. His blood and urine tests are normal. The most likely\ndiagnosis is;",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012961,
+          "text": "Schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012962,
+          "text": "Acute psychotic episode",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012963,
+          "text": "Dementia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012964,
+          "text": "Schizophreniform psychosis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012965,
+          "text": "Delirium tremens",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Delirium tremens"
+      },
+      "explanation": "Delirium tremens is a toxic confusional state that occurs when alcohol withdrawal symptoms are severe. The symptoms typically peak\nbetween 72-96 hours after the last drink. The classical symptoms include confusion, distraction & clouding of consciousness, vivid\nhallucinations a\u0000ecting every sensory modality and marked tremors. Clinical features also include \u0000eeting paranoid delusions, agitation,\nsleep disturbances, signs of autonomic hyperactivity such as fever, sweating, tachycardia and hypertension"
+    },
+    {
+      "question_number": 97,
+      "question_id": 4012097,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Following sudden cessation of alcohol on a dependent patient, the risk of seizure is high during?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012971,
+          "text": "24-48 hours",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012972,
+          "text": "First 24 hours",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4012973,
+          "text": "7 days",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012974,
+          "text": "3-5 days",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012975,
+          "text": "14 days",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "First 24 hours"
+      },
+      "explanation": "As part of alcohol withdrawal symptoms, generalized seizures rarely occur, usually within 24 hours of cessation of alcohol. Benzodiazepines\nespecially long-acting ones such as diazepam reduce the risk of seizures."
+    },
+    {
+      "question_number": 98,
+      "question_id": 4012098,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A man after completing his opioid detoxi\u0000cation is highly motivated to remain on treatment and wants advice about maintaining it. Which of\nthe following drugs is best suited in this situation?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012981,
+          "text": "Naltrexone",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4012982,
+          "text": "Methadone",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012983,
+          "text": "Buprenorphine",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4012984,
+          "text": "Suboxone",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012985,
+          "text": "Naloxone",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Naltrexone"
+      },
+      "explanation": "Naltrexone is recommended as a treatment option in detoxi\u0000ed, formerly opioid-dependent subjects who are highly motivated to remain in\nan abstinence programme. For this group, naltrexone treatment has been found by NICE to be a cost e\u0000ective treatment strategy in aiding\nabstinence from opioid misuse. (www.nice.org.uk- Technology Appraisal 115, 2007)"
+    },
+    {
+      "question_number": 99,
+      "question_id": 4012099,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The MacArthur Competence Assessment Tool for Treatment (MacCat-T) includes assessment of all of the following except",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4012991,
+          "text": "Expressing a choice",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4012992,
+          "text": "Appreciation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4012993,
+          "text": "Verbal memory",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4012994,
+          "text": "Reasoning",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4012995,
+          "text": "Understanding",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Verbal memory"
+      },
+      "explanation": "The MacCat-T is the product of an 8-year study of patients' capacities to make treatment decisions. It is a semi-structured interview that\nassists clinicians who are conducting assessments of patients' competence to consent to treatment. It takes 20-25mins to administer and\ntests the following: Understanding disorder and treatment proposed, appreciation of treatment and disorder, understanding bene\u0000ts and\nrisk, \u0000rst choice and reasoning, alternative choices, generating consequences and \u0000nal choice. The \u0000nal score is given in four areas:\nunderstanding, appreciation, expressing a choice, and reasoning."
+    },
+    {
+      "question_number": 100,
+      "question_id": 4012100,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The prevalence of antisocial personality among females prisoners in the UK is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4013001,
+          "text": "13%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4013002,
+          "text": "40%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4013003,
+          "text": "20%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4013004,
+          "text": "4.5%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4013005,
+          "text": "30%",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "30%"
+      },
+      "explanation": "Surveys of prisoners worldwide indicate a prevalence of antisocial personality disorder of 47% for men and 21% for women (Fazel & Danesh,\n2002). In the UK prison population, the prevalence of people with antisocial personality disorder has been identi\u0000ed as 63% male remand\nprisoners, 49% male sentenced prisoners, and 31% female prisoners (Singleton et al., 1998). By contrast, the prevalence of psychopathy in\nUK prisoners is only 4.5% using a PCL-R score of >30, and 13% using a score of >25 (Hare et al., 2000)."
+    },
+    {
+      "question_number": 101,
+      "question_id": 4012101,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What proportion of o\u0000enders commit nearly 50% of all reported crime?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4013011,
+          "text": "1%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4013012,
+          "text": "15%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4013013,
+          "text": "5%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4013014,
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4013015,
+          "text": "40%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "15%"
+      },
+      "explanation": "Repeat O\u0000enders: In Wolfgang's famous Philadelphia cohort, about 5 percent of all o\u0000enders in the study were responsible for more than\n50 percent of the crimes. Similarly, according to the British Crime Survey, repeat victims (just over 4 percent of all victims) endure 40 percent\nof the crimes reported in the survey."
+    },
+    {
+      "question_number": 102,
+      "question_id": 4012102,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "You are asked to write a court report for a man convicted of a sexual assault. Which of the following is most likely to increase his risk of\nfurther o\u0000ending?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4013021,
+          "text": "Poor social support",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4013022,
+          "text": "Substance misuse",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4013023,
+          "text": "Personality disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4013024,
+          "text": "Two previous charges for sexual violence",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4013025,
+          "text": "Concurrent arson charge",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Two previous charges for sexual violence"
+      },
+      "explanation": "A Higher number of sex o\u0000ences and Previous criminal history are important risk factors to increase the risk of further sexual violence in\nsomeone who has been charged with a sexual o\u0000ence."
+    },
+    {
+      "question_number": 103,
+      "question_id": 4012103,
+      "question_type": "emi",
+      "emi_theme": "Epidemiological terms I",
+      "emi_instruction": "Choose one answer from the given list for each option below",
+      "difficulty": "hard",
+      "question_text": "A health gap\nmeasure that includes premature mortality equivalent years of 'healthy' life lost due to disease state",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4013031,
+          "text": "Disability adjusted life years",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Disability adjusted life years"
+      },
+      "explanation": "Description 1 \u0000ts proportionate mortality rate: It is a measure of contribution of a disease to societal mortality burden.\nDescription 2 \u0000ts crude mortality rate: A crude rate is any rate applicable to whole population.\nCase fatality rate (decription 3) is a measure of the fatal severity of the disease studied. For example, 15 patients out of 100 with anorexia\nwill die due to its complications.\nThe DALY (description 4) is a health gap measure that extends the concept of potential years of life lost due to premature death (PYLL) to\ninclude equivalent years of 'healthy' life lost in states of less than full health, broadly termed disability."
+    },
+    {
+      "question_number": 104,
+      "question_id": 4012104,
+      "question_type": "emi",
+      "emi_theme": "Personality disorders (3)",
+      "emi_instruction": "From the descriptions given below, choose the type of personality disorder that is being referred to:",
+      "difficulty": "hard",
+      "question_text": "odd beliefs with magical thinking and transient quasi-psychotic\nepisodes.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4013041,
+          "text": "Schizotypal",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4013042,
+          "text": "Dissocial",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4013043,
+          "text": "Anxious",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Schizotypal"
+      },
+      "explanation": "Patients with borderline personality disorder have poor self-image, unstable personal relationships, impulsive behaviour in areas such as\npersonal safety and substance misuse, may self-harm, feel suicidal and act on these feelings, experience instability of mood, and often have\nepisodes of micro-psychosis. Feelings of chronic emptiness and fears of abandonment - termed as rejection sensitivity may lead to\nformation of multiple intense but short lasting relations.\nPatients with schizotypal personality disorder (in ICD10 this is classi\u0000ed as a type of schizophrenia) appear odd or eccentric, may have\nillusions and magical thinking, obsessions without resistance, may be members of quasi-cultural groups, thought disorders and paranoia,\nmay have transient psychotic features.\nPatients with antisocial (or dissocial) personality disorder show a lack of regard for the rights and feelings of other people, lack of remorse\nfor actions that may hurt others, ignore social norms about acceptable behaviour, may disregard rules and break the law, make relations\neasily but break them equally easily and a small proportion may be psychopathic.\n\n\nPatients with avoidant (anxious) personality disorder often fear being judged negatively by other people, hold feelings of discomfort in group\nor social settings, may come across as being socially withdrawn, have low self-esteem, and believe that they are inferior to others, may crave\na\u0000ection but fear rejection."
+    },
+    {
+      "question_number": 105,
+      "question_id": 4012105,
+      "question_type": "emi",
+      "emi_theme": "Personality disorders (3)",
+      "emi_instruction": "From the descriptions given below, choose the type of personality disorder that is being referred to:",
+      "difficulty": "hard",
+      "question_text": "lacks remorse.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4013051,
+          "text": "Schizotypal",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4013052,
+          "text": "Dissocial",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4013053,
+          "text": "Anxious",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Dissocial"
+      },
+      "explanation": "Patients with borderline personality disorder have poor self-image, unstable personal relationships, impulsive behaviour in areas such as\npersonal safety and substance misuse, may self-harm, feel suicidal and act on these feelings, experience instability of mood, and often have\nepisodes of micro-psychosis. Feelings of chronic emptiness and fears of abandonment - termed as rejection sensitivity may lead to\nformation of multiple intense but short lasting relations.\nPatients with schizotypal personality disorder (in ICD10 this is classi\u0000ed as a type of schizophrenia) appear odd or eccentric, may have\nillusions and magical thinking, obsessions without resistance, may be members of quasi-cultural groups, thought disorders and paranoia,\nmay have transient psychotic features.\nPatients with antisocial (or dissocial) personality disorder show a lack of regard for the rights and feelings of other people, lack of remorse\nfor actions that may hurt others, ignore social norms about acceptable behaviour, may disregard rules and break the law, make relations\neasily but break them equally easily and a small proportion may be psychopathic.\n\n\nPatients with avoidant (anxious) personality disorder often fear being judged negatively by other people, hold feelings of discomfort in group\nor social settings, may come across as being socially withdrawn, have low self-esteem, and believe that they are inferior to others, may crave\na\u0000ection but fear rejection."
+    },
+    {
+      "question_number": 106,
+      "question_id": 4012106,
+      "question_type": "emi",
+      "emi_theme": "Personality disorders (3)",
+      "emi_instruction": "From the descriptions given below, choose the type of personality disorder that is being referred to:",
+      "difficulty": "hard",
+      "question_text": "avoids activities where one might be criticized or rejected",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4013061,
+          "text": "Schizotypal",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4013062,
+          "text": "Dissocial",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4013063,
+          "text": "Anxious",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Anxious"
+      },
+      "explanation": "Patients with borderline personality disorder have poor self-image, unstable personal relationships, impulsive behaviour in areas such as\npersonal safety and substance misuse, may self-harm, feel suicidal and act on these feelings, experience instability of mood, and often have\nepisodes of micro-psychosis. Feelings of chronic emptiness and fears of abandonment - termed as rejection sensitivity may lead to\nformation of multiple intense but short lasting relations.\nPatients with schizotypal personality disorder (in ICD10 this is classi\u0000ed as a type of schizophrenia) appear odd or eccentric, may have\nillusions and magical thinking, obsessions without resistance, may be members of quasi-cultural groups, thought disorders and paranoia,\nmay have transient psychotic features.\nPatients with antisocial (or dissocial) personality disorder show a lack of regard for the rights and feelings of other people, lack of remorse\nfor actions that may hurt others, ignore social norms about acceptable behaviour, may disregard rules and break the law, make relations\neasily but break them equally easily and a small proportion may be psychopathic.\n\n\nPatients with avoidant (anxious) personality disorder often fear being judged negatively by other people, hold feelings of discomfort in group\nor social settings, may come across as being socially withdrawn, have low self-esteem, and believe that they are inferior to others, may crave\na\u0000ection but fear rejection."
+    },
+    {
+      "question_number": 107,
+      "question_id": 4012107,
+      "question_type": "emi",
+      "emi_theme": "Causes of delirium",
+      "emi_instruction": "Identify the cause of delirium for each of the following clinical situations",
+      "difficulty": "hard",
+      "question_text": "lethargy and confusion.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4013071,
+          "text": "Hyponatremia, A 75-year-old man was found to be confused, agitated and has visual",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Hyponatremia, A 75-year-old man was found to be confused, agitated and has visual"
+      },
+      "explanation": "1) The etiology is probably multifactorial. (Pain, dehydration and atrial \u0000brillation- all these could lead to acute confusional state in the\nelderly)."
+    },
+    {
+      "question_number": 108,
+      "question_id": 4012108,
+      "question_type": "emi",
+      "emi_theme": "Childhood and developmental disorders (4)",
+      "emi_instruction": "Choose the correct diagnosis for each of the following situations",
+      "difficulty": "hard",
+      "question_text": "and there is a decline in his school academic performance.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4013081,
+          "text": "PTSD",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "PTSD"
+      },
+      "explanation": "1) The diagnosis is generalized anxiety disorder. The symptoms in children include somatic symptoms (such as headache, stomach pains,\nrapid heartbeat, shortness of breath), nail biting, hair pulling and school refusal."
+    },
+    {
+      "question_number": 109,
+      "question_id": 4012109,
+      "question_type": "emi",
+      "emi_theme": "Behavioural phenotypes",
+      "emi_instruction": "Identify the correct condition for each of the descriptions given below:",
+      "difficulty": "hard",
+      "question_text": "his verbal\nskills are better than visuomotor abilities",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4013091,
+          "text": "Williams syndrome, A 3-year-old boy who appeared healthy at birth has developed spasticity",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Williams syndrome, A 3-year-old boy who appeared healthy at birth has developed spasticity"
+      },
+      "explanation": "1) Around 80% of patients with PraderWilli syndrome show hyperphagia. A\u0000ected individuals have an almost insatiable appetite leading to\nstealing of food and consume unpalatable food sometimes."
+    }
+  ]
+}

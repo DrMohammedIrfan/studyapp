@@ -62,9 +62,11 @@ class StudyApp {
       tabQalam: document.getElementById('tab-qalam'),
       tabChapters: document.getElementById('tab-chapters'),
       tabMocks: document.getElementById('tab-mocks'),
+      tabRcpsych: document.getElementById('tab-rcpsych'),
       subjectFilter: document.getElementById('subject-filter'),
       subjectFilterContainer: document.getElementById('subject-filter-container'),
       questionTableContainer: document.getElementById('question-table-container'),
+      emiBannerContainer: document.getElementById('emi-banner-container'),
       navSectionTitle: document.getElementById('nav-section-title'),
       progressScopeLabel: document.getElementById('progress-scope-label'),
 
@@ -158,6 +160,9 @@ class StudyApp {
     }
     if (this.dom.tabMocks) {
       this.dom.tabMocks.addEventListener('click', () => this.switchMode('mocks'));
+    }
+    if (this.dom.tabRcpsych) {
+      this.dom.tabRcpsych.addEventListener('click', () => this.switchMode('rcpsych'));
     }
 
     // Book / Subject Filter Dropdown
@@ -420,7 +425,7 @@ class StudyApp {
   // Mode Switcher (Qalam vs KDPsych vs Mock Exams)
   // ──────────────────────────────────────────────────────────────────────────
   switchMode(mode, autoLoadFirst = true) {
-    if (mode !== 'qalam' && mode !== 'chapters' && mode !== 'mocks') return;
+    if (mode !== 'qalam' && mode !== 'chapters' && mode !== 'mocks' && mode !== 'rcpsych') return;
     this.currentMode = mode;
     this.currentSubjectFilter = 'ALL';
 
@@ -436,6 +441,10 @@ class StudyApp {
       this.dom.tabMocks.classList.toggle('active', mode === 'mocks');
       this.dom.tabMocks.setAttribute('aria-selected', mode === 'mocks' ? 'true' : 'false');
     }
+    if (this.dom.tabRcpsych) {
+      this.dom.tabRcpsych.classList.toggle('active', mode === 'rcpsych');
+      this.dom.tabRcpsych.setAttribute('aria-selected', mode === 'rcpsych' ? 'true' : 'false');
+    }
 
     if (mode === 'qalam') {
       this.catalog = this.qalamCatalog;
@@ -445,10 +454,14 @@ class StudyApp {
       this.catalog = [...this.chaptersCatalog, ...this.customChapters];
       if (this.dom.navSectionTitle) this.dom.navSectionTitle.textContent = 'KDPSYCH CHAPTERS';
       if (this.dom.progressScopeLabel) this.dom.progressScopeLabel.textContent = 'KDPsych Progress:';
-    } else {
+    } else if (mode === 'mocks') {
       this.catalog = this.mocksCatalog;
       if (this.dom.navSectionTitle) this.dom.navSectionTitle.textContent = 'TIMED MOCK EXAMS';
       if (this.dom.progressScopeLabel) this.dom.progressScopeLabel.textContent = 'Mock Exams Progress:';
+    } else if (mode === 'rcpsych') {
+      this.catalog = this.rcpsychCatalog;
+      if (this.dom.navSectionTitle) this.dom.navSectionTitle.textContent = 'RCPSYCH PAPER B & EMIs';
+      if (this.dom.progressScopeLabel) this.dom.progressScopeLabel.textContent = 'Paper B Progress:';
     }
 
     this._populateSubjectFilter();
@@ -521,6 +534,7 @@ class StudyApp {
       this.qalamCatalog = data.qalam_chapters || [];
       this.chaptersCatalog = data.chapters || [];
       this.mocksCatalog = data.mock_exams || [];
+      this.rcpsychCatalog = data.rcpsych_chapters || [];
 
       // Update button text with counts
       if (this.dom.tabQalam) {
@@ -532,12 +546,16 @@ class StudyApp {
       if (this.dom.tabMocks) {
         this.dom.tabMocks.innerHTML = `<span>🎯 Mocks (${this.mocksCatalog.length})</span>`;
       }
+      if (this.dom.tabRcpsych) {
+        this.dom.tabRcpsych.innerHTML = `<span>🎓 Paper B (${this.rcpsychCatalog.length})</span>`;
+      }
 
       // Restore last position & mode or load default
       const savedPos = this._loadJson(this.STORAGE_POSITION, null);
-      let initialMode = (savedPos && savedPos.mode) ? savedPos.mode : 'qalam';
+      let initialMode = (savedPos && savedPos.mode) ? savedPos.mode : 'rcpsych';
 
       // Fallback if selected catalog is empty
+      if (initialMode === 'rcpsych' && this.rcpsychCatalog.length === 0) initialMode = 'qalam';
       if (initialMode === 'qalam' && this.qalamCatalog.length === 0) initialMode = 'chapters';
       if (initialMode === 'chapters' && this.chaptersCatalog.length === 0 && this.customChapters.length === 0) initialMode = 'mocks';
 
@@ -567,8 +585,12 @@ class StudyApp {
             const inQalam = this.qalamCatalog.findIndex(c => String(c.id) === String(savedPos.chapterId));
             const inChapters = [...this.chaptersCatalog, ...this.customChapters].findIndex(c => String(c.id) === String(savedPos.chapterId));
             const inMocks = this.mocksCatalog.findIndex(c => String(c.id) === String(savedPos.chapterId));
+            const inRcpsych = this.rcpsychCatalog.findIndex(c => String(c.id) === String(savedPos.chapterId));
 
-            if (inQalam !== -1) {
+            if (inRcpsych !== -1) {
+              this.switchMode('rcpsych', false);
+              targetChapterIdx = inRcpsych;
+            } else if (inQalam !== -1) {
               this.switchMode('qalam', false);
               targetChapterIdx = inQalam;
             } else if (inChapters !== -1) {
@@ -809,7 +831,7 @@ class StudyApp {
     // Question Meta
     this.dom.questionIndexLabel.textContent = `Question ${this.currentQuestionIdx + 1} of ${this.activeQuestionsList.length} ▾`;
     this.dom.questionDifficulty.textContent = (q.difficulty || 'Medium').toUpperCase();
-    this.dom.questionType.textContent = (q.question_type || 'MCQ').toUpperCase();
+    this.dom.questionType.textContent = (q.question_type === 'emi' ? 'EXTENDED MATCHING' : (q.question_type || 'MCQ')).toUpperCase();
 
     // Flag button state
     const isMobile = this._isMobile();
@@ -818,6 +840,23 @@ class StudyApp {
       this.dom.flagBtnText.textContent = isFlagged ? 'Flagged 🚩' : 'Flag';
     } else {
       this.dom.flagBtnText.textContent = isFlagged ? 'Flagged 🚩' : 'Flag for Review';
+    }
+
+    // Render Extended Matching Item (EMI) Theme & Instruction Banner
+    if (this.dom.emiBannerContainer) {
+      if (q.question_type === 'emi' && (q.emi_theme || q.emi_instruction)) {
+        this.dom.emiBannerContainer.innerHTML = `
+          <div class="emi-theme-header">
+            <span class="emi-theme-badge">Extended Matching</span>
+            <h4 class="emi-theme-title">${this._escape(q.emi_theme || 'Theme')}</h4>
+          </div>
+          ${q.emi_instruction ? `<p class="emi-instruction-text">${this._escape(q.emi_instruction)}</p>` : ''}
+        `;
+        this.dom.emiBannerContainer.classList.remove('hidden');
+      } else {
+        this.dom.emiBannerContainer.innerHTML = '';
+        this.dom.emiBannerContainer.classList.add('hidden');
+      }
     }
 
     // Question Stem

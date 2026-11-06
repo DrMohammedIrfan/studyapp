@@ -5,8 +5,8 @@
   "total_kdpsych_questions": 5823,
   "total_mock_exams": 8,
   "total_mock_questions": 1184,
-  "total_chapters": 562,
-  "total_questions": 34583,
+  "total_chapters": 629,
+  "total_questions": 40966,
   "qalam_chapters": [
     {
       "id": "b5a1d3b8-0e0b-4cbe-9a70-4390632eb56e",
@@ -5100,5 +5100,612 @@
       "file": "data/mock_exams/08_Paper_B_Mock_Exam_08.json",
       "total_questions": 150
     }
-  ]
+  ],
+  "rcpsych_chapters": [
+    {
+      "id": "4001",
+      "index": 1,
+      "name": "Paper B Mock Exam 1 (150Qs)",
+      "subject": "Mock Exams",
+      "resource": "SPMM Mock Exams (150Qs)",
+      "file": "data/rcpsych_paper_b/mocks/paper_b_mock_exam_1__150qs_.json",
+      "total_questions": 106
+    },
+    {
+      "id": "4002",
+      "index": 2,
+      "name": "Paper B Mock Exam 10 (150Qs)",
+      "subject": "Mock Exams",
+      "resource": "SPMM Mock Exams (150Qs)",
+      "file": "data/rcpsych_paper_b/mocks/paper_b_mock_exam_10__150qs_.json",
+      "total_questions": 127
+    },
+    {
+      "id": "4003",
+      "index": 3,
+      "name": "Paper B Mock Exam 11 (150Qs)",
+      "subject": "Mock Exams",
+      "resource": "SPMM Mock Exams (150Qs)",
+      "file": "data/rcpsych_paper_b/mocks/paper_b_mock_exam_11__150qs_.json",
+      "total_questions": 115
+    },
+    {
+      "id": "4004",
+      "index": 4,
+      "name": "Paper B Mock Exam 12 (150Qs)",
+      "subject": "Mock Exams",
+      "resource": "SPMM Mock Exams (150Qs)",
+      "file": "data/rcpsych_paper_b/mocks/paper_b_mock_exam_12__150qs_.json",
+      "total_questions": 108
+    },
+    {
+      "id": "4005",
+      "index": 5,
+      "name": "Paper B Mock Exam 13 (150Qs)",
+      "subject": "Mock Exams",
+      "resource": "SPMM Mock Exams (150Qs)",
+      "file": "data/rcpsych_paper_b/mocks/paper_b_mock_exam_13__150qs_.json",
+      "total_questions": 100
+    },
+    {
+      "id": "4006",
+      "index": 6,
+      "name": "Paper B Mock Exam 2 (150Qs)",
+      "subject": "Mock Exams",
+      "resource": "SPMM Mock Exams (150Qs)",
+      "file": "data/rcpsych_paper_b/mocks/paper_b_mock_exam_2__150qs_.json",
+      "total_questions": 107
+    },
+    {
+      "id": "4007",
+      "index": 7,
+      "name": "Paper B Mock Exam 3 (150Qs)",
+      "subject": "Mock Exams",
+      "resource": "SPMM Mock Exams (150Qs)",
+      "file": "data/rcpsych_paper_b/mocks/paper_b_mock_exam_3__150qs_.json",
+      "total_questions": 125
+    },
+    {
+      "id": "4008",
+      "index": 8,
+      "name": "Paper B Mock Exam 4 (150 Qs)_ Attempt review (1)",
+      "subject": "Mock Exams",
+      "resource": "SPMM Mock Exams (150Qs)",
+      "file": "data/rcpsych_paper_b/mocks/paper_b_mock_exam_4__150_qs___attempt_review__1_.json",
+      "total_questions": 131
+    },
+    {
+      "id": "4009",
+      "index": 9,
+      "name": "Paper B Mock Exam 5 (150Qs)",
+      "subject": "Mock Exams",
+      "resource": "SPMM Mock Exams (150Qs)",
+      "file": "data/rcpsych_paper_b/mocks/paper_b_mock_exam_5__150qs_.json",
+      "total_questions": 132
+    },
+    {
+      "id": "4010",
+      "index": 10,
+      "name": "Paper B Mock Exam 6 (150Qs)",
+      "subject": "Mock Exams",
+      "resource": "SPMM Mock Exams (150Qs)",
+      "file": "data/rcpsych_paper_b/mocks/paper_b_mock_exam_6__150qs_.json",
+      "total_questions": 114
+    },
+    {
+      "id": "4011",
+      "index": 11,
+      "name": "Paper B Mock Exam 7 (150Qs)",
+      "subject": "Mock Exams",
+      "resource": "SPMM Mock Exams (150Qs)",
+      "file": "data/rcpsych_paper_b/mocks/paper_b_mock_exam_7__150qs_.json",
+      "total_questions": 119
+    },
+    {
+      "id": "4012",
+      "index": 12,
+      "name": "Paper B Mock Exam 8 (150Qs)",
+      "subject": "Mock Exams",
+      "resource": "SPMM Mock Exams (150Qs)",
+      "file": "data/rcpsych_paper_b/mocks/paper_b_mock_exam_8__150qs_.json",
+      "total_questions": 109
+    },
+    {
+      "id": "4013",
+      "index": 13,
+      "name": "Paper B Mock Exam 9 (150Qs)",
+      "subject": "Mock Exams",
+      "resource": "SPMM Mock Exams (150Qs)",
+      "file": "data/rcpsych_paper_b/mocks/paper_b_mock_exam_9__150qs_.json",
+      "total_questions": 112
+    },
+    {
+      "id": "4014",
+      "index": 14,
+      "name": "Adult Psychiatry - Part 1",
+      "subject": "General Adult",
+      "resource": "SPMM Specialty MCQs",
+      "file": "data/rcpsych_paper_b/specialties/mcqs_adult_part_1.json",
+      "total_questions": 90
+    },
+    {
+      "id": "4015",
+      "index": 15,
+      "name": "Adult Psychiatry - Part 2",
+      "subject": "General Adult",
+      "resource": "SPMM Specialty MCQs",
+      "file": "data/rcpsych_paper_b/specialties/mcqs_adult_part_2.json",
+      "total_questions": 88
+    },
+    {
+      "id": "4016",
+      "index": 16,
+      "name": "Addiction Psychiatry - Part 1",
+      "subject": "Addictions",
+      "resource": "SPMM Specialty MCQs",
+      "file": "data/rcpsych_paper_b/specialties/mcqs_addictions_part_1.json",
+      "total_questions": 80
+    },
+    {
+      "id": "4017",
+      "index": 17,
+      "name": "Addiction Psychiatry - Part 2",
+      "subject": "Addictions",
+      "resource": "SPMM Specialty MCQs",
+      "file": "data/rcpsych_paper_b/specialties/mcqs_addictions_part_2.json",
+      "total_questions": 73
+    },
+    {
+      "id": "4018",
+      "index": 18,
+      "name": "Child & Adolescent - Part 1",
+      "subject": "Child & Adolescent",
+      "resource": "SPMM Specialty MCQs",
+      "file": "data/rcpsych_paper_b/specialties/mcqs_child_part_1.json",
+      "total_questions": 70
+    },
+    {
+      "id": "4019",
+      "index": 19,
+      "name": "Child & Adolescent - Part 2",
+      "subject": "Child & Adolescent",
+      "resource": "SPMM Specialty MCQs",
+      "file": "data/rcpsych_paper_b/specialties/mcqs_child_part_2.json",
+      "total_questions": 63
+    },
+    {
+      "id": "4020",
+      "index": 20,
+      "name": "Forensic Psychiatry - Part 1",
+      "subject": "Forensic",
+      "resource": "SPMM Specialty MCQs",
+      "file": "data/rcpsych_paper_b/specialties/mcqs_forensics_part_1.json",
+      "total_questions": 40
+    },
+    {
+      "id": "4021",
+      "index": 21,
+      "name": "Forensic Psychiatry - Part 2",
+      "subject": "Forensic",
+      "resource": "SPMM Specialty MCQs",
+      "file": "data/rcpsych_paper_b/specialties/mcqs_forensics_part_2.json",
+      "total_questions": 36
+    },
+    {
+      "id": "4022",
+      "index": 22,
+      "name": "Old Age Psychiatry - Part 1",
+      "subject": "Old Age",
+      "resource": "SPMM Specialty MCQs",
+      "file": "data/rcpsych_paper_b/specialties/mcqs_old_age_part_1.json",
+      "total_questions": 70
+    },
+    {
+      "id": "4023",
+      "index": 23,
+      "name": "Old Age Psychiatry - Part 2",
+      "subject": "Old Age",
+      "resource": "SPMM Specialty MCQs",
+      "file": "data/rcpsych_paper_b/specialties/mcqs_old_age_part_2.json",
+      "total_questions": 56
+    },
+    {
+      "id": "4024",
+      "index": 24,
+      "name": "Liaison Psychiatry - Part 1",
+      "subject": "Liaison",
+      "resource": "SPMM Specialty MCQs",
+      "file": "data/rcpsych_paper_b/specialties/mcqs_liaison_part_1.json",
+      "total_questions": 70
+    },
+    {
+      "id": "4025",
+      "index": 25,
+      "name": "Liaison Psychiatry - Part 2",
+      "subject": "Liaison",
+      "resource": "SPMM Specialty MCQs",
+      "file": "data/rcpsych_paper_b/specialties/mcqs_liaison_part_2.json",
+      "total_questions": 62
+    },
+    {
+      "id": "4026",
+      "index": 26,
+      "name": "Psychotherapy - Part 1",
+      "subject": "Psychotherapy",
+      "resource": "SPMM Specialty MCQs",
+      "file": "data/rcpsych_paper_b/specialties/mcqs_psychotherapy_part_1.json",
+      "total_questions": 60
+    },
+    {
+      "id": "4027",
+      "index": 27,
+      "name": "Psychotherapy - Part 2",
+      "subject": "Psychotherapy",
+      "resource": "SPMM Specialty MCQs",
+      "file": "data/rcpsych_paper_b/specialties/mcqs_psychotherapy_part_2.json",
+      "total_questions": 69
+    },
+    {
+      "id": "4028",
+      "index": 28,
+      "name": "Learning Disability Psychiatry",
+      "subject": "Learning Disability",
+      "resource": "SPMM Specialty MCQs",
+      "file": "data/rcpsych_paper_b/specialties/mcqs_learning_disability.json",
+      "total_questions": 81
+    },
+    {
+      "id": "4029",
+      "index": 29,
+      "name": "Emergency Psychiatry",
+      "subject": "Emergency",
+      "resource": "SPMM Specialty MCQs",
+      "file": "data/rcpsych_paper_b/specialties/mcqs_emergency_psychiatry.json",
+      "total_questions": 39
+    },
+    {
+      "id": "4030",
+      "index": 30,
+      "name": "Perinatal Psychiatry",
+      "subject": "Perinatal",
+      "resource": "SPMM Specialty MCQs",
+      "file": "data/rcpsych_paper_b/specialties/mcqs_perinatal_psychiatry.json",
+      "total_questions": 42
+    },
+    {
+      "id": "4031",
+      "index": 31,
+      "name": "Psychiatric Services & Management",
+      "subject": "Services & Admin",
+      "resource": "SPMM Specialty MCQs",
+      "file": "data/rcpsych_paper_b/specialties/mcqs_psychiatric_services.json",
+      "total_questions": 44
+    },
+    {
+      "id": "4032",
+      "index": 32,
+      "name": "EMI: Addiction Psychiatry",
+      "subject": "EMI - Addictions",
+      "resource": "SPMM Extended Matching Items",
+      "file": "data/rcpsych_paper_b/emis/emis_addiction_psychiatry.json",
+      "total_questions": 63
+    },
+    {
+      "id": "4033",
+      "index": 33,
+      "name": "EMI: Adult Psychiatry",
+      "subject": "EMI - General Adult",
+      "resource": "SPMM Extended Matching Items",
+      "file": "data/rcpsych_paper_b/emis/emis_adult_psychiatry.json",
+      "total_questions": 141
+    },
+    {
+      "id": "4034",
+      "index": 34,
+      "name": "EMI: Child & Adolescent",
+      "subject": "EMI - Child & Adolescent",
+      "resource": "SPMM Extended Matching Items",
+      "file": "data/rcpsych_paper_b/emis/emis_child_psychiatry.json",
+      "total_questions": 16
+    },
+    {
+      "id": "4035",
+      "index": 35,
+      "name": "EMI: Forensic Psychiatry",
+      "subject": "EMI - Forensic",
+      "resource": "SPMM Extended Matching Items",
+      "file": "data/rcpsych_paper_b/emis/emis_forensic_psychiatry.json",
+      "total_questions": 19
+    },
+    {
+      "id": "4036",
+      "index": 36,
+      "name": "EMI: Learning Disability",
+      "subject": "EMI - Learning Disability",
+      "resource": "SPMM Extended Matching Items",
+      "file": "data/rcpsych_paper_b/emis/emis_learning_disability.json",
+      "total_questions": 50
+    },
+    {
+      "id": "4037",
+      "index": 37,
+      "name": "EMI: Old Age Psychiatry",
+      "subject": "EMI - Old Age",
+      "resource": "SPMM Extended Matching Items",
+      "file": "data/rcpsych_paper_b/emis/emis_old_age_psychiatry.json",
+      "total_questions": 45
+    },
+    {
+      "id": "4038",
+      "index": 38,
+      "name": "EMI: Psychiatric Services",
+      "subject": "EMI - Services & Admin",
+      "resource": "SPMM Extended Matching Items",
+      "file": "data/rcpsych_paper_b/emis/emis_psychiatric_services.json",
+      "total_questions": 4
+    },
+    {
+      "id": "4039",
+      "index": 39,
+      "name": "EMI: Psychotherapy",
+      "subject": "EMI - Psychotherapy",
+      "resource": "SPMM Extended Matching Items",
+      "file": "data/rcpsych_paper_b/emis/emis_psychotherapy.json",
+      "total_questions": 94
+    },
+    {
+      "id": "4040",
+      "index": 40,
+      "name": "EMI: Research Methods",
+      "subject": "EMI - Research & Stats",
+      "resource": "SPMM Extended Matching Items",
+      "file": "data/rcpsych_paper_b/emis/emis_research_methods.json",
+      "total_questions": 25
+    },
+    {
+      "id": "4041",
+      "index": 41,
+      "name": "EMI: Biostatistics",
+      "subject": "EMI - Research & Stats",
+      "resource": "SPMM Extended Matching Items",
+      "file": "data/rcpsych_paper_b/emis/emis_statistics.json",
+      "total_questions": 36
+    },
+    {
+      "id": "4042",
+      "index": 42,
+      "name": "Analytical Studies",
+      "subject": "Research Methods",
+      "resource": "SPMM Critical Review & Stats",
+      "file": "data/rcpsych_paper_b/critical_review_stats/analytical_studies.json",
+      "total_questions": 14
+    },
+    {
+      "id": "4043",
+      "index": 43,
+      "name": "Bias",
+      "subject": "Research Methods",
+      "resource": "SPMM Critical Review & Stats",
+      "file": "data/rcpsych_paper_b/critical_review_stats/bias.json",
+      "total_questions": 12
+    },
+    {
+      "id": "4044",
+      "index": 44,
+      "name": "Causality & Confounders",
+      "subject": "Research Methods",
+      "resource": "SPMM Critical Review & Stats",
+      "file": "data/rcpsych_paper_b/critical_review_stats/causality___confounders.json",
+      "total_questions": 14
+    },
+    {
+      "id": "4045",
+      "index": 45,
+      "name": "EMIs Research Methods",
+      "subject": "Research Methods",
+      "resource": "SPMM Critical Review & Stats",
+      "file": "data/rcpsych_paper_b/critical_review_stats/emis_research_methods.json",
+      "total_questions": 25
+    },
+    {
+      "id": "4046",
+      "index": 46,
+      "name": "Economic Studies",
+      "subject": "Research Methods",
+      "resource": "SPMM Critical Review & Stats",
+      "file": "data/rcpsych_paper_b/critical_review_stats/economic_studies.json",
+      "total_questions": 27
+    },
+    {
+      "id": "4047",
+      "index": 47,
+      "name": "Epidemiology",
+      "subject": "Research Methods",
+      "resource": "SPMM Critical Review & Stats",
+      "file": "data/rcpsych_paper_b/critical_review_stats/epidemiology.json",
+      "total_questions": 32
+    },
+    {
+      "id": "4048",
+      "index": 48,
+      "name": "Interventional Studies",
+      "subject": "Research Methods",
+      "resource": "SPMM Critical Review & Stats",
+      "file": "data/rcpsych_paper_b/critical_review_stats/interventional_studies.json",
+      "total_questions": 30
+    },
+    {
+      "id": "4049",
+      "index": 49,
+      "name": "Qualitative Studies",
+      "subject": "Research Methods",
+      "resource": "SPMM Critical Review & Stats",
+      "file": "data/rcpsych_paper_b/critical_review_stats/qualitative_studies.json",
+      "total_questions": 31
+    },
+    {
+      "id": "4050",
+      "index": 50,
+      "name": "Quality Improvement",
+      "subject": "Research Methods",
+      "resource": "SPMM Critical Review & Stats",
+      "file": "data/rcpsych_paper_b/critical_review_stats/quality_improvement.json",
+      "total_questions": 10
+    },
+    {
+      "id": "4051",
+      "index": 51,
+      "name": "Secondary Research",
+      "subject": "Research Methods",
+      "resource": "SPMM Critical Review & Stats",
+      "file": "data/rcpsych_paper_b/critical_review_stats/secondary_research.json",
+      "total_questions": 15
+    },
+    {
+      "id": "4052",
+      "index": 52,
+      "name": "Study Design",
+      "subject": "Research Methods",
+      "resource": "SPMM Critical Review & Stats",
+      "file": "data/rcpsych_paper_b/critical_review_stats/study_design.json",
+      "total_questions": 11
+    },
+    {
+      "id": "4053",
+      "index": 53,
+      "name": "Fresh Questions for April 2018 (set 3)",
+      "subject": "Fresh Questions",
+      "resource": "SPMM Critical Review & Stats",
+      "file": "data/rcpsych_paper_b/critical_review_stats/fresh_questions_for_april_2018__set_3_.json",
+      "total_questions": 73
+    },
+    {
+      "id": "4054",
+      "index": 54,
+      "name": "Fresh Questions for April 2019 (set 4)",
+      "subject": "Fresh Questions",
+      "resource": "SPMM Critical Review & Stats",
+      "file": "data/rcpsych_paper_b/critical_review_stats/fresh_questions_for_april_2019__set_4_.json",
+      "total_questions": 136
+    },
+    {
+      "id": "4055",
+      "index": 55,
+      "name": "Fresh Questions for October 2019 (set 5)",
+      "subject": "Fresh Questions",
+      "resource": "SPMM Critical Review & Stats",
+      "file": "data/rcpsych_paper_b/critical_review_stats/fresh_questions_for_october_2019__set_5_.json",
+      "total_questions": 83
+    },
+    {
+      "id": "4056",
+      "index": 56,
+      "name": "Fresh questions for April 2017 (set 2)",
+      "subject": "Fresh Questions",
+      "resource": "SPMM Critical Review & Stats",
+      "file": "data/rcpsych_paper_b/critical_review_stats/fresh_questions_for_april_2017__set_2_.json",
+      "total_questions": 29
+    },
+    {
+      "id": "4057",
+      "index": 57,
+      "name": "Fresh questions for October 2016 (set 1)",
+      "subject": "Fresh Questions",
+      "resource": "SPMM Critical Review & Stats",
+      "file": "data/rcpsych_paper_b/critical_review_stats/fresh_questions_for_october_2016__set_1_.json",
+      "total_questions": 51
+    },
+    {
+      "id": "4058",
+      "index": 58,
+      "name": "“__NEW__ 135Qs Fresh Practice Questions (2020-2021) Set 6",
+      "subject": "Fresh Questions",
+      "resource": "SPMM Critical Review & Stats",
+      "file": "data/rcpsych_paper_b/critical_review_stats/___new___135qs_fresh_practice_questions__2020-2021__set_6.json",
+      "total_questions": 92
+    },
+    {
+      "id": "4059",
+      "index": 59,
+      "name": "Psychomentor General Adult",
+      "subject": "Mentor - General Adult",
+      "resource": "Psychomentor Series",
+      "file": "data/rcpsych_paper_b/psychomentor/mentor_-_general_adult__explained.json",
+      "total_questions": 88
+    },
+    {
+      "id": "4060",
+      "index": 60,
+      "name": "Psychomentor Child & Adolescent",
+      "subject": "Mentor - Child & Adolescent",
+      "resource": "Psychomentor Series",
+      "file": "data/rcpsych_paper_b/psychomentor/mentor_-_child_explained.json",
+      "total_questions": 156
+    },
+    {
+      "id": "4061",
+      "index": 61,
+      "name": "Psychomentor Forensic Psychiatry",
+      "subject": "Mentor - Forensic",
+      "resource": "Psychomentor Series",
+      "file": "data/rcpsych_paper_b/psychomentor/mentor_-_forensic_explained.json",
+      "total_questions": 110
+    },
+    {
+      "id": "4062",
+      "index": 62,
+      "name": "Psychomentor Old Age Psychiatry",
+      "subject": "Mentor - Old Age",
+      "resource": "Psychomentor Series",
+      "file": "data/rcpsych_paper_b/psychomentor/mentor-old__age___explained.json",
+      "total_questions": 147
+    },
+    {
+      "id": "4063",
+      "index": 63,
+      "name": "Psychomentor Psychotherapy",
+      "subject": "Mentor - Psychotherapy",
+      "resource": "Psychomentor Series",
+      "file": "data/rcpsych_paper_b/psychomentor/mentor_-_psychotherapy__explained.json",
+      "total_questions": 164
+    },
+    {
+      "id": "4064",
+      "index": 64,
+      "name": "Psychomentor Learning Disability",
+      "subject": "Mentor - Learning Disability",
+      "resource": "Psychomentor Series",
+      "file": "data/rcpsych_paper_b/psychomentor/mentor-learning_disability__explained.json",
+      "total_questions": 76
+    },
+    {
+      "id": "4065",
+      "index": 65,
+      "name": "Psychomentor Substance Use",
+      "subject": "Mentor - Addictions",
+      "resource": "Psychomentor Series",
+      "file": "data/rcpsych_paper_b/psychomentor/mentor-substance__explained.json",
+      "total_questions": 171
+    },
+    {
+      "id": "4066",
+      "index": 66,
+      "name": "Psychomentor Statistics & Methods",
+      "subject": "Mentor - Research & Stats",
+      "resource": "Psychomentor Series",
+      "file": "data/rcpsych_paper_b/psychomentor/mentor-statistics__explained.json",
+      "total_questions": 321
+    },
+    {
+      "id": "4067",
+      "index": 67,
+      "name": "MRCPsych Paper B May 2025 Recall (150Qs)",
+      "subject": "Exam Recalls",
+      "resource": "Verified Exam Recalls",
+      "file": "data/rcpsych_paper_b/recalls/may_2025_recall_150qs.json",
+      "total_questions": 150
+    }
+  ],
+  "total_rcpsych_chapters": 67,
+  "total_rcpsych_questions": 5199
 }

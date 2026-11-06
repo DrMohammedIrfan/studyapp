@@ -1,0 +1,448 @@
+{
+  "chapter_id": 4050,
+  "chapter_name": "Quality Improvement",
+  "subject_name": "Research Methods",
+  "total_questions": 10,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 4050001,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The term Quality Improvement in the context of healthcare refers to which of the following?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4050011,
+          "text": "Approaches to ensure quality and safety of health services",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4050012,
+          "text": "Studies that re\u0000ect on a professional's practice and approach to medicine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4050013,
+          "text": "Projects that measure and monitor the outcome of clinical care",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4050014,
+          "text": "Systematic approach to reduce waste and minimise resource consumption",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4050015,
+          "text": "Evaluation strategies focused on adverse events",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Approaches to ensure quality and safety of health services"
+      },
+      "explanation": "Quality Improvement is a scienti\u0000c approach to tackle the challenge of ensuring quality and safety of healthcare provision. QI method\nincludes both systematic analysis of performance and interventions to improve it."
+    },
+    {
+      "question_number": 2,
+      "question_id": 4050002,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following di\u0000erentiates a quality improvement project from a research project?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4050021,
+          "text": "Quality Improvement projects provide insights that can be widely applied to other services",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4050022,
+          "text": "Quality Improvement projects aim to create new knowledge about a local service",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4050023,
+          "text": "Quality Improvement projects do not evaluate clinical interventions",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4050024,
+          "text": "Quality Improvement is an aspect of clinical governance",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4050025,
+          "text": "Interventions tested in Quality Improvement projects are not novel",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Interventions tested in Quality Improvement projects are not novel"
+      },
+      "explanation": "It is important to note that QI projects are fundamentally similar to scienti\u0000c research projects in health care. PDSA involves prediction of the\noutcome of a test of change (hypothesis statement) and subsequent measurement over time (quantitative or qualitative measurement) to\nassess the impact of an intervention (experimental manipulation) on the process or outcomes of interest. But in QI projects, the tested\ninterventions are within established standards of care."
+    },
+    {
+      "question_number": 3,
+      "question_id": 4050003,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following provides a method for structuring iterative development of change as part of wider quality improvement approaches\nin health services?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4050031,
+          "text": "Focus groups",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4050032,
+          "text": "Analytical epidemiology",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4050033,
+          "text": "PDSA cycles",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4050034,
+          "text": "Second generation epidemiological studies",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4050035,
+          "text": "Surveys",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "PDSA cycles"
+      },
+      "explanation": "PDSA is often the central component of QI initiatives. PDSA stands for Plan-Do-Study-Act cycle. Most often in healthcare, ideas are\nintroduced top-down without adequate evaluation. PDSA cycles provide means to integrate top-down ideas with bottom-up observations\nbefore implementation. PDSA allows us to test an idea by temporarily trialling a change and assessing its impact. The PDSA method\noriginates from quality improvement studies in the industry. Shewhart and Deming initially described iterative processes that eventually\nbecame known as the four stages of PDSA."
+    },
+    {
+      "question_number": 4,
+      "question_id": 4050004,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following methods of quality improvement focuses only on retrospective evaluation?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4050041,
+          "text": "Six Sigma Model",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4050042,
+          "text": "PDSA cycle",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4050043,
+          "text": "Root cause analysis",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4050044,
+          "text": "Bene\u0000t Realisation Plan",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4050045,
+          "text": "Failure Mode and e\u0000ects analysis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Root cause analysis"
+      },
+      "explanation": "Root cause analysis (RCA) is a well-established QI method, though some argue that it is mostly a Quality Assurance process that QI. RCA\ninvolves a retrospective investigation that occurs after a sentinel event (usually an adverse event e.g. an inpatient suicide). RCA aims to\nidentify the putative fundamental reasons (casual factors) explaining variation in performance that resulted in the sentinel event. RCA\nfocusses on individual events and su\u0000ers from hindsight bias, wherein \u0000ndings may apply only to the speci\u0000c event and not to the system as\na whole"
+    },
+    {
+      "question_number": 5,
+      "question_id": 4050005,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following methods of quality improvement is based on 80/20 rule of management?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4050051,
+          "text": "Pareto Chart",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4050052,
+          "text": "PDSA cycle",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4050053,
+          "text": "Six Sigma Model",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4050054,
+          "text": "Statistical Process Chart",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4050055,
+          "text": "Bene\u0000t Realisation Plan",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Pareto Chart"
+      },
+      "explanation": "A Pareto chart is nothing but a bar chart but the bars are reorganised to show the categories with most frequent showing events on the left\nand the least frequent to the right. Sometimes a line showing cumulative frequency is also superimposed. A Pareto chart helps us to\nvisualise the high-yield events, which when focussed upon, can result in maximum improvement. (This charting follows the 80/20 economic\nprinciple. 80% of the income of a nation generally goes only to 20% of the population. By focusing on the 20% of high-impact circumstances,\nnearly 80% of problems can be managed)."
+    },
+    {
+      "question_number": 6,
+      "question_id": 4050006,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following refers to Quality Improvement activity?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4050061,
+          "text": "Identifying the sta\u0000 member who divulged information about a patient in the maternity ward following a bogus call from a reporter",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4050062,
+          "text": "Identifying whether the doctors or nurses that were at fault after an inpatient suicide",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4050063,
+          "text": "Evaluating the adverse events arising from a new drug introduced in the local formulary",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4050064,
+          "text": "Evaluating whether a community team setting encourages clinicians to report errors",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4050065,
+          "text": "Evaluating the number of times breaches in con\u0000dentiality occurred when answering telephone queries",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Evaluating whether a community team setting encourages clinicians to report errors"
+      },
+      "explanation": "Quality Improvement involves both prospective and retrospective evaluation strategies that are aimed at improvement. QI speci\u0000cally\nfocuses on determining 'what will work better', avoiding blame attribution, and to create systems to prevent rather than rectify errors."
+    },
+    {
+      "question_number": 7,
+      "question_id": 4050007,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In quality improvement projects, the term PDCA refers to",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4050071,
+          "text": "Plan-Do-Check-Act",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4050072,
+          "text": "Plan-Do-Control-Act",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4050073,
+          "text": "Plan-Do-Collect-Act",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4050074,
+          "text": "Plan-Do-Study-Act",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4050075,
+          "text": "Plan-Do-Collaborate-Act",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Plan-Do-Check-Act"
+      },
+      "explanation": "The term PDCA (plan –do –check –act) is sometimes used interchangeably with PDSA. But PDCA is best reserved for using in the context of\nerror correction or fault detection rather than QI."
+    },
+    {
+      "question_number": 8,
+      "question_id": 4050008,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Reducing waste is a critical part of which of the following models of quality improvement?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4050081,
+          "text": "PDSA cycle",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4050082,
+          "text": "Lean Thinking",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4050083,
+          "text": "FADE model",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4050084,
+          "text": "Failure Mode and e\u0000ects analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4050085,
+          "text": "Bene\u0000t Realisation Plan",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Lean Thinking"
+      },
+      "explanation": "Lean Thinking is a management philosophy focussed on 4 features (1) preserving value by identifying the value stream (2) reducing resource\nconsumption by enabling process and value \u0000ow (3) reducing waste and developing pull systems (4) improving overall user satisfaction by\npursuing perfection. Several retail and customer service industries have adopted this philosophy successfully in times of \u0000nancial\nconstraints."
+    },
+    {
+      "question_number": 9,
+      "question_id": 4050009,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is a consensus checklist recommended when reporting formal studies of healthcare quality improvement?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4050091,
+          "text": "ENHANCE",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4050092,
+          "text": "PRISMA",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4050093,
+          "text": "MOOSE",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4050094,
+          "text": "SQUIRE",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4050095,
+          "text": "STARD",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "SQUIRE"
+      },
+      "explanation": "The Standards for Quality Improvement Reporting Excellence (SQUIRE statement) consists of a 19 items checklist recommended when\nreporting formal studies of healthcare quality improvement (Ogrinc et al., 2008)."
+    },
+    {
+      "question_number": 10,
+      "question_id": 4050010,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "There is robust evidence to suggest that the e\u0000cacy of tamoxifen reduces when used in combination with \u0000uoxetine. A project was\ndesigned across two GP practices in Bristol to identify a\u0000ected patients and implement a change. A search was conducted to \u0000nd all those\non tamoxifen and \u0000uoxetine, using the computerised patient registry. Identi\u0000ed patients were then contacted to discuss the evidence\nbefore recommending a change of antidepressant. Furthermore, a presentation was given to all GPs at the two surgeries alerting them to\nthe new guidelines. A message was also set up to \u0000ash on the computer system whenever an attempt was made to co-prescribe the two\ndrugs. This project is best described as a",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4050101,
+          "text": "Case series",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4050102,
+          "text": "Cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4050103,
+          "text": "Qualitative study",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4050104,
+          "text": "Quality improvement study",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4050105,
+          "text": "Case control study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Quality improvement study"
+      },
+      "explanation": "Quality Improvement is a formal approach to the analysis of performance (in this case, the prescribing practice of 2 GP surgeries) and\nsystematic e\u0000orts to improve it (recalling patients, providing information and changing practice)."
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "chapter_id": 4051,
+  "chapter_name": "Secondary Research",
+  "subject_name": "Research Methods",
+  "total_questions": 15,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 4051001,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In secondary research studies, which of the following items is the unit of recruitment?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4051011,
+          "text": "Clusters distributed geographically",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4051012,
+          "text": "Secondary health care centres",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4051013,
+          "text": "Individual patients",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4051014,
+          "text": "Institutions",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4051015,
+          "text": "Previously completed studies",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Previously completed studies"
+      },
+      "explanation": "Secondary research refers to research conducted using data from other researches. Here individual patients are not recruited, instead\neligible studies are 'recruited'."
+    },
+    {
+      "question_number": 2,
+      "question_id": 4051002,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An old age psychiatrist is interested in reviewing the literature on hyponatraemia related to SSRI use. He has wide clinical experience on this\ntopic and chooses some key review papers as starting point and collates the information known to him already to provide a summary of\nevidence. Which research method is he following?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4051021,
+          "text": "Meta-analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4051022,
+          "text": "Qualitative research",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4051023,
+          "text": "Case series",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4051024,
+          "text": "Systematic review",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4051025,
+          "text": "Narrative review",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Narrative review"
+      },
+      "explanation": "Narrative reviews are usually carried out by experts in the \u0000eld of study and are more or less close to an expert's opinion supported by\nresearch evidence. These reviews are generally broad without a narrow or speci\u0000c clinical question and are subjective. They carry a higher\nrisk of being prone to bias than systematic reviews. Nevertheless narrative reviews can provide a good introduction to a topic, stimulate\ninterest and controversies and can even collate existing data for generating new hypotheses."
+    },
+    {
+      "question_number": 3,
+      "question_id": 4051003,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is a characteristic feature of narrative review but not systematic review?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4051031,
+          "text": "Quantitative synthesis of data",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4051032,
+          "text": "Uniform criteria of study selection",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4051033,
+          "text": "Study a focussed narrow question",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4051034,
+          "text": "Comprehensive and speci\u0000c data collection",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4051035,
+          "text": "Literature search based on expert's familiarity",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Literature search based on expert's familiarity"
+      },
+      "explanation": "Narrative review usually involves a patchy literature search. Literature is not searched methodically but rather in a random manner\naccording to one's familiarity and to suit one's \u0000ow of argument. Because of the above, narrative reviews cannot be replicated (unless\nrepeated by the same author!!)."
+    },
+    {
+      "question_number": 4,
+      "question_id": 4051004,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The study design that is most frequently combined in meta-analysis is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4051041,
+          "text": "Cohort studies",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4051042,
+          "text": "Case control studies",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4051043,
+          "text": "RCTs",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4051044,
+          "text": "Case series",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4051045,
+          "text": "Uncontrolled trials",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "RCTs"
+      },
+      "explanation": "It is usually RCTs that undergo meta-analysis. If the primary studies included have poor quality, then even if sound methodological and\nstatistical procedures are followed the outcome may be meaningless. This is called GIGO principle of 'garbage in, garbage out'!!"
+    },
+    {
+      "question_number": 5,
+      "question_id": 4051005,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following factor is the least/not important in determining the quality of a meta-analysis?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4051051,
+          "text": "Sample size of individual studies",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4051052,
+          "text": "Comparability of intervention among individual studies",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4051053,
+          "text": "Magnitude of outcome reported from individual studies",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4051054,
+          "text": "Methodological quality of individual studies",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4051055,
+          "text": "Total number of individual studies",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Magnitude of outcome reported from individual studies"
+      },
+      "explanation": "While determining the quality of a meta-analysis, one can consider 1. The nature of the patient sample, 2. Outcomes studied, 3. Lengths of\nfollow-up and 4. Comparability (e.g. dosage) of treatment. Methodological factors include adequacy of sample randomisation, adequate\nconcealment and control of intervention, analysis with intention to treat principles, and having an objective, blinded, outcome assessment.\nThe magnitude of outcomes as such does not re\u0000ect the quality of trials."
+    },
+    {
+      "question_number": 6,
+      "question_id": 4051006,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Weighting refers to the level of signi\u0000cance attached to the outcome of individual studies considered in a meta-analysis. Which of the\nfollowing factors are considered for weighting?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4051061,
+          "text": "All of the listed options",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4051062,
+          "text": "Impact factor of the published journal",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4051063,
+          "text": "Sample size of studies",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4051064,
+          "text": "Methodological rigour of studies",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4051065,
+          "text": "Precision of results",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "All of the listed options"
+      },
+      "explanation": "Weighting refers to the signi\u0000cance attached to each study based on sample size, precision, external validity (the extent to which results are\ngeneralisable) and methodological quality. It is assigned independent the of outcome of a study."
+    },
+    {
+      "question_number": 7,
+      "question_id": 4051007,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a systematic review of studies looking at Duration of Untreated Psychosis and outcome, two types of study designs are noted. One group\nof studies categorically divided DUP to binary variable long DUP and short DUP and assessed the outcome. Another group of studies\ncorrelated the duration of DUP with the severity of the outcome. Which of the following best describes the above phenomenon?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4051071,
+          "text": "Presence of location bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4051072,
+          "text": "Presence of clinical heterogeneity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4051073,
+          "text": "Presence of methodological heterogeneity",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4051074,
+          "text": "Presence of statistical heterogeneity",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4051075,
+          "text": "Presence of publication bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Presence of methodological heterogeneity"
+      },
+      "explanation": "Methodological heterogeneity refers to heterogeneity resulting from the di\u0000erential use of study methodology. These may lead to di\u0000erent\nconclusions in di\u0000erent studies, even though the clinical characteristics are the same. Methodological heterogeneity is describable but does\nnot need quanti\u0000cation."
+    },
+    {
+      "question_number": 8,
+      "question_id": 4051008,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In the above-mentioned systematic review, which of the following is the best way to proceed for combining the data from individual studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4051081,
+          "text": "Meta-analysis is not possible as the individual trials are not RCTs",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4051082,
+          "text": "Combine all data in a single meta-analysis using a random e\u0000ects model",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4051083,
+          "text": "Combine all data and carry out a \u0000xed e\u0000ects analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4051084,
+          "text": "Deal with two sets of data di\u0000erently and carry out two independent meta-analysis",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4051085,
+          "text": "Meta-analysis must be abandoned as methods di\u0000er",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Deal with two sets of data di\u0000erently and carry out two independent meta-analysis"
+      },
+      "explanation": "Meta-analysis is a best done using studies with a common methodology (all RCTs, all case-control studies) etc., But increasingly certain meta-\nanalytical papers seem to override this tradition. Dealing with methodologically di\u0000erent data separately and reporting the results\nindependently is the best way forward for the above example."
+    },
+    {
+      "question_number": 9,
+      "question_id": 4051009,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In which of the following situations a random e\u0000ects analysis is indicated in a meta-analysis?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4051091,
+          "text": "Presence of clinical heterogeneity",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4051092,
+          "text": "Presence of too few studies for e\u0000cient combining",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4051093,
+          "text": "Presence of statistical heterogeneity",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4051094,
+          "text": "Meta-analysis of studies other than RCTs.",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4051095,
+          "text": "Presence of methodological heterogeneity",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Presence of statistical heterogeneity"
+      },
+      "explanation": "When combining the outcomes from di\u0000erent studies, one may use a \u0000xed and/or random e\u0000ects model. A \u0000xed e\u0000ects model assumes\nthat all the studies share the same common treatment e\u0000ect while a random e\u0000ects model assumes that they do not share the same\ncommon treatment e\u0000ect. In \u0000xed e\u0000ect analysis the inference is restricted to included set of studies. It assumes that only random error\nwithin studies could explain observed di\u0000erences. It ignores between-study variations (hence heterogeneity). So this can be applied only if\nheterogeneity can be safely excluded by testing for it. Random e\u0000ects analysis assumes that each study shows a di\u0000erent e\u0000ect which are\nnormally distributed around true mean. This assumption gives proportionally greater weight to smaller studies. Hence this model is\nsusceptible to publication bias and results in wider less precise con\u0000dence intervals."
+    },
+    {
+      "question_number": 10,
+      "question_id": 4051010,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A reviewer notes the following while undertaking a literature search to identify the e\u0000ect of vitamin E on tardive dyskinesia. Many small\nstudies are published only when they show a positive result in favour of vitamin E. But larger studies are published with both directions of\nresults. If the reviewer constructs an inverted funnel plot which of the following will be seen?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4051101,
+          "text": "The plot will be asymmetrical due to the absence of small negative studies.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4051102,
+          "text": "The plot cannot be constructed due to the lack of negative small studies",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4051103,
+          "text": "The plot will be smaller in size due to the presence of small studies",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4051104,
+          "text": "The plot will be asymmetrical due to the presence of large studies in both directions of results",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4051105,
+          "text": "The plot will be symmetrical",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "The plot will be asymmetrical due to the absence of small negative studies."
+      },
+      "explanation": "The most common method to detect publication bias is to investigate the presence of asymmetry in (inverted) funnel plots. A funnel plot\nshows the relation between study e\u0000ect size and its precision. Small studies are more likely to remain unpublished if their results are\nnonsigni\u0000cant or unfavourable, and larger studies get published regardless. This leads to funnel-plot asymmetry. Although visual inspection\nof funnel plots is unreliable, statistical tests can be used to quantify the asymmetry."
+    },
+    {
+      "question_number": 11,
+      "question_id": 4051011,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following best describes e\u0000ect size measured in meta-analyses?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4051111,
+          "text": "Di\u0000erence in outcome between intervention and control groups",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4051112,
+          "text": "Ratio of outcome between intervention and control groups divided by standard deviation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4051113,
+          "text": "Di\u0000erence in outcome between intervention and control groups in terms of standard deviation of the outcome in the population",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4051114,
+          "text": "Odds of having an outcome due to intervention",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4051115,
+          "text": "Ratio of outcome between intervention and control groups",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Di\u0000erence in outcome between intervention and control groups"
+      },
+      "explanation": "E\u0000ect size is the di\u0000erence in mean scores between the treatment and control groups divided by the standard deviation of the scores in the\ncontrol group (or the pooled standard deviation of the treatment and control groups, or the pooled standard deviation of the change score).\nAs you might have noted, this does not have units that vary with outcome scales; hence it is possible to pool data from various studies in a\nmeta-analysis using e\u0000ect-size. Guyatt G Rennie D et al. Users' guide to the medical literature: JAMA evidence 2nd ed. McGrawHill 2008. Pg\n736"
+    },
+    {
+      "question_number": 12,
+      "question_id": 4051012,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one of the following could be classi\u0000ed as grey literature for the purpose of a systematic review?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4051121,
+          "text": "Articles older than 30 years",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4051122,
+          "text": "Peer reviewed articles indexed in PsycINFO",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4051123,
+          "text": "Theses work recently submitted to universities",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4051124,
+          "text": "Medline database",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4051125,
+          "text": "Cochrane controlled trials register",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Theses work recently submitted to universities"
+      },
+      "explanation": "Searching for grey literature is often di\u0000cult as there is no single source of grey literature, and the sources are usually websites that are not\nindexed and can be di\u0000cult to search. Such grey literature includes theses, unpublished abstracts at conferences, monographs and\nproceedings from conventions, etc."
+    },
+    {
+      "question_number": 13,
+      "question_id": 4051013,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a weekly journal club, your clinical tutor points out signi\u0000cant publication bias in the studies selected for a systematic review. He\nconstructs a funnel plot to support his arguments. What is the most likely explanation for publication bias",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4051131,
+          "text": "Editors accept only those articles that are written by experts",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4051132,
+          "text": "Systematic reviewers discard weaker studies in meta-analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4051133,
+          "text": "Researchers withhold negative results from publication",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4051134,
+          "text": "Authors submit studies with low sample size to non-indexed journals",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4051135,
+          "text": "Editors accept only those articles with which they agree",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Researchers withhold negative results from publication"
+      },
+      "explanation": "Publication bias has been de\u0000ned as \"the tendency on the part of investigators to submit, or the reviewers and editors, to accept\nmanuscripts based on the direction or strength of the study \u0000ndings\". As a result, the strongest and most positive studies are most likely to\nbe published. \"Perhaps the common misconception is that most work remains unpublished because of rejection from chosen journals.\nHowever, investigators have found the contrary to be true. Rejection of manuscripts by journals has been found to be less important than\nfailure of researchers to actually submit their work for publication.Failure to submit manuscripts can be caused by a number of factors\nincluding unimportant results, incomplete analysis, and investigators being too busy or having lost interest. This lack of enthusiasm to\npublish has been coined the '\u0000le drawer problem-. Dickersin K, Min Y, Meinert C. Factors in\u0000uencing publication of research results. JAMA\n1992; 267: 374-378 (Publication bias: raising awareness of a potential problem. Excerpts retrieved from"
+    },
+    {
+      "question_number": 14,
+      "question_id": 4051014,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Meta-analyses that summarise data from multiple studies are needed because",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4051141,
+          "text": "Individual studies are susceptible to confounding",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4051142,
+          "text": "Individual studies often use higher threshold of p values",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4051143,
+          "text": "Individual studies are often biased",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4051144,
+          "text": "Individual studies often lack su\u0000cient power for generalised conclusions",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4051145,
+          "text": "Individual studies are prone to measurement errors",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Individual studies often lack su\u0000cient power for generalised conclusions"
+      },
+      "explanation": "Remember GIGO principle in secondary research: Garbage in - Garbage out! The quality of a systematic review or meta-analysis depends on\nthe quality of individual studies. Hence error or bias-prone individual studies cannot be replaced by a meta-analyses of those studies. But\npooled data in a secondary study such as meta-analysis has larger sample size to achieve better precision."
+    },
+    {
+      "question_number": 15,
+      "question_id": 4051015,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Who coined the term meta-analysis?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4051151,
+          "text": "Cohen",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4051152,
+          "text": "Shapiro",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4051153,
+          "text": "Bayes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4051154,
+          "text": "Glass",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4051155,
+          "text": "Kaplan",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Glass"
+      },
+      "explanation": "Gene Glass coined the term in 1976 and described it as the \"analysis of analyses\"."
+    }
+  ]
+}

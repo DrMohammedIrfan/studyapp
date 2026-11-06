@@ -1,0 +1,504 @@
+{
+  "chapter_id": 4034,
+  "chapter_name": "EMI: Child & Adolescent",
+  "subject_name": "Child & Adolescent",
+  "total_questions": 16,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 4034001,
+      "question_type": "emi",
+      "emi_theme": "ADHD treatments & side e\u0000ects",
+      "emi_instruction": "Identify the most likely drug responsible for each of the following side e\u0000ects while treating children with ADHD",
+      "difficulty": "hard",
+      "question_text": "Monitoring of liver function tests is required",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4034011,
+          "text": "Atomoxetine",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4034012,
+          "text": "Methylphenidate",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Atomoxetine"
+      },
+      "explanation": "1) Mild growth slowing has been reported with methylphenidate especially during \u0000rst two years, and it is vital tom monitor height & weight\nregularly."
+    },
+    {
+      "question_number": 2,
+      "question_id": 4034002,
+      "question_type": "emi",
+      "emi_theme": "ADHD treatments & side e\u0000ects",
+      "emi_instruction": "Identify the most likely drug responsible for each of the following side e\u0000ects while treating children with ADHD",
+      "difficulty": "hard",
+      "question_text": "Exacerbation of tics",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4034021,
+          "text": "Atomoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4034022,
+          "text": "Methylphenidate",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Methylphenidate"
+      },
+      "explanation": "2) Atomoxetine could cause gastrointestinal side e\u0000ects and impairment of liver function tests. Therefore, monitoring of LFTs is\nrecommended."
+    },
+    {
+      "question_number": 3,
+      "question_id": 4034003,
+      "question_type": "emi",
+      "emi_theme": "ADHD treatments & side e\u0000ects",
+      "emi_instruction": "Identify the most likely drug responsible for each of the following side e\u0000ects while treating children with ADHD",
+      "difficulty": "hard",
+      "question_text": "Hallucinations such as skin\ncrawling and visions",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4034031,
+          "text": "Atomoxetine",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4034032,
+          "text": "Methylphenidate",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Methylphenidate"
+      },
+      "explanation": "3) Exacerbation of tics has been reported with stimulant medication such as methylphenidate."
+    },
+    {
+      "question_number": 4,
+      "question_id": 4034004,
+      "question_type": "emi",
+      "emi_theme": "Etiology of childhood disorders",
+      "emi_instruction": "Identify the most important etiological factors associated with each of the following diagnoses.",
+      "difficulty": "hard",
+      "question_text": "School refusal",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4034041,
+          "text": "Youngest child in family",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4034042,
+          "text": "Maternal smoking during pregnancy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4034043,
+          "text": "Callous traits in parents",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Youngest child in family"
+      },
+      "explanation": "1) Being the youngest child in the family is associated with school refusal."
+    },
+    {
+      "question_number": 5,
+      "question_id": 4034005,
+      "question_type": "emi",
+      "emi_theme": "Etiology of childhood disorders",
+      "emi_instruction": "Identify the most important etiological factors associated with each of the following diagnoses.",
+      "difficulty": "hard",
+      "question_text": "Attention de\u0000cit\nhyperactivity disorder",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4034051,
+          "text": "Youngest child in family",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4034052,
+          "text": "Maternal smoking during pregnancy",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4034053,
+          "text": "Callous traits in parents",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Maternal smoking during pregnancy"
+      },
+      "explanation": "2) Adolescent depression is associated with increased cortisol levels."
+    },
+    {
+      "question_number": 6,
+      "question_id": 4034006,
+      "question_type": "emi",
+      "emi_theme": "Etiology of childhood disorders",
+      "emi_instruction": "Identify the most important etiological factors associated with each of the following diagnoses.",
+      "difficulty": "hard",
+      "question_text": "Conduct disorder",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4034061,
+          "text": "Youngest child in family",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4034062,
+          "text": "Maternal smoking during pregnancy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4034063,
+          "text": "Callous traits in parents",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Callous traits in parents"
+      },
+      "explanation": "3) Maternal smoking during pregnancy increases the risk of development of ADHD in children."
+    },
+    {
+      "question_number": 7,
+      "question_id": 4034007,
+      "question_type": "emi",
+      "emi_theme": "Rating scales in children (1)",
+      "emi_instruction": "Select one rating scale for use in each of the following situations;",
+      "difficulty": "hard",
+      "question_text": "This\nscale is widely used to obtain information from school teachers on ADHD symptoms",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4034071,
+          "text": "Connor's questionnaire",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Connor's questionnaire"
+      },
+      "explanation": "1) CY-BOCS is the Paediatric version of Y-BOCS (Yale-Brown obsessive-compulsive scale)."
+    },
+    {
+      "question_number": 8,
+      "question_id": 4034008,
+      "question_type": "emi",
+      "emi_theme": "Male: Female ratios",
+      "emi_instruction": "Identify the male: female ratio for each of the childhood psychiatric conditions listed below",
+      "difficulty": "hard",
+      "question_text": "Bulimia nervosa",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4034081,
+          "text": "1:10",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4034082,
+          "text": "9:1",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4034083,
+          "text": "3:1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4034084,
+          "text": "1:1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "1:10"
+      },
+      "explanation": "1) Bulimia nervosa is seen more often in females with a male: female ratio of 1:10."
+    },
+    {
+      "question_number": 9,
+      "question_id": 4034009,
+      "question_type": "emi",
+      "emi_theme": "Male: Female ratios",
+      "emi_instruction": "Identify the male: female ratio for each of the childhood psychiatric conditions listed below",
+      "difficulty": "hard",
+      "question_text": "Asperger's syndrome",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4034091,
+          "text": "1:10",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4034092,
+          "text": "9:1",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4034093,
+          "text": "3:1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4034094,
+          "text": "1:1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "9:1"
+      },
+      "explanation": "2) Asperger's syndrome: The ratio of males to females with AS is currently estimated to be 9:1. On an average, boys are referred nine times\nmore often for diagnostic assessment itself (Wagner, 2006)."
+    },
+    {
+      "question_number": 10,
+      "question_id": 4034010,
+      "question_type": "emi",
+      "emi_theme": "Male: Female ratios",
+      "emi_instruction": "Identify the male: female ratio for each of the childhood psychiatric conditions listed below",
+      "difficulty": "hard",
+      "question_text": "Attention de\u0000cit hyperactivity disorder in community surveys",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4034101,
+          "text": "1:10",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4034102,
+          "text": "9:1",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4034103,
+          "text": "3:1",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4034104,
+          "text": "1:1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "3:1"
+      },
+      "explanation": "3) ADHD is seen more often in boys with a male predominance of 3:1."
+    },
+    {
+      "question_number": 11,
+      "question_id": 4034011,
+      "question_type": "emi",
+      "emi_theme": "Male: Female ratios",
+      "emi_instruction": "Identify the male: female ratio for each of the childhood psychiatric conditions listed below",
+      "difficulty": "hard",
+      "question_text": "Pre-pubertal depression",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4034111,
+          "text": "1:10",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4034112,
+          "text": "9:1",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4034113,
+          "text": "3:1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4034114,
+          "text": "1:1",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "1:1"
+      },
+      "explanation": "4) Prepubescent depression: The prevalence is up to 3% with 1:1 gender ratio. Adolescent depression: The prevalence is approximately 8%\nfor males and 14% for females."
+    },
+    {
+      "question_number": 12,
+      "question_id": 4034012,
+      "question_type": "emi",
+      "emi_theme": "Male: Female ratios",
+      "emi_instruction": "Identify the male: female ratio for each of the childhood psychiatric conditions listed below",
+      "difficulty": "hard",
+      "question_text": "Tourette's syndrome",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4034121,
+          "text": "1:10",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4034122,
+          "text": "9:1",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4034123,
+          "text": "3:1",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4034124,
+          "text": "1:1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "3:1"
+      },
+      "explanation": "1) Bulimia nervosa is seen more often in females with a male: female ratio of 1:10.  \n2) Asperger's syndrome: The ratio of males to females with AS is currently estimated to be 9:1. On an average, boys are referred nine times\nmore often for diagnostic assessment itself (Wagner, 2006).  \n3) ADHD is seen more often in boys with a male predominance of 3:1.\n4) Prepubescent depression: The prevalence is up to 3% with 1:1 gender ratio. Adolescent depression: The prevalence is approximately 8%\nfor males and 14% for females.\n5) The mean age of onset of Tourette's syndrome is seven years and male: female ratio is 3:1."
+    },
+    {
+      "question_number": 13,
+      "question_id": 4034013,
+      "question_type": "emi",
+      "emi_theme": "Extended Matching",
+      "emi_instruction": "For each clinical presentation, select the most likely option.",
+      "difficulty": "hard",
+      "question_text": "poor\nconcentration and lacking the motivation to do anything.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4034131,
+          "text": "Depressive disorder",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Depressive disorder"
+      },
+      "explanation": "1) In truancy, there is a poor academic achievement and poor attendance record at the school. The presence of anti-social symptoms is\nmore suggestive of truancy."
+    },
+    {
+      "question_number": 14,
+      "question_id": 4034014,
+      "question_type": "emi",
+      "emi_theme": "Rating scales in children (2)",
+      "emi_instruction": "Select one rating scale to use in each of the following situations",
+      "difficulty": "hard",
+      "question_text": "especially if the child\npresents with di\u0000erent symptoms in di\u0000erent settings such as at school and home",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4034141,
+          "text": "Child behaviour checklist (CBCL)",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Child behaviour checklist (CBCL)"
+      },
+      "explanation": "1) Connor's questionnaire is widely used to obtain information from schoolteachers on ADHD symptoms. There are also the parent and\nadolescent versions."
+    },
+    {
+      "question_number": 15,
+      "question_id": 4034015,
+      "question_type": "emi",
+      "emi_theme": "Treatment options in child psychiatry (2)",
+      "emi_instruction": "Identify the best modes of treatment for each of the following clinical situations",
+      "difficulty": "hard",
+      "question_text": "A 9-year-old girl is ashamed of her bedwetting and will not\nattend any sleepover parties",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4034151,
+          "text": "Desmopressin nasal spray plus behavioral conditioning",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Desmopressin nasal spray plus behavioral conditioning"
+      },
+      "explanation": "1) The diagnosis is OCD. Sertraline is licensed in the UK for the treatment of OCD in young people. The Paediatric OCD Treatment Study\n(POTS) is a recent multi-site National Institute of Health-funded investigation of sertraline and cognitive-behavioural therapy (response\nprevention) each alone and in combination for the treatment of childhood-onset OCD. The POTS study revealed that the combination was\nsuperior to either treatment alone."
+    },
+    {
+      "question_number": 16,
+      "question_id": 4034016,
+      "question_type": "emi",
+      "emi_theme": "Childhood Disorders",
+      "emi_instruction": "Choose the correct diagnosis for each of the following situations",
+      "difficulty": "hard",
+      "question_text": "and there is a decline in his school academic performance.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4034161,
+          "text": "PTSD",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "PTSD"
+      },
+      "explanation": "1) The diagnosis is generalized anxiety disorder. The symptoms in children include somatic symptoms (such as headache, stomach pains,\nrapid heartbeat, shortness of breath), nail biting, hair pulling and school refusal."
+    }
+  ]
+}

@@ -1,0 +1,624 @@
+{
+  "chapter_id": 4042,
+  "chapter_name": "Analytical Studies",
+  "subject_name": "Research Methods",
+  "total_questions": 14,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 4042001,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An environmental agency identi\u0000es 200 patients with a lifetime history of panic attacks and 200 matched controls without the condition.\nExposure to loud tra\u0000c noises was compared in two groups. 20 patients and ten controls had such an exposure. Which of the following is\nfalse with respect to the above study design?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4042011,
+          "text": "Both exposure and disease have occurred before the onset of the study.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4042012,
+          "text": "It is less cost e\u0000ective than following up those who were exposed to loud noise till they have panic attacks",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4042013,
+          "text": "It is mostly useful to study outcomes which are rare",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4042014,
+          "text": "It is mostly useful in diseases where exposure is common",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4042015,
+          "text": "It is a retrospective design",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "It is less cost e\u0000ective than following up those who were exposed to loud noise till they have panic attacks"
+      },
+      "explanation": "The above is an example of case-control study design. The exposure and the outcome have both taken place when the subjects are\nrecruited. It is retrospective, cheap compared to cohort studies and is useful to study common exposures (but relatively rare outcomes)."
+    },
+    {
+      "question_number": 2,
+      "question_id": 4042002,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a case-control study of possible nutritional correlates of depression, subjects were asked about the frequency of consuming 20 di\u0000erent\nfood items in a Likert scale. The histories of cases di\u0000ered signi\u0000cantly from those of controls, at p=.05, for three of the 20 listed items.\nWhich of the following is most likely?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4042021,
+          "text": "The study is inconclusive: further case control studies with more rigorous methods are required",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4042022,
+          "text": "Diet is related to depression; but it is unclear which of the three items is the most important culprit",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4042023,
+          "text": "Diet is not related to depression as the results are due to chance \u0000nding: discard the study",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4042024,
+          "text": "The results are conclusive if it could be shown that there was no recall bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4042025,
+          "text": "Diet is de\u0000nitely related to depression; further cohort studies for each of the 3 items are warranted",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "The study is inconclusive: further case control studies with more rigorous methods are required"
+      },
+      "explanation": "There are two important problems with this study. Asking depressed subjects to recall numerous food items can produce serious recall bias.\nIn addition, at a signi\u0000cance level of 0.05, at least one out of the 20 items may show an association by chance. As it is di\u0000cult to say which of\nthe three items are really associated with depression, it may not be wise to invest huge e\u0000ort and money in a cohort study at this stage. It is\nbest if a more rigorous case-control study is attempted to replicate or refute the \u0000ndings."
+    },
+    {
+      "question_number": 3,
+      "question_id": 4042003,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A case-control study investigating various risk factors for a disease in hospitalised patients chooses healthy relatives of the patients as\ncontrols. In which of the following situations the results may be distorted?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4042031,
+          "text": "Risk factor is related to diet and lifestyle",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4042032,
+          "text": "Risk factor is purely related to occupational exposure",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4042033,
+          "text": "Disease is not shared by families",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4042034,
+          "text": "Exposure is likely to be not shared by families",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4042035,
+          "text": "Risk factor is not related to household environment",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Risk factor is related to diet and lifestyle"
+      },
+      "explanation": "This matching approach increases the likelihood that the factors that are generally shared by family members will be similar for both the\ncontrols and the cases. This reduces bias and confounding especially if the cause of a disease is not shared in families. Unfortunately in\ncases where the causal agent is genetic or otherwise familial, this method leads to \"overmatching\" thus reducing the ability to demonstrate\nthe causation."
+    },
+    {
+      "question_number": 4,
+      "question_id": 4042004,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which one of the following types of bias is NOT a major concern in a hospital-based case-control study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4042041,
+          "text": "Veri\u0000cation bias",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4042042,
+          "text": "Berkson bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4042043,
+          "text": "Neyman bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4042044,
+          "text": "Recall bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4042045,
+          "text": "Family information bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Veri\u0000cation bias"
+      },
+      "explanation": "Work up bias (veri\u0000cation bias) refers to a systematic error in the assessment of the validity of a diagnostic test. When the execution of the\ngold standard is in\u0000uenced by the results of the assessed test, especially when the reference test is less frequently performed when the\nassessed test result is negative, then this will in\u0000uence the number of false negatives correctly identi\u0000ed in the exercise. This bias is speci\u0000c\nto assessment of diagnostic tests and so not seen in ordinary case-control studies where cases and controls are determined before\nestimates of exposure begin. Family aggregation bias is a type of information bias wherein presence of a case in the family increases\nawareness of risk factors and exposure leading to more family members of cases reporting an exposure though controls have family\nmembers with less awareness. Journal Epid Comm Health 2004;58;635-641"
+    },
+    {
+      "question_number": 5,
+      "question_id": 4042005,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following describes the relationship between prevalence and incidence rates?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4042051,
+          "text": "Prevalence = incidence/duration",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4042052,
+          "text": "Prevalence = Incidence X duration",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4042053,
+          "text": "Incidence = prevalence X duration",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4042054,
+          "text": "Prevalence = incidence - duration",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4042055,
+          "text": "Prevalence X incidence = duration",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Prevalence = Incidence X duration"
+      },
+      "explanation": "In a steady-state situation, in which the rates are not changing, and in-migration equals out-migration, the following equation applies -\nPrevalence = Incidence × Duration of disease. Gordis, L. Epidemiology 4th ed. Chapter 3 Saunders Elsevier"
+    },
+    {
+      "question_number": 6,
+      "question_id": 4042006,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a study examining the relationship between domestic abuse and depression, women who do and do not su\u0000er abuse are followed up\nover a \u0000ve-year period. It is found that 70 of the 500 individuals who undergo domestic abuse develop depression; 150 of 3000 individuals\nwho don't get abused develop depression. If the prevalence of domestic abuse in a particular council is 20%, the expected incidence of\ndepression in this council is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4042061,
+          "text": "0.068",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4042062,
+          "text": "5.2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4042063,
+          "text": "1.6",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4042064,
+          "text": "0.02",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4042065,
+          "text": "3.44",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "0.068"
+      },
+      "explanation": "It = (Prevalence in the exposed)(Incidence in the exposed) + (1-Prevalence in the exposed)(Incidence in the non-exposed) = (20%)(70/500) +\n(1-20%)(150/3000) = 0.068 or 6.8%"
+    },
+    {
+      "question_number": 7,
+      "question_id": 4042007,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Cohort studies allow researchers to calculate relative risk and attributable risk. Which of the following statements regarding these measures\nis true?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4042071,
+          "text": "Attributable risk is a cross product",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4042072,
+          "text": "Attributable risk cannot take negative values",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4042073,
+          "text": "Relative risk cannot take negative values",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4042074,
+          "text": "Attributable risk but not relative risk explains the reason for di\u0000erences between groups",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4042075,
+          "text": "Attributable risk cannot be zero",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Relative risk cannot take negative values"
+      },
+      "explanation": "Relative risk is a ratio - it can have values less than 1, but not less than 0. Attributable risk is an absolute risk di\u0000erence it can be less than\nzero when the risk in exposed is less than the risk in non-exposed. Both attributable risk and relative risk are measures of di\u0000erences\nbetween groups - while the former is an absolute di\u0000erence, the latter is a ratio. The odds ratio is a cross product."
+    },
+    {
+      "question_number": 8,
+      "question_id": 4042008,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "National Comorbidity Survey examined a possible association between traits of neuroticism and various psychiatric disorders. Trained non-\nclinical sta\u0000 screened randomly chosen individuals using well-validated questionnaires to establish lifetime diagnoses in addition to\ncollecting data on drug use, alcohol intake and various personality traits. Which of the following measure of disease occurrence can be\ncalculated from this study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4042081,
+          "text": "Risk rate",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4042082,
+          "text": "Incidence density",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4042083,
+          "text": "Relative risk",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4042084,
+          "text": "Incidence rate",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4042085,
+          "text": "Prevalence",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Prevalence"
+      },
+      "explanation": "Cross-sectional surveys can estimate prevalence only; to \u0000nd out incidence rates a cohort study or repeated cross-sectional surveys at two\ntime points is necessary."
+    },
+    {
+      "question_number": 9,
+      "question_id": 4042009,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study looks into patient records for a group of schizophrenic patients admitted to a psychiatric hospital between 1934 and 1944. All of the\npatients were deceased at the time of study. Each patient's social history recorded at the time of admission was scored by two independent\nraters for the quality of social resources. The impact of social support on the longevity of schizophrenia patients was examined. This study\ncan be described as",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4042091,
+          "text": "Controlled trial",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4042092,
+          "text": "Cross sectional study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4042093,
+          "text": "Ecological study",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4042094,
+          "text": "Retrospective cohort study",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4042095,
+          "text": "Prospective cohort study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Retrospective cohort study"
+      },
+      "explanation": "This study involved retrospective data collection. The groups were separated according to the level of social input at the time of admission\n(exposure) and then the longevity of life (outcome - which occurred later) was examined. This is a retrospective cohort design.\n/www.psychosomaticmedicine.org/cgi/content/full/61/2/146"
+    },
+    {
+      "question_number": 10,
+      "question_id": 4042010,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following study designs is useful to measure point prevalence of a clinical problem?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4042101,
+          "text": "Cross sectional study",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4042102,
+          "text": "Case control study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4042103,
+          "text": "Cohort study",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4042104,
+          "text": "Controlled trial",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4042105,
+          "text": "Uncontrolled trial",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Cross sectional study"
+      },
+      "explanation": "A cross-section survey assesses the status of an individual with respect to the presence or absence of a disease at a given point in time. It\ncan be used to assess point prevalence."
+    },
+    {
+      "question_number": 11,
+      "question_id": 4042011,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following study designs is useful to measure the incidence of a clinical problem?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4042111,
+          "text": "Uncontrolled trial",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4042112,
+          "text": "Controlled trial",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4042113,
+          "text": "Single cross sectional study",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4042114,
+          "text": "Case control study",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4042115,
+          "text": "Cohort study",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Cohort study"
+      },
+      "explanation": "Incidence is de\u0000ned by number of new cases. One needs to observe a population long enough to pick all new cases. This is achieved by\ncohort studies."
+    },
+    {
+      "question_number": 12,
+      "question_id": 4042012,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is an advantage of case-control design over cohort design?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4042121,
+          "text": "Ability to calculate incidence rates",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4042122,
+          "text": "Can be used to determine survival rates",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4042123,
+          "text": "Absence of recall bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4042124,
+          "text": "Can be used to study prodromal course of a disease",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4042125,
+          "text": "Can explore multiple risk factors for the same disease",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Can explore multiple risk factors for the same disease"
+      },
+      "explanation": "Case-control studies are cheaper and faster, compared with other analytic designs. They are useful for studying diseases with long latent\nperiods. They are useful for studying rare diseases since subjects are selected on the basis of disease status. They allow the investigation of\nmultiple exposures simultaneously"
+    },
+    {
+      "question_number": 13,
+      "question_id": 4042013,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following study design is suitable for survival analysis?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4042131,
+          "text": "N of 1 trials",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4042132,
+          "text": "Cross over trials",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4042133,
+          "text": "Cross sectional epidemiological surveys",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4042134,
+          "text": "Cohort studies",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4042135,
+          "text": "Case control studies",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Cohort studies"
+      },
+      "explanation": "Survival data measure follow-up time from a de\u0000ned starting point to the occurrence of a given event, for example the time from the\nbeginning to the end of a remission period or the time from the diagnosis of a disease to death. Such observations are made possible only\nby studies using follow-up data (mostly prospective, sometimes retrospective) such as cohort studies. It is also possible in parallel RCT\ndesigns but usually not attempted in cross over studies where the observation periods are fairly short (retrieved from"
+    },
+    {
+      "question_number": 14,
+      "question_id": 4042014,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A research team wanted to study the association between an occupational exposure and a relatively rare disease. After much struggle, they\nobtain access to the employment records of several major establishments. From these records, the exposures of workers over a period of\n10 years are obtained. Using national hospital registry and public health observatory data the researchers determine the cumulative\nincidence of disease after exposure in factory workers divided into high, low and no exposure. What type of study is this?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4042141,
+          "text": "Cross sectional survey",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4042142,
+          "text": "Retrospective cohort study",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4042143,
+          "text": "Audit",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4042144,
+          "text": "Controlled trial",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4042145,
+          "text": "Case control study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Retrospective cohort study"
+      },
+      "explanation": "As incidence rates are calculated, this study is a cohort study. The subjects are ascertained by exposure status and then the outcome rates\nare studied using registries. So this is a retrospective cohort study."
+    }
+  ]
+}

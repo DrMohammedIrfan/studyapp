@@ -1,0 +1,630 @@
+{
+  "chapter_id": 4044,
+  "chapter_name": "Causality & Confounders",
+  "subject_name": "Research Methods",
+  "total_questions": 14,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 4044001,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "To be called a confounder, the third variable that is suspected to mediate the relationship between a cause and an e\u0000ect must satisfy which\nof the following criteria?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4044011,
+          "text": "It must precede the e\u0000ect",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4044012,
+          "text": "It must be related to both the cause and the e\u0000ect",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4044013,
+          "text": "It should be on the causal pathway that is being investigated",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4044014,
+          "text": "It must be numerically quanti\u0000able",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4044015,
+          "text": "It must be consistently present along with the causal event",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "It must be related to both the cause and the e\u0000ect"
+      },
+      "explanation": "A confounder is an extraneous third variable that correlates with both the dependent and independent variables in a study. Restriction,\nrandomization, standardization, strati\u0000cation and multivariate methods are various ways of eliminating the e\u0000ect of a confounder."
+    },
+    {
+      "question_number": 2,
+      "question_id": 4044002,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is not a suitable method to reduce confounders in a study before the data is collected?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4044021,
+          "text": "Restriction",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4044022,
+          "text": "Randomisation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4044023,
+          "text": "Strati\u0000cation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4044024,
+          "text": "Regression",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4044025,
+          "text": "Minimisation",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Regression"
+      },
+      "explanation": "Restriction, randomization, standardization, strati\u0000cation and multivariate methods are various ways of eliminating the e\u0000ect of a\nconfounder. Of these multivariate methods such as regression can be used only after data collection, at the stage of analysis."
+    },
+    {
+      "question_number": 3,
+      "question_id": 4044003,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following conditions of causality make cohort studies better than case-control studies in exploring causal association?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4044031,
+          "text": "Consistency of association",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4044032,
+          "text": "Strength of association",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4044033,
+          "text": "Temporal association between cause and outcome",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4044034,
+          "text": "Dose response relationship",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4044035,
+          "text": "Biological plausibility of association",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Temporal association between cause and outcome"
+      },
+      "explanation": "The conditions of causality, as proposed by Bradford Hill, include 1. temporal association. 2. dose-response association 3. speci\u0000city of\nassociation 4. consistency of association 5. plausibility of biological reasoning 6. strength of association. Among this temporal association\ncould not be demonstrated using a case-control design which is retrospective."
+    },
+    {
+      "question_number": 4,
+      "question_id": 4044004,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A statistician explains to you that confounders are not eliminated by randomisation. But he still insists randomisation is the best way of\ncontrolling confounding bias. Which of the following is a suitable explanation?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4044041,
+          "text": "Statistically checking for confounders is not necessary if adequate randomisation is done",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4044042,
+          "text": "Confounders can always be eliminated",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4044043,
+          "text": "Confounders can cause an e\u0000ect only if they are distributed di\u0000erently between study groups",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4044044,
+          "text": "Confounders are identi\u0000ed and restricted by the randomisation process",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4044045,
+          "text": "Confounders can be statistically checked only in randomised samples",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Confounders can cause an e\u0000ect only if they are distributed di\u0000erently between study groups"
+      },
+      "explanation": "Confounders can cause an e\u0000ect only if they are distributed di\u0000erently between study groups. This is the principle behind randomisation to\nreduce confounders."
+    },
+    {
+      "question_number": 5,
+      "question_id": 4044005,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A study \u0000nds that the risk of developing hyperglycaemia is high in outpatients taking antipsychotics compared to antidepressants. The odds\nratio is higher for a subgroup of psychotic patients with family history of diabetes. Family history of diabetes can be considered as",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4044051,
+          "text": "Confounder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4044052,
+          "text": "Systematic error",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4044053,
+          "text": "Falsi\u0000er",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4044054,
+          "text": "E\u0000ect modi\u0000er",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4044055,
+          "text": "Causal factor",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "E\u0000ect modi\u0000er"
+      },
+      "explanation": "Research studies tend to analyse the relationship between a cause and e\u0000ect. A third factor can in\u0000uence this relationship. This third factor\nis called a confounder if it distorts the relationship and produces an incorrect result. The confounding factor can disturb the association only\nif it is distributed unevenly in exposed and unexposed individuals. By contrast, e\u0000ect modi\u0000er is a third factor that a\u0000ects the magnitude of\nthe cause-e\u0000ect relationship. E\u0000ect modi\u0000cation provides important information and is not related to unequal distribution. One way of\ndi\u0000erentiating between confounders and e\u0000ect modi\u0000ers is by studying crude relative risk and strati\u0000ed relative risk. If crude risk di\u0000ers\nfrom adjusted risk, we can conclude that the strati\u0000ed factor is a confounder. If the relative risk of one stratum is di\u0000erent from other strata\n(subgroups) then we can call the factor as an e\u0000ect modi\u0000er. Sometimes, a factor can be both confounder and e\u0000ect modi\u0000er."
+    },
+    {
+      "question_number": 6,
+      "question_id": 4044006,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following statistical procedures involve strati\u0000ed analysis of odds ratio in the presence of confounding?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4044061,
+          "text": "Kruskal Wallis test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4044062,
+          "text": "ANOVA",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4044063,
+          "text": "Mantel-Haenszel method",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4044064,
+          "text": "Peto test",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4044065,
+          "text": "Mann Whitney U test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Mantel-Haenszel method"
+      },
+      "explanation": "The Mantel-Haenszel technique is an excellent method for adjusting for confounding factors when analysing the relationship between a\ndichotomous outcome and a dichotomous risk factor."
+    },
+    {
+      "question_number": 7,
+      "question_id": 4044007,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following methods is NOT used to minimise confounding factors in a case-control study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4044071,
+          "text": "Regression analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4044072,
+          "text": "Strati\u0000ed analysis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4044073,
+          "text": "Blinding",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4044074,
+          "text": "Matching",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4044075,
+          "text": "Restriction",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Blinding"
+      },
+      "explanation": "Randomisation, restriction and matching are three methods that can be used while designing a study to control for confounders.\nAlternatively, we can handle the problem of confounding in the data analysis in one of the two ways: strati\u0000cation or adjustment."
+    },
+    {
+      "question_number": 8,
+      "question_id": 4044008,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Various study designs can be used to investigate causality. In such investigations, the most important di\u0000erence between an experimental\nstudy and an observational study is that",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4044081,
+          "text": "The researcher controls the exposure of the subjects in an experimental study",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4044082,
+          "text": "The study and control groups are selected according to exposure status in an experimental study",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4044083,
+          "text": "The experimental study needs ethical approval",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4044084,
+          "text": "The experimental study is prospective",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4044085,
+          "text": "The study and control groups are carefully matched in an experimental study",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "The researcher controls the exposure of the subjects in an experimental study"
+      },
+      "explanation": "In experimental studies, the exposure of the subjects to a putative causal factor / treatment factor is controlled by the researcher. Both\ntypes of studies need ethical approval. Cohort studies are observational and still prospective. Matching two groups is necessary for both\ntypes of studies. This can be achieved by randomization in experiments."
+    },
+    {
+      "question_number": 9,
+      "question_id": 4044009,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "While conducting a study, all enrolled subjects were matched for age, gender, smoking and body mass index before studying to control for\nconfounding. Which of the following type of studies is most suitable for the above method?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4044091,
+          "text": "A cross-sectional study design to study interaction between multiple social and environmental variables on adolescent depression",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4044092,
+          "text": "An ecological study using data from the UK household survey",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4044093,
+          "text": "A prospective cohort study of 1684 subjects.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4044094,
+          "text": "A case control study requiring a total sample size of 30 each.",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4044095,
+          "text": "A randomised control trial evaluating the e\u0000ect of Bupropion on smoking cessation.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "A case control study requiring a total sample size of 30 each."
+      },
+      "explanation": "Matching is possible for smaller studies. It is not needed for RCTs and extremely di\u0000cult for large cohort studies. It is not possible for\necological studies and cross-sectional surveys."
+    },
+    {
+      "question_number": 10,
+      "question_id": 4044010,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is not a criterion used in assessing the evidence for causality in medical research?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4044101,
+          "text": "Temporality",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4044102,
+          "text": "Sensitivity",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4044103,
+          "text": "Consistency",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4044104,
+          "text": "Speci\u0000city",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4044105,
+          "text": "Biological gradient",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Sensitivity"
+      },
+      "explanation": "Hill's criteria for causality includes consistency, speci\u0000city, temporality and biological gradient (dose-response relationship). Consistency\nrefers to the association being repeatedly observed in studies performed by di\u0000erent persons, in di\u0000erent settings, among di\u0000erent\npopulations and using di\u0000erent methods. If a speci\u0000c exposure can be isolated from others and associated with a speci\u0000c disease, then such\nspeci\u0000city supports causality. This is perhaps the most di\u0000cult criterion to ful\u0000ll because in practice many exposures (e.g., cigarettes or\nradiation) are associated with multiple e\u0000ects and speci\u0000c diseases often have more than one cause. Temporality refers to time relationship\nbetween cause and e\u0000ect: the factor believed to have caused the disease must have occurred prior to disease development. Hill AB: The\nenvironment and disease: Association or causation? Proc R Soc Med 58:295-330, 1965"
+    },
+    {
+      "question_number": 11,
+      "question_id": 4044011,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "An observed dose-response e\u0000ect supports the hypothesis of a causal relationship, according to Hill's criteria. But many well-designed\nstudies of a genuinely causal relationship may fail to show a dose-response e\u0000ect. Which is the least likely explanation for such results?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4044111,
+          "text": "All doses are too low to reveal the e\u0000ect",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4044112,
+          "text": "A confounder obscures the e\u0000ect",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4044113,
+          "text": "Random variation obscures the e\u0000ect",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4044114,
+          "text": "There is no real dose-response e\u0000ect",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4044115,
+          "text": "All doses are too high to reveal the e\u0000ect",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "There is no real dose-response e\u0000ect"
+      },
+      "explanation": "If a dose-response relationship is present, it provides a strong evidence for a causal relationship. However, the absence of a dose-response\nrelationship does not necessarily rule out a causal relationship. In some cases in which a threshold may exist, no disease may develop up to\na certain level of exposure; above this threshold level, the disease may manifest. The study might have included only below threshold\nexposures; similarly if there is a dose window only within which the response occurs, again this may be missed if all participants are outside\nthe window. Similarly confounders and random variation may obscure the association."
+    },
+    {
+      "question_number": 12,
+      "question_id": 4044012,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following methods can be used to evaluate both confounders and e\u0000ect modi\u0000ers in a study examining causal association",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4044121,
+          "text": "Standardisation",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4044122,
+          "text": "Minimisation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4044123,
+          "text": "Randomisation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4044124,
+          "text": "Restriction",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4044125,
+          "text": "Strati\u0000cation",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Strati\u0000cation"
+      },
+      "explanation": "Strati\u0000cation can help analyse the e\u0000ect modi\u0000ers and confounders in a study."
+    },
+    {
+      "question_number": 13,
+      "question_id": 4044013,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "In a large Finnish cohort study of the relationship between bullying and depression in adult life, the crude relative risk was 5.0. When the\ndata was strati\u0000ed according to socioeconomic class of parents, the relative risks are 7.0 for the class I, 3.0 for the class II, and 1.5 for the\nclass III and the Mantel-Haenszel adjusted rate was 3. The most appropriate conclusion from the study must be",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4044131,
+          "text": "Bullying is associated with three times more risk of depression in adult life; the risk is confounded by socioeconomic status of parents",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4044132,
+          "text": "Bullying is associated with three times more risk of depression in adult life; the risk is modi\u0000ed according to socioeconomic status of",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4044133,
+          "text": "parents",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4044134,
+          "text": "Bullying is associated with 11.5 times more risk of depression in adult life",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4044135,
+          "text": "Bullying is associated with four times (on average across various socioeconomic groups) more risk of depression in adult life",
+          "is_correct": false
+        },
+        {
+          "letter": "F",
+          "option_id": 4044136,
+          "text": "Bullying is associated with 3.8 times more risk of depression in adult life",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "parents"
+      },
+      "explanation": "As crude rates do not di\u0000er from adjusted rates, the socioeconomic status is not a confounder, but as strata di\u0000er among each other, it is an\ne\u0000ect modi\u0000er. One must use the adjusted rates when giving the \u0000nal study result - averages or sums are not appropriate."
+    },
+    {
+      "question_number": 14,
+      "question_id": 4044014,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher is interested in the e\u0000ects of alcohol use on REM sleep architecture. But she is aware that cannabis or nicotine use is a\npotential extraneous variable; so she picks only those subjects who do not use cannabis or nicotine before determining their alcohol status.\nWhich of the following methods of controlling a confounder has been used here?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4044141,
+          "text": "Restriction",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4044142,
+          "text": "Strati\u0000cation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4044143,
+          "text": "Standardisation",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4044144,
+          "text": "Randomisation",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4044145,
+          "text": "Matching",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Restriction"
+      },
+      "explanation": "The study has been restricted to a population group lacking the confounding factor, namely exposure to cannabis or nicotine. This is known\nas restriction."
+    }
+  ]
+}

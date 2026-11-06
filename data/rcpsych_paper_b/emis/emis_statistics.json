@@ -1,0 +1,968 @@
+{
+  "chapter_id": 4041,
+  "chapter_name": "EMI: Biostatistics",
+  "subject_name": "Research & Stats",
+  "total_questions": 36,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 4041001,
+      "question_type": "emi",
+      "emi_theme": "Multivariate techniques",
+      "emi_instruction": "Choose one option from the given list for each description below:",
+      "difficulty": "hard",
+      "question_text": "Within subjects analysis for paired observations of\nmeans in 5 di\u0000erent groups.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041011,
+          "text": "Repeated measures ANOVA",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Repeated measures ANOVA"
+      },
+      "explanation": "When the term 'chain of causation' is used, path analysis is often a suitable technique.  \nTo make predictions, we need regression models. As a binary dependent variable is employed, logistic regression is the most appropriate.  \nRepeated measures ANOVA can be used to compare paired observations within subjects across multiple groups. Here one will model the\ngroups (5 groups) as a between subjects factor and time of observation (before and after) as the within-subjects factor."
+    },
+    {
+      "question_number": 2,
+      "question_id": 4041002,
+      "question_type": "emi",
+      "emi_theme": "Univariate statistics",
+      "emi_instruction": "Choose one option from the given list for each description below:",
+      "difficulty": "hard",
+      "question_text": "The degree of agreement and reliability between two raters for nominal measures.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041021,
+          "text": "Kappa",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Kappa"
+      },
+      "explanation": "To measure the strength of association between two continuous measures, correlation can be tested using Pearson's r. Chi-\nsquare test is useful to compare proportions between two groups. Reliability of nominal measures can be tested using kappa."
+    },
+    {
+      "question_number": 3,
+      "question_id": 4041003,
+      "question_type": "emi",
+      "emi_theme": "Sampling methods I",
+      "emi_instruction": "Choose the most appropriate sampling technique used for each study described below:",
+      "difficulty": "hard",
+      "question_text": "presence or absence of a history of analgesic prescription.\nFirst ten patients from each group are picked.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041031,
+          "text": "Quota sampling",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Quota sampling"
+      },
+      "explanation": "Snowball sampling is used to reach normally di\u0000cult-to-engage sample frame.\nConsecutive sampling is a form of convenience sampling.  \nUsing every nth person as if in roll calls produces a systematic sample\n\nUsing every nth person, as if in roll calls, produces a systematic sample.  \nAfter stratifying a target population into di\u0000erent strata, random samples are picked from each stratum in question 4 - this constitutes a\nstrati\u0000ed random sampling. \nIn question 5, after the strati\u0000cation, a proportion is selected - this is called quota sampling."
+    },
+    {
+      "question_number": 4,
+      "question_id": 4041004,
+      "question_type": "emi",
+      "emi_theme": "Statistical tests II",
+      "emi_instruction": "Hyperglycemia and metabolic syndrome are associated with the use of antipsychotics in schizophrenia patients. A researcher wants to",
+      "difficulty": "hard",
+      "question_text": "Comparing the prevalence of metabolic syndrome in a sample of 50 inpatients after using antipsychotic paliperidone for\neight weeks and a sample of 33-day unit patients undertaking psychotherapy for eight weeks.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041041,
+          "text": "Chi-square test",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Chi-square test"
+      },
+      "explanation": "For question 1, mean values before and after are compared in the same sample: paired t-test can be used for this.  \nFor question 2, di\u0000erences in values of each group are \u0000rst computed, then a mean is obtained for each group which is then compared: this\nis e\u0000ectively the same as comparing two means which are obtained by other means. Hence, we can use unpaired t test.  \n\nQuestion 3 refers to comparing proportions in a paired condition (before and after) - McNemar's test is best used for this purpose. It is\nsimilar to Chi-square test but can be used in non-parametric or paired situations. \nQuestion 4 is comparing proportions between two independent groups - Chi-square is the most suitable test."
+    },
+    {
+      "question_number": 5,
+      "question_id": 4041005,
+      "question_type": "emi",
+      "emi_theme": "Statistical tests III",
+      "emi_instruction": "For each of the studies below, choose the most appropriate statistical test to analyse the data.",
+      "difficulty": "hard",
+      "question_text": "Comparison of systolic blood pressures in independent samples of schizophrenia patients taking clozapine with\npatients taking olanzapine.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041051,
+          "text": "Student t-test",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4041052,
+          "text": "Paired t-test",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Student t-test"
+      },
+      "explanation": "Comparison of mean blood pressure between two groups can be achieved by employing Student's unpaired t test. Prevalence is a\nproportion.  \nComparison of proportions (categorical outcome) can be achieved using chi-square test.  \nComparing means of a continuous variable such as platelet serotonin level in more than two groups can be done using ANOVA. Please note\nthat while ANOVA indicates whether or not di\u0000erences exist among groups, it does not tell where such di\u0000erences are located.\nPaired observations of mean values (serum cholesterol in the same subject before and after an intervention) can be tested using paired t-\ntest."
+    },
+    {
+      "question_number": 6,
+      "question_id": 4041006,
+      "question_type": "emi",
+      "emi_theme": "Statistical tests III",
+      "emi_instruction": "For each of the studies below, choose the most appropriate statistical test to analyse the data.",
+      "difficulty": "hard",
+      "question_text": "Comparison of serum cholesterol before and after attending a lifestyle modi\u0000cation\nclinic in a group of bipolar patients attending assertive outreach service.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041061,
+          "text": "Student t-test",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4041062,
+          "text": "Paired t-test",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Paired t-test"
+      },
+      "explanation": "Comparison of mean blood pressure between two groups can be achieved by employing Student's unpaired t test. Prevalence is a\nproportion.  \nComparison of proportions (categorical outcome) can be achieved using chi-square test.  \nComparing means of a continuous variable such as platelet serotonin level in more than two groups can be done using ANOVA. Please note\nthat while ANOVA indicates whether or not di\u0000erences exist among groups, it does not tell where such di\u0000erences are located.\nPaired observations of mean values (serum cholesterol in the same subject before and after an intervention) can be tested using paired t-\ntest."
+    },
+    {
+      "question_number": 7,
+      "question_id": 4041007,
+      "question_type": "emi",
+      "emi_theme": "Sampling methods II",
+      "emi_instruction": "For each of the techniques described below, choose the most appropriate sampling technique from the given list.",
+      "difficulty": "hard",
+      "question_text": "numbering all the constituents of a sampling frame and then using a random number table\nto pick cases.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041071,
+          "text": "Simple random sampling",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Simple random sampling"
+      },
+      "explanation": "A convenience sample is a sample where the patients are selected, in part or whole, at the convenience of the researcher. The researcher\nmakes no or limited attempt to ensure representativeness of this sample to the source population. A good example of a convenience\nsample is standing at a shopping mall and selecting shoppers as they walk by to \u0000ll out a survey on shopping practices.  \nIn simple random sampling each individual in the population has an equal chance (probability) of being selected.  \nQuota sampling refers to strati\u0000cation of source population into subgroups and allocating a proportion to each group; then in a non-random\nmanner, (e.g. \u0000rst 10 in each group) the individuals are selected to be included in the study. Both convenience sampling and quota sampling\nare non-random methods. One way of obtaining a random sample is to give each individual a number and then to use a computer-\ngenerated table of random numbers to decide which individuals should be included.  \n\nCluster sampling involves the use of groups as the sampling unit rather than individuals (e.g. households, school classes or GP practices).\nThe groups to be studied should be randomly selected from all possible groups of the same type. Most importantly, all members of the\nselected groups must be included in the study to qualify as a cluster sample. If individuals are again randomly selected within the random\nclusters, this will be a multi-stage sample (two random sampling). In strati\u0000ed sampling, a population is divided into subgroups based on\nde\u0000ned characteristics such as age, sex, or severity of illness, or any combination of these; then random samples are selected from each\nsubgroup. In such sample, the probability of an individual being included varies according to a predetermined characteristic (strata). This\nmethod ensures that small subgroups that are of particular interest to the investigator are adequately represented."
+    },
+    {
+      "question_number": 8,
+      "question_id": 4041008,
+      "question_type": "emi",
+      "emi_theme": "Sampling methods III",
+      "emi_instruction": "For each of the techniques described below, choose the most appropriate sampling technique from the given list.",
+      "difficulty": "hard",
+      "question_text": "and subjects are randomly\npicked within each category to constitute study sample.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041081,
+          "text": "Strati\u0000ed sampling",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Strati\u0000ed sampling"
+      },
+      "explanation": "The di\u0000erence between cluster sampling and simple random sampling is in the individual unit that is picked randomly. If large units such as\nGP practices, postcode areas or classrooms are picked wherein all individual members of the group are studied then it is called cluster\nsampling. In simple random samples, the individual participants are directly picked in a random fashion. In strati\u0000ed random samples, larger\nsubgroups are identi\u0000ed according to known mediators, and in each group, members are picked randomly. Hence the groups are not\nrandomly chosen, unlike cluster sampling and within each group not all members are included, again in contrast from cluster sampling.\nSystematic sampling appears organised and 'systematic' where every nth member is picked for a study. But the probability of being chosen\nis not random and is in\u0000uenced by unknown factors. Hence, it is a non-random method of sampling."
+    },
+    {
+      "question_number": 9,
+      "question_id": 4041009,
+      "question_type": "emi",
+      "emi_theme": "Errors in research",
+      "emi_instruction": "For each of the errors described below, choose the most appropriate term from the given list.",
+      "difficulty": "hard",
+      "question_text": "the di\u0000erences do not reach statistical signi\u0000cance.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041091,
+          "text": "Selection bias",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Selection bias"
+      },
+      "explanation": ""
+    },
+    {
+      "question_number": 10,
+      "question_id": 4041010,
+      "question_type": "emi",
+      "emi_theme": "Data Types",
+      "emi_instruction": "For each of the following descriptions choose an appropriate response from given list:",
+      "difficulty": "hard",
+      "question_text": "poor or absent to correlate with\nparietal volume.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041101,
+          "text": "Ordinal",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4041102,
+          "text": "Ratio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Ordinal"
+      },
+      "explanation": "Having a relapse or not is a categorical outcome (i.e. 'yes' or 'no' type). Hence, the outcome is nominal. Likert scales, as described here in the\ninsight measurement, produce ordinal data. Lean body mass is a continuous variable with a meaningful zero. So one can say that subject A\nis two times heavier than subject B. As such ratios are possible, lean body mass is a ratio data. Consider interval scales such as dates of\nadmission to a psychiatric unit. These are ordered and have real numerical units and can be subtracted from each other, but there is no\nintrinsic zero to the scale so that dividing them does not make sense. For example, it would be absurd to say one date of admission is three\ntimes 'bigger' than another date."
+    },
+    {
+      "question_number": 11,
+      "question_id": 4041011,
+      "question_type": "emi",
+      "emi_theme": "Data Types",
+      "emi_instruction": "For each of the following descriptions choose an appropriate response from given list:",
+      "difficulty": "hard",
+      "question_text": "Lean body mass on admission at an eating disorder unit.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041111,
+          "text": "Ordinal",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4041112,
+          "text": "Ratio",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Ratio"
+      },
+      "explanation": "Having a relapse or not is a categorical outcome (i.e. 'yes' or 'no' type). Hence, the outcome is nominal. Likert scales, as described here in the\ninsight measurement, produce ordinal data. Lean body mass is a continuous variable with a meaningful zero. So one can say that subject A\nis two times heavier than subject B. As such ratios are possible, lean body mass is a ratio data. Consider interval scales such as dates of\nadmission to a psychiatric unit. These are ordered and have real numerical units and can be subtracted from each other, but there is no\nintrinsic zero to the scale so that dividing them does not make sense. For example, it would be absurd to say one date of admission is three\ntimes 'bigger' than another date."
+    },
+    {
+      "question_number": 12,
+      "question_id": 4041012,
+      "question_type": "emi",
+      "emi_theme": "Graphs describing data",
+      "emi_instruction": "Choose one appropriate option from the given list for each of the following descriptions:",
+      "difficulty": "hard",
+      "question_text": "A graph that could be used to identify potential heterogeneity in which e\u0000ect size\nis plotted against a measure of precision.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041121,
+          "text": "Galbraith plot",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Galbraith plot"
+      },
+      "explanation": ""
+    },
+    {
+      "question_number": 13,
+      "question_id": 4041013,
+      "question_type": "emi",
+      "emi_theme": "Measures of Agreement",
+      "emi_instruction": "Nurse",
+      "difficulty": "hard",
+      "question_text": "The overall agreement between the two clinicians out of the total",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041131,
+          "text": "0.7",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4041132,
+          "text": "0.5",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4041133,
+          "text": "0.4",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "0.7"
+      },
+      "explanation": "Step 1:  \nNumber of occasions of agreement = 40 (agreed for presence of diagnosis)+30 (agreed for absence of diagnosis) = 70 out of 100 individual\nevents = 70% . This is the overall percent agreement between the two clinicians out of the total. \nStep 2: \nTo determine the e\u0000ect of chance assume that the psychiatrist has no clinical skills and as a result has a tendency to depend on his stars\n\nTo determine the e\u0000ect of chance, assume that the psychiatrist has no clinical skills and, as a result, has a tendency to depend on his stars\nall the time. If this is the case, he must be diagnosing 60 out of any 100 as borderline and 40 out of any 100 as not having borderline\nirrespective of the population (from the above data). If he evaluates the 50 patients diagnosed as borderline by the nurse, he must call 30 of\nthem to have the diagnosis; using the same principles he must call 20 out of 50 patients rejected by the nurse as non-borderline. So if he\ndepends on chance purely, he must agree with the nurse on 30+20 = 50 out of 100 times. The overall percent agreement by chance alone\nmust be 50%. \nStep 3:  \nKappa expresses the extent to which the observed agreement exceeds that which would be expected by chance alone (numerator) relative\nto the most that the observers could hope to improve their agreement (i.e., 100% - agreement expected by chance alone) [denominator]. \n= (70-50) / (100-50) = 20/50 = 0.4"
+    },
+    {
+      "question_number": 14,
+      "question_id": 4041014,
+      "question_type": "emi",
+      "emi_theme": "Measures of Agreement",
+      "emi_instruction": "Nurse",
+      "difficulty": "hard",
+      "question_text": "The overall agreement by chance alone",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041141,
+          "text": "0.7",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4041142,
+          "text": "0.5",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4041143,
+          "text": "0.4",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "0.5"
+      },
+      "explanation": "Step 1:  \nNumber of occasions of agreement = 40 (agreed for presence of diagnosis)+30 (agreed for absence of diagnosis) = 70 out of 100 individual\nevents = 70% . This is the overall percent agreement between the two clinicians out of the total. \nStep 2: \nTo determine the e\u0000ect of chance assume that the psychiatrist has no clinical skills and as a result has a tendency to depend on his stars\n\nTo determine the e\u0000ect of chance, assume that the psychiatrist has no clinical skills and, as a result, has a tendency to depend on his stars\nall the time. If this is the case, he must be diagnosing 60 out of any 100 as borderline and 40 out of any 100 as not having borderline\nirrespective of the population (from the above data). If he evaluates the 50 patients diagnosed as borderline by the nurse, he must call 30 of\nthem to have the diagnosis; using the same principles he must call 20 out of 50 patients rejected by the nurse as non-borderline. So if he\ndepends on chance purely, he must agree with the nurse on 30+20 = 50 out of 100 times. The overall percent agreement by chance alone\nmust be 50%. \nStep 3:  \nKappa expresses the extent to which the observed agreement exceeds that which would be expected by chance alone (numerator) relative\nto the most that the observers could hope to improve their agreement (i.e., 100% - agreement expected by chance alone) [denominator]. \n= (70-50) / (100-50) = 20/50 = 0.4"
+    },
+    {
+      "question_number": 15,
+      "question_id": 4041015,
+      "question_type": "emi",
+      "emi_theme": "Measures of Agreement",
+      "emi_instruction": "Nurse",
+      "difficulty": "hard",
+      "question_text": "The value of kappa",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041151,
+          "text": "0.7",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4041152,
+          "text": "0.5",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4041153,
+          "text": "0.4",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "0.4"
+      },
+      "explanation": "Step 1:  \nNumber of occasions of agreement = 40 (agreed for presence of diagnosis)+30 (agreed for absence of diagnosis) = 70 out of 100 individual\nevents = 70% . This is the overall percent agreement between the two clinicians out of the total. \nStep 2: \nTo determine the e\u0000ect of chance assume that the psychiatrist has no clinical skills and as a result has a tendency to depend on his stars\n\nTo determine the e\u0000ect of chance, assume that the psychiatrist has no clinical skills and, as a result, has a tendency to depend on his stars\nall the time. If this is the case, he must be diagnosing 60 out of any 100 as borderline and 40 out of any 100 as not having borderline\nirrespective of the population (from the above data). If he evaluates the 50 patients diagnosed as borderline by the nurse, he must call 30 of\nthem to have the diagnosis; using the same principles he must call 20 out of 50 patients rejected by the nurse as non-borderline. So if he\ndepends on chance purely, he must agree with the nurse on 30+20 = 50 out of 100 times. The overall percent agreement by chance alone\nmust be 50%. \nStep 3:  \nKappa expresses the extent to which the observed agreement exceeds that which would be expected by chance alone (numerator) relative\nto the most that the observers could hope to improve their agreement (i.e., 100% - agreement expected by chance alone) [denominator]. \n= (70-50) / (100-50) = 20/50 = 0.4"
+    },
+    {
+      "question_number": 16,
+      "question_id": 4041016,
+      "question_type": "emi",
+      "emi_theme": "Numbers in critical appraisal I",
+      "emi_instruction": "For each of the questions below, select the one most appropriate number from the list given.",
+      "difficulty": "hard",
+      "question_text": "The correlation coe\u0000cient where there is an absolute\ninverse association between two variables.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041161,
+          "text": "-1",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "-1"
+      },
+      "explanation": "Q1. When the con\u0000dence interval range includes the value 0 for mean di\u0000erences, the results become insigni\u0000cant. The same applies to a\nrange of ratios when they include the value 1. \nQ2. The likelihood ratio of negative test = [(1-sensitivity)/speci\u0000city] = [(1-60%)/80%] = [(1-0.6)/0.8] = 0.4/0.8 = 1/2 = 0.5 \nQ3. A correlation coe\u0000cient of -1 means there is an absolute inverse association between the two variables"
+    },
+    {
+      "question_number": 17,
+      "question_id": 4041017,
+      "question_type": "emi",
+      "emi_theme": "Sampling methods IV",
+      "emi_instruction": "Choose one option for each question below.",
+      "difficulty": "hard",
+      "question_text": "A research nurse wants to study the experience of some mentally ill parents with respect to the demands of their teenage\nchildren. She designs a qualitative study method to carry out this work.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041171,
+          "text": "Convenience sampling",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Convenience sampling"
+      },
+      "explanation": "Question 1: To locate di\u0000cult to recruit individuals such as in the question, one can use snowballing technique; here one participant\nidenti\u0000es another participant, who recruits one more and so on.  \nIn question 2, as the existing sample is classi\u0000ed into various groups (strata) to enable equitable distribution of a possible mediating factor,\nthis is strati\u0000ed random sampling.  \n\nInstead of carrying out a whole country census, the researchers have randomly picked GP clusters and included everyone in the clusters in\nquestion 3. Instead, if they randomly picked individuals after randomly picking clusters, this would have been multistage sampling.  \nPurposive samples are suitable for qualitative study in which required outliers could be conveniently picked, as in question 4."
+    },
+    {
+      "question_number": 18,
+      "question_id": 4041018,
+      "question_type": "emi",
+      "emi_theme": "Glossary of statistical terms 1",
+      "emi_instruction": "For each description below choose the most appropriate answer from the given list.",
+      "difficulty": "hard",
+      "question_text": "The probability that a range of speci\u0000ed values contains the true value\nof the variable.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041181,
+          "text": "Con\u0000dence interval",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Con\u0000dence interval"
+      },
+      "explanation": ""
+    },
+    {
+      "question_number": 19,
+      "question_id": 4041019,
+      "question_type": "emi",
+      "emi_theme": "Statistical Tests 4",
+      "emi_instruction": "For each of the following vignettes choose the most appropriate statistical test/s.",
+      "difficulty": "hard",
+      "question_text": "Comparison of a measure of coping styles in a depressed and a control group. Results are continuous outcomes with skewed\ndistributions.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041191,
+          "text": "Mann-Whitney test.",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Mann-Whitney test."
+      },
+      "explanation": "Q1: In question 1, the baseline di\u0000erences can be considered as covariates while mean di\u0000erences are sought between the two groups.\nANCOVA will be appropriate for this purpose.  \nQ2: For mean comparisons across more than two groups, ANOVA is a handy method. \nQ3: As the distribution is skewed, a non-parametric approach for comparing unpaired observations (i.e. Mann-Whitney U Test) can be used."
+    },
+    {
+      "question_number": 20,
+      "question_id": 4041020,
+      "question_type": "emi",
+      "emi_theme": "Statistical Concepts 2",
+      "emi_instruction": "Find the appropriate measure from the list provided that corresponds to the description below.",
+      "difficulty": "hard",
+      "question_text": "The probability that your experiment will \u0000nd a pre-speci\u0000ed\ndi\u0000erence when one truly exists.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041201,
+          "text": "Power",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Power"
+      },
+      "explanation": "Q1: Standard error re\u0000ects how much sampling \u0000uctuation a measurement can have by providing the uncertainty around the estimated\nvalue.  \nQ2: P value (generally 5%) is synonymous with type 1 error rate. It re\u0000ects the probability of making a false positive conclusion from the\nresults.  \nQ3: In simplistic terms, statistical power is the odds that you will observe a treatment e\u0000ect when it occurs (question 3)."
+    },
+    {
+      "question_number": 21,
+      "question_id": 4041021,
+      "question_type": "emi",
+      "emi_theme": "Numbers in critical appraisal II",
+      "emi_instruction": "For each of the questions below, select the one most appropriate number from the list provided.",
+      "difficulty": "hard",
+      "question_text": "Odds for a 90% event rate.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041211,
+          "text": "9",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4041212,
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "9"
+      },
+      "explanation": "Q1. When the con\u0000dence interval range includes the value 0 for mean di\u0000erences, the results become insigni\u0000cant. The same applies to a\nrange of ratios when they include the value 1. \nQ2. The event rate is a probability. Odds = [probability/(1-probability)] = [90%/(1-90%)] = [0.9/(1-0.9)] = 0.9/0.1 = 9 \nQ3. 5% error is the normally accepted type 1 error rate. This converts to a p-value of 0.05."
+    },
+    {
+      "question_number": 22,
+      "question_id": 4041022,
+      "question_type": "emi",
+      "emi_theme": "Numbers in critical appraisal II",
+      "emi_instruction": "For each of the questions below, select the one most appropriate number from the list provided.",
+      "difficulty": "hard",
+      "question_text": "of type I error in a randomised controlled trial.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041221,
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4041222,
+          "text": "5",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "5"
+      },
+      "explanation": "Q1. When the con\u0000dence interval range includes the value 0 for mean di\u0000erences, the results become insigni\u0000cant. The same applies to a\nrange of ratios when they include the value 1. \nQ2. The event rate is a probability. Odds = [probability/(1-probability)] = [90%/(1-90%)] = [0.9/(1-0.9)] = 0.9/0.1 = 9 \nQ3. 5% error is the normally accepted type 1 error rate. This converts to a p-value of 0.05."
+    },
+    {
+      "question_number": 23,
+      "question_id": 4041023,
+      "question_type": "emi",
+      "emi_theme": "Glossary of Statistical Terms 2",
+      "emi_instruction": "Identify the correct terminology used in statistics for each of the following de\u0000nitions given below;",
+      "difficulty": "hard",
+      "question_text": "The value that occurs most\nfrequently in a distribution",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041231,
+          "text": "Mode",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4041232,
+          "text": "Quartile",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4041233,
+          "text": "Interquartile range",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Mode"
+      },
+      "explanation": "The median is the middle value with an equal number of values on either side. The median is the 50th percentile. The mode is\nthe value that occurs most frequently. If there are 2 or more values that occur with equal frequency, the distribution is described as multi-\nmodal. The mean is the average of all the di\u0000erent values. Quartile refers to 25% of the data. So, the \u0000rst quartile includes values up to the\n25th percentile. The inter-quartile range is the di\u0000erence between the 75th percentile and the 25th percentile."
+    },
+    {
+      "question_number": 24,
+      "question_id": 4041024,
+      "question_type": "emi",
+      "emi_theme": "Glossary of Statistical Terms 2",
+      "emi_instruction": "Identify the correct terminology used in statistics for each of the following de\u0000nitions given below;",
+      "difficulty": "hard",
+      "question_text": "A term that refers to 25% of the data in a\ndistribution.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041241,
+          "text": "Mode",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4041242,
+          "text": "Quartile",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4041243,
+          "text": "Interquartile range",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Quartile"
+      },
+      "explanation": "The median is the middle value with an equal number of values on either side. The median is the 50th percentile. The mode is\nthe value that occurs most frequently. If there are 2 or more values that occur with equal frequency, the distribution is described as multi-\nmodal. The mean is the average of all the di\u0000erent values. Quartile refers to 25% of the data. So, the \u0000rst quartile includes values up to the\n25th percentile. The inter-quartile range is the di\u0000erence between the 75th percentile and the 25th percentile."
+    },
+    {
+      "question_number": 25,
+      "question_id": 4041025,
+      "question_type": "emi",
+      "emi_theme": "Glossary of Statistical Terms 2",
+      "emi_instruction": "Identify the correct terminology used in statistics for each of the following de\u0000nitions given below;",
+      "difficulty": "hard",
+      "question_text": "The di\u0000erence between the 75th percentile and the 25th percentile",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041251,
+          "text": "Mode",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4041252,
+          "text": "Quartile",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4041253,
+          "text": "Interquartile range",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Interquartile range"
+      },
+      "explanation": "The median is the middle value with an equal number of values on either side. The median is the 50th percentile. The mode is\nthe value that occurs most frequently. If there are 2 or more values that occur with equal frequency, the distribution is described as multi-\nmodal. The mean is the average of all the di\u0000erent values. Quartile refers to 25% of the data. So, the \u0000rst quartile includes values up to the\n25th percentile. The inter-quartile range is the di\u0000erence between the 75th percentile and the 25th percentile."
+    },
+    {
+      "question_number": 26,
+      "question_id": 4041026,
+      "question_type": "emi",
+      "emi_theme": "Glossary of Statistical Terms 3",
+      "emi_instruction": "Identify the correct terminology used in statistics for each of the following de\u0000nitions given below:",
+      "difficulty": "hard",
+      "question_text": "The term used to describe a distribution whose values shows either a negative or a positive skew.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041261,
+          "text": "Non-parametric",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4041262,
+          "text": "Parametric",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Non-parametric"
+      },
+      "explanation": "Parametric distribution is a distribution in which the values are distributed equally on either side of the mean. In a parametric distribution\nthe mean = median = mode. Non-parametric distribution refers to any distribution other than a normal distribution. The distribution of\nvalues shows either a negative skew or a positive skew.  \nStandard deviation and variance are measured of the spread of values around the mean. The standard deviation (S.D.) is the square root of\nthe variance. In a parametric / normal distribution, 68% of values lie within 1 S.D. on either side of the mean. About 95% of values lie within\n2. S.D. (1.96 S.D., to be speci\u0000c) on either side of the mean.  \nStandard error of the mean refers to the S.D. of a distribution of sample means. It is a measure of how close the sample mean is likely to be\nto the population mean."
+    },
+    {
+      "question_number": 27,
+      "question_id": 4041027,
+      "question_type": "emi",
+      "emi_theme": "Glossary of Statistical Terms 3",
+      "emi_instruction": "Identify the correct terminology used in statistics for each of the following de\u0000nitions given below:",
+      "difficulty": "hard",
+      "question_text": "The term used to describe a distribution in which the values are dispersed equally on either side of\nthe mean.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041271,
+          "text": "Non-parametric",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4041272,
+          "text": "Parametric",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Parametric"
+      },
+      "explanation": "Parametric distribution is a distribution in which the values are distributed equally on either side of the mean. In a parametric distribution\nthe mean = median = mode. Non-parametric distribution refers to any distribution other than a normal distribution. The distribution of\nvalues shows either a negative skew or a positive skew.  \nStandard deviation and variance are measured of the spread of values around the mean. The standard deviation (S.D.) is the square root of\nthe variance. In a parametric / normal distribution, 68% of values lie within 1 S.D. on either side of the mean. About 95% of values lie within\n2. S.D. (1.96 S.D., to be speci\u0000c) on either side of the mean.  \nStandard error of the mean refers to the S.D. of a distribution of sample means. It is a measure of how close the sample mean is likely to be\nto the population mean."
+    },
+    {
+      "question_number": 28,
+      "question_id": 4041028,
+      "question_type": "emi",
+      "emi_theme": "Plots & Graphs (1)",
+      "emi_instruction": "Using the de\u0000nitions given below, identify the type of plots/graphs used in statistical illustrations:",
+      "difficulty": "hard",
+      "question_text": "its length being proportional to the number of observations in that\n'category'",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041281,
+          "text": "Bar chart",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Bar chart"
+      },
+      "explanation": "1) Kaplan-Meier plot is a survival curve in which the survival probability is plotted against the time from baseline. It is used when exact times\nto reach the endpoint."
+    },
+    {
+      "question_number": 29,
+      "question_id": 4041029,
+      "question_type": "emi",
+      "emi_theme": "Plots & Graphs (2)",
+      "emi_instruction": "Using the de\u0000nitions given below, identify the type of plots/graphs used in statistical",
+      "difficulty": "hard",
+      "question_text": "A diagram used in a meta-analysis showing the estimated e\u0000ect of each trial and the pooled average with con\u0000dence\nintervals",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041291,
+          "text": "Forest plot",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4041292,
+          "text": "Histogram",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4041293,
+          "text": "Steam and leaf plot",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Forest plot"
+      },
+      "explanation": "1) Fagan's Nomogram (also called Bayesian Nomogram) is a diagram relating the pre-test probability of a diagnostic test result to the\nlikelihood and the post-test probability. It is usually used to convert the former into the latter."
+    },
+    {
+      "question_number": 30,
+      "question_id": 4041030,
+      "question_type": "emi",
+      "emi_theme": "Plots & Graphs (2)",
+      "emi_instruction": "Using the de\u0000nitions given below, identify the type of plots/graphs used in statistical",
+      "difficulty": "hard",
+      "question_text": "A diagram that illustrates the relative frequency distribution of a continuous variable by using connected bars.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041301,
+          "text": "Forest plot",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4041302,
+          "text": "Histogram",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4041303,
+          "text": "Steam and leaf plot",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Histogram"
+      },
+      "explanation": "2). A forest plot is a diagram used in a meta-analysis showing the estimated e\u0000ect in each trial and their average (with con\u0000dence intervals)"
+    },
+    {
+      "question_number": 31,
+      "question_id": 4041031,
+      "question_type": "emi",
+      "emi_theme": "Plots & Graphs (2)",
+      "emi_instruction": "Using the de\u0000nitions given below, identify the type of plots/graphs used in statistical",
+      "difficulty": "hard",
+      "question_text": "A\nmixture of a diagram and a table used to illustrate the distribution of data.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041311,
+          "text": "Forest plot",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4041312,
+          "text": "Histogram",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4041313,
+          "text": "Steam and leaf plot",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Steam and leaf plot"
+      },
+      "explanation": "3). A Histogram is a graph of continuous data with the data categorized into many classes. It illustrates the (relative) frequency distribution of\na continuous variable by using connected bars. The bar's area is proportional to the (relative) frequency in the range speci\u0000ed by the\nboundaries of the bar."
+    },
+    {
+      "question_number": 32,
+      "question_id": 4041032,
+      "question_type": "emi",
+      "emi_theme": "Sampling methods 5",
+      "emi_instruction": "Identify the type of sampling for each of the following descriptions;",
+      "difficulty": "hard",
+      "question_text": "Dividing the population\ninto groups on the basis of some suspected confounding characteristic and then sampling each group to ensure fair distribution of these\nvariables.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041321,
+          "text": "Strati\u0000ed sampling",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4041322,
+          "text": "Systematic sampling",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Strati\u0000ed sampling"
+      },
+      "explanation": "1) In random sampling every individual in a population has an equal chance of being chosen."
+    },
+    {
+      "question_number": 33,
+      "question_id": 4041033,
+      "question_type": "emi",
+      "emi_theme": "Sampling methods 5",
+      "emi_instruction": "Identify the type of sampling for each of the following descriptions;",
+      "difficulty": "hard",
+      "question_text": "beginning at a random point.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041331,
+          "text": "Strati\u0000ed sampling",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4041332,
+          "text": "Systematic sampling",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Systematic sampling"
+      },
+      "explanation": "2) Cluster sampling involves dividing the population into naturally occurring clusters, typically on the basis of geography, and taking a\nrandom sample of the clusters (and thus including all of the subjects that reside within a cluster)"
+    },
+    {
+      "question_number": 34,
+      "question_id": 4041034,
+      "question_type": "emi",
+      "emi_theme": "Reliability",
+      "emi_instruction": "Identify the type of reliability for each of the following descriptions:",
+      "difficulty": "hard",
+      "question_text": "The level of agreement between the Chinese version and the English\nversion of a depression scale in the same group of bilingual subjects \u0000uent in both languages.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041341,
+          "text": "Alternate form reliability",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Alternate form reliability"
+      },
+      "explanation": "1) Test-retest reliability describes the level of agreement between two ratings on the same material but at di\u0000erent times"
+    },
+    {
+      "question_number": 35,
+      "question_id": 4041035,
+      "question_type": "emi",
+      "emi_theme": "Statistical tests 6",
+      "emi_instruction": "Choose the most appropriate test for each of the following situations;",
+      "difficulty": "hard",
+      "question_text": "Comparison of \u0000nal outcome measure between 2 groups (placebo\nand antidepressants) in a depression treatment study taking into account signi\u0000cant baseline di\u0000erence between groups. The results are\nnormally distributed.",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041351,
+          "text": "ANCOVA",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "ANCOVA"
+      },
+      "explanation": "1) One-way ANOVA (analysis of variance) is a parametric test used to compare 3 or more groups. The \u0000rst analysis is to \u0000nd out there is any\ndi\u0000erence across the groups."
+    },
+    {
+      "question_number": 36,
+      "question_id": 4041036,
+      "question_type": "emi",
+      "emi_theme": "Multivariate techniques",
+      "emi_instruction": "Identify one test for each of the following descriptions",
+      "difficulty": "hard",
+      "question_text": "It reduces a large number of variables that are highly inter-correlated into a smaller group of representative variables",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4041361,
+          "text": "Factor analysis",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Factor analysis"
+      },
+      "explanation": "1) Factor analysis is essentially a method of data reduction - here groups of variables that are highly inter-correlated in a dataset are\nidenti\u0000ed. Then simple correlation analysis of individual factors is carried out. A good example is factor analysis of positive symptoms by\nLiddle to describe three groups of variables - reality distortion, psychomotor poverty and disorganization syndromes."
+    }
+  ]
+}

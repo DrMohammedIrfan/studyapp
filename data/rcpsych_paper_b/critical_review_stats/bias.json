@@ -1,0 +1,542 @@
+{
+  "chapter_id": 4043,
+  "chapter_name": "Bias",
+  "subject_name": "Research Methods",
+  "total_questions": 12,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 4043001,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A psychology trainee administers Beck's depression inventory to detect unidenti\u0000ed depression among the general population. She enrols\nsubjects for her study by interviewing people who attend the local sports centre and gymnasium. Which of the following bias is most likely?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4043011,
+          "text": "Diagnostic suspicion bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4043012,
+          "text": "Lead time bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4043013,
+          "text": "Berkson's bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4043014,
+          "text": "Measurement bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4043015,
+          "text": "Selection bias",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Selection bias"
+      },
+      "explanation": "It is likely that people who have an active lifestyle by attending leisure centres and gymnasium di\u0000er from the general population that has a\nmixture of active and inactive people. Studying unidenti\u0000ed depression by using a select sample as this will lead to selection bias."
+    },
+    {
+      "question_number": 2,
+      "question_id": 4043002,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Two-stage screening surveys are commonly used to estimate the prevalence of psychiatric disorders in the community. In the \u0000rst stage,\nquestionnaires are sent to a large sample of subjects. The results from this stage are scored and used to identify probable cases who are\nthen clinically interviewed. Which of the following is most likely to obscure true prevalence rates in such studies?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4043021,
+          "text": "Recall bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4043022,
+          "text": "Berkson's bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4043023,
+          "text": "Non-response bias",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4043024,
+          "text": "Confounding bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4043025,
+          "text": "Diagnostic suspicion bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Non-response bias"
+      },
+      "explanation": "Selection bias occurs when study participants are selected in such a way that the association between exposure and disease di\u0000ers for those\nwho participate and those who do not participate in the study. One type of selection bias seen especially in postal surveys is non-response\nbias where responders who send their answers back to the researcher systematically di\u0000er from non-responders. It is well established that\nfor lifestyle and behaviour related issues, non-responders often tend to have more problems than responders. This applies to mental health\nissues as well."
+    },
+    {
+      "question_number": 3,
+      "question_id": 4043003,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A regional a\u0000ective disorders unit decides to \u0000nd out patients' satisfaction with their service. They send out an easy-to-use one-page\nquestionnaire to all service users on their list. A specialist trainee collates the results to present as a poster. She reports 85% satisfaction of\nservice users with a questionnaire return rate of 65%. Which of the following is correct?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4043031,
+          "text": "The result is most likely to be an under-estimation of the satisfaction",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4043032,
+          "text": "Satisfaction is a normally distributed variable",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4043033,
+          "text": "Random selection of patients to post questionnaires will be more representative",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4043034,
+          "text": "Systematic di\u0000erences exist between responders and non-responders",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4043035,
+          "text": "Reminders do not increase reponse rates of postal surveys",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Systematic di\u0000erences exist between responders and non-responders"
+      },
+      "explanation": "Satisfaction is not a normally distributed variable. It is likely that the 'most satis\u0000ed' group responded while least satis\u0000ed group abstained\nfrom posting the questionnaire back. This non-response bias could twist the results with an overestimation of actual satisfaction rates.\nSending reminders can increase response rates. But randomly selecting responses that are returned will not provide any respite from non-\nresponse bias as the pool from which random selection takes place is in itself biased (i.e. they are all from 'most satis\u0000ed people'). Similarly\nrandomly selecting people to send the questionnaire will also be of no use as still the response rate may be low, with non-satis\u0000ed people\nabstaining from returning the questionnaire. www.biomedcentral.com/1472-6963/4/31"
+    },
+    {
+      "question_number": 4,
+      "question_id": 4043004,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A researcher's expectations regarding treatment e\u0000ect may result in di\u0000erential interactions with some subjects leading to a change in\nsubject's response in favour of the research hypothesis. This is known as",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4043041,
+          "text": "Hawthorne e\u0000ect",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4043042,
+          "text": "Social desirability bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4043043,
+          "text": "Halo e\u0000ect",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4043044,
+          "text": "Pygmalion e\u0000ect",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4043045,
+          "text": "Placebo e\u0000ect",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Pygmalion e\u0000ect"
+      },
+      "explanation": "The Pygmalion e\u0000ect is also called the experimenter expectancy e\u0000ect. Pygmalion is Bernard Shaw's play where a professor bets and\nsucceeds in teaching a poor \u0000ower girl to speak and act like a higher-class lady. Mere awareness of the experimenter's expectations\nregarding treatment e\u0000ect may result in a change in subject behavior in the direction of experimenter hypothesis. Halo e\u0000ect refers to a\ntype of primacy e\u0000ect in which \u0000rst impressions or answers in\u0000uence subsequent answers in a questionnaire or interview. Gray GE.\nEvidence-based psychiatry. American Psychiatric Publishing, 2004.Pg 57"
+    },
+    {
+      "question_number": 5,
+      "question_id": 4043005,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A clinician involved in a trial could provide additional care to patients in one treatment group but not to those in the other treatment group.\nThis e\u0000ect is called cointervention bias. This can be reduced by",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4043051,
+          "text": "Using multiple placebo arms",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4043052,
+          "text": "Randomisation",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4043053,
+          "text": "Double blinding",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4043054,
+          "text": "Allocation concealement",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4043055,
+          "text": "Pragmatic trial methods",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Double blinding"
+      },
+      "explanation": "A clinician involved in a trial may provide additional care (e.g., time, support, etc.) to patients in one treatment group but not to those in the\nother treatment group. This e\u0000ect is known as cointervention or performance bias (Altman et al. 2001). In clinical trials, this e\u0000ect (and also\nPygmalion e\u0000ect) can be minimized by blinding clinicians to the treatment being provided. Gray GE. Evidence-based psychiatry. American\nPsychiatric Publishing, 2004.Pg 57"
+    },
+    {
+      "question_number": 6,
+      "question_id": 4043006,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Both smoking and alcohol consumption are associated with senile cognitive impairment. A study investigating the e\u0000ect of smoking on\ndementia fails to stratify exposed group according to drinking index. Which of the following can threaten the validity of conclusions derived\nfrom this study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4043061,
+          "text": "Selection bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4043062,
+          "text": "Sampling bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4043063,
+          "text": "Confounding bias",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4043064,
+          "text": "Ascertainment bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4043065,
+          "text": "Incidence-prevalence bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Confounding bias"
+      },
+      "explanation": "A confounder is a factor that is associated both with the exposure of interest and the risk of the disease being studied. Thus, the observed\nassociation between the exposure of interest and disease outcome may be incorrect. Confounding causes an error in comparisons between\ngroups if the groups are not strati\u0000ed or adjusted."
+    },
+    {
+      "question_number": 7,
+      "question_id": 4043007,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Despite multiple reminders, a postal survey of heroin users to study disclosure to DVLA had a low response rate. What can be done to\nimprove the interpretation of conclusions from this survey?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4043071,
+          "text": "Repharse the questionnaire and send the new version to nonresponders",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4043072,
+          "text": "Increase sample size by recruting another random group of users",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4043073,
+          "text": "Report the proportion of DVLA-disclosed responders as the lower limit of expected percentage of heroine users who have disclosed to",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4043074,
+          "text": "DVLA",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4043075,
+          "text": "Ignore non responders and report on the available data",
+          "is_correct": false
+        },
+        {
+          "letter": "F",
+          "option_id": 4043076,
+          "text": "Compare and report the baseline characteristics of responders and non-responders",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "F",
+        "text": "Compare and report the baseline characteristics of responders and non-responders"
+      },
+      "explanation": "It is well established that survey nonresponders are probably di\u0000erent from responders. It is likely that most nonresponders were\ndissatis\u0000ed with the service. Recruiting more people will not simply increase the response rate, and non-responders will probably exist in\nequal numbers even in the second random group. The most one can do in this situation is to compare what is known about responders with\nnon-responders. This might throw some light on reasons for nonresponse and help deducting what direction their response might have\ntaken."
+    },
+    {
+      "question_number": 8,
+      "question_id": 4043008,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Mere observation of behaviour can improve performance. In medical research, this is called",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4043081,
+          "text": "Measurement error",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4043082,
+          "text": "Desirability bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4043083,
+          "text": "Rosenthal e\u0000ect",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4043084,
+          "text": "Hawthorne e\u0000ect",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4043085,
+          "text": "Berkson e\u0000ect",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Hawthorne e\u0000ect"
+      },
+      "explanation": "Hawthorne e\u0000ect refers to the phenomenon that people participating in a study ('under observation') may improve their performance or\nbehaviour simply because of the attention they receive. This does not occur for physiological parameters such as blood pressure but seen in\npsychological factors such as motivation, productivity and most measures of self-report. The name derives from a factory called the\nHawthorne Works where experiments to improve worker productivity were carried out in the Industrial period. Surprisingly most of the\nchanges (non-speci\u0000c) made to workers' conditions temporarily improved productivity. See BMJ 2009; 338:b1164"
+    },
+    {
+      "question_number": 9,
+      "question_id": 4043009,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A scandalous tabloid report suggested that Asperger's syndrome may be more common in infants born to mothers who have irregular\nperiods in the year immediately preceding the birth. A medical charity funds a study to investigate this report. 100 mothers of children with\nAsperger's syndrome were interviewed with respect to their menstrual history. 100 mothers of similar age and gender distributed normal\nchildren were also interviewed. Which of the following may invalidate results in this study?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4043091,
+          "text": "Information bias",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4043092,
+          "text": "Attrition bias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4043093,
+          "text": "Confounding bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4043094,
+          "text": "Selection bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4043095,
+          "text": "Diagnostic suspicion bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Information bias"
+      },
+      "explanation": "Recall bias is a type of information bias. It can be due to rumination bias - the presence of disease in\u0000uences the perception of its causes or\nexposure suspicion bias - the search for exposure to the putative cause once being diagnosed. Though it is classically associated with case-\ncontrol studies, it can also occur in cohort studies (for example, workers who known their exposure to hazardous substances may show a\ntrend to report more the e\u0000ects related to them), and trials without participants' blinding. Delgado-Rodriguez and Llorca J. Bias. Journal Epid\nComm Health 2004;58;635-641"
+    },
+    {
+      "question_number": 10,
+      "question_id": 4043010,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Using \u0000ve years follow-up data of 200 patients at a local eating disorder service, a researcher is able to trace up to 80% of subjects\nregistered at the service between 1999-2002. The 5-year mortality in this group is no di\u0000erent from an age, socioeconomic class and gender-\nmatched group in same locality obtained from employment registers. She concludes that mortality rates associated with anorexia are\noverestimated in other studies. Which of the following invalidates such conclusion?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4043101,
+          "text": "Low sample size",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4043102,
+          "text": "Lack of data on physical health",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4043103,
+          "text": "Attrition rate",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4043104,
+          "text": "Lack of adequate controls",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4043105,
+          "text": "Recall bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Attrition rate"
+      },
+      "explanation": "It is highly likely that the untraced subjects in this study are actually deceased. In mortality studies, attrition bias is a very important concern."
+    },
+    {
+      "question_number": 11,
+      "question_id": 4043011,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The percentage of group members having quit smoking at post-test was found much higher in a group having received a quit-smoking\ntraining program than in the control group in an RCT. Which of the following must be carefully checked while interpreting the study results?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4043111,
+          "text": "Recall accuracy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4043112,
+          "text": "Regression towards the mean",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4043113,
+          "text": "Di\u0000usion of treatment e\u0000ects",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4043114,
+          "text": "Repeated testing e\u0000ects",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4043115,
+          "text": "Percentage completing the quit smoking program",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Percentage completing the quit smoking program"
+      },
+      "explanation": "Recall bias is unlikely in this scenario of a controlled trial; as the measurement pertains to percentage responders, regression towards the\nmean is also unlikely. But presence of high drop out rates can bias the results as it is likely that those who will not be successful in quitting\nwill drop out of the program earlier than the ones who are more likely to succeed. This is important when considering translating evidence\nto clinical practice."
+    },
+    {
+      "question_number": 12,
+      "question_id": 4043012,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "It has been suggested that psychiatrists may investigate patients who use depot antipsychotics more often or more thoroughly for\nmetabolic disturbances than patients who do not. If this is true, then an apparent association between depot antipsychotics and\nhypertriglyceridaemia can be due to",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4043121,
+          "text": "Recall bias",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4043122,
+          "text": "Surveillance bias",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4043123,
+          "text": "Interviewer bias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4043124,
+          "text": "Nonresponse bias",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4043125,
+          "text": "Selection bias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Surveillance bias"
+      },
+      "explanation": "Surveillance bias, also called detection bias, occurs when one group is followed more closely than the other group.This could lead to an\noutcome being diagnosed more often in the more closely followed group, but not because it truly occurred more often in that group."
+    }
+  ]
+}

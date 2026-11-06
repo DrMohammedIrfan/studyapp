@@ -1,0 +1,1768 @@
+{
+  "chapter_id": 4020,
+  "chapter_name": "Forensic Psychiatry - Part 1",
+  "subject_name": "Forensic",
+  "total_questions": 40,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 4020001,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Pritchard criteria include all of the following except",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020011,
+          "text": "Ability to instruct counsel",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020012,
+          "text": "Ability to follow proceedings in the court",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020013,
+          "text": "Ability to understand charges",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020014,
+          "text": "Ability to understand di\u0000erence between diminished responsibility vs automatisms",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4020015,
+          "text": "Ability to challenge juror",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Ability to understand di\u0000erence between diminished responsibility vs automatisms"
+      },
+      "explanation": "Fitness to plead (Pritchard criteria) includes an ability to understand charges, an ability to follow proceedings in the court, an ability to\ninstruct counsel, an ability to challenge juror and an ability to understand di\u0000erence between pleading guilty vs not guilty."
+    },
+    {
+      "question_number": 2,
+      "question_id": 4020002,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following defendant is \u0000t to plead in a court trial?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020021,
+          "text": "A defendant who cannot understand the nature of charges",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020022,
+          "text": "A defendant with amnesia for the event of crime",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4020023,
+          "text": "A defendant who does not understand trial procedures",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020024,
+          "text": "A defendant with lack of ability to challenge the charges laid",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020025,
+          "text": "A defendant who is catatonic, mute and not able to communicate",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "A defendant with amnesia for the event of crime"
+      },
+      "explanation": "A defendant need not remember the event of a crime to be \u0000t to plead."
+    },
+    {
+      "question_number": 3,
+      "question_id": 4020003,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What percentage of people in police custody has a mental illness at the time of arrest?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020031,
+          "text": "25-50%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020032,
+          "text": "2-5%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4020033,
+          "text": "5-10%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020034,
+          "text": "20-25%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020035,
+          "text": "15-20%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "2-5%"
+      },
+      "explanation": "2-5% of people held in custody by the police su\u0000er from mental disorder. About 1-2% su\u0000er from severe mental illness (Oxford Handbook of\nPsychiatry 2nd ed - Pg650)"
+    },
+    {
+      "question_number": 4,
+      "question_id": 4020004,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The prevalence of psychotic disorders in prisons compared to the general population is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020041,
+          "text": "10 times",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4020042,
+          "text": "50 times",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020043,
+          "text": "5 times",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020044,
+          "text": "20 times",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020045,
+          "text": "40 times",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "10 times"
+      },
+      "explanation": "A rate higher by ten times (in the UK, Ref: Brugha et al., 2005) to twenty times (elsewhere), giving a prevalence rate - 2-15% has been noted in\nvarious studies. Fazel and Danesh conducted a meta-analysis of 62 surveys from 12 countries including 22 790 prisoners wherein 3-7% of\nmen had psychotic illnesses, 10% major depression, and 65% a personality disorder, including 47% with antisocial personality disorder.\nPrisoners were about ten times more likely to have antisocial personality disorder than the general population. Fazel, S and Danesh, J (2002)\nSerious mental disorders in 23 000 prisoners: a systematic review of 62 surveys. The Lancet 359, 545-550."
+    },
+    {
+      "question_number": 5,
+      "question_id": 4020005,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Five patients are discharged from a psychiatric inpatient unit. Considering their diagnostic pro\u0000le, choose the one who has the highest risk\nof being violent in next six months:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020051,
+          "text": "35 year old man with depression",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020052,
+          "text": "33 year old man with bipolar disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020053,
+          "text": "34 year old man with schizophrenia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020054,
+          "text": "30 year old man with various personality disorders",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020055,
+          "text": "32 year old man with substance misuse disorder",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "32 year old man with substance misuse disorder"
+      },
+      "explanation": "9% of  patients with schizophrenia are reported to be involved in a violent act in the \u0000rst 20 weeks after discharge. This compares with rates\nof 19% for depression, 15% for bipolar disorder, 17.2% for other psychotic disorders, 29% for substance misuse disorders and 25% for\npersonality disorder alone."
+    },
+    {
+      "question_number": 6,
+      "question_id": 4020006,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Most o\u0000enders charged with exhibitionism belong to the age group",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020061,
+          "text": "55-65 years",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020062,
+          "text": "45-55 years",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020063,
+          "text": "15-25 years",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4020064,
+          "text": "35-45 years",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020065,
+          "text": "25-35 years",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "15-25 years"
+      },
+      "explanation": "Most exhibitionists are male and their victims are usually female adults or children. Most males arrested for exhibitionism are in the age\ngroup 16 to 25. In general, exhibitionists have the highest sex o\u0000ence recidivism rates compared to other o\u0000ender groups though recidivism\nreduces signi\u0000cantly when charged/sentenced once."
+    },
+    {
+      "question_number": 7,
+      "question_id": 4020007,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The male: female conviction rate for any o\u0000ence in the UK is approximately",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020071,
+          "text": "5 to 1",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4020072,
+          "text": "2 to 1",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020073,
+          "text": "1 to 20",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020074,
+          "text": "1 to 1",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020075,
+          "text": "10 to 1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "5 to 1"
+      },
+      "explanation": "Men commit more crimes than women. Since 2002, among all recorded o\u0000enders, males in England and Wales outnumbered females by\nmore than four to one. The sex ratio of convicted men to women is approximately 5:1 in recent years. (ONS 2010)"
+    },
+    {
+      "question_number": 8,
+      "question_id": 4020008,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Victims of female homicide perpetrators with psychosis often belong to the age group of;",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020081,
+          "text": ">75",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020082,
+          "text": "36-60",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020083,
+          "text": "16-35",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020084,
+          "text": "<16",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4020085,
+          "text": "60-75",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "<16"
+      },
+      "explanation": "The victims of female homicide perpetrators are often in their family. A substantial number of these victims are <16 years of age, especially if\nthe perpetrator has psychosis. 50% of mentally ill perpetrators of child homicide have a psychotic disorder. But note that fathers are\nsigni\u0000cantly more likely to kill their children than mothers, if one considers all child homicides. Also 13% of perpetrators of \u0000licide (child-\nkilling by parents) took their life after killing their child (this is called \u0000licide-suicide)"
+    },
+    {
+      "question_number": 9,
+      "question_id": 4020009,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The presence of mental illness increases the risk of being victimised with violent assault by",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020091,
+          "text": "10 times",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020092,
+          "text": "12 times",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020093,
+          "text": "20 times",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020094,
+          "text": "2 times",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020095,
+          "text": "5 times",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "5 times"
+      },
+      "explanation": "In National Crime Survey (Khalifeh et al., 2015), 40% of patients with a severe mental illness were noted to be victims of crime in the past\nyear, compared to 14% of general population (odds ratio = 2.8); the risk ratio was much higher when violent assaults were considered (19%\npatients v. 3% of controls (OR = 5.3))."
+    },
+    {
+      "question_number": 10,
+      "question_id": 4020010,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "To be de\u0000ned as a murder-suicide event, the suicide of a homicide perpetrator must occur within a period of",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020101,
+          "text": "1 year after the murder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020102,
+          "text": "1 day after the murder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020103,
+          "text": "1 hour after the murder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020104,
+          "text": "1 week after the murder",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4020105,
+          "text": "1 month after the murder",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "1 week after the murder"
+      },
+      "explanation": "Murder-suicide: It is de\u0000ned as a murder that is followed by the suicide of the perpetrator within one week of the homicide. The incidence is\n0.2 –0.3/100,000 per year (Eliason, 2009)."
+    },
+    {
+      "question_number": 11,
+      "question_id": 4020011,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The proportion of stalking incidents that are reported to the police is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020111,
+          "text": "1 in 5",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020112,
+          "text": "1 in 4",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020113,
+          "text": "1 in 3",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4020114,
+          "text": "2 in 3",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020115,
+          "text": "1 in 2",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "1 in 3"
+      },
+      "explanation": "Of all the di\u0000erent types of interpersonal violence, stalking is the most commonly reported violence in terms of police records. But even for\nthis, in only one in three (31% women last year; 30% men) cases did the police come to know. British Crime Survey 2001"
+    },
+    {
+      "question_number": 12,
+      "question_id": 4020012,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The proportion of those discharged from medium secure units that are convicted for a violent o\u0000ence within \u0000ve years of discharge is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020121,
+          "text": "1 in 3",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020122,
+          "text": "1 in 6",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4020123,
+          "text": "1 in 20",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020124,
+          "text": "1 in 4",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020125,
+          "text": "1 in 2",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "1 in 6"
+      },
+      "explanation": "Follow-up studies of Medium Secure discharges suggest that nearly 25% will be readmitted within the 12 months after discharge. The\nreconviction rate for any o\u0000ence in 2 years is 15%, but for violent o\u0000ences this is 6%. This rate nearly doubles to 1 in 3 reo\u0000ending in 5\nyears, but only 1 in 6 will be convicted for a violent o\u0000ence. From high secure units, at least 20% of those discharged will never live in the\ncommunity in the ten years after discharge: they get re-institutionalised elsewhere. In this time at least 15% would have been convicted for a\nserious further o\u0000ence."
+    },
+    {
+      "question_number": 13,
+      "question_id": 4020013,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following behavioural treatments in sexual deviancy is an aversion technique?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020131,
+          "text": "Shame therapy",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4020132,
+          "text": "Success imagery",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020133,
+          "text": "Plethysmographic biofeedback",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020134,
+          "text": "Olfactory conditioning",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020135,
+          "text": "Fading",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Shame therapy"
+      },
+      "explanation": "Shame aversion therapy is a contentious technique for the treatment of persons practising deviant sexual acts such as transvestism,\nvoyeurism, paedophilia, exhibitionism and frotteurism. It consists of having the subject who is embarrassed or self-conscious about the act\nhe performs perform the act on demand in front of some observers. The act is made to continue for 15 to 35 min and its style kept as close\nto the in vivo situation as is possible. The patient is told simply to observe himself and be aware of being observed. (Serber, 1970: Retrieved\nfrom"
+    },
+    {
+      "question_number": 14,
+      "question_id": 4020014,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The risk of stalking by a patient or patient's relative over the course of a psychiatrist's career is;",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020141,
+          "text": "20%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4020142,
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020143,
+          "text": "30%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020144,
+          "text": "40%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020145,
+          "text": "50%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "20%"
+      },
+      "explanation": "Data from the UK suggests that 20% psychiatrists report being stalked at some point during one's career."
+    },
+    {
+      "question_number": 15,
+      "question_id": 4020015,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What proportion of elderly o\u0000enders has a mental illness?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020151,
+          "text": "20%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4020152,
+          "text": "40%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020153,
+          "text": "30%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020154,
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020155,
+          "text": "50%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "20%"
+      },
+      "explanation": "Older o\u0000enders have more chronic health issues and less family and peer support. 20% of them are reported to have a mental illness."
+    },
+    {
+      "question_number": 16,
+      "question_id": 4020016,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The proportion of chronic domestic violence that gets reported by women in the UK to the police is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020161,
+          "text": "50%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020162,
+          "text": "20%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4020163,
+          "text": "30%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020164,
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020165,
+          "text": "40%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "20%"
+      },
+      "explanation": "Sadly many incidents of domestic violence are unreported, not recorded or not prosecuted; therefore domestic violence is often described\nas a 'hidden crime'. The police were told of 12% of incidents overall, and 22% of those against female chronic victims. They o\u0000ered advice or\nsupport in 60% of incidents, which was found helpful in 40% of cases they were told about. British Crime Survey 1996"
+    },
+    {
+      "question_number": 17,
+      "question_id": 4020017,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The proportion of all domestic violence victims that are male is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020171,
+          "text": "40%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4020172,
+          "text": "1%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020173,
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020174,
+          "text": "60%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020175,
+          "text": "5%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "40%"
+      },
+      "explanation": "Data from Home O\u0000ce statistical bulletins and the British Crime Survey show that men made up about 40% of domestic violence victims\neach year between 2004-05 and 2008-09, the last year for which \u0000gures are available. In 2006-07, men made up 43.4% of all those who had\nsu\u0000ered partner abuse in the previous year, which rose to 45.5% in 2007-08 but fell to 37.7% in 2008-09. British Crime Survey 2010"
+    },
+    {
+      "question_number": 18,
+      "question_id": 4020018,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "What percentage of people who commit homicides have a mental illness?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020181,
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020182,
+          "text": "0.2%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020183,
+          "text": "10%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4020184,
+          "text": "1%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020185,
+          "text": "7%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "10%"
+      },
+      "explanation": "Shaw (2006) determined 11-17% of homicides had symptoms of mental illness at the time of the homicide and 5% of homicides are linked to\nschizophrenia; 10% of homicide o\u0000enders have active symptoms at the time of o\u0000ence. Dunedin study reported that alcohol use, cannabis\nuse and schizophrenia spectrum symptoms are three major mental health issues in o\u0000ending cohorts."
+    },
+    {
+      "question_number": 19,
+      "question_id": 4020019,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The percentage of children with conduct disorder who go on to have Antisocial Personality Disorder is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020191,
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020192,
+          "text": "25%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020193,
+          "text": "90%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020194,
+          "text": "5%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020195,
+          "text": "50%",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "50%"
+      },
+      "explanation": "Nearly half of those with conduct disorders at the age of 12 to 14 continue to satisfy the criteria Antisocial PD later."
+    },
+    {
+      "question_number": 20,
+      "question_id": 4020020,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The percentage of new o\u0000enders among those charged of indecent exposure is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020201,
+          "text": "50%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020202,
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020203,
+          "text": "40%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020204,
+          "text": "80%",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4020205,
+          "text": "5%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "80%"
+      },
+      "explanation": "With indecent exposures, the o\u0000ender usually stops reo\u0000ending after a conviction; serious progressive crimes are very rare. Nearly 20-30%\nreo\u0000end and if such reo\u0000ence leads to a conviction, the prognosis is very poor in terms of high recidivism."
+    },
+    {
+      "question_number": 21,
+      "question_id": 4020021,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The percentage of violence in the population that can be ascribed to psychosis is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020211,
+          "text": "5%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4020212,
+          "text": "2%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020213,
+          "text": "1%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020214,
+          "text": "20%",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020215,
+          "text": "10%",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "5%"
+      },
+      "explanation": "Fazel and Grann (2006) found a population attributable risk fraction of schizophrenia in causing violence as just 2.3%, which increased to 5%\nif psychosis is looked at broadly"
+    },
+    {
+      "question_number": 22,
+      "question_id": 4020022,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A drunken man commits a sexual o\u0000ence. Which of the following is true?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020221,
+          "text": "Voluntary intoxication is a sane automatism",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020222,
+          "text": "Voluntary intoxication is an insane automatism",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020223,
+          "text": "There is a \u0000xed punishment for alcohol related sexual o\u0000ences",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020224,
+          "text": "Drunken behaviour cannot be punished legally",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020225,
+          "text": "Voluntary intoxication does not constitute a plea for insanity",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Voluntary intoxication does not constitute a plea for insanity"
+      },
+      "explanation": "Voluntary drunkenness cannot be used for a plea of diminished responsibility."
+    },
+    {
+      "question_number": 23,
+      "question_id": 4020023,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following factors contributes most to the risk of prison suicides?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020231,
+          "text": "Young age at index crime",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020232,
+          "text": "Marital status being divorced",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020233,
+          "text": "Absence of previous contact with mental health services",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020234,
+          "text": "Being a member of minority ethnic group",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020235,
+          "text": "Occupying a single cell",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Occupying a single cell"
+      },
+      "explanation": "Demographic factors associated with prison suicide include white race/ethnicity (OR = 1.9), being male (OR = 1.9), and being married (OR =\n1.5). Criminological factors included occupation of a single cell (OR = 9.1), detainee/remand status (OR = 4.1), and serving a life sentence (OR\n= 3.9). Clinical factors were recent suicidal ideation (OR = 15.2), history of attempted suicide (OR = 8.4), having a current psychiatric diagnosis\n(OR = 5.9), receiving psychotropic medication (OR = 4.2), and having a history of alcohol use problems (OR = 3.0). Black race/ethnicity was\ninversely associated with suicide (OR = 0.4). (Ref: Fazel et al. J Clin Psychiatry. 2008 Nov;69(11):1721-31)."
+    },
+    {
+      "question_number": 24,
+      "question_id": 4020024,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "With respect to arson which of the following is correct?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020241,
+          "text": "Males o\u0000end more than females",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020242,
+          "text": "Alcohol misuse is very common",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020243,
+          "text": "Women receive disproportionately more psychiatric disposals",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020244,
+          "text": "All of the listed options",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4020245,
+          "text": "Associated with low IQ",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "All of the listed options"
+      },
+      "explanation": "Fire-raisers appear to be mostly young adult males. Many have considerable relationship di\u0000culties. Alcohol misuse very common. Low IQ is\nover-represented. Arson is more common in males (2.5 times more in males). When women commit repeated acts of \u0000re-raising, they are\nmore likely than their male counterparts to be given a psychiatric disposal."
+    },
+    {
+      "question_number": 25,
+      "question_id": 4020025,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is an accurate re\u0000ection of genetic factors associated with criminal behaviour?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020251,
+          "text": "Higher MAO-A levels are associated with increased crime rates",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020252,
+          "text": "Callous traits are the most heritable in conduct disorder/antisocial individuals",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4020253,
+          "text": "Criminal behaviour is entirely environmental.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020254,
+          "text": "Antisocial traits show 90% heritability",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020255,
+          "text": "Monozygotic twins are less concordant than dizygotes for antisocial behaviour",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Callous traits are the most heritable in conduct disorder/antisocial individuals"
+      },
+      "explanation": "When conduct disorder children are followed up, a large proportion develops antisocial personality disorder. Among these the callous-\nunemotional traits are the most heritable"
+    },
+    {
+      "question_number": 26,
+      "question_id": 4020026,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 33-year-old man is charged with recurrent shoplifting. He is diagnosed to have Kleptomania. This condition is classi\u0000ed as which of the\nfollowing in ICD 10?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020261,
+          "text": "Impulse control disorder",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "option_id": 4020262,
+          "text": "Malingering",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020263,
+          "text": "Paraphilia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020264,
+          "text": "Anxiety disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020265,
+          "text": "Factitious disorder",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "A",
+        "text": "Impulse control disorder"
+      },
+      "explanation": "Kleptomania is an impulse control disorder. It is classi\u0000ed under ICD-10 F63 - 'Habit and impulse disorders'."
+    },
+    {
+      "question_number": 27,
+      "question_id": 4020027,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is correct concerning paraphilias?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020271,
+          "text": "Isolated paraphilias warrant detention under the Mental Health Act 1983",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020272,
+          "text": "Involve various aspects of sexual deviance",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4020273,
+          "text": "Are more common in women than men",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020274,
+          "text": "Are de\u0000ned in ICD-10 but not DSM-IV",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020275,
+          "text": "Are never associated with dangerous behaviours",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "Involve various aspects of sexual deviance"
+      },
+      "explanation": "Paraphilia is a descriptive term used in DSM V. It involves aspects of sexual deviance. Fifty percent to 70% of pedophiles can be diagnosed as\nhaving another paraphilia, such as frotteurism, exhibitionism, voyeurism, or sadism.paraphilia, if present alone, a paraphilia is not su\u0000cient\nto be a mental disorder warranting detention under the Mental Health Act 1983."
+    },
+    {
+      "question_number": 28,
+      "question_id": 4020028,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A death resulting from intentional, reckless act but because of provocation or diminished responsibility is termed as",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020281,
+          "text": "McNaughton rule",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020282,
+          "text": "Actus Reus",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020283,
+          "text": "Involuntary culpable homicide",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4020284,
+          "text": "Automatism",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020285,
+          "text": "Voluntary culpable homicide",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Involuntary culpable homicide"
+      },
+      "explanation": "Culpable homicide (an outcome of diminished responsibility argument): Lies in-between manslaughter and homicide. There is a lack of\nspeci\u0000c or evil intent to kill but murder has taken place. This can be involuntary culpable homicide where death is unintended death but\noccurs as a result of an assault or as a result of negligence. Voluntary culpable homicide refers to death resulting from the intentional,\nreckless act but because of provocation or diminished responsibility. McNaughton Rules: 1843- A defect of reason (impaired, not mere\nfailure to exercise), due to a disease of mind (not externally caused), leading to loss of appreciation of nature and quality of an act (the\no\u0000ence; physical nature not moral) and so the accused did not realise what he was doing was wrong (either legally or morally)."
+    },
+    {
+      "question_number": 29,
+      "question_id": 4020029,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following syndromes is associated with military prisoners?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020291,
+          "text": "Werewolf syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020292,
+          "text": "Battered Baby syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020293,
+          "text": "Ganser's syndrome",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4020294,
+          "text": "Munchausen syndrome",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020295,
+          "text": "Threat control override syndrome",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Ganser's syndrome"
+      },
+      "explanation": "In 1897, a neurologist called Sigbert Ganser noted a syndrome of approximate answers to simple questions, hallucinations, clouding of\nconsciousness, and somatic conversion in three prisoners. This syndrome is variously described as Ganser syndrome, balderdash syndrome,\nprison psychosis and nonsense syndrome. It is rare but seen more commonly among prisoners. McGrath and McKenna reported 50 cases\namongst 8000 military prisoners (Dwyer & Reid; Lancet 2004; 364: 471 –73; )"
+    },
+    {
+      "question_number": 30,
+      "question_id": 4020030,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Males are usually more antisocial than females. Which of the following is true in this regard?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020301,
+          "text": "Male excess is less pronounced for more violent crimes",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020302,
+          "text": "Psychopathy is more common in females",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020303,
+          "text": "Before puberty girls are more antisocial than boys",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020304,
+          "text": "Around age 15, drug and alcohol related o\u0000ences are equally common in boys and girls",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4020305,
+          "text": "Females are exposed to more risk factors for antisocial behaviour than males",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Around age 15, drug and alcohol related o\u0000ences are equally common in boys and girls"
+      },
+      "explanation": "In mid-adolescence, the antisocial behaviours have equal sex distribution. At all other ages, males predominate This may be due to higher\nexposure to risk factors in males. The divide between the genders is much more pronounced for violent crimes than petty o\u0000ences."
+    },
+    {
+      "question_number": 31,
+      "question_id": 4020031,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "A 12-year-old boy has been brought to a Child Assessment Clinic following an incident of shoplifting. If he is diagnosed to have a psychiatric\ndisorder, it is most likely to be",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020311,
+          "text": "Oppositional De\u0000ant Disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020312,
+          "text": "Hyperkinetic Disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020313,
+          "text": "Conduct disorder",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4020314,
+          "text": "Bipolar disorder",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020315,
+          "text": "Depression",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Conduct disorder"
+      },
+      "explanation": "Theft or acts of deceit are common in those with conduct disorders. Frequent and serious violation of age-appropriate rules (e.g. truanting\nor running away) Is also seen. Other features would include early sexual behaviour, lack of empathy, low self-esteem, and gang\nmembership."
+    },
+    {
+      "question_number": 32,
+      "question_id": 4020032,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following o\u0000ences is almost exclusively committed by women?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020321,
+          "text": "Child abuse",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020322,
+          "text": "Arson",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020323,
+          "text": "Combined Suicide-Homicide",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020324,
+          "text": "Fraud",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020325,
+          "text": "Child-stealing",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Child-stealing"
+      },
+      "explanation": "Child stealing is exclusively reported in female o\u0000enders. The act can occur in previously delinquent young women who needs a child as a\ncomfort, or to manipulate a relationship."
+    },
+    {
+      "question_number": 33,
+      "question_id": 4020033,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Sex o\u0000ences are:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020331,
+          "text": "Only committed by adults.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020332,
+          "text": "Much the same across all sections of the society",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020333,
+          "text": "Never committed by people with mental illness",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020334,
+          "text": "More commonly committed by people with learning di\u0000culties",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4020335,
+          "text": "Committed more by women than men",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "More commonly committed by people with learning di\u0000culties"
+      },
+      "explanation": "Most sex o\u0000enders do not have a major mental illness (Grubin and Gunn, 1991). However, people with schizophrenia or related psychoses\nmay commit sex o\u0000ences or show abnormal sexual behaviour.Sexual o\u0000ences constitute 1% of all o\u0000ences: almost exclusively men o\u0000end\nin this regard. The o\u0000enders are widely heterogeneous and no consistent or absolute correlation is seen between a sexual o\u0000ence and\nsexual disorder."
+    },
+    {
+      "question_number": 34,
+      "question_id": 4020034,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is a core feature of emotionally unstable personality - borderline type?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020341,
+          "text": "Aggressive tendency",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020342,
+          "text": "Impulsivity",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020343,
+          "text": "Suicide",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020344,
+          "text": "Attempts to avoid real or imagined abandonment.",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4020345,
+          "text": "Depression",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Attempts to avoid real or imagined abandonment."
+      },
+      "explanation": "Attempts to avoid real or imagined abandonment are a core feature of the borderline type of emotionally unstable personality. Impulsivity is\na feature of the emotionally unstable - impulsive subtype according to ICD 10 - these distinctions are absent in DSM-V which treats\nborderline personality disorder as a single entity."
+    },
+    {
+      "question_number": 35,
+      "question_id": 4020035,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "According to large follow-up studies, the most important mediator of violence in patients with mental illness is",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020351,
+          "text": "Discharge from hospital",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020352,
+          "text": "Cognitive impairment",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020353,
+          "text": "Presence of strangers in the immediate neighbourhood",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020354,
+          "text": "Lack of formal education",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020355,
+          "text": "Substance abuse",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": {
+        "letter": "E",
+        "text": "Substance abuse"
+      },
+      "explanation": "Most important fact with respect to risk factors is that essentially the risk factors for violence are the same in both general population and\nmentally disordered. Substance use emerges as the most important factor in this regard."
+    },
+    {
+      "question_number": 36,
+      "question_id": 4020036,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Insane automatisms due to sleepwalking may be o\u0000ered as a defence for homicide. Which of the following features makes a diagnosis of\nsleep walking more likely?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020361,
+          "text": "Dream like recollection of the o\u0000ence",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020362,
+          "text": "O\u0000ence occurs within 2 hours of going to sleep",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "option_id": 4020363,
+          "text": "The patient awoke with intense feelings of anxiety and fear",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020364,
+          "text": "Attempt made to conceal the o\u0000ence",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020365,
+          "text": "Narrative like recollection of the o\u0000ence",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "B",
+        "text": "O\u0000ence occurs within 2 hours of going to sleep"
+      },
+      "explanation": "Sleep walking involves complex automatic behaviours (automatisms) such as aimless wandering, attempting to dress or undress, carrying\nobjects, eating, urinating in unusual places and rarely driving a car. It usually occurs within 15-120 minutes following sleep onset. Activity\nnever appears intentional or planned. If awakened during the episode, they are confused and disorientated. Dream content (if present) is\nfragmented without speci\u0000c themes. Aggressive behaviour occurs rarely. (Ref: Oxford Handbook of psychiatry-414)"
+    },
+    {
+      "question_number": 37,
+      "question_id": 4020037,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "There is a sound evidence base for the treatment of sex o\u0000enders with:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020371,
+          "text": "Lithium.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020372,
+          "text": "Androgen replacement",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020373,
+          "text": "Counselling",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020374,
+          "text": "Cognitive-behavioural therapy",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4020375,
+          "text": "Dynamic psychotherapy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Cognitive-behavioural therapy"
+      },
+      "explanation": "Treatment strategies involve understanding the o\u0000ence cycle, challenging distorted thinking, understanding the harm done to victims,\nfantasy modi\u0000cation, social skills and anger control and relapse prevention work."
+    },
+    {
+      "question_number": 38,
+      "question_id": 4020038,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The greatest risk factor for suicide in a prisoner is:",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020381,
+          "text": "Females",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020382,
+          "text": "Elderly o\u0000enders",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020383,
+          "text": "History of substance misuse",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4020384,
+          "text": "Life sentence prisoners",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020385,
+          "text": "History of sexual o\u0000ences",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "History of substance misuse"
+      },
+      "explanation": "Remand prisoners, young o\u0000enders, and those with a history of substance misuse and violent o\u0000ences are at particular risk (Her Majesty's\nInspectorate of Prisons, 1997b, 1999a). Among successful prison suicides, life sentence prisoners are over-represented."
+    },
+    {
+      "question_number": 39,
+      "question_id": 4020039,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "Which of the following is classi\u0000ed under sane automatism?",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020391,
+          "text": "Epilepsy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020392,
+          "text": "All of the above",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020393,
+          "text": "Night terrors",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "option_id": 4020394,
+          "text": "Brain tumours",
+          "is_correct": false
+        },
+        {
+          "letter": "E",
+          "option_id": 4020395,
+          "text": "Sleep walking",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "C",
+        "text": "Night terrors"
+      },
+      "explanation": "If an individual commits an o\u0000ence when his body is not under the control of his mind (e.g. when asleep) he is not guilty of the o\u0000ence.\nLegally this is called automatism. Two legal types of automatism are recognised: insane and sane. The distinction is based on whether the\nbehaviour is likely to recur: Insane automatism-due to an intrinsic cause (e.g. sleepwalking, brain tumours, epilepsy) results in an acquittal\non the grounds of insanity. Sane automatism- due to an extrinsic cause (e.g. confusional states, concussion, re\u0000ex actions after bee stings,\ndissociative states, night terrors, and hypoglycaemia) results in a complete acquittal."
+    },
+    {
+      "question_number": 40,
+      "question_id": 4020040,
+      "question_type": "mcq",
+      "difficulty": "medium",
+      "question_text": "The following is true regarding o\u0000ending behaviour in patients with learning disabilities",
+      "options": [
+        {
+          "letter": "A",
+          "option_id": 4020401,
+          "text": "Recidivism is lower compared to o\u0000enders without LD.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "option_id": 4020402,
+          "text": "People with LD are more likely to commit violent o\u0000ences",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "option_id": 4020403,
+          "text": "Fire setting is the most common o\u0000ense",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "option_id": 4020404,
+          "text": "Prevalence of learning disability in prisons is nearly 40%",
+          "is_correct": true
+        },
+        {
+          "letter": "E",
+          "option_id": 4020405,
+          "text": "O\u0000ending rates are higher in profound LD.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": {
+        "letter": "D",
+        "text": "Prevalence of learning disability in prisons is nearly 40%"
+      },
+      "explanation": "The most common o\u0000ences are property o\u0000ences. The element of severe violence is rare in LD o\u0000enders. Prison prevalence rates vary from\n2-40%. Most o\u0000enders have mild or borderline LD. Recidivism is comparable to those without LD, and may be related to di\u0000culties in\nunderstanding cautions and probations."
+    }
+  ]
+}
